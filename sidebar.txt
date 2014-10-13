@@ -10,6 +10,10 @@
   * [[ilo:obs|Open Bible Stories (ilo)]]
 
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ilo|d43-ilo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ilo/archive/master.zip|d43-ilo.zip]]
+
 **Recent Changes**
 {{changes>ns = ilo}}
 
