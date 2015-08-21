@@ -1,14 +1,14 @@
 ===== God Created Sky [01-03] =====
 
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/ilo/360px/obs-en-01-03.jpg?nolink}}
 
 On **the second day** of creation, **God spoke** and **created** the **sky** above the earth. He made the sky by separating the water above from the water below.
 
 ===== Important Terms: =====
 
 
-  * **[[:en:obe:kt:god|God]]**
+  * **[[:ilo:obe:kt:god|God]]**
 
 
 ==== Translation Notes: ====
@@ -20,4 +20,4 @@ On **the second day** of creation, **God spoke** and **created** the **sky** abo
   * **sky** - This term refers to all of the space above the earth, including the air we breathe and the heavens.
 
 
-**[[:en:obs:notes:frames:01-02|<<]] | [[:en:obs:notes:01|Up]] | [[:en:obs:notes:frames:01-04|>>]]**
+**[[:ilo:obs:notes:frames:01-02|<<]] | [[:ilo:obs:notes:01|Up]] | [[:ilo:obs:notes:frames:01-04|>>]]**
