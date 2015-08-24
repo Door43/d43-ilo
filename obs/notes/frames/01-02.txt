@@ -5,8 +5,8 @@
 Then **God said**, “**Let there be** light!” And there was **light**. God saw that the light **was good** and called it “day.” He separated it from the darkness, which he called “night.” God created the light on the first day of **creation**.
 ===== Important Terms: =====
 
-  * **__[[:ilo:obe:kt:god|God </font> ]]__ **
-  * **__[[:ilo:obe:kt:good|good </font> ]]__ **
+  * **[[:ilo:obe:kt:god|God]]__ **
+  * **[[:ilo:obe:kt:good|good]]__ **
 ==== Translation Notes: ====
 
   * **God said**  - God created light by means of a simple verbal command.
