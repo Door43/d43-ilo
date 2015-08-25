@@ -1,28 +1,28 @@
-===== A Perfect World [02-01] =====
+===== The Snake [02-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-01.jpg?nolink&0}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?nolink&}}
 
-**Adam** and his wife were very happy living in the beautiful **garden** **God** had made for them. Neither of them wore clothes, but this did not cause them to feel any **shame**, because there was no **sin** in the world. They often walked in the garden and **talked with God**.
+But there was a **crafty snake** in the garden. He asked the woman, “**Did God really tell you** not to eat the **fruit from any of the trees** in the garden?”
 ===== Important Terms: =====
 
   *
 
-**[[https://door43.org/ilo/obe/other/adam|Adam]]**
-  *
-
 **[[https://door43.org/ilo/obe/kt/god|God]]**
-  *
 
-**[[https://door43.org/ilo/obe/kt/sin|sin]]**
 ==== Translation Notes: ====
 
   *
 
-**garden** - A special collection of trees and plants that God prepared for Adam and Eve to enjoy and from which to eat. This should be the same word that was used in **[[https://door43.org/en/obs/notes/frames/01-11|[01-11]]]**. See how you translated it there.
+**crafty**  - Clever and sly, with the intent to deceive.
+
   *
 
-**talked with God** - The word for “talk” should be the same as would be used to refer to talking to a human being. God may have taken a physical form to talk to the man and the woman since the text indicates that they talked to him face-to-face.
+**snake**  - An elongated, legless land creature that now moves by wiggling on its belly. Although later on in the story it is revealed that the snake is Satan, this should not be said here in this frame.
+
   *
 
-**shame** - The feeling that comes with knowing we have sinned or that we fall short in some way.
-**[[https://door43.org/ilo/obs/notes/frames/01-16|<<]] | [[https://door43.org/ilo/obs/notes/02|Up]] | [[https://door43.org/ilo/obs/notes/frames/02-02|>>]]**
+**Did God really tell you**  - The snake asked the woman whether God actually said not to eat from any of the trees in the garden. But he was only pretending that he didn't know what God had said because he wanted to create doubt in the woman's mind. He wanted her to question God's goodness.
+
+  *
+
+**fruit of any of the trees**  - All of the various types of fruit from each of the different trees in the garden. **[[https://door43.org/ilo/obs/notes/frames/02-01|<<]] | [[https://door43.org/ilo/obs/notes/02|Up]] | [[https://door43.org/ilo/obs/notes/frames/02-03|>>]]**
