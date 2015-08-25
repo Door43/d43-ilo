@@ -1,24 +1,24 @@
-Two Trees [01-11]
+===== Adam Was Alone [01-12] =====
 
-obs-en-01-11.jpg
 
-In the middle of the garden, God planted two special trees—the tree of life and the tree of the knowledge of good and evil. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would die.
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?nolink}}
 
-Important Terms:
+Then **God** said, “It is **not good** for man to be **alone**.” But none of the animals could be **Adam's helper**. 
 
-God
-life
-good
-evil
-Adam
-die
-Translation Notes:
+===== Important Terms: =====
 
-in the middle - The central location emphasizes the importance of the two trees.
-garden - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
-tree of life - Anyone who ate fruit from this tree would never die.
-tree of knowledge of good and evil - The fruit of this tree could enable a person to know both good and evil.
-knowledge - To know or understand by personal experience.
-good and evil - Evil is the opposite of good. Just as “good” refers to what is pleasing to God, “evil” refers to everything that is not pleasing to God.
-die - In this instance, he would die both physically and spiritually.
-<< | Up | >>
+
+  * **[[:tl:obe:kt:god|God]]**
+  * **[[:tl:obe:kt:good|good]]**
+  * **[[:tl:obe:other:adam|Adam's]]**
+
+
+==== Translation Notes: ====
+
+
+  * **not good** - This is the first time that anything in creation was not good. It means it was, "not yet good" because God was not finished with the creation of humans.
+  * **alone** - Adam was the only human, with no possibility of a relationship with another person, and unable to reproduce children and multiply.
+  * **Adam's helper** - There was no one who was similar enough to Adam to join with him to accomplish the task that God gave to him. None of the animals could do this.
+
+
+**[[:tl:obs:notes:frames:01-11|<<]] | [[:tl:obs:notes:01|Up]] | [[:tl:obs:notes:frames:01-13|>>]]**
