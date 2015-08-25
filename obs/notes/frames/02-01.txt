@@ -7,13 +7,13 @@
 
   *
 
-**[[https://door43.org/ceb/obe/other/adam|Adam]]**
+**[[https://door43.org/ilo/obe/other/adam|Adam]]**
   *
 
-**[[https://door43.org/ceb/obe/kt/god|God]]**
+**[[https://door43.org/ilo/obe/kt/god|God]]**
   *
 
-**[[https://door43.org/ceb/obe/kt/sin|sin]]**
+**[[https://door43.org/ilo/obe/kt/sin|sin]]**
 ==== Translation Notes: ====
 
   *
@@ -25,4 +25,4 @@
   *
 
 **shame** - The feeling that comes with knowing we have sinned or that we fall short in some way.
-**[[https://door43.org/ceb/obs/notes/frames/01-16|<<]] | [[https://door43.org/ceb/obs/notes/02|Up]] | [[https://door43.org/ceb/obs/notes/frames/02-02|>>]]**
+**[[https://door43.org/ilo/obs/notes/frames/01-16|<<]] | [[https://door43.org/ilo/obs/notes/02|Up]] | [[https://door43.org/ilo/obs/notes/frames/02-02|>>]]**
