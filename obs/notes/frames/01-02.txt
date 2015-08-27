@@ -5,13 +5,13 @@
 Then **God said**, “**Let there be** light!” And there was **light**. God saw that the light **was good** and called it “day.” He separated it from the darkness, which he called “night.” God created the light on the first day of **creation**.
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:good|good]]**
+  * **[[:ilo:obe:kt:god|God/ Dios]]**
+  * **[[:ilo:obe:kt:good|good/ Nasayat]]**
 ==== Translation Notes: ====
 
-  * **God said**  - God created light by means of a simple verbal command.
-  * **let there be**  - This is a command that happened immediately because it was spoken by God. It may be more natural to translate this as a statement of certainty that this would definitely happen. For example, you could translate this as, "God said, 'There will be light.'"
-  * **light**  - This was a special light that God created–the sun was not created until later.
+  * **God said**  - God created light by means of a simple verbal command. **Kinunan ti Dios **- Pinarsuan ti Dios ti lawag babaen ti mandar a pagsasao.
+  * **let there be**  - This is a command that happened immediately because it was spoken by God. It may be more natural to translate this as a statement of certainty that this would definitely happen. For example, you could translate this as, "God said, 'There will be light.'" **maadda **- Daytoy a mandar ket insigida a natungpar gapu ta Dios ti nagsao. Siguro mas nasaysayaat a maibalikas daytoy iti panagsasao nga sigurado a matungpal. Kaspangarigan, "Kinunan ti Dios, 'maadda ti lawag.'"
+  * **light**  - This was a special light that God created–the sun was not created until later. **lawag**  - Naidumduma/espesyal daytoy a lawag a pinarsuan ti Dios - ti init/sun ket saan pay a naparsua agginga sumaruno nga alday/tiempo.
   * **was good**  - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
   * **creation**  - This word is used here to refer to the six-day period during which God made everything that exists.
 **[[:ilo:obs:notes:frames:01-01|<<]] | [[:ilo:obs:notes:01|Up]] | [[:ilo:obs:notes:frames:01-03|>>]]**
