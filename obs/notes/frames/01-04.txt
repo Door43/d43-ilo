@@ -1,21 +1,16 @@
 ===== God Created the Land [01-04] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?nolink}}
-
-On the **third day**, **God spoke** and separated the water from the dry land. He called the dry land “**earth**,” and he called the water “seas.” God saw that what he had **created** was **good**. 
-
+On the **third day**, **God spoke** and separated the water from the dry land. He called the dry land “**earth**,” and he called the water “seas.” God saw that what he had **created** was **good**.
 ===== Important Terms: =====
 
-
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:good|good]]**
-
-
+  * **[[:ilo:obe:kt:god|God/ Dios]]**
+  * **[[:ilo:obe:kt:good|good/ Nasaat]]**
 ==== Translation Notes: ====
 
-  * **third day**  - The next in the series of orderly days in which God prepared the earth for life.
-  * **God spoke**  - God created the dry land by speaking a command.
-  * **earth**  - This word is used here to refer to dirt or soil, which is what dry land is made of.
-  * **created**  - This word is used here in the sense of making something out of nothing.
-**[[:ilo:obs:notes:frames:01-03|<<]] | [[:ilo:obs:notes:01|Up]] | [[:ilo:obs:notes:frames:01-05|>>]]**
+  * **third day**  - The next in the series of orderly days in which God prepared the earth for life. **maikatlo nga aldaw**  - Ti sumaruno iti nasarsaruno naurnos a sagmamano nga aldaw a nagsaganaan ti Dios iti daga para ti bia.
+  * **God spoke**  - God created the dry land by speaking a command. **nagsao ti Dios******- Pinarsuan ti Dios ti namaga a daga babaen iti pagsasao a mandar.
+  * **earth**  - This word is used here to refer to dirt or soil, which is what dry land is made of. **daga**  - Daytoy a sao ket sakopen na ti pitak.
+  * **created**  - This word is used here in the sense of making something out of nothing. **pinarsua**  - Daytoy a sao ket nausar iti panag'aramid ti banbanag nga awan mausar.
+  * **[[:ilo:obs:notes:frames:01-03|<<]] | [[:ilo:obs:notes:01|Up]] | [[:ilo:obs:notes:frames:01-05|>>]]**
