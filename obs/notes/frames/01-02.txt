@@ -1,12 +1,14 @@
-===== God Created Light [01-02] =====
+===== Pinarsuan Ti Dios ti Lawag [01-02] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?nolink&}}
 
-Then **God said**, “**Let there be** light!” And there was **light**. God saw that the light **was good** and called it “day.” He separated it from the darkness, which he called “night.” God created the light on the first day of **creation**.
-===== Important Terms: =====
+Tatta kinuna ti Dios, “Maadda ti lawag.” Ket naada ti lawag. Nakita ti Dios a ti lawag ket nasayaat ket inawagan na nga “aldaw”. Insina na ti aldaw manipud iti kasepngetan ket inawagan na a “rabii.” Pinarsuan ti Dios ti lawag iti ummuna nga aldaw iti panagparsua.
 
-  * **[[:ilo:obe:kt:god|God/ Dios]]**
-  * **[[:ilo:obe:kt:good|good/ Nasayat]]**
+Then **God said**, “**Let there be** light!” And there was **light**. God saw that the light **was good** and called it “day.” He separated it from the darkness, which he called “night.” God created the light on the first day of **creation**.
+===== Dagiti Important A Balikas: =====
+
+  * **[[:ilo:obe:kt:god|Dios]]**
+  * **[[:ilo:obe:kt:good|Nasayaat]]**
 ==== Translation Notes: ====
 
   * **God said**  - God created light by means of a simple verbal command. **Kinunan ti Dios **- Pinarsuan ti Dios ti lawag babaen ti mandar a pagsasao.
