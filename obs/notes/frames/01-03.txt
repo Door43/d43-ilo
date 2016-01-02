@@ -1,11 +1,13 @@
-God Created Sky [01-03]
+Pinarsuan Ti Dios Ti Tangatang [01-03]
 
 obs-en-01-03.jpg
+
+Ti maikadwa nga aldaw ket nagsao ti Dios ket naparsua ti tangatang iti rabaw ti daga. Inaramid na ti tangatang babaen iti panagsina na iti danum sadiay akin ngatu ken dadiay danum nga adda sadiay baba.
 
 On the second day of creation, God spoke and created the sky above the earth. He made the sky by separating the water above from the water below. Important Terms:
 
 <code>
-  God
+  Dios
 </code>
 
 Translation Notes:
