@@ -1,22 +1,16 @@
-===== One People [04-01] =====
+===== Maymaysa A Tattao [04-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink}}
-
-**Many years after the flood**, there were **again many people** in the world, and they all spoke the **same language**. Instead of filling the earth as **God** had commanded, they gathered together and built **a city**.
+Adu a tawen kalpasan iti layus ket immadu ti tattao ditoy lubong ken maymaysa laeng ti pagsasao da. Imbes a punuen da ti lubong kas imbilin ti Dios ket naguummung da ket nagaramid da ti maysa a siudad.
 
 ===== Important Terms: =====
 
-
-  * **[[:ilo:obe:kt:god]]**
-
-
+  * **Dios**
 ===== Translation Notes: =====
 
-
-  * **many years after the flood** - Many generations had passed since the end of the flood.
-  * **again many people** - Noah's family multiplied into enough people to fill a city.
-  * **same language** - This means there was only one language, so they could all understand each other.
-  * **a city** - It is best to use a general word for "city" since the text does not give a specific name.
-
+  * **many years after the flood**  - Many generations had passed since the end of the flood.
+  * **again many people**  - Noah's family multiplied into enough people to fill a city.
+  * **same language**  - This means there was only one language, so they could all understand each other.
+  * **a city**  - It is best to use a general word for "city" since the text does not give a specific name.
 **[[:ilo:obs:notes:frames:03-16|<<]] | [[:ilo:obs:notes:04|Up]] | [[:ilo:obs:notes:frames:04-02|>>]]**
