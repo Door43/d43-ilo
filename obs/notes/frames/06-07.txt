@@ -13,13 +13,11 @@ Idi naipasngay dagiti annak ni Rebekah ket nalabbaga ken barbonan ti immuna a ri
   * **[[:ilo:obe:other:jacob]]**
 
 
-===== Translation Notes: =====
+===== **Pannakaipakaawat Kadagiti Sarsarita**: =====
 
-
-  * **Rebekah's babies were born** - Some languages have a more indirect way of saying this such as, "when Rebekah saw and took them" or, "when Rebekah brought them to light."
-  * **the older son … the younger son** - This could be translated as, "the first son to come out … the second son to come out." Make sure that the way "older" and "younger" are translated still communicates that the boys were twins.
-  * **red** - This may mean that his skin was very red or that the hair on his body was red.
-  * **hairy** - Esau had a lot of hair on his body. You could say, "the older son's body was red, with lots of hair."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
+  * **naiyanak dagiti annak ni Rebekah**  - Adda da dagiti panagsasao nga adda saan a diretso ti wagas ti panangibaga da iti daytoy kas koma, "idi nakita Rebekah ket inala ida" wenno, "idi inruar ni Rebekah ida iti lawag."
+  * **ti inauna nga anak a lalaki**  - Mabalin a kastoy ti balikas na, "ti umna nga anak a lalaki a rumuar...ti maikadwa nga anak a lalaki a rumuar." Siguraduen a ti wagas ti pannakaibalikas ti "inauna" ken "ub'ubing" ket ipakaammona a singin dagitoy a duwwa.
+  * **nalabbaga**  - Mabalin a ti kudil na ket primi a nakalablabbaga wenno dagiti barbon iti bagi na ket nalabbaga.
+  * **barbonan**  - Ni Esau ket nakaadadu ti barbon iti bagi na. Mabalin met nga ibagam a, "ti inauna nga anak a lalaki ket nalabbaga ti bagi na ken adu ti barbon na."
+  * **//Istorya a nagapu iti Biblia//**. Mabalin nga adda nagdumaan dagitoy  iti dadduma a Balikas.
 **[[:ilo:obs:notes:frames:06-06|<<]] | [[:ilo:obs:notes:06|Up]] | [[:ilo:obs:notes:frames:07-01|>>]]**
