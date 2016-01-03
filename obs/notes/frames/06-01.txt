@@ -9,10 +9,10 @@ Ket kinuna ni Apo Dios ken Abraham, "Gapu ta sisasagana ka a mangted kaniak ti a
   * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
   * **[[:ilo:obe:kt:son|anak/putot a lalaki]]**
   * **[[:ilo:obe:kt:son|Dios]]**
-  * kari
-  * bendisyonan
-  * dagiti kaputotan
-  * nagtulnog, tinungpal
+  * **[[:ilo:obe:kt:son|kari]]**
+  * **[[:ilo:obe:kt:son|bendisyonan]]**
+  * **[[:ilo:obe:kt:son|dagiti kaputotan]]**
+  * **[[:ilo:obe:kt:son|nagtulnog, tinungpal]]**
 
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
