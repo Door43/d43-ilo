@@ -1,25 +1,18 @@
-===== Joseph, the Favorite Son [08-01] =====
+===== Ni Joseph a Paborito a putot/anak a Lalaki [08-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-02.jpg?nolink}}
-
-Many years later, when **Jacob** was an old man, he **sent** his **favorite son**, **Joseph**, to **check on** his **brothers** who were **taking care of the herds**. 
+Idi naglabas ti adun a tawen ket lakayen ni Jacob. Imbaun na ti paborito na nga anak a ni Joseph tapnu apan na kitan dagiti kakabsat na nga agayaywan ti taraken.
 
 ===== Important Terms: =====
 
-
-  * **[[:ilo:obe:other:jacob]]**
-  * **[[:ilo:obe:other:josephot]]**
-
-
+  * **[[:ilo:obe:other:jacob|Jacob, Israel]]**
+  * **[[:ilo:obe:other:josephot|Joseph (OT)]]**
 ==== Translation Notes: ====
 
-
-  * **sent** – This word means that Jacob told Joseph to go and Joseph went.
-  * **favorite son** - This could be translated as, "the son he loved more than any of his other children."
-  * **check on** - This means that Joseph is to go and see if everything is all right with his brothers. Some languages might say something like, "to see his brothers' well-being."
-  * **brothers** - These were Joseph's older brothers.
-  * **taking care of the herds** – Since this was several days' journey away, it may be necessary to say, "who were far away taking care of."
-
-
+  * **sent**  – This word means that Jacob told Joseph to go and Joseph went.
+  * **favorite son**  - This could be translated as, "the son he loved more than any of his other children."
+  * **check on**  - This means that Joseph is to go and see if everything is all right with his brothers. Some languages might say something like, "to see his brothers' well-being."
+  * **brothers**  - These were Joseph's older brothers.
+  * **taking care of the herds**  – Since this was several days' journey away, it may be necessary to say, "who were far away taking care of."
 **[[:ilo:obs:notes:frames:07-10|<<]] | [[:ilo:obs:notes:08|Up]] | [[:ilo:obs:notes:frames:08-02|>>]]**
