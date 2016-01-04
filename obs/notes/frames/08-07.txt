@@ -1,26 +1,19 @@
-===== Joseph Interpreted the Dream [08-07] =====
+===== Tinarusan ni Joseph ti tagtagainep [08-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-07.jpg?nolink}}
-
-**God** had given **Joseph** the ability to **interpret dreams**, so **Pharaoh had Joseph brought to him** from the prison. Joseph interpreted the dreams for him and said, “**God is going to send** seven years of plentiful harvests, followed by seven years of **famine**.” 
+Inikkan ti Dios ni Joseph iti kabaelan na a mangipatarus iti tagtagainep isunga impaala ni Pharaoh ni Joseph idiay kulungan. Impatarus ni Joseph dagiti tagtagainep na kenkuana ken kinuna na, ”Ti Dios ket mangted ti pitu a tawen a nabuslon ti apit ken pitu a tawen nga panagbisin.”
 
 ===== Important Terms: =====
 
-
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:josephot]]**
-  * **[[:ilo:obe:other:dream]]**
-  * **[[:ilo:obe:other:pharaoh]]**
-
-
+  * **[[:ilo:obe:kt:god|Dios]]**
+  * **[[:ilo:obe:other:josephot|Joseph (OT)]]**
+  * **[[:ilo:obe:other:dream|tagtagainep]]**
+  * **[[:ilo:obe:other:pharaoh|Pharaoh, ari ti Egypt]]**
 ==== Translation Notes: ====
 
-
-  * **interpret dreams** - To "interpret" is to tell what something means. So Joseph was able to tell people what their dreams meant.
-  * **had Joseph brought to him** - Another way to say this would be, "ordered his servants to bring Joseph to him."
-  * **God is going to send** - God will cause the crops to grow well for seven years, and after that He will cause them to produce very little food so that the people and animals will not have enough to eat.
-  * **famine** - The gardens and fields would produce so little food that people and animals would not have enough to eat.
-
-
+  * **interpret dreams**  - To "interpret" is to tell what something means. So Joseph was able to tell people what their dreams meant.
+  * **had Joseph brought to him**  - Another way to say this would be, "ordered his servants to bring Joseph to him."
+  * **God is going to send**  - God will cause the crops to grow well for seven years, and after that He will cause them to produce very little food so that the people and animals will not have enough to eat.
+  * **famine**  - The gardens and fields would produce so little food that people and animals would not have enough to eat.
 **[[:ilo:obs:notes:frames:08-06|<<]] | [[:ilo:obs:notes:08|Up]] | [[:ilo:obs:notes:frames:08-08|>>]]**
