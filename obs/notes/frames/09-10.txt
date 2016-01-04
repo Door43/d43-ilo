@@ -1,21 +1,15 @@
-===== Moses Fled from Egypt [09-10] =====
+===== Timmaray ni Moses a Paadayu iti Egypt [09-10] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-10.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-10.jpg?nolink}}
+Naamuan ni Pharaoh iti inaramid ni Moses ket ipappapatay na ni Moses kuma. Ngem nakalibas ni Moses idiay Egypt tapnu saan laeng a matiliw dagiti suldado ni Pharaoh.
 
-When **Pharaoh** heard what **Moses** had done, he tried to kill him. Moses ran away from **Egypt** to the **wilderness** where he would be safe from Pharaoh's soldiers.
 ===== Important Terms: =====
 
-
-  * **[[:ilo:obe:other:pharaoh]]**
-  * **[[:ilo:obe:other:moses]]**
-  * **[[:ilo:obe:other:egypt]]**
-
-
+  * **[[:ilo:obe:other:pharaoh|Pharaoh, ari ti Egypt]]**
+  * **[[:ilo:obe:other:moses|Moses]]**
+  * **[[:ilo:obe:other:egypt|Egypt, taga Egypt]]**
 ==== Translation Notes: ====
 
-
-  * **wilderness** - The wilderness was a large area that was rocky and dry. The land there was not good for growing food and few people lived there.
-
-
+  * **wilderness**  - The wilderness was a large area that was rocky and dry. The land there was not good for growing food and few people lived there.
 **[[:ilo:obs:notes:frames:09-09|<<]] | [[:ilo:obs:notes:09|Up]] | [[:ilo:obs:notes:frames:09-11|>>]]**
