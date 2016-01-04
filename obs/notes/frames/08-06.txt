@@ -1,27 +1,20 @@
-===== Pharaoh's Dream [08-06] =====
+===== Ti Tagtagainep ni Pharaoh [08-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?nolink}}
-
-After two years, **Joseph** was still in prison, even though he was **innocent**. One night, the **Pharaoh**, which is what the **Egyptians** called their **kings**, had two **dreams** that **disturbed him greatly**. None of **his advisors** could tell him the **meaning of the dreams**. 
+Kalpasan iti duwa nga tawen ket adda latta idiay pagbaludan ni Joseph uray nu awan basur na. Iti maysa a rabii ket naming duwa a nakatagtagainep ni Pharaoh nga isu ti awawagan dagiti Egyptiano nga ari da. Awan makaited kadagiti mangbagbaga kaniana iti kayat a saoen dagiti tagtagainep na.
 
 ===== Important Terms: =====
 
-
-  * **[[:ilo:obe:other:josephot]]**
-  * **[[:ilo:obe:kt:innocent]]**
-  * **[[:ilo:obe:other:pharaoh]]**
-  * **[[:ilo:obe:other:egypt]]**
-  * **[[:ilo:obe:other:king]]**
-  * **[[:ilo:obe:other:dream]]**
-
-
+  * **[[:ilo:obe:other:josephot|Joseph (OT)]]**
+  * **[[:ilo:obe:kt:innocent|innosente/awan basur]]**
+  * **[[:ilo:obe:other:pharaoh|Pharaoh, ari ti Egypt]]**
+  * **[[:ilo:obe:other:egypt|Egypt, taga Egypt]]**
+  * **[[:ilo:obe:other:king|ari]]**
+  * **[[:ilo:obe:other:dream|tagtagainep]]**
 ==== Translation Notes: ====
 
-
-  * **disturbed him greatly** – This means that the king felt very afraid and confused (because of what he had seen in the dreams).
-  * **his advisors** - These were men with special powers and knowledge who could sometimes tell what dreams meant. Some translations refer to them as, "wise men."
-  * **meaning of the dreams** - People in Egypt believed that dreams were messages from the gods telling them about what would happen in the future. God used Pharaoh's dreams to tell him what would happen.
-
-
+  * **disturbed him greatly**  – This means that the king felt very afraid and confused (because of what he had seen in the dreams).
+  * **his advisors**  - These were men with special powers and knowledge who could sometimes tell what dreams meant. Some translations refer to them as, "wise men."
+  * **meaning of the dreams**  - People in Egypt believed that dreams were messages from the gods telling them about what would happen in the future. God used Pharaoh's dreams to tell him what would happen.
 **[[:ilo:obs:notes:frames:08-05|<<]] | [[:ilo:obs:notes:08|Up]] | [[:ilo:obs:notes:frames:08-07|>>]]**
