@@ -1,21 +1,17 @@
-===== Moses in the Wilderness [09-11] =====
+===== Ni Moses iday kabakbakiran [09-11] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-11.jpg?nolink}}
+Nagbalin a taga pastor ti karnero ni Moses idiay kabakbakiran nga adayu idiay Egypt ket nakaasawa idiay a lugar ken naaddaan ti dua a putot a lallaki.
 
-**Moses** became a **shepherd** in the **wilderness** far away from **Egypt**. He married a woman from that place and had two sons.
 ===== Important Terms: =====
 
-
-  * **[[:ilo:obe:other:moses]]**
-  * **[[:ilo:obe:other:shepherd]]**
-  * **[[:ilo:obe:other:egypt]]**
-
-
+  * **[[:ilo:obe:other:moses|Moses]]**
+  * **[[:ilo:obe:other:shepherd|pastor, agpastor]]**
+  * **[[:ilo:obe:other:egypt|Egypt, taga Egypt]]**
 ==== Translation Notes: ====
 
-
-  * **wilderness** - See how you translated this in **[[:ilo:obs:notes:frames:09-10|[09-10]]]**.
-
+  * **kabakbakiran**
+ - kitaen ti pannaibalikas iti daytoy idiay **[[:ilo:obs:notes:frames:09-10|[09-10]]]**.
 
 **[[:ilo:obs:notes:frames:09-10|<<]] | [[:ilo:obs:notes:09|Up]] | [[:ilo:obs:notes:frames:09-12|>>]]**
