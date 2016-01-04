@@ -2,17 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-13.jpg?nolink&}}
 
-**God** said, “I have seen the **suffering of my people**. I will send you to **Pharaoh** so that you can **bring the Israelites out of their slavery in Egypt**. I will give them the land of **Canaan**, the land I **promised** to **Abraham**, **Isaac**, and **Jacob**.”
+Kinuna pay ti Dios, “Nakitak dagiti annak ko idiay Egypt nga agrigrigat. Tatta ngarud ket ibaun ka iti pharaoh tapnun iruar mo dagiti Israelita tapnun maiyadayu da kadagiti panangparparigat kadakuada iti taga Egypt ket inted ko kadakuada ti Canaan nga isu iti inkarik kinda Abraham, Isaac ken Jacob.”
+
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:suffer|suffer, suffering]]**
-  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
-  * **[[:ilo:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ilo:obe:kt:god|Dios]]**
+  * **[[:ilo:obe:kt:suffer|agrigat, rigat]]**
+  * **[[:ilo:obe:other:pharaoh|Pharaoh, ari ti Egypt]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelita, nasyon a Israel]]**
+  * **[[:ilo:obe:other:servant|adipen, tagabo, pannakatagabo]]**
+  * **[[:ilo:obe:other:egypt|Egypt, taga Egypt]]**
   * **[[:ilo:obe:other:canaan|Canaan, Canaanite]]**
-  * **[[:ilo:obe:kt:promise|promise]]**
+  * **[[:ilo:obe:kt:promise|kari (n)]]**
   * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
   * **[[:ilo:obe:other:isaac|Isaac]]**
   * **[[:ilo:obe:other:jacob|Jacob, Israel]]**
