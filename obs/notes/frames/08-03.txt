@@ -1,21 +1,14 @@
-===== The Brothers' Lie [08-03] =====
+===== Ti Panagurbod dagiti agkakapsat [08-03] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-03.jpg?nolink}}
-
-Before **Joseph’s** brothers returned home, they tore Joseph’s robe and dipped it in **goat's blood**. Then they showed the robe to their father so he would think that a wild animal had killed Joseph. **Jacob** was very sad. 
+Sakbay a nagawid dagiti kakabsat ni Joseph idiay balay da ket pinigispigis da pay ti pagananay na ken insawsaw da iti dara ti kalding. Ket  impakita da iti Ama da tapnu panunuten na a pinatay ti narungsot nga ayup. Ket nagladigit ni Jcaob ti kasta launay.
 
 ===== Important Terms: =====
 
-
-  * **[[:ilo:obe:other:josephot]]**
-  * **[[:ilo:obe:other:jacob]]**
-
-
+  * **[[:ilo:obe:other:josephot|Joseph (OT)]]**
+  * **[[:ilo:obe:other:jacob|Jacob, Israel]]**
 ==== Translation Notes: ====
 
-
-  * **goat's blood** - The brothers wanted Jacob to think that the blood on the clothes was Joseph's blood.
-
-
+  * **goat's blood**  - The brothers wanted Jacob to think that the blood on the clothes was Joseph's blood.
 **[[:ilo:obs:notes:frames:08-02|<<]] | [[:ilo:obs:notes:08|Up]] | [[:ilo:obs:notes:frames:08-04|>>]]**
