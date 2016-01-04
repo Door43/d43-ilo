@@ -1,31 +1,24 @@
-===== God Sent Moses to Egypt [09-13] =====
+===== Imbaun ti Dios ni Moses iti Egypt [09-13] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-13.jpg?nolink&}}
 
 **God** said, “I have seen the **suffering of my people**. I will send you to **Pharaoh** so that you can **bring the Israelites out of their slavery in Egypt**. I will give them the land of **Canaan**, the land I **promised** to **Abraham**, **Isaac**, and **Jacob**.”
 ===== Important Terms: =====
 
-
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:suffer]]**
-  * **[[:ilo:obe:other:pharaoh]]**
-  * **[[:ilo:obe:other:israel]]**
-  * **[[:ilo:obe:other:servant]]**
-  * **[[:ilo:obe:other:egypt]]**
-  * **[[:ilo:obe:other:canaan]]**
-  * **[[:ilo:obe:kt:promise]]**
-  * **[[:ilo:obe:other:abraham]]**
-  * **[[:ilo:obe:other:isaac]]**
-  * **[[:ilo:obe:other:jacob]]**
-
-
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:kt:suffer|suffer, suffering]]**
+  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
+  * **[[:ilo:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ilo:obe:other:canaan|Canaan, Canaanite]]**
+  * **[[:ilo:obe:kt:promise|promise]]**
+  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ilo:obe:other:isaac|Isaac]]**
+  * **[[:ilo:obe:other:jacob|Jacob, Israel]]**
 ==== Translation Notes: ====
 
-
-  * **suffering of my people** - This could be translated as, "the very harsh treatment that my people are experiencing. Some languages might translate this as, "how the Egyptians are giving my people terrible pain."
-  * **my people** - This refers to the Israelites. God had made a covenant with Abraham and his descendants that He would bless them and make them into a great nation. Through this covenant, the Israelites became God's own people.
-  * **bring … out of their slavery in Egypt** - This can be translated as, "set them free from being slaves in Egypt" or, "bring them out of Egypt where they are now slaves."
-
-
+  * **suffering of my people**  - This could be translated as, "the very harsh treatment that my people are experiencing. Some languages might translate this as, "how the Egyptians are giving my people terrible pain."
+  * **my people**  - This refers to the Israelites. God had made a covenant with Abraham and his descendants that He would bless them and make them into a great nation. Through this covenant, the Israelites became God's own people.
+  * **bring … out of their slavery in Egypt**  - This can be translated as, "set them free from being slaves in Egypt" or, "bring them out of Egypt where they are now slaves."
 **[[:ilo:obs:notes:frames:09-12|<<]] | [[:ilo:obs:notes:09|Up]] | [[:ilo:obs:notes:frames:09-14|>>]]**
