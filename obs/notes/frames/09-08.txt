@@ -1,24 +1,18 @@
-===== An Egyptian Beat a Slave [09-08] =====
+===== Binaot ti maysa a taga Egypt ti Maysa a Tagabo [09-08] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-08.jpg?nolink}}
+Iti maysa nga aldaw idi dakkelen nga usto ni Moses ket nakita na ti maysa a taga Egypt a parparigaten na ti maysa a kapada na a Israelita a tagabo ket pinadas na nga isalakan.
 
-One day, when **Moses** had grown up, he saw an **Egyptian** beating an **Israelite slave**. Moses tried to **save** his **fellow Israelite**.
 ===== Important Terms: =====
 
-
-  * **[[:ilo:obe:other:moses]]**
-  * **[[:ilo:obe:other:egypt]]**
-  * **[[:ilo:obe:other:israel]]**
-  * **[[:ilo:obe:other:servant]]**
-  * **[[:ilo:obe:kt:save]]**
-
-
+  * **[[:ilo:obe:other:moses|Moses]]**
+  * **[[:ilo:obe:other:egypt|Egypt, taga Egypt]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelita, nasyon a Israel]]**
+  * **[[:ilo:obe:other:servant|adipen, tagabo, pannakatagabo]]**
+  * **isalakan**
 ==== Translation Notes: ====
 
-
-  * **grown up** - Another way to say this would be, "grown into a man."
-  * **fellow Israelite** - This phrase refers to the Israelite slave. The word "fellow" here indicates that Moses was also an Israelite. Although the daughter of the Egyptian Pharaoh raised Moses, Moses remembered that he was really an Israelite.
-
-
+  * **grown up**  - Another way to say this would be, "grown into a man."
+  * **fellow Israelite**  - This phrase refers to the Israelite slave. The word "fellow" here indicates that Moses was also an Israelite. Although the daughter of the Egyptian Pharaoh raised Moses, Moses remembered that he was really an Israelite.
 **[[:ilo:obs:notes:frames:09-07|<<]] | [[:ilo:obs:notes:09|Up]] | [[:ilo:obs:notes:frames:09-09|>>]]**
