@@ -1,14 +1,15 @@
-===== The Famine [08-10] =====
+===== Ti Panagbisin [08-10] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-10.jpg?nolink&}}
 
-**The famine was severe** not only in **Egypt**, but also in **Canaan** where **Jacob** and his family lived.
-===== Important Terms: =====
+Nakaro ti panagbisin saan laeng nga iti Egypt nu diket pati iddiay Canaan nga ayan ti pamilya ni Jacob.
 
-  * **[[:ilo:obe:other:egypt]]**
-  * **[[:ilo:obe:other:canaan]]**
-  * **[[:ilo:obe:other:jacob]]**
-==== Translation Notes: ====
+===== **Dagiti Napapateg A Balikas**: =====
+
+  * **[[:ilo:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ilo:obe:other:canaan|Canaan, Canaanite]]**
+  * **[[:ilo:obe:other:jacob|Jacob, Israel]]**
+==== **Pannakaipakaawat Kadagiti Sarsarita**: ====
 
   * **Egypt, but also Canaan**  – For some languages it may be clearer or more natural to say, "the country of Egypt, but also the land of Canaan."
   * **The famine was severe**  - The famine was very bad. There was very little food and many people outside of Egypt were starving.
