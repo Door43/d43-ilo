@@ -1,23 +1,16 @@
 ===== Jacob Went to Egypt [08-14] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-14.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-14.jpg?nolink}}
+Uraynu lakayen ni Jacob ket immalis latta idiay Egypt agraman dagiti pamilya na ket nakipagnaed da idiay. Idi asideg a matay ni Jacob ket binendisyunan na ti tunggal maysa dagiti annak na.
 
-**Even though Jacob was an old man, he moved to Egypt** with all of his family, and they all lived there. **Before Jacob died**, he **blessed** each of his sons. 
+**Dagiti Napapateg A Balikas**:
 
-===== Important Terms: =====
+  * **[[:ilo:obe:other:jacob|Jacob, Israel]]**
+  * **[[:ilo:obe:other:egypt|Egypt, taga Egypt]]**
+  * **[[:ilo:obe:kt:bless|bendisyonan, nabendisyonan, bendisyon]]**
+==== **Pannakaipakaawat Kadagiti Sarsarita**: ====
 
-
-  * **[[:ilo:obe:other:jacob]]**
-  * **[[:ilo:obe:other:egypt]]**
-  * **[[:ilo:obe:kt:bless]]**
-
-
-==== Translation Notes: ====
-
-
-  * **Even though Jacob was an old man, he moved to Egypt** - Egypt was a great distance away from Canaan, and it would have been difficult for an elderly man to walk or ride a cart that far.
-  * **Before Jacob died** - Jacob died in Egypt. He did not get to return to Canaan, the land God had promised to give to him and his descendants.
-
-
+  * **Even though Jacob was an old man, he moved to Egypt**  - Egypt was a great distance away from Canaan, and it would have been difficult for an elderly man to walk or ride a cart that far.
+  * **Before Jacob died**  - Jacob died in Egypt. He did not get to return to Canaan, the land God had promised to give to him and his descendants.
 **[[:ilo:obs:notes:frames:08-13|<<]] | [[:ilo:obs:notes:08|Up]] | [[:ilo:obs:notes:frames:08-15|>>]]**
