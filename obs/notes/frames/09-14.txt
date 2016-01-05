@@ -4,7 +4,7 @@
 
 Nagsaludsod ni Moses, “Kasatnu ngay nu damagen ti tattao kanyak nu sino iti nangibaun kanyak, anya ti ibagak?” Kuna ti Dios, “Siak ti Siak. Ibagam kadakuada a ‘Siak ti nangibaun kenka.’ Ibagam met nga, ‘Siak ti Yahweh ti Dios ni Abraham, Isaac ken Jacob.’ Daytoy ti awan inggana a nagan ko.”
 
-===== Important Terms: =====
+===== **Dagiti Napapateg A Balikas**: =====
 
   * **[[:ilo:obe:other:moses|Moses]]**
   * **[[:ilo:obe:kt:god|Dios]]**
@@ -12,6 +12,7 @@ Nagsaludsod ni Moses, “Kasatnu ngay nu damagen ti tattao kanyak nu sino iti na
   * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
   * **[[:ilo:obe:other:isaac|Isaac]]**
   * **[[:ilo:obe:other:jacob|Jacob, Israel]]**
+
 ==== Translation Notes: ====
 
   * **the people**  - See "my people" in **[[:ilo:obs:notes:frames:09-13|[09-13]]]**.
