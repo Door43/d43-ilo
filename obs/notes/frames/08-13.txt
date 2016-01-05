@@ -1,22 +1,15 @@
-===== Joseph Was Alive [08-13] =====
+===== Sibibiag Ni Joseph [08-13] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-13.jpg?nolink}}
+Idi nagawid dagiti kakabsat ni Joseph ket imbaga da kenni Jacob a sibibiag pay ni Joseph ket naragsakan unay isuna.
 
-When **Joseph's** brothers returned home and told their father, **Jacob**, that Joseph was still alive, he was very happy. 
+**Dagiti Napapateg A Balikas**:
 
-===== Important Terms: =====
+  * **[[:ilo:obe:other:josephot|Joseph (OT)]]**
+  * **[[:ilo:obe:other:jacob|Jacob, Israel]]**
+==== **Pannakaipakaawat Kadagiti Sarsarita**: ====
 
-
-  * **[[:ilo:obe:other:josephot]]**
-  * **[[:ilo:obe:other:jacob]]**
-
-
-==== Translation Notes: ====
-
-
-//(There are no notes for this frame.)// 
-
-
+//(There are no notes for this frame.)//
 
 **[[:ilo:obs:notes:frames:08-12|<<]] | [[:ilo:obs:notes:08|Up]] | [[:ilo:obs:notes:frames:08-14|>>]]**
