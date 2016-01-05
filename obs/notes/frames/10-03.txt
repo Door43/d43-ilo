@@ -4,14 +4,12 @@
 
 Pinagbalin ti Dios a dara diay karayan a maawagan a Nile ngem saan a pinalubusan ni Pharaoh dagiti Israelita..
 
-===== Important Terms: =====
+===== **Dagiti Napapateg Nga Balikas**: =====
 
-
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:nileriver]]**
-  * **[[:ilo:obe:other:pharaoh]]**
-  * **[[:ilo:obe:other:israel]]**
-
+  * **[[:ilo:obe:kt:god|Dios]]**
+  * **[[:ilo:obe:other:nileriver|karayan a Nile]]**
+  * **[[:ilo:obe:other:pharaoh|Pharaoh, ari ti Egypt]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelita, nasyon ti Israel]]**
 
 ==== Translation Notes: ====
 
