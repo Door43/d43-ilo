@@ -1,23 +1,16 @@
-===== The Brothers Bought Food [08-11] =====
+===== Nangisangpet Ti Makan Dagiti Agkakapsat [08-11] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-11.jpg?nolink}}
+Isua imbaun ni Jacob dagiti inauna nga annak na idiay Egypt tapnu gumatang ti makan. Ket saan a nailasin dagiti agkakabsat ni Joseph idi gumatgatang da iti makan iti sanguanan da. Ngem nalasin ni Joseph ida.
 
-So **Jacob** sent **his older sons** to **Egypt** to buy food. The brothers **did not recognize Joseph** when they stood before him to buy food. But Joseph recognized them. 
+===== **Dagiti Napapateg A Balikas**: =====
 
-===== Important Terms: =====
+  * **[[:ilo:obe:other:jacob|Jacob, Israel]]**
+  * **[[:ilo:obe:other:egypt|Egypt, taga Egypt]]**
+  * **[[:ilo:obe:other:josephot|Joseph (OT)]]**
+==== **Pannakaipakaawat Kadagiti Sarsarita **: ====
 
-
-  * **[[:ilo:obe:other:jacob]]**
-  * **[[:ilo:obe:other:egypt]]**
-  * **[[:ilo:obe:other:josephot]]**
-
-
-==== Translation Notes: ====
-
-
-  * **his older sons** - These were Joseph's older brothers who had sold him into slavery.
-  * **did not recognize Joseph** - They did not know that the man was Joseph, because now Joseph was much older than when they last saw him, and he was dressed as an Egyptian ruler.
-
-
+  * **his older sons**  - These were Joseph's older brothers who had sold him into slavery.
+  * **did not recognize Joseph**  - They did not know that the man was Joseph, because now Joseph was much older than when they last saw him, and he was dressed as an Egyptian ruler.
 **[[:ilo:obs:notes:frames:08-10|<<]] | [[:ilo:obs:notes:08|Up]] | [[:ilo:obs:notes:frames:08-12|>>]]**
