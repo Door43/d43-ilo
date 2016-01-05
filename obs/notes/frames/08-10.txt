@@ -4,11 +4,12 @@
 
 Nakaro ti panagbisin saan laeng nga iti Egypt nu diket pati iddiay Canaan nga ayan ti pamilya ni Jacob.
 
-===== **Dagiti Napapateg A Balikas**: =====
+===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ilo:obe:other:egypt|Egypt, taga Egypt]]**
   * **[[:ilo:obe:other:canaan|Canaan, Canaanite]]**
   * **[[:ilo:obe:other:jacob|Jacob, Israel]]**
+
 ==== **Pannakaipakaawat Kadagiti Sarsarita**: ====
 
   * **Egypt, but also Canaan**  – For some languages it may be clearer or more natural to say, "the country of Egypt, but also the land of Canaan."
