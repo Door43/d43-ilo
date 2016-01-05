@@ -1,30 +1,23 @@
-===== The Twelve Sons [08-15] =====
+===== Dagiti Sangapulo A Putot A Lallaki [08-15] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-15.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-15.jpg?nolink}}
+Ti tulag nga inkari ti Dios nga inted na kenni Abraham ket naipasa kenni Isaac santu kenni Jacob santu kadagiti sangapulo ken duwa nga annak ni Jacob ken dagiti pamilya da. Dagiti kaputotan dagiti sangapulo ket duwa nga annak ni Jacob iti nagbalin nga sangapulo ket duwa nga tribu ti Israel.
 
-The **covenant promises** that **God** gave to **Abraham** were **passed on to Isaac**, then to **Jacob**, and then to Jacob’s twelve sons and their families. The **descendants** of the twelve sons became the **twelve tribes of Israel**. 
+===== **Dagiti Napapateg A Balikas**: =====
 
-===== Important Terms: =====
+  * **[[:ilo:obe:kt:covenant|katulagan]]**
+  * **[[:ilo:obe:kt:promise|kari]]**
+  * **[[:ilo:obe:kt:god|Dios]]**
+  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ilo:obe:other:isaac|Isaac]]**
+  * **[[:ilo:obe:other:jacob|Jacob, Israel]]**
+  * **[[:ilo:obe:other:descendant|kaputotan]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelita, nasyon ti Israel]]**
+**Pannakaipakaawat Kadagiti Sarsarita**:
 
-
-  * **[[:ilo:obe:kt:covenant]]**
-  * **[[:ilo:obe:kt:promise]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:abraham]]**
-  * **[[:ilo:obe:other:isaac]]**
-  * **[[:ilo:obe:other:jacob]]**
-  * **[[:ilo:obe:other:descendant]]**
-  * **[[:ilo:obe:other:israel]]**
-
-
-==== Translation Notes: ====
-
-
-  * **covenant promises** - Long ago God made an agreement with Abraham and promised him that he would give him many descendants; they would possess the land of Canaan and become a great nation. God also promised that all peoples would be blessed through Abraham's line. See also **[[:ilo:obs:notes:frames:07-10|[07-10]]]**.
-  * **passed on to** - Another way to say this would be, "passed down to" or, "given to" or, "applied to." God's promise to Abraham was also for Abraham's children, grandchildren and all the rest of his descendants. See also **[[:ilo:obs:notes:frames:06-04|[06-04]]]**.
-  * **twelve tribes of Israel** - God had promised Abraham, Isaac and Jacob that their descendants would become a great nation. God later changed Jacob's name to Israel. The descendants of Jacob's 12 sons became 12 great tribes. These 12 tribes made up the ancient nation called Israel, which was named by Jacob's new name.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-
+  * **covenant promises**  - Long ago God made an agreement with Abraham and promised him that he would give him many descendants; they would possess the land of Canaan and become a great nation. God also promised that all peoples would be blessed through Abraham's line. See also **[[:ilo:obs:notes:frames:07-10|[07-10]]]**.
+  * **passed on to**  - Another way to say this would be, "passed down to" or, "given to" or, "applied to." God's promise to Abraham was also for Abraham's children, grandchildren and all the rest of his descendants. See also **[[:ilo:obs:notes:frames:06-04|[06-04]]]**.
+  * **twelve tribes of Israel**  - God had promised Abraham, Isaac and Jacob that their descendants would become a great nation. God later changed Jacob's name to Israel. The descendants of Jacob's 12 sons became 12 great tribes. These 12 tribes made up the ancient nation called Israel, which was named by Jacob's new name.
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
 **[[:ilo:obs:notes:frames:08-14|<<]] | [[:ilo:obs:notes:08|Up]] | [[:ilo:obs:notes:frames:09-01|>>]]**
