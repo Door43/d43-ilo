@@ -1,11 +1,10 @@
-===== : Inayaban ti Dios Dagiti Israelta [09-01] =====
+===== Inayaban ti Dios Dagiti Israelta [09-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-01.jpg?nolink}}
+Kalpasan a natay ni Joseph ket amin a kabagyan na ket nagtalinaed idiay Egypt. Isuda ken dagiti kapututan na ket nagtultuloy a nagnaed idiay iti adu a tawtawen ken naaddaan iti adu nga annak. Maawawagan isuda nga Israelita.
 
-Kalpasan a natay ni Joseph ket amin a kabagyan na ket nagtalinaed idiay Egypt. Isuda ken dagiti kapututan na ket nagtultuloy a nagnaed idiay iti adu a tawtawen ken naaddaan iti adu nga annak. Maawawagan isuda nga  Israelita.
-
-===== Dagiti Napapateg Nga Balikas: =====
+===== Dagiti Napapateg A Balikas: =====
 
 Joseph
 
@@ -17,8 +16,8 @@ Israel, Israelita, nasyon a Israel
 
 ==== Pannakaipakaawat Kadagiti Sarsarita: ====
 
-
-  maawagan nga Israelitas - dagiti grupo ti tattao a nagtaud kenni Jacob ket maawagan a “Israel,” nga isu ti nagan nga inted ti Dios kenni Jacob. Dagiti tattao a nagtaud iti daytoy a bunggoy ti tattao ket maawagan nga Israelitas.”
-
+<code>
+maawagan nga Israelitas - dagiti grupo ti tattao a nagtaud kenni Jacob ket maawagan a “Israel,” nga isu ti nagan nga inted ti Dios kenni Jacob. Dagiti tattao a nagtaud iti daytoy a bunggoy ti tattao ket maawagan nga Israelitas.”
+</code>
 
 **[[:ilo:obs:notes:frames:08-15|<<]] | [[:ilo:obs:notes:09|Up]] | [[:ilo:obs:notes:frames:09-02|>>]]**
