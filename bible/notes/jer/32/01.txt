@@ -1,0 +1,56 @@
+====== Jeremiah 32:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 After Zedekiah had been ruling Judah for almost ten years, Yahweh gave me another message, during the time that Nebuchadnezzar had been ruling \add Babylonia\add* for almost eighteen years.
+\v 2 His army had surrounded Jerusalem, and I was in a prison area in the courtyard where the guards of the king's palace stayed.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 After Zedekiah had been ruling Judah for almost ten years, Yahweh gave me another message, during the time that Nebuchadnezzar had been ruling Babylonia for almost eighteen years.
+\v 2 His army had surrounded Jerusalem, and I was in a prison area in the courtyard where the guards of the king's palace stayed.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 32
+\p
+\v 1 This is the word that came to Jeremiah from Yahweh in the tenth year of Zedekiah king of Judah, the eighteenth year of Nebuchadnezzar.
+\v 2 At that time, the army of the king of Babylon was besieging Jerusalem, and Jeremiah the prophet was imprisoned in the courtyard of the guard at the house of the king of Judah.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ilo:obe:kt:word|word]]
+  * [[:ilo:obe:other:jeremiah|Jeremiah]]
+  * [[:ilo:obe:kt:yahweh|Yahweh]]
+  * [[:ilo:obe:other:zedekiah|Zedekiah]]
+  * [[:ilo:obe:other:king|king]]
+  * [[:ilo:obe:other:kingdomofjudah|Judah, kingdom of Judah]]
+  * [[:ilo:obe:other:nebuchadnezzar|Nebuchadnezzar]]
+  * [[:ilo:obe:other:babylon|Babylon, Babylonian]]
+  * [[:ilo:obe:other:siege]]
+  * [[:ilo:obe:other:jerusalem]]
+  * [[:ilo:obe:kt:prophet|prophet, prophecy, prophesy, seer]]
+  * [[:ilo:obe:other:prison|prison, prisoner]]
+  * [[:ilo:obe:other:courtyard|courtyard, court]]
+  * [[:ilo:obe:other:house|house]]
+
+===== Translation Notes: =====
+
+  * **This is the word that came to Jeremiah from Yahweh**  - "This is what Yahweh said to Jeremiah"
+  * **was imprisoned in the courtyard of the guard**  - "They put him in the prison in the courtyard of the guard" (See: [[:ilo:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **the courtyard of the guard at the house of the king of Judah**  - This was an open area attached to the king's palace.
+
+===== Links: =====
+
+  * **[[:ilo:bible:questions:comprehension:jer:32|Jeremiah Chapter 32 Comprehension Questions]]**
+**[[:ilo:bible:notes:jer:31:38|<<]] | [[:ilo:bible:notes:jer:32:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

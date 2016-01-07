@@ -9,7 +9,7 @@ The term "Arabah" is a general reference to a desert plain or region. It often r
 
 (Translation suggestions: [[:ilo:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[desert]], [[redsea]], [[jordan]], [[canaan]], [[saltsea]], [[egypt]] other)
+(See also: [[:ilo:obe:other:desert]], [[:ilo:obe:other:redsea]], [[:ilo:obe:other:jordanriver]], [[:ilo:obe:other:canaan]], [[:ilo:obe:other:saltsea]], [[:ilo:obe:other:egypt]])
 
 ===== Bible References: =====
 
@@ -17,4 +17,4 @@ The term "Arabah" is a general reference to a desert plain or region. It often r
 
 ~~NOCACHE~~
 
-{{tag>publish ktlink}}
+{{tag>publish}}
