@@ -1,9 +1,9 @@
-===== The Trip to Bethlehem [23-04] =====
+===== Ti Panagdalyasat A napan Bethlehem [23-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?nolink&}}
 
+Idi asidigen ti tiempo nga aganak ni Maria ket adda bilin ti gobyerno ti romano a sagtunggal maysa ket mapan agpalista ti nagan iti ili a nagtaudan dagiti ninuno na. Nagdalyasat ngarud da Joseph ken Maria ti adayu manipud ti pagnanaedan da idiay Nazareth inggana diay Betlehem. Ngamin ta daydi David a ninuno da ket nagnaed sadiay ili ti Betlehem.
 
-**When the time was near for Mary to give birth**, the **Roman government** told everyone to go **for a census** to the town where their ancestors had lived. **Joseph** and Mary had to make a long journey from where they lived in **Nazareth** to **Bethlehem** because their ancestor was **David** whose hometown was Bethlehem.
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:mary]]**
