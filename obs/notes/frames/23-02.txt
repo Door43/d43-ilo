@@ -1,8 +1,9 @@
-===== Take Mary as Your Wife [23-02] =====
+===== Alaem Ni Mary A Kas Asawam [23-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?nolink&}}
 
-The **angel** said, “**Joseph**, **do not be afraid to take Mary as your wife**. The baby that is in her **is from the Holy Spirit**. She will give birth to a **son**. Name him **Jesus** (which means, '**Yahweh saves**'), because he will save the people from their **sins**.”
+Kinuna ti anghel kenkuana, “Josephph, saan ka nga agbuting a mangiyawid kenni ni Maria kas asawa. Ti ubing  nga adda kenkuana ket aggapu iti Ispiritu Santo. Aganak tu isuna ti lalaki ket panaganam ti Jesus (a ti kayat na a saoen ket ‘Mangisalakan ni Yaweh’) gapu ta isalakanan tu ti tattao iti basolda.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:angel]]**
