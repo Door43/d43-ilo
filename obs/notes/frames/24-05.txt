@@ -1,8 +1,9 @@
-===== Not the Messiah [24-05] =====
+===== Saan A Ti Messiah [24-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink&}}
 
-Some **Jews** asked **John** if he was the **Messiah**. John replied, “I am not the Messiah, but there is someone coming after me. **He is so great** that I am **not even worthy to untie his sandals**.”
+Ket nagdamag dagiti dadduma a Judio kenni John nu isuna ti Messiah. Ti sungbat ni John ket kunana, “Saan a siak ti Mesias. Ngem adda iti umay a tao a sumaruno kanyak. Isuna iti katanokan ket uray siak ket saan a maikari a mangukrad iti tali dagiti sandal na.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:jew]]**
