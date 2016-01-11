@@ -1,8 +1,9 @@
-===== The Wicked Servant [29-08] =====
+===== Ti Dakes Nga Adipen [29-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink&}}
 
-“The **king called the servant** and said, ‘You wicked servant! I **forgave** your debt because you **begged me**. **You should have done the same**.’ The king was so angry that he **threw** the **wicked** servant into prison until he could pay back all of his debt.”
+“Impa-ayab ngarud ti ari ti katulong ket kinunana ‘sika a dakes nga adipen! Pinakawan ko ti utang mon gamin nagpakaasi ka kanyak. Isu metlang kuma ti inaramid mo. ‘Nakaunget a pirmi ti ari ket impakulong na ti dakes nga katulong inggana mabayadan na ti amin nga utang na.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:king]]**
