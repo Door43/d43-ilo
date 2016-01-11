@@ -1,8 +1,9 @@
-===== Not Able to Repay [29-03] =====
+===== Saanna kabaelan A bayadan [29-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink&}}
 
-“Since the **servant** could not **pay the debt**, the **king** said, ‘Sell this man and his family as **slaves to make payment on his debt**.’”
+“Gapu ta saan a makabayad ti katulung iti utang na, imbagan ti ari, ‘Ilako yu daytoy nga lalaki ken ti pamilya na nga agbalin da a tagabo tapnu makabayad iti utang na.’’’
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:servant]]**
