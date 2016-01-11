@@ -1,8 +1,9 @@
-===== The Disciples Were Afraid [31-04] =====
+===== Nagbuteng Dagiti Adalan Iti Dalluyon [31-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?nolink&}}
 
-The **disciples** were very afraid when they saw **Jesus**, because they thought they were seeing **a ghost**. Jesus knew that they were afraid, so he called out to them and said, “**Do not be afraid. It is I**!”
+Ket immay ti permi a buteng kadagiti adalan idi makita da ni Jesus gapu ta ti panagkuna da ket al-alya ti makitkita da. Ammu ni Jesus nga agbuteng da, isu a nagpukkaw isuna kadakuada ket kinuna na, ”Saan kayu nga agbuteng. Siak daytoy.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:disciple]]**
