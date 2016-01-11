@@ -1,8 +1,9 @@
-===== The Camel and the Needle [28-06] =====
+===== Ti Camelyo Ken Iti Dagum [28-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink&}}
 
-Then **Jesus** said to his **disciples**, “It is extremely hard for rich people to **enter into the kingdom of God**! Yes, it is easier for a **camel** to go through the **eye of a needle** than for a rich man to enter the kingdom of God.”
+Ket kinuna ni Jesus kadagiti adalan  na, “Nakarigrigat launay a sumrek ti nabaknang a tao iti pagarian ti Dios! Wen, nalaklaka a sumrek it kamelyo iti abut ti dagum ngem ti tao iti pagarian ti Dos.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
