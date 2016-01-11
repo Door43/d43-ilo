@@ -1,8 +1,9 @@
-===== Sell Everything [28-04] =====
+===== Ilakun Dagiti Amin A sanikuam [28-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-04.jpg?nolink&}}
 
-**Jesus** answered, “If **you** want to be **perfect**, then go and sell **everything you own** and give the money to the poor, and you will have **treasure in heaven**. Then come and follow me.”
+Ket simmungbat ni Jesus, “Nu kayat mo ti agbalin nga awan pakapelawan na ket apan mo ilako amin a sanikuam ket ited mo ti kuwarta kadagiti marigrigat ket maaddaan ka ti sanikua saddiay langit. Ket umay ka ket suruten nak.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
