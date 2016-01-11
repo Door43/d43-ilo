@@ -1,8 +1,23 @@
-===== The Weeds [50-06] =====
+===== Ti Lidda [50-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink&}}
 
-“When the plants sprouted, the **servants** of the man said, ‘**Master**, you planted **good** seed in that field. So why are there weeds in it?’ The master answered, ‘**An enemy must have planted them**.’”
+“
+
+Idi nagtubon dagiti mulmula, sinaludsud dagiti adipen ket kinuna da, ‘Maestro, nagmula kayu iti nasayaat a bukel iti dagita a taltalun. Apay ngarud nga adda iti lidda na?” Simmungbat ti Maestro ket kinuna na, “Siguradu a immula ti Kabusur dagita.’’’
+
+
+
+
+
+
+
+
+
+
+
+
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:servant]]**
