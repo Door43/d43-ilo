@@ -1,8 +1,9 @@
-===== The King Heard [29-07] =====
+===== Nangeg Iti Ari [29-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink&}}
 
-“Some other **servants** saw **what had happened** and **were greatly disturbed**. They went to the **king** and told him **everything**.”
+“Ket nakitada dagiti dadduma pay a katkatulong ti napasamak ket saan da a makatalna iti nakita da. Isunga napanda imbaga iti ari ti amin a napasamak.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:servant]]**
