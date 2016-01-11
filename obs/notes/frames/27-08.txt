@@ -1,8 +1,9 @@
-===== The Samaritan [27-08] =====
+===== Ti Samaritan [27-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg?nolink&}}
 
-“The next person to **walk down** that road was a **Samaritan**. (Samaritans were the descendants of Jews who had married people from other nations. Samaritans and Jews hated each other.) But when the Samaritan saw the Jewish man, he felt very strong compassion for him. So he cared for him and bandaged his wounds.”
+“Iti sumaruno a tao a simmalog iti dalan ket maysa a taga Samaria. (Dagiti taga Samaria ket kapututan iti Judio a nagasawa kadagiti tattao ti naduma duma a nasyon. Agkagura dagiti Samaritano ken Judio).  Ngem idi nakita ti taga Samaria iti lalaki a Judio ket nakarikna isuna iti kasta launay nga asi kenkuana. Isu nga inalagaan na isuna ken inugasan na santu na binalkutan dagiti sugsugat na.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:samaria]]**
