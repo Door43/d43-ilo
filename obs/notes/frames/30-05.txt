@@ -1,8 +1,9 @@
-===== Five Loaves and Two Fish [30-05] =====
+===== Ti Lima A Tinapay Ken Iti Duwa A Lames [30-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?nolink&}}
 
-But **Jesus** said to the **disciples**, “You give them something to eat!” They responded, “**How can we do that**? We only have five loaves of bread and two small fish.”
+Ngem imbaga ni Jesus kadagiti adalan na, “Ikkan yu ida ti mabalin da a makan!” Ket ti insungbat da ket kuna da, “Kasanu mi nga aramiden dayta?  Ti adda laeng kada kami ket lima a pisi ti tinapay ken dua a babassit a lames.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
