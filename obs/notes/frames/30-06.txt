@@ -1,9 +1,9 @@
-===== Preparation for the Meal [30-06] =====
+===== Ti panangisagana Iti Panangan [30-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?nolink&}}
 
+Imbaga ni Jesus kadagiti adalan na nga urnungen da dagiti tattao iti tagsisingkuenta ket pagtugawen da ida ti karuotan.
 
-**Jesus** told his **disciples** to tell the people in the crowd to sit down on the grass, in groups of fifty people each.
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
