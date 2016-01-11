@@ -1,8 +1,9 @@
-===== Jesus Healed the Sick [26-08] =====
+===== Inagasan Ni Jesus Ti Masakit [26-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-08.jpg?nolink&}}
 
-Then **Jesus went throughout the region of Galilee**, and large crowds came to him. They brought many people who were sick or handicapped, including those who could not see, walk, hear, or speak, and Jesus **healed** them.
+Amin a napnapan ni Jesus iti pagilyan ti Galilee ket nagadu a tattao iti napan kankuana. Ket nangitugot da ti nagadu a tattao nga agsaksakit wennu adda ti deperensia na karaman dagiti saan a makakita ken saan makapagna ken saan makadingngeg wennu makasau ket pinalaing ni Jesus ida.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
