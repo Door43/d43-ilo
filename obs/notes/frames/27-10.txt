@@ -1,8 +1,9 @@
-===== Generous Help [27-10] =====
+===== Siraragsak A Panangtulung [27-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-10.jpg?nolink&}}
 
-“The next day, the **Samaritan** needed to **continue his journey**. He gave some money to the person **in charge of** the inn and said, ‘**Take care of hi**m, and if you spend any more money than this, I will **repay those expenses** when I return.’”
+“Iti sumaruno nga aldaw, toy taga Sumaria ket kasapulan a itultuloy na ti panagdalyasat na. Isua nangted isuna ti umanay a kwarta iti tao a mangimanmaneho iti hotel ket kinuna na, “Alagaam isuna ket nu kasapulam pay iti nayun diay kwarta nga inted ko ket isublik to kenka amin gastum intun agsubliak.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:samaria]]**
