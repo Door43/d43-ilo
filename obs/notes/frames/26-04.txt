@@ -1,9 +1,9 @@
-===== The Prophesy about Jesus [26-04] =====
+===== Ti Naipadtu Maipapan Kanni Jesus [26-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-04.jpg?nolink&}}
 
+Santu nagtugaw ni Jesus. Ket sarimetmet a kumitkita amin a tattao kenkuana. Ammo da dadiay a nilaon ti nasantuan a surat a nabasa ket maipapan iti Messias. Kinuna ni Jesus, “ti sao nga innak imbasa kadakayo ket mapaspasamaken itatta.’’  Ket nasdaaw amin nga tattao. “Saan kadi a daytoy ti anak ni Joseph?” kinunada.
 
-Then **Jesus** sat down. Everybody watched him closely. They knew the passage of **scripture** that he had just read referred to the **Messiah**. Jesus said, “**The words I just read to you are happening right now**.” All the people were **amazed**. “**Isn’t this the son of Joseph**?” they said.
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
