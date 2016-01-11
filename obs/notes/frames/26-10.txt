@@ -1,8 +1,9 @@
-===== The Twelve Disciples [26-10] =====
+===== Dagiti Sangapulu Ket Duwa Nga Adalan [26-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?nolink&}}
 
-Then **Jesus** chose twelve men **who were called his apostles**. The apostles traveled with Jesus and **learned from him**.
+Santu nagpili ni Jesus ti sangapulo ket dua nga lalaki ket pinagbalin na ida nga apostoles na. Nakipagdalyasat dagitoy apostoles kenni Jesus ket nakasursuru da kenkuana.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
