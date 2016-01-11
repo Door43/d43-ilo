@@ -1,8 +1,9 @@
-===== What Is Our Reward? [28-09] =====
+===== Anya Iti Magunguna Tayu? [28-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-09.jpg?nolink&}}
 
-**Peter** said to **Jesus**, “We have **left everything** and followed you. **What will be our reward**?”
+Kinuna ni Peter kenni Jesus, “Pinanawan mi amin ket sinurot daka. Anya ngarud ti gun-gunami?”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:peter]]**
