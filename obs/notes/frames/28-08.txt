@@ -1,8 +1,9 @@
-===== All Things Are Possible [28-08] =====
+===== Awan Iti Narigat Iti Amin A Banag [28-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg?nolink&}}
 
-**Jesus** looked at the **disciples** and said, “**With people this is impossible**, but **with God**, **all things are possible**.”
+Kimmita ni Jesus kadagiti adalan na ket kinuna na, ‘Nu iti tao, saan nga mabalin; ngem iti Dios mabalin amin.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
