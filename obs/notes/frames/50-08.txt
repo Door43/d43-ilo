@@ -1,8 +1,21 @@
-===== The Field Is the World [50-08] =====
+===== Ti Talun Ket Ti Lubong [50-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?nolink&}}
 
-The **disciples** did not understand the meaning of the story, so they asked **Jesus** to explain it to them. Jesus said, “The man who planted the **good** seed represents the **Messiah**. The field represents the world. The good seed represents **the people of God’s kingdom**.”
+Saan a maawatan dagiti adalan na iti kayat na a saowen iti storya isua dinawat da ken Jesus nga ilawlawagna daytuy kadakuada. Kinuna ni Jesus. “Ti nagimula a tao kadagiti nasasayaat ket miarig a ti Messiah. Ti talun ket miarig iti lubong. Dagiti nasasayaat a bukel ket miarig kadagiti tattao iti pagarian ti Dios.”
+
+
+
+
+
+
+
+
+
+
+
+
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:disciple]]**
