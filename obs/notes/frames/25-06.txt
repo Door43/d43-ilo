@@ -1,8 +1,9 @@
-===== The Third Temptation [25-06] =====
+===== Ti Maikatallu A Panangsulisug [25-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink&}}
 
-Then **Satan** showed **Jesus** all the **kingdoms of the world** and all **their glory** and said, “**I will give you all this** if you bow down and **worship** me.”
+Santu impakita ni satanas kenni Jesus amin a pagarian iti lubung ken amin a dayaw da ket kinunana, “Ited ko amin dagitoy kenka nu agrukbab ka ken agdayaw ka kanyak.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:satan]]**
