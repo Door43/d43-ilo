@@ -1,8 +1,9 @@
-===== The Small Debt [29-05] =====
+===== Ti Bassit Nga Utang [29-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink&}}
 
-“But when the **servant** went out from the king, he found a **fellow servant** who owed him a debt worth four months’ wages. The servant grabbed his fellow servant and said, ‘Pay me the money that you owe me!’”
+“Ngem idin pimmanaw ti katulong iti ayan ari ket biniruk na ti kapada a katunlung a nakautang kenkuana iti agbaror iti tangdan iti uppat a bulan. Ingguyud daytoy katulong ti padana a katulong ket kinuna na, ‘Bayadam ti kuarta nga inutang mo kanyak!’’’
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:servant]]**
