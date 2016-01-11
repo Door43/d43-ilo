@@ -1,8 +1,21 @@
-===== Wait for the Harvest [50-07] =====
+===== Aguray Inggana Ti Apit [50-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink&}}
 
-“The **servants** responded to their **master**, ‘Should we pull out the weeds?’ The master said, ‘No. If you do that, **you will pull out some of the wheat as well**. Wait **until the harvest** and then gather the weeds into piles to be burned, but bring **the wheat** into my **barn**.’”
+“
+
+Simmungbat dagiti adipen kinuna da iti Maestro da, ‘Kayatyu kadi ta paguten mi dagiti lidda?’ Ngem kinunan ti Maestro, ‘Saan. Ta nu inaramidyu dayta ket mapagutyu met dagiti sumagmamano a trigo/pagay. Aguray kayu inggana iti panaggaapit santu ummungenyu dagiti lidda tapnu mapuuran, ngem dagiti trigo/pagay ket ikabilyu iti bodegak.”’
+
+
+
+
+
+
+
+
+
+
+
 
 
 ===== Important Terms: =====
