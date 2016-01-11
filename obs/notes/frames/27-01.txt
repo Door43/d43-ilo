@@ -1,9 +1,9 @@
-===== The Lawyer's Question [27-01] =====
+===== Ti Saludsud Dagiti Abugadu [27-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?nolink&}}
 
+Iti mysa nga aldaw, napan ti maysa a naling iti linteg dagiti Judyu kenni Jesus tapnun padasen na isuna, kinunana, “Maestro, anya iti aramidek tapnu magun-od ko ti biag nga agnanayon?” Simmungbat ni Jesus ket kiunana, “Anya ti naisurat idiay linteg ti Dios?”
 
-**One day**, an **expert in the Jewish law** came to **Jesus to test him**, saying, “**Teacher**, what must I do **to inherit eternal life**?” Jesus answered, “**What is written in God's law**?”
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
