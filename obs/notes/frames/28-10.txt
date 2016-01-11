@@ -1,8 +1,9 @@
-===== The First and the Last [28-10] =====
+===== Ti Umuna Ken Iti Maudi [28-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-10.jpg?nolink&}}
 
-**Jesus** answered, “Everyone who **has left** houses, brothers, sisters, father, mother, children, or property **for my sake**, will receive **100 times more** and will also receive **eternal life**. But **many who are first will be last**, and **many who are last will be first**.”
+Simmungbat ni Jesus’ “Nu siasinuman ti mangpanaw iti balay na, kakabsat na, ama, ina, anak, wenno sanikua na para kanyak ket makaawat ti maminsangagasut a baror a kinabaknang ken makaawat pay ti biag nga agnanayon. Ngem adu dagiti umuna nga maudi, ken adu met dagiti maudi nga umuna.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
