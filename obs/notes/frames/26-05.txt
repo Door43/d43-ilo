@@ -1,8 +1,9 @@
-===== The Ministry of Elijah [26-05] =====
+===== Ti Panagserbi Ni Elijah [26-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-05.jpg?nolink&}}
 
-Then **Jesus** said, “It is **true** that **no prophet is accepted in his own hometown**. During the time of the prophet **Elijah**, there were many widows in **Israel**. But when it did not rain for three and a half years, **God** did not send Elijah to help a widow from Israel, but rather to a widow from a different nation.”
+Ket kinuna ni Jesus, “Agpayso nga awan ti propeta nga awaten ti bukod na nga ili. Nagadu dagiti balo iti Israel idi panawen ni propeta nga Elijah ngem idi saan a nagtudu iti tallo ket kaguduwa a tawen ken saan nga impatulod ti Dios ni Elijah a mangtulong uray iti maysa a balo iti Israel. Ngem nakatulung iti maysa a baloa a naggapo iti sabali a nasyon.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
