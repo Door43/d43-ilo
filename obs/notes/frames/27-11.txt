@@ -1,9 +1,9 @@
-===== Do the Same [27-11] =====
+===== Aramidem Ti Isu Metlaeng [27-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?nolink&}}
 
+Sntu nagsaludsod ni Jesus iti tao a nalain ti linteg, “Anya ti kapanunutam? Asinno kadagiti tallu a lallaki ti karruba ti natakawan ken nababaut a lalaki?” Simmungbat ket kinuna na, “Ti maysa a tao nga isu a naasi kenkuana.” Kinuna ni Jesus kenkuana, “Apan ka ket aramidem met laeng ti Kasdiay.”
 
-Then **Jesus** asked the **law expert**, “What do you think? Which one of **the three men was a neighbor** to the man who was robbed and beaten?” He replied, “The one who was **merciful** to him.” Jesus told him, “**You go and do the same**.”
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
