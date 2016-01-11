@@ -1,8 +1,9 @@
-===== Jesus Read the Scriptures [26-03] =====
+===== Binasa Ni Jesus Ti Sau Ti Dios [26-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?nolink&}}
 
-Jesus read, “**God** has given me his **Spirit** so that I can **proclaim good news to the poor**, **freedom to captives, recovery of sight for the blind**, and **release to the oppressed**. This is **the year of the Lord's favor**.”
+Daytoy ti binasa ni Jesus, “Inted ti Dios kanyak ti Ispiritu tapnu maipadamag ko ti naimbag a damage kadagiti managrigrigat ken maadaan ti panakawayawaya kadagiti nabalud ken panagsubli ti panagkita dagiti bulsek ken pannakawayawaya kadagiti naparparigat. Daytoy ti tawen ti gundaway nga agtaud iti Apo.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:god]]**
