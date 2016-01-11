@@ -1,8 +1,9 @@
-===== Jesus Called Peter [31-05] =====
+===== Inayaban Ni Jesus Ni Peter [31-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink&}}
 
-Then **Peter** said to **Jesus**, “**Master****Bold Text**, **if it is you**, command me to come to you on the water.” Jesus told Peter, “**Come**!”
+Ket kinuna ni Peter ken Jesus, “Apo, nu pudno a sika, bilinen nak ta umayak kenka a magnaak iti rabaw ti danum.” Simmungbat ni Jesus ket kunana, “Umay ka.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:peter]]**
