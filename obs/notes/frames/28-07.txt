@@ -1,8 +1,9 @@
-===== Who Can Be Saved? [28-07] =====
+===== Sinnu Ti Maisalakan? [28-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg?nolink&}}
 
-When the **disciples** heard what Jesus said, they were **shocked** and said, “Then **who can be saved**?”
+Idi nangngeg dagiti adalan ti imbaga ni Jesus ket nasdaaw da ket kinuna da, “Ket siasinu pay ti maisalakan?”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:disciple]]**
