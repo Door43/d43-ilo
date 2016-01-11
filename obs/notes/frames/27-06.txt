@@ -1,8 +1,9 @@
-===== The Priest [27-06] =====
+===== Ti Padi [27-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?nolink&}}
 
-“Soon after that, a **Jewish priest happened to walk down** that same road. When this **religious leader** saw the man who had been robbed and beaten, he moved to the other side of the road, **ignored the man** who needed help, and **kept on going**.”
+“Kalpasan dayta, sumalsalog maysa a padi a Judio iti isu met laeng a dalan. Idi nakita ti panguluen iti relihiyon diay lalaki a natakawan ken nabautbaut ket nilabsan na diay lalaki ket dina pinaganano ti lalaki nga agsapsapul ti tulong ket nagtultuloy a nagna.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:jew]]**
