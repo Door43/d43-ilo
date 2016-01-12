@@ -1,8 +1,9 @@
-===== The Miracles of Stephen [45-01] =====
+===== Ti Milagro Ni Stephen [45-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg?nolink&}}
 
-One of the leaders **in the early Church** was a man named Stephen. He **had a good reputation** and **was full of the Holy Spirit and of wisdom**. Stephen did many **miracles** and **reasoned persuasively that** people should **believe** in **Jesus**.
+Ti maysa  kadagiti panguluen  iti  immuna  nga Iglesia ket maysa a lalaki nga agnagan ti Stephen. Addaan iti nasayaat a kababalin ken napnoan ti Spirito Santo ken kinasirib. Nagaramid ni Stephen iti adu a milmilagro ken panagsasao nga naidumduma tapnun mamati dagiti tattao kenni Jesus.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:church]]**
