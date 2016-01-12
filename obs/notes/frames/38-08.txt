@@ -1,8 +1,9 @@
-===== You Will Be Scattered [38-08] =====
+===== Mawarawara Kayuntu [38-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-08.jpg?nolink&}}
 
-After the meal, **Jesus** and his **disciples** walked to the **Mount of Olives**. Jesus said, “You will all **abandon me** tonight. **It is written**, ‘**I will strike the shepherd and all the sheep will be scattered**.’”
+Kalpasan iti pannangan, napan ni Jesus ken dagiti adalan na iti bantay Olibo. Kinuna ni Jesus, “Pagtallikudan dak kadakayu amin ita a rabii. Kas naisurat, ‘Duprakek iti pastor ket mawarawara dagiti amin nga karnero.’’’
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
