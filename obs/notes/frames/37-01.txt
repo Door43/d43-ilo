@@ -1,8 +1,9 @@
-===== Lazarus Was Sick [37-01] =====
+===== Masakit Ni Lazarus [37-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?nolink&}}
 
-One day, **Jesus** received a message that **Lazarus** was very sick. Lazarus and his two sisters, **Mary** and Martha, were close friends of Jesus. When Jesus heard this news, he said, “**This sickness will not end in death**, but **it is for the glory of God**.” Jesus **loved** his friends, **but he waited where he was for two days**.
+Maysa nga aldaw nakaawat ni Jesus iti damad a permi ti sakit ni Lazarus. Nadikkit a gagayyem ni Jesus dagiti agkakapsat a ni Lazarus, Mary ken Martha. Idi a nangngeg ni Jesus daytoy a damag ket kinuna na, “ Daytoy a sakit ket saan nga agpatengga iti patay. Ngem isu iti pakaidaydayawan ti Dios.” Ayayaten ni Jesus dagiti gagayyem na ngem naguray pay isuna iti duwa nga aldaw.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
