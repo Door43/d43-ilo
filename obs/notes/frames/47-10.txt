@@ -1,8 +1,9 @@
-===== The Jailer [47-10] =====
+===== Ti Guardia Iti Pagbaludan [47-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?nolink&}}
 
-**The jailer** woke up, and when he saw that the prison doors were open, he was terrified! He thought all the prisoners had escaped, so he planned to kill himself. (He knew the **Roman authorities** would kill him if he allowed the prisoners to escape.) But **Paul** saw him and yelled, “Stop! Do not hurt yourself. **We** are all here.”
+Ket nakarriing ti guwardia ket idi nakita na dagiti ruangan iti pagbaludan ket nakalukat ket permi ti buteng na! Iti ammu na nakatakas da amin a balud isu a nagplano a patayen iti bukod na a bagi. (Ammu na papatayen dagiti opisyales ti Roma isuna nu napalubusan dagiti balud). Ngem nakita ni Paul isuna ket nagpukkaw, “Isardeng mo dayta! Saan mo nga dangran ta bagim. Adda kami amin ditoy.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:rome]]**
