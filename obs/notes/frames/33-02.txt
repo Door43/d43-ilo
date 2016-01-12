@@ -1,8 +1,9 @@
-===== The Seed on the Path [33-02] =====
+===== Ti Bukel Iti Dalan [33-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?nolink}}
-**
-Jesus** told this story. “A farmer went out to plant **some seed**. As he was **spreading the seeds by hand**, some seeds happened to fall on the path, and the birds came and ate all of those seeds.”
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?nolink&}}
+
+Nagistorya ni Jesu iti daytoy a storya, “Rinummuar ti agtaltalon tapnun agmula iti bukel. Kas iwarwarsi na dagiti bukel kadagiti ima na ket natinnag ti dadduma a bukel iti dalan, ket immay dagiti billit a nangan kadagidiay a bukel.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
