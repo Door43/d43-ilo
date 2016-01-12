@@ -1,8 +1,9 @@
-===== This Is My Body [38-04] =====
+===== Daytoy Ti Bagik [38-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?nolink&}}
 
-In Jerusalem, **Jesus celebrated** the **Passover** with his **disciples**. During the Passover meal, Jesus **took some bread** and **broke it**. He said, “Take and eat this. This is my body, which is **given for you**. **Do this to remember me**.” In this way, Jesus said that his body would be **sacrificed** for them.
+Ket nirambakan da Jesus ken dagiti adalan ti Panaglabas ti Patay idiay Jerusalem. Kabayatan iti makuna pannangan a passover nangala ni Jesus iti tinapay ket pinirsay na ket kinuna na “Alaen yu ket kanen yu daytoy. Daytoy ti bagik a maited kadakayu. Aramiden yu daytoy a kas pananglagip yu kanyak.”  Ti kayat ni Jesus nga ibaga iti daytoy a wagas ket ti bagi na ti maidaton para kadakuada.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:jerusalem]]**
