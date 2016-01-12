@@ -1,8 +1,9 @@
-===== At Gethsemane [38-11] =====
+===== Idiay Gethsemane [38-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-11.jpg?nolink&}}
 
-Then **Jesus** went with his **disciples** to **a place called Gethsemane**. Jesus told his disciples to **pray** that they would not **enter into temptation**. Then Jesus went to pray **by himself**.
+Santo napan da Jesus ken dagiti adalan na iti lugar a Gethsemane. Imbaga ni Jesus kadagiti adalan na nga agkararag da tapnun saan da a makastrek iti sulisog. Santo napan ni Jesus nga agkararag a maymaysa.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
