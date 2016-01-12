@@ -1,8 +1,9 @@
-===== You Crucified Jesus [43-06] =====
+===== Inlansayu Iti Krus Ni Jesus [43-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?nolink&}}
 
-“Men of **Israel**, **Jesus** was a man who did many mighty **signs and wonders** by the **power** of **God**, as you have seen and already know. But **you crucified him**!”
+“Dakayu a lallaki ti Israel! Ni Jesus ket maysa a tao a nagaramid iti adu a nabibileg a sinyales ken nakskasdaaw babaen iti pannakabalin ti Dios kas iti nakitayo ken naammoanyo. Ngem pinapatay yu latta iti crus!”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:israel]]**
