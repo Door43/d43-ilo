@@ -1,8 +1,9 @@
-===== The Crippled Man [44-01] =====
+===== Ti Pilay A Lalaki [44-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?nolink&}}
 
-**One day**, **Peter** and **John** were going to the **Temple**. As they approached the Temple gate, they saw **a crippled man** who was **begging** for money.
+Iti maysa nga aldaw, mapmapan ni Peter kenni John iti tiemplo. Idi nakadanun da iti ruangan ti tiemplo, nakakita da iti maysa a lalaki a saan a makapagna nga agpalpalimos ti kuarta.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:peter]]**
