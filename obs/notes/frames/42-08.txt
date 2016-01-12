@@ -1,8 +1,9 @@
-===== You Are Witnesses [42-08] =====
+===== Dakayu Dagiti Saksi [42-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg?nolink&}}
 
-“It was also written in the **scriptures** that my **disciples** will **proclaim** that everyone should **repent** in order to **receive forgiveness** for their **sins**. T**hey will do this starting in Jerusalem**, and then go to all **people groups** everywhere. **You are witnesses of these things**.”
+“Ket naisuarat met ti sao ti Dios nga iwaragawag dagiti adalak iti amin tao a masapul nga agbabawi ti tattao tapnu awaten da ti pannakawanan dagiti amin a basbasol da. Iwaragawag da daytuy agrugi idiay Jerusalem, ken kalpasan na mapan da kadagiti amin a bunggoy ti tattao iti sadinnoman ti ayanda. Sikayu ti saksik kadagiti amin a banag.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:wordofgod]]**
