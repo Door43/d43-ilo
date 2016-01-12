@@ -1,8 +1,9 @@
-===== We Must Celebrate [35-13] =====
+===== Masapul Nga Agrambak Tayu [35-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg?nolink&}}
 
-“The father answered, ‘My **son**, you are always with me, and everything I have is yours. But **it is right for us** to celebrate, because **your brother was dead**, **but now is alive**. **He was lost**, **but now is found**!’”
+“Simmungbat iti ama ket kinuana, ‘anakko, addaka latta kanyak ken amin a sanikuak ket sanikuam. Ngem karbengan tayu nga agrambak ngamin iti kabsat mo ket kasla natay ngem tattan ket nabiag, napukaw isuna ngem tattan ket nasarakan!’”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:son]]**
