@@ -1,8 +1,9 @@
-===== The Burial of Jesus [40-09] =====
+===== Ti Pannakaitanem Ni Jesus [40-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink&}}
 
-Then **Joseph** and Nicodemus, two **Jewish leaders** who **believed Jesus** was the **Messiah**, **asked Pilate for Jesus’ body**. They wrapped his body in cloth and placed it in a **tomb** cut out of rock. Then they rolled a large stone in front of the tomb to block the opening.
+Santo dinawat ni Joseph ken Nicodenus kenni Pilato ti bagi ni Jesus. Dagitoy a panguluen a Judio ket mamati a ni Jesus ket isu ti Mesias. Ket binalkut da iti bagi na iti luput santo da inyapan iti tanem nakali iti batu. Sato da intulid ti dakkel a batu iti ruwangan ti tanem tapnu masarraan.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:jewishleaders]]**
