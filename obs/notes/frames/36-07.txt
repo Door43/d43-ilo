@@ -1,8 +1,9 @@
-===== Keep the Secret [36-07] =====
+===== Idulin Mu Iti Palimed [36-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?nolink&}}
 
-**Jesus** and the three **disciples** went back down the mountain. Then Jesus said to them, “Do not tell anyone yet about what happened here. I will soon **die** and then come back to **life**. After that, you may tell people.”
+Nagsubli da Jesus ken dagiti tallo nga adalan manipud iti bantay. Ket kinuna ni Jesus kadakuada, “Saan yu nga ibagbaga iti siasinoman iti nakita yu a napasamak ditoy.  Matayak tu santo agungar a sibibiag manen. Kalpasan na ket mabalin yun nga ibaga kadagiti tattao.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
