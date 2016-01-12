@@ -1,8 +1,9 @@
-===== The Disciples Slept [38-13] =====
+===== Naturug Dagiti Adalan [38-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg?nolink&}}
 
-**After each time of prayer**, **Jesus** came back to his **disciples**, but they were asleep. When he returned the third time, Jesus said, “Wake up! My **betrayer** is here.”
+Kada kalpasan ti maysa panagkararag ket nagsubli ni Jesu kadagiti adalan na. Ngem nakaturog da latta. Idi maikatlo a panagsubli na ket kinuna ni Jesus kadakuada, “Agriing kayun! Ti manglilipot ket addan ditoy.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:pray]]**
