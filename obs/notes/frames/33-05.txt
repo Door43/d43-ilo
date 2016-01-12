@@ -1,8 +1,9 @@
-===== The Seed in Good Soil [33-05] =====
+===== Ti Bukel Iti Nadam-eg A Daga [33-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?nolink&}}
 
-“Other seeds fell into **good soil**. These seeds grew up and produced 30, 60, or even 100 times as much grain as the seed that had been planted. **He who has ears, let him hear**!”
+“Ket nagtubo dagiti dadduma a bukbukel iti nasayaat nga daga. Dimmakkel ken nagbunga dagitoy a bukbukel iti tallo pulo, innem a pulo, ken uray pay mamin sangagasut a daras kas kaadu ti bukel a naimula. Dagiti adda ti lapayag na ket agdingngeg kuma.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:good]]**
