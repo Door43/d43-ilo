@@ -1,8 +1,9 @@
-===== Saul Went to Jerusalem [46-08] =====
+===== Napan Ni Saul Idiay Jerusalem [46-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-08.jpg?nolink&}}
 
-**Saul went to Jerusalem** to meet with the **disciples**, but they were afraid of him. Then a **believer** named **Barnabas** took Saul to the **apostles** and told them how Saul had **preached** boldly in Damascus. After that, the disciples **accepted Saul**.
+Napan ni Saul idiay Jerusalem tapnun makisinnarak kadagiti adalan, ngem nagbuteng da kenkuana. Ket ti namati nga agnagan iti Barnabas kinuyog  na ni Saul kadagiti Apostoles ket imbaga na kadakuada nu kasatnu a ni Saul ken kasanu nga situtured a nangaskasaba idiay Damascus. Kalpasan na, inawat dagiti adalan ni Saul.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:paul]]**
