@@ -1,8 +1,9 @@
-===== This Is My Blood [38-05] =====
+===== Daytoy Ti Darak [38-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-05.jpg?nolink&}}
 
-Then **Jesus** picked up a cup and said, “**Drink this**. **It is my blood of the New Covenant** that **is poured out for the forgiveness of sins**. Do this to **remember me** every time you drink it.”
+Santo nangala ni Jesus iti kopa ket kinuna na, “Inumen yu daytoy . Ta ti darak ti baru a tulag a maiparukpok para iti kapakawanan ti amin a basbasul. Aramiden yu daytoy tapno pananglagip yu kanyak tunggal uminom kayu.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
