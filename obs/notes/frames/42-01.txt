@@ -1,8 +1,9 @@
-===== The Two Disciples [42-01] =====
+===== Ti Duwa Nga Adalan [42-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink&}}
 
-On the day that **Jesus** was **raised** from the dead, two of his **disciples** were going to a nearby town. As they walked, they talked about what had happened to Jesus. They had hoped that he was the **Messiah**, but then he was killed. Now the women said he was **alive** again. They did not know what to **believe**.
+Iti aldaw a nagungar ni Jesus manipud iti patay, napan ti duwa  kadagiti adalan na idiay asideg iti ili. Bayat ti panpannagna da, pagtutungtungan da ti napasamak maipapan ken Jesus. Namnamaen da a ni Jesus ti Mesias, ngem napapatay metten. Ngem ita kinunan dagiti babbai a Jesus ket sibibiag manen. Ita madi da mettenen ammu nu anya ti patien da.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
