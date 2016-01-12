@@ -1,8 +1,9 @@
-===== Jesus Went to Heaven [42-11] =====
+===== Ni Jesus Napan Idiay Langit [42-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?nolink&}}
 
-Forty days after **Jesus** rose from the dead, he told his **disciples**, “Stay in **Jerusalem** until my **Father** gives you **power** when the **Holy Spirit comes on you**.” Then Jesus went up to **heaven**, and **a cloud hid him from their sight**. Jesus sat down **at the right hand of God** to rule **over all things**.
+Kalpasan ti uppat a pulo nga aldaw ni Jesus ket nagungar manipud kadagiti natay, ket imbaga na kadagiti adalan na,” agtalinaed kayu iti Jerusalem inggana nga ti Amak ket ited na kadakayu ti pannaka balin intun umay ti Spiritu Santo.” Ket ni Jesus ket nagpangatun iti langit, ket ti ulep inabbungan na isuna manipud iti imatang da. Ket ni Jesus nagtugaw iti makannawan nga ima ti Dios tapnu iturayan na amin a banag.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
