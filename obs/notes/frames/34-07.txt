@@ -1,8 +1,9 @@
-===== The Religious Leader's Prayer [34-07] =====
+===== Ti Kararag Ti Relihyoso A Pangpangulu [34-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink&}}
 
-“The **religious leader prayed like this**, ‘Thank you, **God**, that **I am not a sinner like** other men—such as robbers, **unjust men**, **adulterers**, or even like that **tax collector**.’”
+“Nagkararag ti panguluen ti relihyon ket kinuna na, ‘Agyamanak Apo Dios, ta saan nak a managbasol a kasla iti dadduma a tattao, kas dagiti agtatakaw, wenno dagiti saan a nalinteg a tattao, ken dagiti mannakikamalala, wennu kas dayta a agsingsingir iti buwis.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:jewishleaders]]**
