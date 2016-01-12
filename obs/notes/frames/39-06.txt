@@ -1,8 +1,9 @@
-===== Peter and the Servant Girl [39-06] =====
+===== Ni Peter Ken Iti Adipen A Babai [39-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg?nolink&}}
 
-As **Peter** was waiting outside the house, a **servant girl** saw him and said to him, “You also were with **Jesus**!” Peter **denied it**. Later, another girl said the same thing, and **Peter denied it again**. Finally, the people said, “We know that you were with Jesus because you both **are from Galilee**.”
+Kas agururay ni Peter idiay ruar ti balay, nakita ti adipen nga babai isuna ket kinuna na kenkuana, “Kadwam met ni Jesus!” Inlibak ni Peter. Iti sumagmamano, imbagan manen ti maysa a babai ti isu met lang a banag ket inlibak manen  ni Peter. Ti kinamauddianan na, kinuna dagiti tattao, “Ammu mi a kadwa naka ni Jesus ngamin ta agpada kayu nga taga Galilea.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:peter]]**
