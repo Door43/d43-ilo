@@ -1,8 +1,9 @@
-===== The Desire for Riches [33-08] =====
+===== Ti Panagtarigagay Iti Kinabaknang [33-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?nolink&}}
 
-“The **thorny ground is a person** who hears **God’s word**, but as time passes, the **cares**, **riches**, and **pleasures of life choke out** his **love** for **God**. As a result, the teaching he heard **does not produce fruit**.”
+“Ti kasisisiitan ket isu ti tao a nakangngeg ti sao ti Dios, ngem ti panaglabas iti panawen ti panangipateg, kinabaknang ken ti pagragsakan daytoy nga biag ti nagpukaw iti panagayat na ti Dios. Iti nagbanagan dagitoy ket saan a nagbunga ti nangngeg na a naisuro.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:wordofgod]]**
