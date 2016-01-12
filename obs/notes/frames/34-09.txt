@@ -1,8 +1,9 @@
-===== The Tax Collector's Prayer [34-09] =====
+===== Ti Kararag Ti Agsingsingir Ti Buwis [34-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink&}}
 
-“But the **tax collector stood far away** from the **religious leader**, and **did not even look up to heaven**. Instead, **he pounded on his chest with his fist** and **prayed**, ‘**God**, please be **merciful** to me because I am a **sinner**.’”
+“Ngem ti agsing-singir iti buwis ket nakatakder iti adayu manipud iti panguluen iti relihyon ket dina pay maaramid a tumangad iti langit. Nu diket, dinandanug na iti barukong na ket nagkararag, ‘Apo, pangnga-asim ta maasian ka kanyak ta managbasolak.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:taxcollector]]**
