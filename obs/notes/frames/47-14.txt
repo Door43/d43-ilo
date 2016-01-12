@@ -1,8 +1,9 @@
-===== Letters to the Churches [47-14] =====
+===== Ti Surat Kadagiti Iglesia [47-14] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?nolink&}}
 
-**Paul** and other **Christian** leaders traveled to many cities, **preaching** and teaching people the **good news** about **Jesus**. They also wrote **many letters** to encourage and teach the **believers** in the **churches**. Some of these letters became books of the Bible.
+Napatpatuloy a nagdalyasat da Paul ken dagiti dadduma  a panguluen ti Kristiano idiay adu a siudad a nangasaba ken nangsuro ti tattao iti naimbag a damag a maipapan kenni Jesus. Nagsurat da pay iti adu a sursurat tapnun mangpabireg ken mangisuro kadagiti namati kadagiti Igesia. Sumagmamano kadagitoy a surat ket nagbalin a libro iti Biblia.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:paul]]**
