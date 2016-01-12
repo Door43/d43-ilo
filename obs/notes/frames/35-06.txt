@@ -1,8 +1,9 @@
-===== The Son Repented [35-06] =====
+===== Ti Panagbabawi Iti Anak [35-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?nolink&}}
 
-“Finally, the younger son said to himself, ‘**What am I doing**? All my father’s **servants** have plenty to eat, and yet here I am starving. I will go back to my father and ask to be one of his servants.’”
+Kamaudianan na ket kinuna daytoy a maikadwa nga anak a lalaki ti bagi na. ‘Anya ngata ti araramidek? Amin nga adipen ni amak ket mangmangan da iti adu ngem siak addaak ditoy a mabisbisinan. Agsubliak ngarud kenni amak ket ibagak kenkuana nga alaennak nga adipen na.’”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:servant]]**
