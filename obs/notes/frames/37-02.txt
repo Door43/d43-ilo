@@ -1,8 +1,9 @@
-===== Back to Judea [37-02] =====
+===== Ti Panagsubli Idiay Judea [37-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-02.jpg?nolink&}}
 
-After the two days had passed, **Jesus** said to his **disciples**, “Let’s go back to **Judea**.” “But **Teacher**,” the disciples answered, “Just a short time ago the people there wanted to kill you!” Jesus said, “Our friend **Lazarus has fallen asleep**, **and I must wake him**.”
+Kalpasan a naglabas ti duwa nga aldaw santo kinuna ni Jesus kadagiti adalan na, “Agsubli tayu idiay Judea.” Simmungbat dagiti adalan na ket kunada, “Ngem Maestro, kayat daka a papatayen dagiti tattao idi nabiit pay a panawen!”  Ngem kinuna ni Jesus, “Nakaturugen ti gayyem ko a ni Lazarus ket masapul a riingek isuna.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
