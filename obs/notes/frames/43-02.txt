@@ -1,8 +1,9 @@
-===== The Feast of Pentecost [43-02] =====
+===== Ti Paskua Iti Pentecostes [43-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-02.jpg?nolink&}}
 
-Every year, 50 days after the **Passover**, the **Jews** celebrated an important day called **Pentecost**. Pentecost was a time when the Jews **celebrated the wheat harvest**. Jews came from all over the world to **Jerusalem** to celebrate Pentecost together. **This year**, the time for Pentecost came about a week after **Jesus** had gone back to **heaven**.
+Kada limapulo nga aldaw kalpasan ti panagrambak iti Passover (Panaglabas  ti Patay) ket rinambakan dagiti Judio ti napateg nga aldaw a maawagan iti Pentecostes. Iti Pentecostes ket isu iti tiempo a panagrambak dagiti Judio ti panaggaapit ti trigo. Napan idiay Jerusalem dagiti Judio a naggapu ti intero a lubong tapnun agmaymaysa da a mangrambak iti aldaw ti pentecostes. Iti dayta a tawen ket immay ti tiempo ti Pentecost kalpasan ti maysa a lawas kalpasan ti panagsublin ni Jesus sadiay langit.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:passover]]**
