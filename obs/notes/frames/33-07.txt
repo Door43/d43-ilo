@@ -1,8 +1,9 @@
-===== Persecution and Hardship [33-07] =====
+===== Pannakaidadanes Ken Pannagrigrigat [33-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink&}}
 
-“The **rocky ground is a person** who hears **God’s word** and **accepts it with joy**. But when he experiences hardship or **persecution**, he **falls away**.”
+“Ti kabatbatuan ket isuna ti tao a nakangngeg ti sao ti Dios ket sirarag-o nga inawat na. Ngem tinallikuda na idi naka padas isuna ti kinarigat wennu panangidadanes.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:wordofgod]]**
