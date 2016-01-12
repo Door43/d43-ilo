@@ -1,8 +1,9 @@
-===== Stephen's Arrest [45-02] =====
+===== Ti Pannakatiliw Ni Stephen [45-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-02.jpg?nolink&}}
 
-**One day**, when Stephen was teaching about **Jesus**, some **Jews** who did not believe in Jesus began to argue with Stephen. They became very angry and lied about Stephen to the **religious leaders**. They said, “We heard him speak **evil** things about **Moses** and **God**!” So the religious leaders arrested Stephen and brought him to the **high priest** and the other leaders of the Jews, where more false **witnesses** lied about Stephen.
+Iti maysa nga aldaw idi agsursuro ni Stephen iti panggep kenni Jesus ket nangrugi a makisupiat iti sumagmamano a Judio a saan namati kenni Jesus kenni Stephen. Nagbalin a nauyong ken ulbod dagiti relihiyoso a panguluen kenni Stephen. Kinunada, “Nangngegmi Stephen nga agsasao ti dakes a banag kenni Moses ken ti Dios.”  Isua tiniliw dagiti relihiyoso a panguluen ni Stephen ket inyapanda iti kangangatuan a padi ken iti dadduma pay  a panguluen ti Judio nga ayan ti adadu pay a palso  a nangpaneknek iti inuulbod panggep kenni Stephen.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
