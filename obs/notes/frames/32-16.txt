@@ -1,8 +1,9 @@
-===== Healed by Faith [32-16] =====
+===== Naagasan Gapu Iti Pammati [32-16] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink}}
+i{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink&}}
 
-The woman **fell on her knees before Jesus**, **shaking and very afraid**. Then she told him what she had done, and that she had been healed. Jesus said to her, “**Your faith has healed you**. Go in **peace**.”
+Napan nagparintumeng ti babai iti sanguanan ni Jesus nga agtagtaggerger ken permi a mabutbuteng. Ket imbaga na kenkuana ti inaramid na ken ti pannakaagas na babaen iti inaramid Na. Ket kinuna ni Jesus kenkuana, “Inagasan na ka iti pammatim. Lapya ti kumuyog kenka.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
