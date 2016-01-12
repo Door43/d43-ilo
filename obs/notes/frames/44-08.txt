@@ -1,8 +1,9 @@
-===== No Other Way but Jesus [44-08] =====
+===== Awan Iti Sabali A Dalan Nudi Ni Jesus Laeng [44-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink&}}
 
-**Peter** answered them, “This man stands before you **healed** by the **power** of **Jesus** the **Messiah**. You **crucified** Jesus, but **God raised** him to life again! You **rejected him**, **but there is no other way to be saved except through the power of Jesus**!”
+Simmungbat ni Peter kadakuada ket kunana, “Nakatakder daytoy nga lalaki iti sanguan yu a napaimbag babaen iti pannakabalin ti Mesias a ni Jesus. Pinatay yu babaen ti krus ni Jesus, ngem pinagungar ti Dios manen! Madi yu inawat ni Jesus ngem awan dadduma nga wagas a pannakaisalakan nu diket babaen ti pannakabalin ni Jesus!”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:peter]]**
