@@ -1,8 +1,9 @@
-===== The Famine [35-05] =====
+===== Ti Panagbisin [35-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-05.jpg?nolink&}}
 
-“After that, **a severe famine happened** in the land where the younger son was, and he had **no money to buy food**. So he took the only job he could find, **feeding pigs**. He was so miserable and hungry that he wanted to eat the pigs’ food.”
+Kalpasan na dimteng iti nkaro a panagbisin iti lugar a napanan diay maikadwa nga anak a lalaki ket awanen iti kwarta na a paggatang iti kanena. Isua nagbiruk iti trabaho ket nasarakan na iti kaisisuna a trabaho a isu iti panagpakan kadagiti baboy. Kakaasi ken mabisbisin isuna ngem kayatna payen ti mangan iti kanen ti baboy.
+
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
