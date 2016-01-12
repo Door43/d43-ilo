@@ -1,8 +1,9 @@
-===== The Brother Is Angry [35-11] =====
+===== Makapungtut Iti Kabsatna [35-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?nolink&}}
 
-“When the older **son** found out that they were celebrating because his brother had come home, he was very angry and would not go into the house. His father came out and **begged** him to come and celebrate with them, but he refused.”
+“Idi natakuatan ti inauna nga anak nga agrarambak da gapu ta nagsubli ti kabsat na a maikadwa ket kasta launay iti unget na ket madi na mettenen kayat a apan idiay balay da. Rimuar ti ama na ket nagpakaasi kenkuana nga umuneg ta makipagrambak kadakuada ngem madi na kayat.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:son]]**
