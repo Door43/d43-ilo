@@ -1,8 +1,9 @@
-===== Tell the Disciples [41-06] =====
+===== Ibagam Kadagiti Adalan [41-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?nolink&}}
 
-Then the **angel** told the women, “Go and tell the **disciples**, '**Jesus** has **risen** from the dead and **he will go to Galilee ahead of you**.'”
+Ket kinuna ti anghel kadagiti babbai, “Mapan yu ibaga kadagiti adalan na a ‘nagungar ni Jesus manipud ti patay ken umun-una kadakayu a mapan  idiay Galilea.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:angel]]**
