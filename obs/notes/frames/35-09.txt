@@ -1,8 +1,9 @@
-===== Prepare the Feast [35-09] =====
+===== Ti Panangisaganan Iti Paskwa [35-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?nolink&}}
 
-“But his father told one of his **servants**, ‘Go quickly and bring the best clothes and put them on my **son**! Put a ring on his finger and put sandals on his feet. Then kill the **best calf** so we can have a feast and celebrate, because **my son was dead**, **but now he is alive**! **He was lost**, **but now he is found**!’”
+“Ngem kinuna ti ama na iti maysa kadagiti adipen, ‘partakam nga apan mangala dagiti kasasayaatan a bado ket ipasuot mo dagitoy iti anak ko! Singsingam iti ramay na ken sapatusam iti saksaka na. Ket  mangparti ka ti kasasayaatan nga urbon a baka. Isunga agrambak tayu. Ngamin ta ti maikadwa putot ko ket kasla natay ngem tattan ket nabiag! Napukaw isuna ngem nasarakan met laeng!”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:servant]]**
