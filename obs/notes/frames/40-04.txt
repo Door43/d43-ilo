@@ -1,8 +1,9 @@
-===== The Two Robbers [40-04] =====
+===== Ti Duwa Nga Agtatakaw [40-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink&}}
 
-**Jesus** was **crucified** between **two robbers**. One of them **mocked** Jesus, but the other said, “Do you have no fear of **God**? We are **guilty**, **but this man is innocent**.” Then he said to Jesus, “**Please remember me in your kingdom**.” Jesus answered him, “Today, you will be with me in **Paradise**.”
+Ket nailansa iti crus ni Jesus iti nagbaetan ti duwa nga agtatakaw. Inuyaw ti maysa kadakuada ni Jesus ngem ti maysa kinuna na “Awan kadi ti pangabuteng mo ti Dios? Sita ket nagbasul ngem datoy a tao ket inusente.” Santo kinuna na ken Jesus, “Pangngaasim ta lagipen nak iti pagariam.” Ket simmungbat ni Jesus ket kuna na, “Ita nga aldaw ket makikadwa kan kanyak iti paraiso.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
