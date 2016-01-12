@@ -1,8 +1,9 @@
-===== Jesus and Pilate [39-09] =====
+===== Ni Jesus Kenni Pilate [39-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink&}}
 
-Early the next morning, the **Jewish leaders** brought **Jesus** to **Pilate**, the **Roman governor**. They hoped that Pilate would condemn Jesus as guilty and **sentence him to be killed**. Pilate asked Jesus, “Are you the **king of the Jews**?”
+Ti agsapa iti sumaganad nga bigat, inyapan dagiti panguluen a Judio ni Jesus kenni Pilate a gobyernador ti Roma. Namnamaen da a patawan ni Pilate ni Jesus a nakasala ken patawan na ti pampapatay. Ngem sinaludsod ni Pilate ni Jesus, “Sika kadi ti ari dagiti Judio?”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:jewishleaders]]**
