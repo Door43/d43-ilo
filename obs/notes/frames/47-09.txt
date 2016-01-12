@@ -1,8 +1,9 @@
-===== The Earthquake [47-09] =====
+===== Ti Gingined [47-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-09.jpg?nolink&}}
 
-Suddenly, there was a violent earthquake! All the prison doors **flew open**, and the chains of all the prisoners **fell off**.
+Ket killaat a naggingined iti napigsa! Ket amin nga ruangan iti pagbaludan ket naglukat ken dagiti kawkawar dagiti amin a balud ket naikkat.
+
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
