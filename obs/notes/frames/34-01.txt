@@ -1,8 +1,9 @@
-===== The Mustard Seed [34-01] =====
+===== Ti Ti Mustasa [34-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg?nolink&}}
 
-**Jesus** told many other **stories** about the **kingdom of God**. For example, he said, “The kingdom of God is like a **mustard seed** that someone planted in his field. You know that the mustard seed is **the smallest seed of all**.”
+Nag-istorya pay ni jesus iti adu adu nga storya panggep iti pagarian iti Dios. Kasla kuma daytoy, kinuna na, “Iti pagarian ti Dios ket kasla bukel ti mustasa nga immula ti maysa a tao iti talon. Ammo yu a ti bukel ti mustasa ket isu ti kababassitan iti amin nga bukel.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
