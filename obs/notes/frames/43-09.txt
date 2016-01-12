@@ -1,8 +1,9 @@
-===== Jesus Is the Messiah [43-09] =====
+===== Ni Jesus Isu Ti Messias [43-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?nolink&}}
 
-“You **crucified** this man, **Jesus**. **But know for certain that God** has caused Jesus to become both **Lord** and **Messiah**!”
+“Pinapatayu iti incrus daytoy a tao a ni Jesus. Ngem siguradoenyu nga ammoyu a pinagbalin ti Dios a ni Jesus nga Apo ken Messiah!”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:crucify]]**
