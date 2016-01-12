@@ -1,8 +1,9 @@
-===== Stephen's Prayer [45-05] =====
+===== Ti Kararag Ni Stephen [45-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?nolink&}}
 
-**As Stephen was dying**, he **cried out**, “**Jesus**, **receive** my **spirit**.” Then he fell to his knees and cried out again, “**Master**, **do not count this sin against them**.” Then he **died**.
+Idi matmatayen ni Stephen ket nagpukkaw a kunana, “Jesus, awatem ti Spirituk.”  Santo nagparintumeng santo nagpukkaw manen a kunana, “Maestro, saan mo kadi a ibilang a basol daytuy kadakuada.”  Santo natay.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
