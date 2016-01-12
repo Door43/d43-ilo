@@ -1,8 +1,9 @@
-===== The Ethiopian Read Isaiah [45-08] =====
+===== Dagiti Ethiopian Binasa Dani Isaiah [45-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink&}}
 
-When Philip **approached the chariot**, he heard the **Ethiopian** reading from what the **prophet Isaiah** wrote. The man read, “They led him like a **lamb** to be killed, and **as a lamb is silent**, he did not say a word. They treated him unfairly and did not respect him. **They took his life away from him**.”
+Idin immasideg ni Philip iti karwahe ket nangngegna  ti taga Ethiopia nga agbasbabsa manipud iti naisuarat ni mammadtu nga Isaiah. Ti basbasaen ti lalaki ket ti paset a kunana, “Inturong da isuna  a kas karnero tapnun mapapatay ken kas karnero a naulimek ket saan a nagsasao. Trinatoda isuna a saan a nasayaat ken saanda a dinayaw isuna. Innala da ti biag na manipud kenkuana.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:chariot]]**
