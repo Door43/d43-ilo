@@ -1,8 +1,9 @@
-===== The Angel Appeared [41-04] =====
+===== Nagparang Ti Anghel [41-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?nolink&}}
 
-Suddenly, there was a **great earthquake**. An **angel that shone as bright as lightning** appeared from **heaven**. He rolled away the stone that was covering the entrance to the **tomb** and sat on it. The soldiers guarding the tomb were terrified and **fell to the ground like dead men**.
+Ngen killaat nga adda napigsa a gingined. Nagparang ti maysa nga angel nga agranraniag a kasla kimat a naggapu sadi langit. Ket intulid na a paadayu ti bato nga nakasullat iti ruangan ti tanem santo nagtugawana. Permi a buteng dagiti suldado nga agbanbantay isu a nagpakleb da iti daga a kasla natay.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:angel]]**
