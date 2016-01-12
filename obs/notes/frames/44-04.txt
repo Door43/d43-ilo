@@ -1,8 +1,9 @@
-===== The Power of Jesus [44-04] =====
+===== Ti Pannakabalin Ni Jesus [44-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?nolink&}}
 
-A crowd of people quickly came to see the man who was **healed**. **Peter** said to them, “Why are you amazed that this man is healed? We did not heal him through our own power or goodness. Rather, it is the **power** of **Jesus** and the **faith** that Jesus gives that healed this man.”
+Nagdardaras dagiti bunggoy ti tattao a mapan agkita iti daytoy a tao nga naagasan. Kinuna ni Pedro kadakuada, “Apay a nasdaaw kayu iti pagkaagas ti daytoy a tao? Saan a naggapu ti bukod mi a pannakabalin wennu kinaimbag ti nagpalaing iti daytoy a tao, nudi ti pannakabalin ni Jesus ken ti pammati nga ited ni Jesus.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:heal]]**
