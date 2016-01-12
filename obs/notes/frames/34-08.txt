@@ -1,8 +1,9 @@
-===== I Am Good [34-08] =====
+===== Nasayaatak [34-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?nolink&}}
 
-“‘For example, I **fast** two times every week and I give you **ten percent** of all the money and goods that I receive.’”
+“Kas kuma iti panagayunar ko iti mamin duwa iti maysa a lawas, ken panangted ko iti apagka pullo iti amin a kuwarta ken dagiti amin a naimmateryalan a maaw-awat ko.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:fast]]**
