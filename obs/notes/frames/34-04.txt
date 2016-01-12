@@ -1,8 +1,9 @@
-===== The Treasure in the Field [34-04] =====
+===== Ti Kinabaknang Iti Kataltalunan [34-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?nolink&}}
 
-“The **kingdom of God** is also like **treasure** that someone hid in a field. Another man found the treasure and then **buried it again**. He was so **filled with joy** that he went and sold everything he had and used the money to **buy that field**.”
+“Iti pagarian ti Dios ket kasla metlaeng gameng a nu indulin ti maysa a tao idiay talon. Intun masarakan ti sabali a lalaki ket ikali na manen. Napnuan unay isuna iti rag-o ket napan na ilako amin iti sanikua na ket inusarena a panggatang iti dayta a talon.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:kingdomofgod]]**
