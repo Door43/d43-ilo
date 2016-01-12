@@ -1,8 +1,9 @@
-===== The Country of the Gerasenes [32-01] =====
+===== Ti Pagilian Iti Gerasenes [32-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink&}}
 
-**One day**, **Jesus** and his **disciples** went in a boat across the lake to the region where **the Gerasene people** lived.
+Maysa nga aldaw ket bimmalasiw da Jesus ken dagiti adalan na babaen ti banka iti baybay a mapan iti pagilian a pagnanaedan ti tattao a taga Gerasene.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
