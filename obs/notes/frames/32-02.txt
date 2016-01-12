@@ -1,8 +1,9 @@
-===== A Man with Evil Spirits [32-02] =====
+===== Ti Lalaki Nga Addaan Iti Dakes Nga Ispiritu [32-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-02.jpg?nolink&}}
 
-When they reached the other side of the lake, **a demon-possessed man came running up to Jesus**.
+Idi naka danun da idiay bangir iti igid ti baybay, nagtartaray ti lalaki a sinaniban ti demonyo a mapan kenni Jesus.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:demonpossessed]]**
