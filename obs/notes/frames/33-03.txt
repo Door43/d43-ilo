@@ -1,8 +1,9 @@
-===== The Seed on the Rocks [33-03] =====
+===== Ti Bukel Iti Batu [33-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?nolink&}}
 
-“Other seeds fell on **rocky ground**, where there was very little soil. The seeds in the rocky ground sprouted quickly, but their roots were not able to go deep into the soil. When the sun came up and it got hot, the plants withered and died.”
+“Dagiti dadduma ket natinnag da iti kabatbatuan a bassit ti daga na. Nagtubu a dagus dagiti bukbukel iti kabatbatuan ngem saan nga immune dagiti ramut da iti daga. Isu nga idi ngimmatu iti init ket nalaylay dagiti mula gapu iti pudot ket natay da.”
+
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
