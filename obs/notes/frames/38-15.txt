@@ -1,8 +1,9 @@
-===== Peter Fought for Jesus [38-15] =====
+===== Inlaban NI Peter Ni Jesus [38-15] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-15.jpg?nolink&}}
 
-**As the soldiers arrested Jesus**, **Peter pulled out his sword** and cut off the ear of a **servant** of the **high priest**. Jesus said, “Put the sword away! I could ask the **Father** for an army of **angels** to defend me. But I **must obey my Father**.” Then Jesus **healed** the man’s ear. After Jesus was arrested, all the **disciples** ran away.
+Idi tiniliwen dagiti suldado ni Jesus ket inuksot ni Peter ti kampilan na santo na tinagbat ti lapayag ti maysa nga adipen ti kangatuan a padi. Ngem kinuna ni Jesus, “Yadayom ti kampilan! Mabalin a dawatek iti Amak a mangipatulod iti anghel a mangsalaknib kanyak. Ngem masapul a tungpalek iti Amak.” Santo impasubli ni Jesus diay lapayag ti lalaki. Timmaray dagiti adalan kalpasan a natiliw ni Jesus.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
