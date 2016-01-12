@@ -1,8 +1,9 @@
-===== The Perfect Pearl [34-05] =====
+===== Ti Nananay A Perlas [34-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?nolink&}}
 
-“The **kingdom of God** is also like a **perfect pearl of great value**. When a **pearl merchant** found it, he sold all that he had and used the money to buy it.”
+“Iti pagarian ti Dios ket kasla manen iti naan-anay a perlas  a nakapatpateg. Intun masarakan ti aglaklako daytoy ket ilako na amin a (adda kenkuana)/sanikua na  ket usarena ti kuwarta a panggatang iti daytoy.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:kingdomofgod]]**
