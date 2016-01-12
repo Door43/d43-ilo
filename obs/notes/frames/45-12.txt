@@ -1,8 +1,9 @@
-===== Philip Baptized the Ethiopian [45-12] =====
+===== Binautisaran Ni Philip Dagiti Ethiopian [45-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-12.jpg?nolink&}}
 
-So they went down into the water, and Philip **baptized** the Ethiopian. After they came up out of the water, the **Holy Spirit** suddenly **carried Philip away** to another place where he continued telling people about **Jesus**.
+Isua bimmaba da iti ayan ti danum ket binautisaran ni Philip diay taga Ethiopia. Kalpasan a simmangat da manipud iti danum ket dagus a impanaw ti Spiritu Santo ni Philip ket inpanna iti dadduma a lugar tapnun ituloyna ti mangibagbaga kadagiti tattao maipapan ken Jesus.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:baptize]]**
