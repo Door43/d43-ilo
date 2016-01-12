@@ -1,8 +1,9 @@
-===== The Two Sons [35-03] =====
+===== Ti Duwa Nga Annak [35-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?nolink&}}
 
-“There was a man who had two **sons**. The younger son told his father, ‘Father, I want **my inheritance** now!’ So the father divided his **property** between his two sons.”
+Adda ti maysa a lalaki nga addaan iti duwa a putot a lallaki. Kinuna ti maikadwa a putot kenni ama na, ‘Ama, kayat kun nga alaen ti tawid ko tattan!’ Isua ginudwa ngarud ti ama ti sanikuana para kadagiti duwa a putot na.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:son]]**
