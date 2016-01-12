@@ -1,8 +1,9 @@
-===== Spiritual Fruit [33-09] =====
+===== Naispiritualan A Bunga [33-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink&}}
 
-“But the **good soil is a person** who hears the **word of God**, **believes** it, and **produces fruit**.”
+“Ngem ti nasayaat a daga ket isu ti tao a nakangngeg ti sao ti Dios, pinati na, ket nangted ti bunga.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:good]]**
