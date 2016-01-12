@@ -1,8 +1,9 @@
-===== Peter Preached [44-05] =====
+===== Nangasaba Ni Peter [44-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?nolink&}}
 
-“You are the ones who told the **Roman** governor to kill **Jesus**. You killed the **author of life**, but **God raised** him from the **dead**. Although you did not understand what you were doing, God used **your actions** to **fulfill** the prophecies that the **Messiah** would **suffer** and die. So now, **repent** and **turn to God** so that **your sins will be washed away**.”
+“Dakayu ti nangibaga a ipapatay ti gobernodor ti Romano ni Jesus. Isu a dakayu ti nangpatay iti mangted ti biag! Ngem pinagungar ti Dios manipud ti patay. Numan pay saan yu a naaw-awatan ti inar-aramid yu, inaramat ti Dios dagiti inaramid yu tapnun mapasamak ti padtu a ti Mesias ket agrigat ken matay. Isu nga itatta, agbabawi kayu kadagiti nagbasbasuran yu ken agsubli kayu iti Dios tapnu maugasan dagiti basbasul yu.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:rome]]**
