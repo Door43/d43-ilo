@@ -1,8 +1,9 @@
-===== The Soldier's Testimony [40-08] =====
+===== Ti Testimonyo Ti Suldado [40-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?nolink&}}
 
-**Through his death**, **Jesus opened a way** for people to **come to God**. When the soldier guarding Jesus saw everything that had happened, he said, “Certainly, this man was **innocent**. He was the **Son of God**.”
+Babaen ti pannakatay ni Jesus, niluktan na ti dalan ti tattao nga umasideg iti Dios. Idi nakitan ti suldado nga agbanbantay kenni Jesus amin a napasamak ket kinuna na, “Agpaysu. Daytoy a tao ket inusente. Isuna ti anak ti Dios.”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:death]]**
