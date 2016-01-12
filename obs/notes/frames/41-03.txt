@@ -1,8 +1,9 @@
-===== The Women [41-03] =====
+===== Ti Babai [41-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink&}}
 
-The day after **Jesus** was buried was a **Sabbath** day, and **the Jews were not permitted** to go to a **tomb** on that day. So very early on the morning after the Sabbath day, several women prepared to go to Jesus’ **tomb** to put more **burial spices** on his body.
+Aldaw ti panaginana ti sumarunu nga aldaw ti punpun ni Jesus. Ket saan a mapalubusan dagiti Judio a mapan idiay tanem iti dayta nga aldaw. Isu a nagsagana ti sagmamanu a babbai idi parbangun kalpasan ti aldaw ti panaginana a mapan agikabil ti bangbanglu iti bagi ni Jesus idiay tanem na.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
