@@ -1,8 +1,9 @@
-===== 3000 Believe [43-12] =====
+===== Tallu A Ribu Ti Namati [43-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-12.jpg?nolink&}}
 
-About 3,000 people **believed** what **Peter** said and became **disciples** of **Jesus**. They were **baptized** and became part of the **church** at **Jerusalem**.
+Agarup tallo ribu a tattao ti namati iti imbaga ni Peter ket nagbalin da nga adalan ni Jesus. Ket nagpabautisar da ket nagbalin da a paset ti Iglesia idiay Jerusalem.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:believe]]**
