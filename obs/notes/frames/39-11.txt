@@ -1,8 +1,9 @@
-===== He Is Not Guilty [39-11] =====
+===== Awan Iti Basul Na [39-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?nolink&}}
 
-After speaking with **Jesus**, **Pilate** went out to the crowd and said, “**I find no guilt in this man**.” But the **Jewish leaders** and the crowd shouted, “**Crucify** him!” Pilate replied, “**He is not guilty**.” But they shouted even louder. Then Pilate said a third time, “He is not guilty!”
+Kalpasan a nakisarita kenni Jesus ket rimuar ni Pilate nga apan iti adu  a tattao ket kunina na, “Natakkuatak nga awan ti basul daytoy a tao.” Ngem nagpakkaw dagiti panguluen a Judio ken tattao ket kinuna da, “Ilansa isuna iti crus!” Sinungbatan ni Pilate ket kinuna na, “Saan a nagbasul isuna,” Ngem nagpukkaw da pay ti napigpigsa. Ket imbaga ni Pilate iti maikatlo, “Saan a nagbasul daytoy tao!”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:jesus]]**
