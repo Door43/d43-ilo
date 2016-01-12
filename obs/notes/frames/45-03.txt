@@ -1,8 +1,9 @@
-===== You Killed the Messiah [45-03] =====
+===== Pinapatayu Ti Messias [45-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?nolink&}}
 
-The **high priest** asked Stephen, “**Are these things true**?” Stephen replied by reminding them of many of the great things **God** had done from the time of **Abraham** to the time of **Jesus**, and how God's people continually **disobeyed** him. Then he said, “You stubborn and **rebellious** people **always reject the Holy Spirit**, just as **your ancestors** always rejected God and killed his **prophets**. But you did something worse than they did! You killed the **Messiah**!”
+Sinaludsod ti kangatuan a padi kenni Stephen a kunana, “Pudno kadi amin dagitoy a banbanag?” Simmungbat ni Stephen babaen ti pananglagip na kadakuada iti adu a dadakkel a banbanag nga inaramid ti Dios manipud iti tiempo ni Abraham agingnggana ti tiempo ni Jesus ken kasanu nga intultuloy dagiti tattao ti Dios a saan a nagtinulnog kenkuana. Kinuna na, “Dakayu a natangken ti ulo na ken __rebelde__ a tattao ket kanayun a saanyu awawaten iti Spirito Santo kasla kadagiti nagkakauna a tattao a kanayun a saan nga awaten ti Dios ken pinapatay da pay dagiti mammadto ti Dios. Ngem nakarkaru pay ti aramidyu ngem ida! Pinatayu iti Messiah!”
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:highpriest]]**
