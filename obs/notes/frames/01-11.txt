@@ -2,10 +2,9 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?nolink&}}
 
-Nagtanem ti Dios iti duwa a sabsabali a kayo iti tingnga ti minuyungan. Kayo ti biag ken kayo ti pagammuan ti nasayaat ken dakes. Ket kinuna ti Dios kenni Adam a mabalin a magan iti aggapo iti inyaman a kayo maliban iti aggapo iti kayo ti biag ken kayo ti pagammuan ti nasayaat ken dakes. No mangan isuna iti kadagitoy a duwa a kayo ket matay isuna.
+Nagmula ti Dios iti duwa a naidumduma a kayo iti tingnga ti minuyungan. Ti kayo ti biag ken ti kayo ti pannakaamo ti nasayaat ken dakes. Ket kinuna ti Dios kenni Adam a mabalin a mangan manipud iti inyaman a kayo malaksid iti aggapo iti kayo ti pannakaamo iti nasayaat ken dakes. No mangan isuna manipud iti daytoy a kayo ket matayto isuna.
 
 ===== Important Terms: =====
-
 
   * **[[:ilo:obe:kt:god|God]]**
   * **[[:ilo:obe:kt:life|life]]**
@@ -13,18 +12,13 @@ Nagtanem ti Dios iti duwa a sabsabali a kayo iti tingnga ti minuyungan. Kayo ti 
   * **[[:ilo:obe:kt:evil|evil]]**
   * **[[:ilo:obe:other:adam|Adam]]**
   * **[[:ilo:obe:kt:death|die]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **in the middle** - The central location emphasizes the importance of the two trees.
-  * **garden** - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
-  * **tree of life** - Anyone who ate fruit from this tree would never die.
-  * **tree of knowledge of good and evil** - The fruit of this tree could enable a person to know both good and evil.
-  * **knowledge** - To know or understand by personal experience.
-  * **good and evil** - Evil is the opposite of good. Just as "good" refers to what is pleasing to God, "evil" refers to everything that is not pleasing to God.
-  * **die** - In this instance, he would die both physically and spiritually.
-
-
+  * **in the middle**  - The central location emphasizes the importance of the two trees.
+  * **garden**  - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
+  * **tree of life**  - Anyone who ate fruit from this tree would never die.
+  * **tree of knowledge of good and evil**  - The fruit of this tree could enable a person to know both good and evil.
+  * **knowledge**  - To know or understand by personal experience.
+  * **good and evil**  - Evil is the opposite of good. Just as "good" refers to what is pleasing to God, "evil" refers to everything that is not pleasing to God.
+  * **die**  - In this instance, he would die both physically and spiritually.
 **[[:ilo:obs:notes:frames:01-10|<<]] | [[:ilo:obs:notes:01|Up]] | [[:ilo:obs:notes:frames:01-12|>>]]**
