@@ -2,12 +2,13 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-13.jpg?nolink&}}
 
-Idi nagawid dagiti kakabsat ni Joseph ket imbaga da kenni Jacob a sibibiag pay ni Joseph ket naragsakan unay isuna.
+Idi nagawiden dagiti kakabsat ni Joseph ken imbaga da kenni Jacob a sibibiag pay ni Joseph ket naragsakan launay isuna.
 
 **Dagiti Napapateg A Balikas**:
 
-  * **[[:ilo:obe:other:josephot|Joseph (OT)]]**
+   * **[[:ilo:obe:other:josephot|Joseph (OT)]]**
   * **[[:ilo:obe:other:jacob|Jacob, Israel]]**
+
 ==== Pannakaipakaawat Kadagiti Sarsarita: ====
 
 //(There are no notes for this frame.)//
