@@ -1,8 +1,9 @@
-===== Help for the Victim [27-09] =====
+===== Ti Tulong Iti Nadangran [27-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-09.jpg?nolink&}}
 
-“The **Samaritan** then lifted the man onto **his own donkey** and took him to a **roadside inn where he took care of him**.”
+Insakay ti Samaritano ti lalaki iti bukod na nga asno ken inyapan na iti maysa a pagdagusan tapno maitultuloy na nga agasan.
+
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:samaria]]**
