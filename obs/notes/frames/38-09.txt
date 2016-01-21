@@ -2,15 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-09.jpg?nolink&}}
 
-Simmungbat ni Peter ket kunana, “Uray pagtallikudan da kadagiti amin ngem siak ket saan!” Ket kinuna ni Jesus ken Peter, “Kayat ni Satanas a mabagi daka. Ngem inkararagan daka Peter tapno saan ka matnag ti pammatim. Ta uray ti daytoy a rabii sakbay nga agtaraok iti kawitan ilibak nakun ti mamin tallu.”
+Simmungbat ni Peter ket kinunana, “Urayno tumallikud dagiti dadduma, saankanto pulos a tallikudan!” Kinuna ni Jesus ken ni Peter, “Kayat ni Satanas a tagikuaennaka ngem inkararagkan Peter tapno saan a maabak ti pammatim. Iti daytoy a rabii sakbay nga agtaraok ti kawitan a manok ket ilibaknakto iti mamin tallo a daras.”
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:peter]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:satan]]**
-  * **[[:ilo:obe:other:pray]]**
-  * **[[:ilo:obe:kt:faith]]**
+  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:satan|Satan, devil, evil one]]**
+  * **[[:ilo:obe:other:pray|pray, prayer]]**
+  * **[[:ilo:obe:kt:faith|faith]]**
 ===== Translation Notes: =====
 
   * **abandon you**  - Check to see how you translated this in **[[:ilo:obs:notes:frames:38-08|[38-08]]]**.
