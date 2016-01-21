@@ -2,22 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-03.jpg?nolink&}}
 
-Sinungbatan dagiti adalan ni Jesus ket kunada, “Apo, nu matmaturug ngarud ni Lazarus ket sigurado a sumayaat isuna.” Santo kinuna ni Jesus kadakuada, “Natayen ni Lazarus. Maragsakanak nga awanak idiay tapnun mamati kayu kanyak.”
+Simmungbat dagiti adalan ni Jesus ket kinunada, “Apo, nu matmaturug laeng ni Lazarus ket sigurado nga umimbagto isuna.” Ngem imbaga ni Jesus ti kinapudno kadakuada, “Natayen ni Lazarus. Maragsakanak ta awanak sadiay tapno mamati kayo kaniak.”
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:disciple]]**
-  * **[[:ilo:obe:kt:lord]]**
-  * **[[:ilo:obe:other:lazarus]]**
-  * **[[:ilo:obe:kt:death]]**
-  * **[[:ilo:obe:kt:believe]]**
-
-
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:disciple|disciple]]**
+  * **[[:ilo:obe:kt:lord|lord, master, sir]]**
+  * **[[:ilo:obe:other:lazarus|Lazarus]]**
+  * **[[:ilo:obe:kt:death|death, die, dead]]**
+  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
 ===== Translation Notes: =====
 
-  * **he will get better** - The disciples intended this in the sense of, "there is no reason for us to go to him now, since he will get well."
-  * **I am glad** - This could be translated as, "I am happy" or, "It is good that." It does not mean he was happy that Lazarus died, but rather that he was happy that God was going to show how great he is.
-
-
+  * **he will get better**  - The disciples intended this in the sense of, "there is no reason for us to go to him now, since he will get well."
+  * **I am glad**  - This could be translated as, "I am happy" or, "It is good that." It does not mean he was happy that Lazarus died, but rather that he was happy that God was going to show how great he is.
 **[[:ilo:obs:notes:frames:37-02|<<]] | [[:ilo:obs:notes:37|Up]] | [[:ilo:obs:notes:frames:37-04|>>]]**
