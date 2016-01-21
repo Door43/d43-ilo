@@ -2,21 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?nolink&}}
 
-Ngen killaat nga adda napigsa a gingined. Nagparang ti maysa nga angel nga agranraniag a kasla kimat a naggapu sadi langit. Ket intulid na a paadayu ti bato nga nakasullat iti ruangan ti tanem santo nagtugawana. Permi a buteng dagiti suldado nga agbanbantay isu a nagpakleb da iti daga a kasla natay.
+Killaat a nagginggined iti napigsa ken nagparang ti kasla kimat ti karanniag na nga angel a naggapu sadi langit. Intulid na ti bato a nakakalub iti ruangan ti tanem ken tinugawan na daytoy. Permi ti buteng dagiti suldado nga agbanbantay ket kimleb da iti daga a kasla natay.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:angel]]**
-  * **[[:ilo:obe:kt:heaven]]**
-  * **[[:ilo:obe:other:tomb]]**
-  * **[[:ilo:obe:kt:death]]**
-
-
+  * **[[:ilo:obe:kt:angel|angel, archangel]]**
+  * **[[:ilo:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
+  * **[[:ilo:obe:other:tomb|tomb, grave, burial place]]**
+  * **[[:ilo:obe:kt:death|death, die, dead]]**
 ===== Translation Notes: =====
 
-  * **great earthquake** - This could also be translated as, "violent earthquake" or, "forceful shaking of the ground." Some languages may prefer to reword this as, "the ground began to shake violently."
-  * **that shone as bright as lightning** - That is, "whose appearance was as bright as lightning."
-  * **fell to the ground like dead men** - They were not dead, but they did not move, just like dead men do not move. They probably had fainted from fright. To make this clear, this could be translated as, "suddenly fell to the ground and did not move."
-
-
+  * **great earthquake**  - This could also be translated as, "violent earthquake" or, "forceful shaking of the ground." Some languages may prefer to reword this as, "the ground began to shake violently."
+  * **that shone as bright as lightning**  - That is, "whose appearance was as bright as lightning."
+  * **fell to the ground like dead men**  - They were not dead, but they did not move, just like dead men do not move. They probably had fainted from fright. To make this clear, this could be translated as, "suddenly fell to the ground and did not move."
 **[[:ilo:obs:notes:frames:41-03|<<]] | [[:ilo:obs:notes:41|Up]] | [[:ilo:obs:notes:frames:41-05|>>]]**
