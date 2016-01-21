@@ -2,22 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?nolink&}}
 
-Immadayu ni Peter ket nagsangsangit. Kabayatan na nakitan ni Judas a mangliliput dagiti panguluen a Judio a pinatawan da ni Jesus a mapapatay. Ket nagladladingit ni Judas ket immadayu santo nagpakamatay.
+Immadayo ni Peter ken nagsangsangit iti napalalo. Kabayatan na nakita ni Judas a nangliput a pinatawan dagiti panguloen a Judio ni Jesus a mapapatay. Nagladingit launay ni Judas ket pimmanaw ket nagpakamatay.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:peter]]**
-  * **[[:ilo:obe:other:judasiscariot]]**
-  * **[[:ilo:obe:kt:betray]]**
-  * **[[:ilo:obe:other:jewishleaders]]**
-  * **[[:ilo:obe:kt:jesus]]**
-
-
+  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
+  * **[[:ilo:obe:other:judasiscariot|Judas Iscariot]]**
+  * **[[:ilo:obe:kt:betray|betray, betrayer]]**
+  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
 ===== Translation Notes: =====
 
-  * **cried bitterly** - That is, "cried, feeling deep sorrow" or, "cried, feeling deep regret."
-  * **the betrayer** - That is, "who had betrayed Jesus" or, "who had helped the leaders arrest Jesus."
-  * **had condemned Jesus to die** - That is, "had said that Jesus was guilty and must die."
-
-
+  * **cried bitterly**  - That is, "cried, feeling deep sorrow" or, "cried, feeling deep regret."
+  * **the betrayer**  - That is, "who had betrayed Jesus" or, "who had helped the leaders arrest Jesus."
+  * **had condemned Jesus to die**  - That is, "had said that Jesus was guilty and must die."
 **[[:ilo:obs:notes:frames:39-07|<<]] | [[:ilo:obs:notes:39|Up]] | [[:ilo:obs:notes:frames:39-09|>>]]**
