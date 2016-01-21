@@ -2,23 +2,19 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-14.jpg?nolink&}}
 
-Immay ni Judas a kadwa na dagiti panguluen a Judio ken susuldado ken buyot a tattao.  Awit-awit da ti kampilan ken natitirad nga saplit. Immasigeg ni Judas kenni Jesus santo na imbaga, “Kablaawan ka, Maestro”, santo na inungngo isuna. Daytoy ti pagilasinan dagiti panguluen a Judio nu asinno iti tiliwen da. Ket kinuna ni Jesus, “Judas, niliputan nak kadi babaen iti panang ungngom?”
+Simmangpet ni Judas a kadua na dagiti panguloen a Judio ken dagiti soldado ken dagiti adu a tattao. Addaan da kadagiti kampila ken pang-ur. Immasigeg ni Judas kenni Jesus ket kinunana, “Kablaawan ka, Maestro”, kalpasan inungngoan na ni Jesus. Daytoy ti pagilasinan dagiti panguloen a Judio nu siasino ti tiliwen da. Kinuna ni Jesus, “Judas, liputan nak kadi babaen iti maysa nga ungngo?”
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:judasiscariot]]**
-  * **[[:ilo:obe:other:jewishleaders]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:teacher]]**
-  * **[[:ilo:obe:kt:betray]]**
-
-
+  * **[[:ilo:obe:other:judasiscariot|Judas Iscariot]]**
+  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:teacher|teacher, Teacher]]**
+  * **[[:ilo:obe:kt:betray|betray, betrayer]]**
 ===== Translation Notes: =====
 
-  * **came to** - Some languages may prefer to say, "went to."
-  * **Greetings** - This can also be translated as, "Hello" or, "Peace" or, "Good evening."
-  * **the sign** - That is, "the signal."
-  * **do you betray me with a kiss?** - That is, "are you really going to betray me with a kiss?" Jesus is not looking for an answer to this question. So some languages would translate it as a statement, such as, "you are betraying me by kissing me!" or, "you make your betrayal even worse by kissing me!"
-
-
+  * **came to**  - Some languages may prefer to say, "went to."
+  * **Greetings**  - This can also be translated as, "Hello" or, "Peace" or, "Good evening."
+  * **the sign**  - That is, "the signal."
+  * **do you betray me with a kiss?**  - That is, "are you really going to betray me with a kiss?" Jesus is not looking for an answer to this question. So some languages would translate it as a statement, such as, "you are betraying me by kissing me!" or, "you make your betrayal even worse by kissing me!"
 **[[:ilo:obs:notes:frames:38-13|<<]] | [[:ilo:obs:notes:38|Up]] | [[:ilo:obs:notes:frames:38-15|>>]]**
