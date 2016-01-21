@@ -1,22 +1,18 @@
-===== Ti Duwa Nga Adalan [42-01] =====
+===== Ti Dua Nga Adalan [42-01] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink&}}
 
-Iti aldaw a nagungar ni Jesus manipud iti patay, napan ti duwa  kadagiti adalan na idiay asideg iti ili. Bayat ti panpannagna da, pagtutungtungan da ti napasamak maipapan ken Jesus. Namnamaen da a ni Jesus ti Mesias, ngem napapatay metten. Ngem ita kinunan dagiti babbai a Jesus ket sibibiag manen. Ita madi da mettenen ammu nu anya ti patien da.
+Iti aldaw a panagungar ni Jesus manipud iti patay ket adda dua nga adalan ni Jesus ti agdaldaliasat a mapan iti kabangibang nga ili. Bayat ti panpannagna da ket pagtungtungtungan da ti napasamak ken ni Jesus. Ninamnama da a ni Jesus ti Messiah ngem pinatay da metten isuna. Ngem ita ibagbaga dagiti babbae a sibibiag manen isuna. Saan dan nga ammo no anya ti patien da.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:raise]]**
-  * **[[:ilo:obe:kt:disciple]]**
-  * **[[:ilo:obe:kt:christ]]**
-  * **[[:ilo:obe:kt:life]]**
-  * **[[:ilo:obe:kt:believe]]**
-
-
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:raise|raise, rise, risen, arise, arose]]**
+  * **[[:ilo:obe:kt:disciple|disciple]]**
+  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
+  * **[[:ilo:obe:kt:life|life, live, living, alive]]**
+  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
 ===== Translation Notes: =====
 
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
 **[[:ilo:obs:notes:frames:41-08|<<]] | [[:ilo:obs:notes:42|Up]] | [[:ilo:obs:notes:frames:42-02|>>]]**
