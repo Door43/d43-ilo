@@ -2,18 +2,14 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?nolink&}}
 
-Kinuna ni Pilato, “Mangala kayo ti sumagmamanu a suldado ket siguradwen yu a natalged ti tanem kas iti kabaelan yu.” Isu a nangikabil da iti sirra ti batu a ruangan ti tanem ken nangibati da ti sagmamano a suldado tapnun suguraduen da nga awan ti makatakaw iti bagi na.
+Kinuna ni Pilato, “Mangala kayo ngarud iti sumagmamano a suldado ket siguradoen yo a natalged ti tanem.” Nangikabil da iti selio diay ruangan ti tanem a bato ken impabantay da iti sagmamano a suldado tapno masigurado da nga awan ti mangtakaw iti bagi na.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:pilate]]**
-  * **[[:ilo:obe:other:tomb]]**
-
-
+  * **[[:ilo:obe:other:pilate|Pilate]]**
+  * **[[:ilo:obe:other:tomb|tomb, grave, burial place]]**
 ===== Translation Notes: =====
 
-  * **they placed** - That is, "the religious leaders and the soldiers placed."
-  * **a seal on the stone** - They put a soft material like clay or wax between the stone and the tomb and marked it with an official seal. If anyone moved the stone, the material would break and show that someone had entered the tomb. This could also be translated as, "a mark on the stone to forbid people from moving it."
-
-
+  * **they placed**  - That is, "the religious leaders and the soldiers placed."
+  * **a seal on the stone**  - They put a soft material like clay or wax between the stone and the tomb and marked it with an official seal. If anyone moved the stone, the material would break and show that someone had entered the tomb. This could also be translated as, "a mark on the stone to forbid people from moving it."
 **[[:ilo:obs:notes:frames:41-01|<<]] | [[:ilo:obs:notes:41|Up]] | [[:ilo:obs:notes:frames:41-03|>>]]**
