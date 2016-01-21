@@ -1,22 +1,18 @@
-===== Nagimun Dagiti Pangpangulu [37-11] =====
+===== Nagimon Dagiti Pangpangulo [37-11] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-11.jpg?nolink&}}
 
-Ngem nagimon dagiti panguluen ti relihiyon. Isu a nagguummong da a mangplano nu kasatnu da a papatayen ni Jesus ken Lazarus.
+Ngem nagimon dagiti panguloen ti relihiyon isua nagguummong da tapno planoen da nu kasatnu da a papatayen ni Jesus ken ni Lazarus.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:jewishleaders]]**
-  * **[[:ilo:obe:other:jew]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:other:lazarus]]**
-
-
+  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ilo:obe:other:jew|Jew, Jewish]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:other:lazarus|Lazarus]]**
 ===== Translation Notes: =====
 
-  * **jealous** - That is, "jealous of Jesus' power and popularity" or, "jealous that so many Jews were believing in Jesus."
-  * **gathered together** - That is, "met together" or, "joined together." This was a not a casual meeting, but a meeting for a specific purpose–to plan how to kill Jesus.
+  * **jealous**  - That is, "jealous of Jesus' power and popularity" or, "jealous that so many Jews were believing in Jesus."
+  * **gathered together**  - That is, "met together" or, "joined together." This was a not a casual meeting, but a meeting for a specific purpose–to plan how to kill Jesus.
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
 **[[:ilo:obs:notes:frames:37-10|<<]] | [[:ilo:obs:notes:37|Up]] | [[:ilo:obs:notes:frames:38-01|>>]]**
