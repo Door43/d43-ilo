@@ -2,22 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-02.jpg?nolink&}}
 
-Inyapan da ni Jesus ti lugar a maawagan iti, “ ti tultulang” santo da ilansa dagiti im-ima na ken saksaka na iti crus. Ngem kuna ni Jesus, “Ama, pakawanen isuda gapu ta dida ammu ti ar-aramiden da.” Imbilin ni Pilato nga isuarat da daytoy, “Ari ti Judio” iti marka ken ikabil da iti ngatuen ti ulo ni Jesus idiay crus.
+Inyapan dagiti suldado ni Jesus iti lugar a maawagan iti, “ti Banga-banga” ket inlansa sadiay dagiti im-ima ken saksaka na iti krus. Ngem kinuna ni Jesus, “Ama, pakawanen ida gapo ta dida ammo ti ar-aramiden da.” Imbilin ni Pilato nga isurat da daytoy, “Ari ti Judio” iti maysa a karatula ket ikabil da iti ngatoen ti ulo ni Jesus idiay krus.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:cross]]**
-  * **[[:ilo:obe:kt:godthefather]]**
-  * **[[:ilo:obe:kt:forgive]]**
-  * **[[:ilo:obe:other:pilate]]**
-  * **[[:ilo:obe:kt:kingofthejews]]**
-
-
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:cross|cross]]**
+  * **[[:ilo:obe:kt:godthefather|God the Father, Heavenly Father]]**
+  * **[[:ilo:obe:kt:forgive|forgive, forgiveness]]**
+  * **[[:ilo:obe:other:pilate|Pilate]]**
+  * **[[:ilo:obe:kt:kingofthejews|King of the Jews]]**
 ===== Translation Notes: =====
 
-  * **the Skull** - A hill near Jerusalem with a white, rocky top that was shaped somewhat like the top of a skull.
-  * **forgive them, because they do not know what they are doing** - That is, "they do not understand the meaning of what they are doing, so please forgive them." The soldiers thought Jesus was only a criminal who deserved to die. They did not understand that he was the Son of God.
-
-
+  * **the Skull**  - A hill near Jerusalem with a white, rocky top that was shaped somewhat like the top of a skull.
+  * **forgive them, because they do not know what they are doing**  - That is, "they do not understand the meaning of what they are doing, so please forgive them." The soldiers thought Jesus was only a criminal who deserved to die. They did not understand that he was the Son of God.
 **[[:ilo:obs:notes:frames:40-01|<<]] | [[:ilo:obs:notes:40|Up]] | [[:ilo:obs:notes:frames:40-03|>>]]**
