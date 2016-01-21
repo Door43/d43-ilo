@@ -2,24 +2,20 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-04.jpg?nolink&}}
 
-Idi nakadanun da Jesus iti ili da Lazarus ket limmabas ti uppat nga aldaw a natay ni Lazarus. Simmabat ni Martha kenkuada ket kinuna na, “Apo, nu adda kayu lang kuma ditoy ket saan a natay ti kabsat ko. Ngem ammuk nga ited ti Dios kenka anyaman a dawaten kenkuana .”
+Idi nakadanun ni Jesus iti ili da Lazarus ket uppaten nga aldaw ti napalabas manipud idi natay ni Lazarus. Simmabat ni Martha kadakuada ket kinunana, “Apo, nu adda ka laeng saan koma a natay ti kabsat ko. Ngem ammuk nga ited ti Dios kenka aniaman a dawaten kenkuana.”
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:other:lazarus]]**
-  * **[[:ilo:obe:kt:death]]**
-  * **[[:ilo:obe:kt:lord]]**
-  * **[[:ilo:obe:kt:believe]]**
-  * **[[:ilo:obe:kt:god]]**
-
-
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:other:lazarus|Lazarus]]**
+  * **[[:ilo:obe:kt:death|death, die, dead]]**
+  * **[[:ilo:obe:kt:lord|lord, master, sir]]**
+  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:ilo:obe:kt:god|God]]**
 ===== Translation Notes: =====
 
-  * **Martha** - Martha was the sister of Lazarus and Mary. See **[[:ilo:obs:notes:frames:37-01|[37-01]]]**.
-  * **went out to meet Jesus** - That is, "went to meet Jesus as he was coming into the town."
-  * **my brother would not have died.** - That is, "you would have healed my brother and he would not have died" or, "you could have prevented my brother from dying."
-  * **will give you whatever you ask from him** - That is, "will do whatever you ask him to do."
-
-
+  * **Martha**  - Martha was the sister of Lazarus and Mary. See **[[:ilo:obs:notes:frames:37-01|[37-01]]]**.
+  * **went out to meet Jesus**  - That is, "went to meet Jesus as he was coming into the town."
+  * **my brother would not have died.**  - That is, "you would have healed my brother and he would not have died" or, "you could have prevented my brother from dying."
+  * **will give you whatever you ask from him**  - That is, "will do whatever you ask him to do."
 **[[:ilo:obs:notes:frames:37-03|<<]] | [[:ilo:obs:notes:37|Up]] | [[:ilo:obs:notes:frames:37-05|>>]]**
