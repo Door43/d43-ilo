@@ -2,21 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-11.jpg?nolink&}}
 
-Santo napan da Jesus ken dagiti adalan na iti lugar a Gethsemane. Imbaga ni Jesus kadagiti adalan na nga agkararag da tapnun saan da a makastrek iti sulisog. Santo napan ni Jesus nga agkararag a maymaysa.
+Napan ni Jesus ken dagiti adalan na iti lugar a maaw-awagan iti Gethsemane. Imbaga ni Jesus kadagiti adalan na nga agkararag da tapno saan da a masulisog. Kalpasan daytoy agmaymaysa a napan nagkararag ni Jesus.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:disciple]]**
-  * **[[:ilo:obe:other:pray]]**
-  * **[[:ilo:obe:kt:tempt]]**
-
-
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:disciple|disciple]]**
+  * **[[:ilo:obe:other:pray|pray, prayer]]**
+  * **[[:ilo:obe:kt:tempt|tempt, temptation]]**
 ===== Translation Notes: =====
 
-  * **a place called Gethsemane** - This could be translated as, "a nearby place called Gethsemane" or, "a place called Gethsemane at the foot of the Mount of Olives."
-  * **enter into temptation** - That is, "would not sin when they were tempted" or, "would not give in to the temptation they were about to experience."
-  * **by himself** - This could be translated as, "alone."
-
-
+  * **a place called Gethsemane**  - This could be translated as, "a nearby place called Gethsemane" or, "a place called Gethsemane at the foot of the Mount of Olives."
+  * **enter into temptation**  - That is, "would not sin when they were tempted" or, "would not give in to the temptation they were about to experience."
+  * **by himself**  - This could be translated as, "alone."
 **[[:ilo:obs:notes:frames:38-10|<<]] | [[:ilo:obs:notes:38|Up]] | [[:ilo:obs:notes:frames:38-12|>>]]**
