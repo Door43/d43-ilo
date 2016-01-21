@@ -2,19 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg?nolink&}}
 
-Kada kalpasan ti maysa panagkararag ket nagsubli ni Jesu kadagiti adalan na. Ngem nakaturog da latta. Idi maikatlo a panagsubli na ket kinuna ni Jesus kadakuada, “Agriing kayun! Ti manglilipot ket addan ditoy.”
+Kalpasan ti tunggal panagkararag na, nagsubli ni Jesus iti ayan dagiti adalan na ngem nakaturog da. Idi nagsubli isuna iti maikatlo a daras ket kinuna ni Jesus kadakuada, “Agriing kayon! Adda ditoyen ti manglilipot.”
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:pray]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:disciple]]**
-  * **[[:ilo:obe:kt:betray]]**
-
-
+  * **[[:ilo:obe:other:pray|pray, prayer]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:disciple|disciple]]**
+  * **[[:ilo:obe:kt:betray|betray, betrayer]]**
 ===== Translation Notes: =====
 
-  * **After each time of prayer** - That is, "Every time Jesus prayed that prayer." This refers to the three times he prayed, as mentioned in **[[:ilo:obs:notes:frames:38-12|[38-12]]]**.
-
-
+  * **After each time of prayer**  - That is, "Every time Jesus prayed that prayer." This refers to the three times he prayed, as mentioned in **[[:ilo:obs:notes:frames:38-12|[38-12]]]**.
 **[[:ilo:obs:notes:frames:38-12|<<]] | [[:ilo:obs:notes:38|Up]] | [[:ilo:obs:notes:frames:38-14|>>]]**
