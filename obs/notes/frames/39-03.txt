@@ -2,19 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-03.jpg?nolink&}}
 
-Ti kinamauddianan na ket kimmita a duretso ken Jesu ti kangatuan nga padi ket kinuna na, “Ibagam man nu asinnuka? Sika kadi ti Mesias nga anak ti sibibiag a Dios?”
+Kamauddianan na, diretso a kimmita ti kangatoan a padi kenni Jesus ket kinunana, “Ibagam man nu siasinoka? Sika kadi ti Messiah nga Anak ti sibibiag a Dios?”
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:highpriest]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:christ]]**
-  * **[[:ilo:obe:kt:sonofgod]]**
-
-
+  * **[[:ilo:obe:kt:highpriest|high priest]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
+  * **[[:ilo:obe:kt:sonofgod|Son of God, the Son]]**
 ===== Translation Notes: =====
 
-  * **Finally** - That is, "After they were unable to find any evidence against him" or, "After they were unable to prove that he was guilty."
-
-
+  * **Finally**  - That is, "After they were unable to find any evidence against him" or, "After they were unable to prove that he was guilty."
 **[[:ilo:obs:notes:frames:39-02|<<]] | [[:ilo:obs:notes:39|Up]] | [[:ilo:obs:notes:frames:39-04|>>]]**
