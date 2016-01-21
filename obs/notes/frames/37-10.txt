@@ -2,22 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-10.jpg?nolink&}}
 
-Ket rinummuar ni Lazarus! Nabalkut pay laeng isuna  iti pang natay a tela. Kinuna ni Jesus kadakuada, “Ikkaten yu dagita balkot ti patay tapnun mawayawayaan isuna!” Adu kadagiti Judio ti namati ken Jesus gapu iti daytoy a milagro.
+Rimmuar ngarud ni Lazarus a nabalkot pay laeng iti lupot a pang natay. Kinuna ni Jesus kadakuada, “Tulongan yo isuna a mangikkat iti lupot ket ruk-atan yo isuna!” Adu dagiti namati a Judio ken ni Jesus gapo iti daytoy a milagro.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:lazarus]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:other:jew]]**
-  * **[[:ilo:obe:kt:believe]]**
-  * **[[:ilo:obe:kt:miracle]]**
-
-
+  * **[[:ilo:obe:other:lazarus|Lazarus]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:other:jew|Jew, Jewish]]**
+  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:ilo:obe:kt:miracle|miracle, wonder, sign]]**
 ===== Translation Notes: =====
 
-  * **Lazarus came out!** - Some languages should say, "Lazarus came out of the tomb!"
-  * **grave clothes** - That is, "burial clothes." This can also be translated as, "burial bandages" or, "strips of cloth."
-  * **because of this miracle** - That is, "because God had done this amazing miracle" or, "because Jesus had made Lazarus come alive again."
-
-
+  * **Lazarus came out!**  - Some languages should say, "Lazarus came out of the tomb!"
+  * **grave clothes**  - That is, "burial clothes." This can also be translated as, "burial bandages" or, "strips of cloth."
+  * **because of this miracle**  - That is, "because God had done this amazing miracle" or, "because Jesus had made Lazarus come alive again."
 **[[:ilo:obs:notes:frames:37-09|<<]] | [[:ilo:obs:notes:37|Up]] | [[:ilo:obs:notes:frames:37-11|>>]]**
