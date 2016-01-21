@@ -2,22 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?nolink&}}
 
-Patuloy ti panaguyuyaw dagiti panguluen a Judio ken dagiti dadduma iti naummong a tattao ni Jesus. Kuna da kenkuana “Nu sika met laing ti Anak ti Dios ket bumaba ka ngarud manipud dita crus ket isalakan mo ta bagim! Iti kasta ket mamati kami kenka.”
+Inuy-uyaw dagiti panguloen a Judio ken dagiti dadduma a tattao ni Jesus. Kinuna da kenkuana “Nu pudno a sika ti Anak ti Dios ket bumaba ka ngarud manipud dita krus ket isalakan mo ta bagim! Iti kasta mamati kaminto kenka.”
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:jewishleaders]]**
-  * **[[:ilo:obe:other:mock]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:sonofgod]]**
-  * **[[:ilo:obe:kt:cross]]**
-  * **[[:ilo:obe:kt:save]]**
-  * **[[:ilo:obe:kt:believe]]**
-
-
+  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ilo:obe:other:mock|mock, ridicule, scoff at]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:sonofgod|Son of God, the Son]]**
+  * **[[:ilo:obe:kt:cross|cross]]**
+  * **[[:ilo:obe:kt:save|save, safe]]**
+  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
 ===== Translation Notes: =====
 
-  * **believe you** - That is, "believe in you" or, "believe that you are the Messiah."
-
-
+  * **believe you**  - That is, "believe in you" or, "believe that you are the Messiah."
 **[[:ilo:obs:notes:frames:40-04|<<]] | [[:ilo:obs:notes:40|Up]] | [[:ilo:obs:notes:frames:40-06|>>]]**
