@@ -2,20 +2,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-01.jpg?nolink&}}
 
-Kalpasan nga inuy-uyaw dagiti suldado ni Jesus ket kinuyug da isuna tapnu ilansa da iti crus. Impabaklay da kanyana diay crus nga isunto ti pakatayan na.
+Kalpasan nga inuy-uyaw dagiti suldado ni Jesus ket innala da isuna tapno ilansa da iti krus. Impabaklay da kenkuana diay krus nga isu ti pakatayan na.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:mock]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:crucify]]**
-  * **[[:ilo:obe:kt:cross]]**
-
-
+  * **[[:ilo:obe:other:mock|mock, ridicule, scoff at]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:crucify|crucify]]**
+  * **[[:ilo:obe:kt:cross|cross]]**
 ===== Translation Notes: =====
 
-  * **led him away** - That is, "forced him to go with them." This could also be translated as, "took him away."
-  * **to crucify him** - That is, "to kill him on a cross."
-
-
+  * **led him away**  - That is, "forced him to go with them." This could also be translated as, "took him away."
+  * **to crucify him**  - That is, "to kill him on a cross."
 **[[:ilo:obs:notes:frames:39-12|<<]] | [[:ilo:obs:notes:40|Up]] | [[:ilo:obs:notes:frames:40-02|>>]]**
