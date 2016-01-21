@@ -1,22 +1,18 @@
-===== Ni Jesus Kenni Pilate [39-09] =====
+===== Ni Jesus Kenni Pilato [39-09] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink&}}
 
-Ti agsapa iti sumaganad nga bigat, inyapan dagiti panguluen a Judio ni Jesus kenni Pilate a gobyernador ti Roma. Namnamaen da a patawan ni Pilate ni Jesus a nakasala ken patawan na ti pampapatay. Ngem sinaludsod ni Pilate ni Jesus, “Sika kadi ti ari dagiti Judio?”
+Iti agsapa ti sumaruno a bigat, inyapan dagiti panguloen a Judio ni Jesus kenni Pilate a gobernador ti Roman. Ninamnama da nga ukomen ni Pilato ni Jesus kas nagbasol ken dusaen na iti patay. Ngem sinaludsod ni Pilato ni Jesus, “Sika kadi ti ari dagiti Judio?”
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:jewishleaders]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:other:pilate]]**
-  * **[[:ilo:obe:other:rome]]**
-  * **[[:ilo:obe:kt:kingofthejews]]**
-
-
+  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:other:pilate|Pilate]]**
+  * **[[:ilo:obe:other:rome|Rome, Roman]]**
+  * **[[:ilo:obe:kt:kingofthejews|King of the Jews]]**
 ===== Translation Notes: =====
 
-  * **Roman governor** - That is, "Roman government official." The Roman government had appointed Pilate to govern the region of Judea in Israel.
-  * **sentence him to be killed** - As governor, Pilate had the authority to condemn Jesus to death and to give approval for his crucifixion, or to set him free. The Jewish religious leaders did not have the authority to have someone killed.
-
-
+  * **Roman governor**  - That is, "Roman government official." The Roman government had appointed Pilate to govern the region of Judea in Israel.
+  * **sentence him to be killed**  - As governor, Pilate had the authority to condemn Jesus to death and to give approval for his crucifixion, or to set him free. The Jewish religious leaders did not have the authority to have someone killed.
 **[[:ilo:obs:notes:frames:39-08|<<]] | [[:ilo:obs:notes:39|Up]] | [[:ilo:obs:notes:frames:39-10|>>]]**
