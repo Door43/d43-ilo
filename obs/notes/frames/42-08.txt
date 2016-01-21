@@ -1,27 +1,23 @@
-===== Dakayu Dagiti Saksi [42-08] =====
+===== Dakayo Dagiti Saksi [42-08] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg?nolink&}}
 
-“Ket naisuarat met ti sao ti Dios nga iwaragawag dagiti adalak iti amin tao a masapul nga agbabawi ti tattao tapnu awaten da ti pannakawanan dagiti amin a basbasol da. Iwaragawag da daytuy agrugi idiay Jerusalem, ken kalpasan na mapan da kadagiti amin a bunggoy ti tattao iti sadinnoman ti ayanda. Sikayu ti saksik kadagiti amin a banag.”
+“Naisurat met iti sao ti Dios nga iwaragawagto dagiti adalak kadagiti amin tattao a masapul nga agbabawi da tapno maawat da ti pannakapakawan dagiti amin a basbasol da. Aramidendanto daytuy mangrugi idiay Jerusalem ken kalpasan na mapan danto kadagiti amin a tribu dagiti tattao iti sadinoman a lugar. Dakayo ti saksik kadagitoy a bambanag.”
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:wordofgod]]**
-  * **[[:ilo:obe:kt:disciple]]**
-  * **[[:ilo:obe:kt:repent]]**
-  * **[[:ilo:obe:kt:receive]]**
-  * **[[:ilo:obe:kt:forgive]]**
-  * **[[:ilo:obe:kt:sin]]**
-  * **[[:ilo:obe:other:jerusalem]]**
-  * **[[:ilo:obe:other:peoplegroup]]**
-  * **[[:ilo:obe:kt:witness]]**
-
-
+  * **[[:ilo:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]**
+  * **[[:ilo:obe:kt:disciple|disciple]]**
+  * **[[:ilo:obe:kt:repent|repent, repentance]]**
+  * **[[:ilo:obe:kt:receive|receive]]**
+  * **[[:ilo:obe:kt:forgive|forgive, forgiveness]]**
+  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
+  * **[[:ilo:obe:other:peoplegroup|people group, people]]**
+  * **[[:ilo:obe:kt:witness|witness, eyewitness]]**
 ===== Translation Notes: =====
 
-  * **proclaim** - That is, "announce" or, "preach."
-  * **They will do this starting in Jerusalem** - That is, "They will begin doing this in Jerusalem" or, "They will begin to proclaim these things in Jerusalem."
-  * **You are witnesses of these things** - That is, "You have seen these things happen" or, "You will tell other people the things that you have seen happen."
-
-
+  * **proclaim**  - That is, "announce" or, "preach."
+  * **They will do this starting in Jerusalem**  - That is, "They will begin doing this in Jerusalem" or, "They will begin to proclaim these things in Jerusalem."
+  * **You are witnesses of these things**  - That is, "You have seen these things happen" or, "You will tell other people the things that you have seen happen."
 **[[:ilo:obs:notes:frames:42-07|<<]] | [[:ilo:obs:notes:42|Up]] | [[:ilo:obs:notes:frames:42-09|>>]]**
