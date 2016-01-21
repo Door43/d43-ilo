@@ -1,23 +1,19 @@
-===== Dagiti Saan A Pudnu A Saksi [39-02] =====
+===== Dagiti Saan A Pudno A Saksi [39-02] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?nolink&}}
 
-Inlitis dagiti panguluen a Judio ti kaso ni Jesus iti uneg ti balay. Nangayab da iti adu a palso a saksi a nabaga iti urbod pangngep kenni Jesus. Numan pay kasta ket saan immanamong iti tunggal maysa dagiti inbagbaga. Isu nga awan mapaneknekan dagiti panguluen a Judio a basol ni Jesus ti anyaman nga banag. Ni Jesus ket saan a pulos nga nagsasao.
+Inusig dagiti panguloen a Judio ni Jesus iti uneg ti balay. Nangiyeg da kadagiti adu a palso a saksi a nagsao iti ulbod a maipapan kenni Jesus. Numan pay kasta saan da immanamung iti imbagbaga ti tunggal maysa isua saan a mapaneknekan dagiti panguloen a Judio ti ibagbaga da a nagbasolan ni Jesus. Saan a pulos a nagsasao ni Jesus.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:jewishleaders]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:witness]]**
-  * **[[:ilo:obe:kt:guilt]]**
-
-
+  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:witness|witness, eyewitness]]**
+  * **[[:ilo:obe:kt:guilt|guilt, guilty]]**
 ===== Translation Notes: =====
 
-  * **put Jesus on trial** - This could be translated as, "had a formal meeting to accuse Jesus of doing something wrong." Usually a trial is done to find out if someone is innocent or guilty of a certain crime. In this case, the leaders were determined to make Jesus seem guilty.
-  * **lied about him** - That is, "told lies about him" or, "falsely accused him of doing something wrong."
-  * **their statements did not agree with each other** - This could be translated as, "they said things about Jesus that were very different from each other" or, "the witnesses said things about Jesus that contradicted each other."
-  * **he was guilty of anything** - That is, "that he had done anything wrong."
-
-
+  * **put Jesus on trial**  - This could be translated as, "had a formal meeting to accuse Jesus of doing something wrong." Usually a trial is done to find out if someone is innocent or guilty of a certain crime. In this case, the leaders were determined to make Jesus seem guilty.
+  * **lied about him**  - That is, "told lies about him" or, "falsely accused him of doing something wrong."
+  * **their statements did not agree with each other**  - This could be translated as, "they said things about Jesus that were very different from each other" or, "the witnesses said things about Jesus that contradicted each other."
+  * **he was guilty of anything**  - That is, "that he had done anything wrong."
 **[[:ilo:obs:notes:frames:39-01|<<]] | [[:ilo:obs:notes:39|Up]] | [[:ilo:obs:notes:frames:39-03|>>]]**
