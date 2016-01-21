@@ -1,22 +1,18 @@
-===== Ti Tallu Pulu A Pirak [38-03] =====
+===== Ti Tallo Pulo A Pirak [38-03] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-03.jpg?nolink&}}
 
-Binayadan ngarod dagiti panguluen a Judio nga idadaulwan ti nangatu a padi ni Judas iti tallu pulo a pirak tapnun liputan na ni Jesus. Napasamak daytoy kas iti impadtu dagiti Mammadtu. Immanamong ni Judas ket innala na ti kuwarta ket pimmanaw. Nangrugin ni Judas a nangkita iti tiempo tapnun tulungan na ida a mangtiliw kenni Jesus.
+Iti panangidaulo ti kangatoan a padi ket binayadan dagiti panguloen a Judio ni Judas iti tallo pulo a pirak tapno liputan na ni Jesus. Napasamak daytoy kas impadtu dagiti mammadtu. Immanamong ni Judas ket innala na ti kuwarta ken pimmanaw. Nangrugi ni Judas a nangkita iti tiempo tapno matulongan na ida a mangtiliw kenni Jesus.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:jewishleaders]]**
-  * **[[:ilo:obe:kt:highpriest]]**
-  * **[[:ilo:obe:other:judasiscariot]]**
-  * **[[:ilo:obe:kt:betray]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:prophet]]**
-
-
+  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ilo:obe:kt:highpriest|high priest]]**
+  * **[[:ilo:obe:other:judasiscariot|Judas Iscariot]]**
+  * **[[:ilo:obe:kt:betray|betray, betrayer]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
 ===== Translation Notes: =====
 
-  * **thirty silver coins** - Each of these coins were worth about four days' wages.
-
-
+  * **thirty silver coins**  - Each of these coins were worth about four days' wages.
 **[[:ilo:obs:notes:frames:38-02|<<]] | [[:ilo:obs:notes:38|Up]] | [[:ilo:obs:notes:frames:38-04|>>]]**
