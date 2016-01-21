@@ -2,23 +2,19 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink&}}
 
-Santo dinawat ni Joseph ken Nicodenus kenni Pilato ti bagi ni Jesus. Dagitoy a panguluen a Judio ket mamati a ni Jesus ket isu ti Mesias. Ket binalkut da iti bagi na iti luput santo da inyapan iti tanem nakali iti batu. Sato da intulid ti dakkel a batu iti ruwangan ti tanem tapnu masarraan.
+Kalpasan daytoy, dua a panguloen dagiti Judio a namati kenni Jesus nga agnagan iti Joseph ken Nicodemus ti nangkiddaw kenni Pilato nga alaen da ti bagi ni Jesus. Binalkot da ti bagi na iti lupot ken inkabil da isuna iti tanem a bato. Kalpasanna, intulid da ti dakkel a bato iti sango ti tanem tapno maserraan daytoy.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:jewishleaders]]**
-  * **[[:ilo:obe:kt:believe]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:christ]]**
-  * **[[:ilo:obe:other:pilate]]**
-  * **[[:ilo:obe:other:tomb]]**
-
-
+  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
+  * **[[:ilo:obe:other:pilate|Pilate]]**
+  * **[[:ilo:obe:other:tomb|tomb, grave, burial place]]**
 ===== Translation Notes: =====
 
-  * **Joseph** - This was not Mary's husband. It was another man named Joseph.
-  * **asked Pilate for Jesus' body** - That is, "asked Pilate to permit them to take Jesus' body down from the cross."
+  * **Joseph**  - This was not Mary's husband. It was another man named Joseph.
+  * **asked Pilate for Jesus' body**  - That is, "asked Pilate to permit them to take Jesus' body down from the cross."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
 **[[:ilo:obs:notes:frames:40-08|<<]] | [[:ilo:obs:notes:40|Up]] | [[:ilo:obs:notes:frames:41-01|>>]]**
