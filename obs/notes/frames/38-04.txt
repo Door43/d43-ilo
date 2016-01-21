@@ -2,24 +2,20 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?nolink&}}
 
-Ket nirambakan da Jesus ken dagiti adalan ti Panaglabas ti Patay idiay Jerusalem. Kabayatan iti makuna pannangan a passover nangala ni Jesus iti tinapay ket pinirsay na ket kinuna na “Alaen yu ket kanen yu daytoy. Daytoy ti bagik a maited kadakayu. Aramiden yu daytoy a kas pananglagip yu kanyak.”  Ti kayat ni Jesus nga ibaga iti daytoy a wagas ket ti bagi na ti maidaton para kadakuada.
+Rinambakan ni Jesus ken dagiti adalan ti Ilalabas ti Patay idiay Jerusalem. Kabayatan ti pannangan idi aldaw ti Ilalabas ti Patay, nangala ni Jesus iti tinapay ken pinisi na daytoy ket kinunana “Alaen yo ken kanen yo daytoy. Daytoy ti bagik a maited para kadakayo. Aramiden yo daytoy a kas panglaglagip yo kaniak.” Daytoy ti wagas a panangibaga ni Jesus a maidatonto isuna para kadakuada.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:jerusalem]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:passover]]**
-  * **[[:ilo:obe:kt:disciple]]**
-  * **[[:ilo:obe:other:sacrifice]]**
-
-
+  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:passover|Passover]]**
+  * **[[:ilo:obe:kt:disciple|disciple]]**
+  * **[[:ilo:obe:other:sacrifice|sacrifice, offering]]**
 ===== Translation Notes: =====
 
-  * **celebrated** - That is, "was celebrating."
-  * **took some bread** - This could be translated as, "picked up a piece of bread" or, "picked up a flat loaf of bread."
-  * **broke it** - Some languages should say, "tore it in pieces" or, "tore it in half" or, "tore off part of it."
-  * **given for you** - This can also be translated as, "which I give for you."
-  * **Do this to remember me** - That is, "Do this as a way to remind yourselves of what I am doing for you." Jesus was referring to his death, which would happen soon.
-
-
+  * **celebrated**  - That is, "was celebrating."
+  * **took some bread**  - This could be translated as, "picked up a piece of bread" or, "picked up a flat loaf of bread."
+  * **broke it**  - Some languages should say, "tore it in pieces" or, "tore it in half" or, "tore off part of it."
+  * **given for you**  - This can also be translated as, "which I give for you."
+  * **Do this to remember me**  - That is, "Do this as a way to remind yourselves of what I am doing for you." Jesus was referring to his death, which would happen soon.
 **[[:ilo:obs:notes:frames:38-03|<<]] | [[:ilo:obs:notes:38|Up]] | [[:ilo:obs:notes:frames:38-05|>>]]**
