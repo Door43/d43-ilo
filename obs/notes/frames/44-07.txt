@@ -1,21 +1,17 @@
-===== Iti Sanguanan Dagiti Pangpangulu Ti Hudyu [44-07] =====
+===== Iti Sanguanan Dagiti Pangpangulo Ti Judio [44-07] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?nolink&}}
 
-Iti sumaruno nga aldaw, impan dagiti panguluen ti Judio iti kangatuan nga padi ken dagiti panguluen dagiti relihiyon da Peter kenni John. Ket sinaludsod da kenni Peter ken John, kinuna da “Anya ti klase a pannakabalin ti panangagas yu iti daytoy a saan a makapagna a tao?”
+Iti sumaruno nga aldaw, impan dagiti panguloen dagiti Judio da Peter kenni John iti kangatoan a padi ken kadagiti panguloen ti relihiyon. Sinaludsod da kenni Peter ken John, “Babaen iti anya a pannakabalin nga inagasan yo daytoy pilay a tao?”
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:jewishleaders]]**
-  * **[[:ilo:obe:other:peter]]**
-  * **[[:ilo:obe:other:johntheapostle]]**
-  * **[[:ilo:obe:kt:highpriest]]**
-  * **[[:ilo:obe:kt:power]]**
-
-
+  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
+  * **[[:ilo:obe:other:johntheapostle|John (the apostle)]]**
+  * **[[:ilo:obe:kt:highpriest|high priest]]**
+  * **[[:ilo:obe:kt:power|power]]**
 ===== Translation Notes: =====
 
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
 **[[:ilo:obs:notes:frames:44-06|<<]] | [[:ilo:obs:notes:44|Up]] | [[:ilo:obs:notes:frames:44-08|>>]]**
