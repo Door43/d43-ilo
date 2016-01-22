@@ -6,12 +6,12 @@ Idi nakadanun dan iti lugar ti pagidatonan ket binalud ni Abraham iti anak na a 
 
 ===== Dagiti Napapateg Nga Balikas: =====
 
-  * **[[:ilo:obe:other:sacrifice|datun, offering]]**
-  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
-  * **[[:ilo:obe:kt:son|anak/putot]] a lalaki**
-  * **[[:ilo:obe:other:isaac|Isaac]]**
-  * **[[:ilo:obe:other:altar|altar]]/pagidatunan**
-  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:sacrifice]]**
+  * **[[:ilo:obe:other:abraham]]**
+  * **[[:ilo:obe:kt:son]]**
+  * **[[:ilo:obe:other:isaac]]**
+  * **[[:ilo:obe:other:altar]]**
+  * **[[:ilo:obe:kt:god]]**
 
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
