@@ -6,9 +6,9 @@ Idi dumteng iti maikapito nga aldaw ket nalpasen ti Dios ti amin nga aramiden na
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:bless|blessed]]**
-  * **[[:ilo:obe:kt:holy|holy]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:bless]]**
+  * **[[:ilo:obe:kt:holy]]**
 ==== Translation Notes: ====
 
   * **the seventh day**  - The next day after the six days of creation were completed.
