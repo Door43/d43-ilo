@@ -6,11 +6,11 @@ Isunga inasawa ni Abram ni Hagar. Naaddaan ni Hagar iti anak a lalaki ket pinana
 
 ===== Dagiti Napapateg Nga Balikas: =====
 
-  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
-  * **[[:ilo:obe:other:hagar|Hagar]]**
-  * **[[:ilo:obe:other:ishmael|Ishmael]]**
-  * **[[:ilo:obe:other:sarah|Sarah, Sarai]]**
-  * **[[:ilo:obe:kt:god|Dios]]**
+  * **[[:ilo:obe:other:abraham]]**
+  * **[[:ilo:obe:other:hagar]]**
+  * **[[:ilo:obe:other:ishmael]]**
+  * **[[:ilo:obe:other:sarah]]**
+  * **[[:ilo:obe:kt:god]]**
 
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
