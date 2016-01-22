@@ -2,15 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-07.jpg?nolink&}}
 
-Idi magmagna da Abraham ken Isaac a mapan idiay lugar a pagidatonan ket nagdamag ni Isaac, “Ama, addan ti kayo a mausar para iti panagdaton ngem ayanna ti karnero?” Simmungbat ni Abraham, “Anak ko, ti Dios ti mangisabet iti karnero a maidaton.”
+Idi magmgana da Abraham ken Isaac a paapan idiay lugar a pagidatunan ket nagdamag ni Isaac, “Ama, addan ti kayo a mausar para iti panagdatum ngem ayanna ti karnero?” Simmungbat ni Abraham, “Anak ko, ti Dios ti mangisabet iti karnero a maidatun.”
 
 ===== Dagiti Napapateg Nga Balikas: =====
 
-  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
-  * **[[:ilo:obe:other:isaac|Isaac]]**
-  * **[[:ilo:obe:other:sacrifice|datun, offering]]**
-  * **[[:ilo:obe:kt:lamb|urbon a karnero/kalding, Karneron ti Dios]]**
-  * **[[:ilo:obe:kt:god|Dios]]**
+
+  * **[[:ilo:obe:other:abraham]]**
+  * **[[:ilo:obe:other:isaac]]**
+  * **[[:ilo:obe:other:sacrifice]]**
+  * **[[:ilo:obe:kt:lamb]]**
+  * **[[:ilo:obe:kt:god]]**
+
 
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
