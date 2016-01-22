@@ -2,20 +2,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?nolink&}}
 
-Nagdardaras dagiti bunggoy ti tattao a mapan agkita iti daytoy a tao nga naagasan. Kinuna ni Pedro kadakuada, “Apay a nasdaaw kayu iti pagkaagas ti daytoy a tao? Saan a naggapu ti bukod mi a pannakabalin wennu kinaimbag ti nagpalaing iti daytoy a tao, nudi ti pannakabalin ni Jesus ken ti pammati nga ited ni Jesus.”
+Dagus nga immay dagiti tattao tapno kitaen da siasino diay tao a naagasan. Kinuna ni Pedro kadakuada, “Apay ta masmasdaaw kayo iti pannakaagas daytoy a tao? Saan mi nga inagasan isuna babaen iti bukod mi a pannakabalin wenno kinaimbag ngem ti pannakabalin ni Jesus ken ti pammati nga inted na ti nangagas iti daytoy a tao.”
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:heal]]**
-  * **[[:ilo:obe:other:peter]]**
-  * **[[:ilo:obe:kt:power]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:faith]]**
-
-
+  * **[[:ilo:obe:other:heal|heal, cure]]**
+  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
+  * **[[:ilo:obe:kt:power|power]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:faith|faith]]**
 ===== Translation Notes: =====
 
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
 **[[:ilo:obs:notes:frames:44-03|<<]] | [[:ilo:obs:notes:44|Up]] | [[:ilo:obs:notes:frames:44-05|>>]]**
