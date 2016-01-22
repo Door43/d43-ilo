@@ -6,14 +6,14 @@
 
 ===== Dagiti Napapateg Nga Balikas: =====
 
-  * **[[:ilo:obe:other:sarah|Sarah, Sarai]]**
-  * **[[:ilo:obe:kt:son|anak/putot a lalaki]]**
-  * **[[:ilo:obe:kt:promise|kari]]**
-  * **[[:ilo:obe:other:isaac|Isaac]]**
-  * **[[:ilo:obe:kt:covenant|katulagan]]**
-  * **[[:ilo:obe:other:ishmael|Ishmael]]**
-  * **Dios**
-  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ilo:obe:other:sarah]]**
+  * **[[:ilo:obe:kt:son]]**
+  * **[[:ilo:obe:kt:promise]]**
+  * **[[:ilo:obe:other:isaac]]**
+  * **[[:ilo:obe:kt:covenant]]**
+  * **[[:ilo:obe:other:ishmael]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:abraham]]**
 
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
