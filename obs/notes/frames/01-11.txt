@@ -6,12 +6,12 @@ Nagmula ti Dios iti duwa a naidumduma a kayo iti tingnga ti minuyungan. Ti kayo 
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:life|life]]**
-  * **[[:ilo:obe:kt:good|good]]**
-  * **[[:ilo:obe:kt:evil|evil]]**
-  * **[[:ilo:obe:other:adam|Adam]]**
-  * **[[:ilo:obe:kt:death|die]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:life]]**
+  * **[[:ilo:obe:kt:good]]**
+  * **[[:ilo:obe:kt:evil]]**
+  * **[[:ilo:obe:other:adam]]**
+  * **[[:ilo:obe:kt:death]]**
 ==== Translation Notes: ====
 
   * **in the middle**  - The central location emphasizes the importance of the two trees.
