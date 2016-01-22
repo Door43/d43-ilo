@@ -1,26 +1,22 @@
-===== Agbabawi Ken Agpabautisar Kayu [43-11] =====
+===== Agbabawi Ken Agpabautisar Kayo [43-11] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-11.jpg?nolink&}}
 
-Ket simmungbat ni Peter kadakuada ket kunana, “Masapul ng agbabawi ti tunggal maysa kadakayo ken mabautisaran babaen ti nagan ni Hesu Kristo tapnu mapakawan ti Dios dagiti basbasulyu. Ket ited nanto met lang kadakayu ti sagut ti Spiritu Santo.”
+Simmungbat ni Peter kadakuada ket kinunana, “Masapul nga agbabawi ti tunggal maysa kadakayo ken mabautisaran babaen iti nagan ni Jesu-Kristo tapno pakawanen ti Dios dagiti basbasolyo. Kalpasan na, itednanto met kadakayo ti sagut ti Espiritu Santo.”
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:peter]]**
-  * **[[:ilo:obe:kt:repent]]**
-  * **[[:ilo:obe:kt:baptize]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:forgive]]**
-  * **[[:ilo:obe:kt:sin]]**
-  * **[[:ilo:obe:kt:holyspirit]]**
-
-
+  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
+  * **[[:ilo:obe:kt:repent|repent, repentance]]**
+  * **[[:ilo:obe:kt:baptize|baptize, baptism]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:kt:forgive|forgive, forgiveness]]**
+  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ilo:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]**
 ===== Translation Notes: =====
 
-  * **in the name of** - This phrase means both, "by the authority of" and, "under the authority of." Consider translating the word "name" literally if it will be understood in this way in your language.
-  * **Christ** - This is the same meaning as "Messiah." It could be translated as "Anointed One" or, "Chosen One." Instead of translating the meaning, some translators may choose to keep the word "Christ" and spell it using the sounds in their own language.
-  * **Jesus Christ** - Since "Christ" is a title here, some translators may choose to change the order and say, "Christ Jesus." Both orders are used in the Bible.
-
-
+  * **in the name of**  - This phrase means both, "by the authority of" and, "under the authority of." Consider translating the word "name" literally if it will be understood in this way in your language.
+  * **Christ**  - This is the same meaning as "Messiah." It could be translated as "Anointed One" or, "Chosen One." Instead of translating the meaning, some translators may choose to keep the word "Christ" and spell it using the sounds in their own language.
+  * **Jesus Christ**  - Since "Christ" is a title here, some translators may choose to change the order and say, "Christ Jesus." Both orders are used in the Bible.
 **[[:ilo:obs:notes:frames:43-10|<<]] | [[:ilo:obs:notes:43|Up]] | [[:ilo:obs:notes:frames:43-12|>>]]**
