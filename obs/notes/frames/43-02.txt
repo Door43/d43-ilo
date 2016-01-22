@@ -2,22 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-02.jpg?nolink&}}
 
-Kada limapulo nga aldaw kalpasan ti panagrambak iti Passover (Panaglabas  ti Patay) ket rinambakan dagiti Judio ti napateg nga aldaw a maawagan iti Pentecostes. Iti Pentecostes ket isu iti tiempo a panagrambak dagiti Judio ti panaggaapit ti trigo. Napan idiay Jerusalem dagiti Judio a naggapu ti intero a lubong tapnun agmaymaysa da a mangrambak iti aldaw ti pentecostes. Iti dayta a tawen ket immay ti tiempo ti Pentecost kalpasan ti maysa a lawas kalpasan ti panagsublin ni Jesus sadiay langit.
+Tinawen iti tunggal limapulo nga aldaw kalpasan ti pannakarambak ti Ilalabas ti Patay, ramrambakan dagiti Judio ti napateg nga aldaw a maaw-awagan iti Pentecostes. Ti Pentecostes ket ti tiempo a panangrambak dagiti Judio iti pannakaapit dagiti trigo. Mapmapan idiay Jerusalem dagiti Judio manipud iti intero a lubong tapno agmaymaysa da a mangrambak iti aldaw ti Pentecostes. Ti aldaw Pentecostes iti daytoy a tawen ket maysa a lawas kalpasan ti panagsubli ni Jesus sadiay langit.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:passover]]**
-  * **[[:ilo:obe:other:jew]]**
-  * **[[:ilo:obe:other:jerusalem]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:heaven]]**
-
-
+  * **[[:ilo:obe:kt:passover|Passover]]**
+  * **[[:ilo:obe:other:jew|Jew, Jewish]]**
+  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
 ===== Translation Notes: =====
 
-  * **Pentecost** - "Pentecost" means "fiftieth (day)." You could use the word "Pentecost" in your translation and let the text explain the meaning. Or you could use a term that means, "50th day."
-  * **celebrated the wheat harvest** - The Jews would thank God for the wheat harvest by bringing offerings and celebrate by having special meals. Wheat is a grain crop; if you have no word that means "wheat," you can use a more general word for grain. This happened in May; other crops were harvested at other times of the year.
-  * **This year** - That is, "In the year that Jesus died."
-
-
+  * **Pentecost**  - "Pentecost" means "fiftieth (day)." You could use the word "Pentecost" in your translation and let the text explain the meaning. Or you could use a term that means, "50th day."
+  * **celebrated the wheat harvest**  - The Jews would thank God for the wheat harvest by bringing offerings and celebrate by having special meals. Wheat is a grain crop; if you have no word that means "wheat," you can use a more general word for grain. This happened in May; other crops were harvested at other times of the year.
+  * **This year**  - That is, "In the year that Jesus died."
 **[[:ilo:obs:notes:frames:43-01|<<]] | [[:ilo:obs:notes:43|Up]] | [[:ilo:obs:notes:frames:43-03|>>]]**
