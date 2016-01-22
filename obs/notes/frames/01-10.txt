@@ -7,9 +7,9 @@ Isua nangala ti Dios iti tapuk ket pinormana ti tao. Kelpasan daytoy, impuyutna 
 ===== Important Terms: =====
 
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:life|life]]**
-  * **[[:ilo:obe:other:adam|Adam]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:life]]**
+  * **[[:ilo:obe:other:adam]]**
 
 
 ==== Translation Notes: ====
