@@ -1,23 +1,19 @@
-===== Tallu A Ribu Ti Namati [43-12] =====
+===== Tallo A Ribu Ti Namati [43-12] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-12.jpg?nolink&}}
 
-Agarup tallo ribu a tattao ti namati iti imbaga ni Peter ket nagbalin da nga adalan ni Jesus. Ket nagpabautisar da ket nagbalin da a paset ti Iglesia idiay Jerusalem.
+Agarup tallo ribu a tattao ti namati iti imbaga ni Peter ket nagbalin da nga adalan ni Jesus. Nagpabautisar da ket nagbalin da a paset ti Iglesia idiay Jerusalem.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:believe]]**
-  * **[[:ilo:obe:other:peter]]**
-  * **[[:ilo:obe:kt:disciple]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:baptize]]**
-  * **[[:ilo:obe:kt:church]]**
-  * **[[:ilo:obe:other:jerusalem]]**
-
-
+  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
+  * **[[:ilo:obe:kt:disciple|disciple]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:baptize|baptize, baptism]]**
+  * **[[:ilo:obe:kt:church|church, Church]]**
+  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
 ===== Translation Notes: =====
 
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
 **[[:ilo:obs:notes:frames:43-11|<<]] | [[:ilo:obs:notes:43|Up]] | [[:ilo:obs:notes:frames:43-13|>>]]**
