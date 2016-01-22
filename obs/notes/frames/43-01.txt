@@ -2,22 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-01.jpg?nolink&}}
 
-Kalpasan a nagsubli ni Jesus idiay langit ket naftalinaed dagiti adalan na idiay Jerusalem kas imbilin ni Jesus nga aramidenda. Kanayun nga agguummung dagiti namati tapnun agkararag.
+Kalpasan a nagsubli ni Jesus idiay langit, nagtalinaed dagiti adalan idiay Jerusalem kas imbilin ni Jesus nga aramidenda. Kanayon nga aguummong dagiti namati tapno agkararag.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:heaven]]**
-  * **[[:ilo:obe:kt:disciple]]**
-  * **[[:ilo:obe:other:jerusalem]]**
-  * **[[:ilo:obe:kt:believer]]**
-  * **[[:ilo:obe:other:pray]]**
-
-
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
+  * **[[:ilo:obe:kt:disciple|disciple]]**
+  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
+  * **[[:ilo:obe:kt:believer|believer]]**
+  * **[[:ilo:obe:other:pray|pray, prayer]]**
 ===== Translation Notes: =====
 
-  * **returned to heaven** - That is, "went back to heaven."
-  * **stayed in Jerusalem** - That is, "stayed in Jerusalem for awhile." They didn't stay there permanently.
-
-
+  * **returned to heaven**  - That is, "went back to heaven."
+  * **stayed in Jerusalem**  - That is, "stayed in Jerusalem for awhile." They didn't stay there permanently.
 **[[:ilo:obs:notes:frames:42-11|<<]] | [[:ilo:obs:notes:43|Up]] | [[:ilo:obs:notes:frames:43-02|>>]]**
