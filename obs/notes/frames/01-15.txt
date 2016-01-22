@@ -6,9 +6,9 @@ Inaramid ti Dios iti lalake ken babae a kaasping na. Binendisyunan ti Dios ida k
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:bless|blessed]]**
-  * **[[:ilo:obe:kt:good|good]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:bless]]**
+  * **[[:ilo:obe:kt:good]]**
 ==== Translation Notes: ====
 
   * **God made**  - God formed the man and the woman in a very personal way.
