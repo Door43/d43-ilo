@@ -6,12 +6,12 @@ Iti dayta nga aldaw kinugit ni Abraham amin a lallaki iti entero a pagtaengan na
 
 ===== Dagiti Napapateg Nga Balikas: =====
 
-  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
-  * **[[:ilo:obe:kt:circumcise|kugit, panagkugit]]**
-  * **[[:ilo:obe:other:sarah|Sarah, Sarai]]**
-  * **[[:ilo:obe:kt:son|anak/putot a lalaki]]**
-  * **[[:ilo:obe:other:isaac|Isaac]]**
-  * **[[:ilo:obe:kt:god|Dios]]**
+  * **[[:ilo:obe:other:abraham]]**
+  * **[[:ilo:obe:kt:circumcise]]**
+  * **[[:ilo:obe:other:sarah]]**
+  * **[[:ilo:obe:kt:son]]**
+  * **[[:ilo:obe:other:isaac]]**
+  * **[[:ilo:obe:kt:god]]**
 
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
