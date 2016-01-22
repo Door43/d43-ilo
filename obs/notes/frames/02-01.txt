@@ -6,24 +6,15 @@ Agbibiag ni Adam ken ti asawa na a siraragsak idiay hardin nga inaramid ti Dios 
 
 ===== Important Terms: =====
 
-  *
+  * **[[:ilo:obe:other:adam]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:sin]]**
 
-**[[https://door43.org/ilo/obe/other/adam|Adam]]**
-  *
 
-**[[https://door43.org/ilo/obe/kt/god|God]]**
-  *
-
-**[[https://door43.org/ilo/obe/kt/sin|sin]]**
 ==== Translation Notes: ====
 
-  *
+  * **garden**  - A special collection of trees and plants that God prepared for Adam and Eve to enjoy and from which to eat. This should be the same word that was used in **[[:ilo:obs:notes:frames:01-11|[01-11]]]**. See how you translated it there.
+  * **talked with God**  - The word for "talk" should be the same as would be used to refer to talking to a human being. God may have taken a physical form to talk to the man and the woman since the text indicates that they talked to him face-to-face.
+  * **shame**  - The feeling that comes with knowing we have sinned or that we fall short in some way.
 
-**garden** - A special collection of trees and plants that God prepared for Adam and Eve to enjoy and from which to eat. This should be the same word that was used in **[[https://door43.org/en/obs/notes/frames/01-11|[01-11]]]**. See how you translated it there.
-  *
-
-**talked with God** - The word for “talk” should be the same as would be used to refer to talking to a human being. God may have taken a physical form to talk to the man and the woman since the text indicates that they talked to him face-to-face.
-  *
-
-**shame** - The feeling that comes with knowing we have sinned or that we fall short in some way.
-**[[https://door43.org/ilo/obs/notes/frames/01-16|<<]] | [[https://door43.org/ilo/obs/notes/02|Up]] | [[https://door43.org/ilo/obs/notes/frames/02-02|>>]]**
+**[[:ilo:obs:notes:frames:01-16|<<]] | [[:ilo:obs:notes:02|Up]] | [[:ilo:obs:notes:frames:02-02|>>]]**
