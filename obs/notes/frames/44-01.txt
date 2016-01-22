@@ -2,20 +2,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?nolink&}}
 
-Iti maysa nga aldaw, mapmapan ni Peter kenni John iti tiemplo. Idi nakadanun da iti ruangan ti tiemplo, nakakita da iti maysa a lalaki a saan a makapagna nga agpalpalimos ti kuarta.
+Iti maysa nga aldaw, mapmapan ni Peter kenni John idiay tiemplo. Kas sumungad da iti ruangan ti tiemplo ket nakita da ti maysa a pilay a lalaki nga agpalpalama iti kuarta.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:peter]]**
-  * **[[:ilo:obe:other:johntheapostle]]**
-  * **[[:ilo:obe:kt:temple]]**
-  * **[[:ilo:obe:other:beg]]**
-
-
+  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
+  * **[[:ilo:obe:other:johntheapostle|John (the apostle)]]**
+  * **[[:ilo:obe:kt:temple|temple]]**
+  * **[[:ilo:obe:other:beg|beg, beggar]]**
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **a crippled man** - This could also be translated as, "a lame man." This refers to a man who did not have full use of his legs, and could not stand or walk.
-
-
+  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
+  * **a crippled man**  - This could also be translated as, "a lame man." This refers to a man who did not have full use of his legs, and could not stand or walk.
 **[[:ilo:obs:notes:frames:43-13|<<]] | [[:ilo:obs:notes:44|Up]] | [[:ilo:obs:notes:frames:44-02|>>]]**
