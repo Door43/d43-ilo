@@ -6,42 +6,19 @@ Ket imbaga ti Dios,”Itatta nagbalin a kas kadatayun dagiti tattao babaen iti p
 
 ===== Important Terms: =====
 
-  *
-
-**[[https://door43.org/ilo/obe/kt/god|God]]**
-  *
-
-**[[https://door43.org/ilo/obe/kt/good|good]]**
-  *
-
-**[[https://door43.org/ilo/obe/kt/evil|evil]]**
-  *
-
-**[[https://door43.org/ilo/obe/kt/life|life]]**
-  *
-
-**[[https://door43.org/ilo/obe/other/adam|Adam]]**
-  *
-
-**[[https://door43.org/ilo/obe/other/eve|Eve]]**
-  *
-
-**[[https://door43.org/ilo/obe/kt/angel|angels]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:Ilo:obe:kt:good]]**
+  * **[[:ilo:obe:kt:evil]]**
+  * **[[:ilo:obe:kt:life]]**
+  * **[[:ilo:obe:other:adam]]**
+  * **[[:ilo:obe:other:eve]]**
+  * **[[:ilo:obe:kt:angel]]**
 
 ===== Translation Notes: =====
 
-  *
+  * **like us by knowing good and evil**  - Here, this phrase points to a new way that Adam and Eve would be like God. Because they had sinned, they were aware of evil and could experience it. You could say, “because now they knew both good and evil.”
+  * **fruit**  - The specific kind of fruit is not revealed, so it is best to translate this using a general word for fruit.
+  * **tree of life**  - This was an actual tree with fruit. See **[[:en:obs:notes:frames:01-11|[01-11]]]**. If a person ate this fruit he would live continually and never die.
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.  
 
-**like us by knowing good and evil**  - Here, this phrase points to a new way that Adam and Eve would be like God. Because they had sinned, they were aware of evil and could experience it. You could say, “because now they knew both good and evil.”
-
-  *
-
-**fruit**  - The specific kind of fruit is not revealed, so it is best to translate this using a general word for fruit.
-
-  *
-
-**tree of life**  - This was an actual tree with fruit. See **[[https://door43.org/en/obs/notes/frames/01-11|[01-11]]]**. If a person ate this fruit he would live continually and never die.
-
-  *
-
-//A Bible story from//  - These references may be slightly different in some Bible translations. **[[https://door43.org/ilo/obs/notes/frames/02-11|<<]] | [[https://door43.org/ilo/obs/notes/02|Up]] | [[https://door43.org/ilo/obs/notes/frames/03-01|>>]]**
+**[[:ilo:obs:notes:frames:02-11|<<]] | [[:ilo:obs:notes:02|Up]] | [[:ilo:obs:notes:frames:03-01|>>]]**
