@@ -2,21 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-12.jpg?nolink&}}
 
-Ket namati ti guwardia ken ti pamilya na kenni Jesus ken nabautisaran da. Santo nangted iti makan ti guwardia kada Paul ken Silas. Ket nagrag-o da a maymaysa.
+Namati ti guwardia ken ti entero a pamilya na kenni Jesus ken nabautisaran da. Nangted ti guwardia iti makan kada Paul ken Silas ket nagrag-o da a sangsangkamaysa.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:believe]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:baptize]]**
-  * **[[:ilo:obe:other:paul]]**
-  * **[[:ilo:obe:other:silas]]**
-  * **[[:ilo:obe:kt:joy]]**
-
-
+  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:baptize|baptize, baptism]]**
+  * **[[:ilo:obe:other:paul|Paul, Saul]]**
+  * **[[:ilo:obe:other:silas|Silas, Silvanus]]**
+  * **[[:ilo:obe:kt:joy|joy, joyful]]**
 ===== Translation Notes: =====
 
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
 **[[:ilo:obs:notes:frames:47-11|<<]] | [[:ilo:obs:notes:47|Up]] | [[:ilo:obs:notes:frames:47-13|>>]]**
