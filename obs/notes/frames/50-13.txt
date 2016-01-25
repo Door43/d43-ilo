@@ -2,34 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-13.jpg?nolink&}}
 
-Inkari ni Jesus nga ikkan na iti korona iti tunggal maysa a mamati kenkuana. Agbiag da ken agari da a kadwa da ti Dios ingainggana iti naananay a kapya.
-
-
-
-
-
-
-
-
-
-
-
-
+Inkari ni Jesus nga ikkannanto iti korona ti tunggal maysa a mamati kenkuana. Agbiag ken makipagturay danto iti Dios iti naan-anay ken agnanayon a kapya.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:promise]]**
-  * **[[:ilo:obe:kt:believe]]**
-  * **[[:ilo:obe:kt:life]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:peace]]**
-
-
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:promise|promise]]**
+  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:ilo:obe:kt:life|life, live, living, alive]]**
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:other:peace|peace, peaceful]]**
 ===== Translation Notes: =====
 
-  * **crown** - This crown represents our reward for believing in Jesus and serving him in this life.
-  * **perfect** - That is, "complete" or, "total."
-
-
+  * **crown**  - This crown represents our reward for believing in Jesus and serving him in this life.
+  * **perfect**  - That is, "complete" or, "total."
 **[[:ilo:obs:notes:frames:50-12|<<]] | [[:ilo:obs:notes:50|Up]] | [[:ilo:obs:notes:frames:50-14|>>]]**
