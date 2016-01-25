@@ -1,32 +1,17 @@
-===== Ti Kabusur [50-05] =====
+===== Ti Kabusor [50-05] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?nolink&}}
 
-Nagistorya ni Jesus kadagiti adalan na tapno ilawlawag dagiti mapasamak intun panungpalan iti lubong. Kinuna na, “Nagmula ti maysa a lalaki ti napinpintas a bukel iti taltalun na. Kabayatan a matmaturog isuna ket immay ti kabusur na ket nagmula met iti lidda idiay kapagpagayan
-
-
-santu pimmanaw.”
-
-
-
-
-
-
-
-
+Imbaga ni Jesus daytoy nga istorya kadagiti adalan na tapno ilawlawag dagiti mapasamak inton panungpalan ti lubong. Kinuna na, “Nagmula ti maysa a lalaki iti napintas a bukel iti taltalun na. Kabayatan a matmaturog isuna, immay ti kabusor na ket nagmula met iti ruot idiay kapagpagayan ken kalpasan na pimmanawen.”
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:disciple]]**
-  * **[[:ilo:obe:kt:good]]**
-
-
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:disciple|disciple]]**
+  * **[[:ilo:obe:kt:good|good, goodness]]**
 ===== Translation Notes: =====
 
-  * **good seed** - This seed was wheat grain. If this type of seed is not known in your language area, it is best to use a general term for "seed." If there is no general term, it may be necessary to choose a type of grain seed that is known and say, for example, "good seed like rice."
-  * **weed seeds** - The weed seeds that were planted would grow up as tall grass but could not be eaten. They were useless.
-  * **wheat** - That is, "wheat seeds." Wheat is a kind of grain that grows like a tall grass. It has seeds that people use for food.
-
-
+  * **good seed**  - This seed was wheat grain. If this type of seed is not known in your language area, it is best to use a general term for "seed." If there is no general term, it may be necessary to choose a type of grain seed that is known and say, for example, "good seed like rice."
+  * **weed seeds**  - The weed seeds that were planted would grow up as tall grass but could not be eaten. They were useless.
+  * **wheat**  - That is, "wheat seeds." Wheat is a kind of grain that grows like a tall grass. It has seeds that people use for food.
 **[[:ilo:obs:notes:frames:50-04|<<]] | [[:ilo:obs:notes:50|Up]] | [[:ilo:obs:notes:frames:50-06|>>]]**
