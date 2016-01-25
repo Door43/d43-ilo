@@ -2,19 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-01.jpg?nolink&}}
 
-Inbaga ti anghel iti birhen nga agnagan Maria nga isunantu ti agipasngay iti anak ti Dios. Isu a kabayatan a nagtaltalinaed a birhen, nagsikug ket nagpasngay iti maysa a lalaki ni Maria. Ket ninaganan da a Jesus. Ngarud, Dios ken tao met laing ni Jesus.
+Imbaga ti maysa nga anghel iti birhen nga agnagan iti Maria nga ipasngay nanto ti Anak ti Dios. Isua kabayatan a birhen pay laeng isuna ket impasngay na ti maysa a lalaki ket pinanaganan na iti Jesus. Ngarud agpada a Dios ken tao ni Jesus.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:virgin]]**
-  * **[[:ilo:obe:other:mary]]**
-  * **[[:ilo:obe:kt:sonofgod]]**
-  * **[[:ilo:obe:kt:jesus]]**
-
-
+  * **[[:ilo:obe:other:virgin|virgin]]**
+  * **[[:ilo:obe:other:mary|Mary]]**
+  * **[[:ilo:obe:kt:sonofgod|Son of God, the Son]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
 ===== Translation Notes: =====
 
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
 **[[:ilo:obs:notes:frames:48-14|<<]] | [[:ilo:obs:notes:49|Up]] | [[:ilo:obs:notes:frames:49-02|>>]]**
