@@ -1,4 +1,4 @@
-===== Binarsabarsakda Iti Batu Ni Stephen [45-04] =====
+===== Binarsabarsakda Iti Bato Ni Stephen [45-04] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-04.jpg?nolink&}}
 
@@ -6,13 +6,9 @@ Idi nangngeg dagiti panguluen ti relihiyon dagiti imbaga na ket nakaungetda ket 
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:jewishleaders]]**
-
-
+  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
 ===== Translation Notes: =====
 
-  * **covered their ears** - This could also be translated as, "They put their hands over their ears." This was to show that they did not want to hear what Stephen said.
-  * **yelled loudly** - They were yelling in anger. Translate this in a way that communicates that they were very upset.
-
-
+  * **covered their ears**  - This could also be translated as, "They put their hands over their ears." This was to show that they did not want to hear what Stephen said.
+  * **yelled loudly**  - They were yelling in anger. Translate this in a way that communicates that they were very upset.
 **[[:ilo:obs:notes:frames:45-03|<<]] | [[:ilo:obs:notes:45|Up]] | [[:ilo:obs:notes:frames:45-05|>>]]**
