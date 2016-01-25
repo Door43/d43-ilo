@@ -1,27 +1,24 @@
-===== The Lamb of God [48-08] =====
+===== Ti Karnero Ti Dios [48-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-08.jpg?nolink&}}
 
-When **God** told **Abraham** to offer his **son**, **Isaac**, as a **sacrifice**, God provided a **lamb** for the sacrifice **instead of his son**, **Isaac**. We all **deserve to die** for our **sins**! But God provided **Jesus**, the **Lamb of God**, as a sacrifice **to die in our place**.
+Idi imbaga ti Dios kenni Abraham nga idaton na ti anak na a ni Isaac, impaay ti Dios ti karnero a daton imbes a ti anak na a ni Isaac. Maikaritayo amin a matay gapo kadagiti basbasol tayo! Ngem impaay ti Dios ni Jesus kas Karnero ti Dios a maidaton tapno matay a para kadatayo.
+
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:abraham]]**
-  * **[[:ilo:obe:kt:son]]**
-  * **[[:ilo:obe:other:isaac]]**
-  * **[[:ilo:obe:other:sacrifice]]**
-  * **[[:ilo:obe:kt:lamb]]**
-  * **[[:ilo:obe:kt:death]]**
-  * **[[:ilo:obe:kt:sin]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:lamb]]**
-
-
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ilo:obe:kt:son|son]]**
+  * **[[:ilo:obe:other:isaac|Isaac]]**
+  * **[[:ilo:obe:other:sacrifice|sacrifice, offering]]**
+  * **[[:ilo:obe:kt:lamb|lamb, Lamb of God]]**
+  * **[[:ilo:obe:kt:death|death, die, dead]]**
+  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:lamb|lamb, Lamb of God]]**
 ===== Translation Notes: =====
 
-  * **instead of his son, Isaac** - This can also be translated as, "in the place of his son, Isaac" or, "in his son Isaac's place" or, "so that he would not have to offer his son Isaac as a sacrifice."
-  * **deserve to die** - That is, "should die."
-  * **to die in our place** - This can also be translated as, "to die in the place of each of us" or, "so that he would not have to kill us."
-
-
+  * **instead of his son, Isaac**  - This can also be translated as, "in the place of his son, Isaac" or, "in his son Isaac's place" or, "so that he would not have to offer his son Isaac as a sacrifice."
+  * **deserve to die**  - That is, "should die."
+  * **to die in our place**  - This can also be translated as, "to die in the place of each of us" or, "so that he would not have to kill us."
 **[[:ilo:obs:notes:frames:48-07|<<]] | [[:ilo:obs:notes:48|Up]] | [[:ilo:obs:notes:frames:48-09|>>]]**
