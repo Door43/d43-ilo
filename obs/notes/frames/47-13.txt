@@ -2,23 +2,19 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?nolink&}}
 
-Iti summaruno nga aldaw, pinalubusan dagiti panguluen ti siudad ni Paul ken Silas iti pagbaludan ken kiniddaw da kadakuada a pumanaw da laingen idiay Philippi. Binisita ni Lydia ken dagiti daduma pay ida santo da pimmadaw idiay siudad. Nagtultuloy a niwaras ti naimbag a damag a maipapan kenni Jesus. Ket tuloytuloy a dumakdakkel ti Iglesia.
+Iti sumaruno nga aldaw, pinalubusan dagiti panguloen ti siudad da Paul ken Silas manipud iti pagbaludan ken kiniddaw da kadakuada a pumanaw dan idiay Philippi. Binisitada ni Lydia ken dagiti daduma pay a gagayyem da iti dayta a siudad ken kalpasan na pimmanaw dan manipud iti dayta a lugar. Nagtultuloy a naisaknap ti naimbag a damag a maipapan kenni Jesus. Ken nagtultuloy a dimmakkel ti Iglesia.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:paul]]**
-  * **[[:ilo:obe:other:silas]]**
-  * **[[:ilo:obe:other:philippi]]**
-  * **[[:ilo:obe:kt:goodnews]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:church]]**
-
-
+  * **[[:ilo:obe:other:paul|Paul, Saul]]**
+  * **[[:ilo:obe:other:silas|Silas, Silvanus]]**
+  * **[[:ilo:obe:other:philippi|Philippi]]**
+  * **[[:ilo:obe:kt:goodnews|good news, gospel]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:church|church, Church]]**
 ===== Translation Notes: =====
 
-  * **the leaders of the city** - This refers to, "the officials of the city" or, "the authorities of the city."
-  * **The good news about Jesus kept spreading** - That is, "People in more and more places were hearing the good news about Jesus."
-  * **the Church kept growing** - That is, "more and more people were becoming part of the Church" or, "more and more people were believing in Jesus."
-
-
+  * **the leaders of the city**  - This refers to, "the officials of the city" or, "the authorities of the city."
+  * **The good news about Jesus kept spreading**  - That is, "People in more and more places were hearing the good news about Jesus."
+  * **the Church kept growing**  - That is, "more and more people were becoming part of the Church" or, "more and more people were believing in Jesus."
 **[[:ilo:obs:notes:frames:47-12|<<]] | [[:ilo:obs:notes:47|Up]] | [[:ilo:obs:notes:frames:47-14|>>]]**
