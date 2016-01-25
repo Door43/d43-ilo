@@ -2,30 +2,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-07.jpg?nolink&}}
 
-Insuro ni Jesus nga ay-ayaten launay ti Dios dagiti managbasbasul. Kayat na pakawanen ken pagbalinen nga anak na ida.
-
-
-
-
-
-
-
-
-
-
+Insuro ni Jesus nga ay-ayaten launay ti Dios dagiti managbasol. Kayat na a pakawanen ida ken pagbalinen nga annakna.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:love]]**
-  * **[[:ilo:obe:kt:sin]]**
-  * **[[:ilo:obe:kt:forgive]]**
-
-
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:love|love]]**
+  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ilo:obe:kt:forgive|forgive, forgiveness]]**
 ===== Translation Notes: =====
 
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
 **[[:ilo:obs:notes:frames:49-06|<<]] | [[:ilo:obs:notes:49|Up]] | [[:ilo:obs:notes:frames:49-08|>>]]**
