@@ -2,35 +2,21 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-09.jpg?nolink&}}
 
-Ngem ay-ayaten launay ti Dios iti tunggal maysa iti lubong isu nga inted na ti kakaisuna nga anak na tapnun ti siasinuman a mamati kenni Jesus ket saan nga maparigat iti basbasul na ngem agbiag tu a kadwa na ti Dios iti awan patinggana.
-
-
-
-
-
-
-
-
-
-
+Ngem ay-ayaten ti Dios ti tunggal maysa ditoy lubong isunga inted na ti kakaisuna nga Anakna tapno ti siasinoman a mamati kenni Jesus ket saanto a madusa gapo kadagiti basbasolna ngem agnanayon nga agbiagto isuna iti denna ti Dios.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:love]]**
-  * **[[:ilo:obe:kt:sonofgod]]**
-  * **[[:ilo:obe:kt:believe]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:other:punish]]**
-  * **[[:ilo:obe:kt:sin]]**
-  * **[[:ilo:obe:kt:life]]**
-
-
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:love|love]]**
+  * **[[:ilo:obe:kt:sonofgod|Son of God, the Son]]**
+  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:other:punish|punish, punishment]]**
+  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ilo:obe:kt:life|life, live, living, alive]]**
 ===== Translation Notes: =====
 
-  * **gave his only Son** - This could also be translated as, "offered his only Son to the world as a sacrifice for sins" or, "gave us his only Son to be a sacrifice for our sins."
-  * **whoever believes** - This could also be translated as, "anyone who believes."
-  * **whoever believes in Jesus will not be punished for his sins, but will live with God forever** - This could also be translated as, "When anyone believes in Jesus, God will not punish that person for his sins, but will allow him to live with God forever."
-
-
+  * **gave his only Son**  - This could also be translated as, "offered his only Son to the world as a sacrifice for sins" or, "gave us his only Son to be a sacrifice for our sins."
+  * **whoever believes**  - This could also be translated as, "anyone who believes."
+  * **whoever believes in Jesus will not be punished for his sins, but will live with God forever**  - This could also be translated as, "When anyone believes in Jesus, God will not punish that person for his sins, but will allow him to live with God forever."
 **[[:ilo:obs:notes:frames:49-08|<<]] | [[:ilo:obs:notes:49|Up]] | [[:ilo:obs:notes:frames:49-10|>>]]**
