@@ -2,19 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-07.jpg?nolink&}}
 
-Isua inalan iti amon ti  babai a tagabo da Paul ken Silas ket inyapan na kadagiti opisyales ti Roma. Isu da iti nangbabaut kadakuada ken nangiyapan idiay pagbaludan.
+Inyapan ngarud diay amo ti tagabo a babae da Paul ken Silas iti imatang dagiti opisyales ti Roman. Dinangdangran ken inkabil da ida iti pagbaludan.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:servant]]**
-  * **[[:ilo:obe:other:paul]]**
-  * **[[:ilo:obe:other:silas]]**
-  * **[[:ilo:obe:other:rome]]**
-
-
+  * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
+  * **[[:ilo:obe:other:paul|Paul, Saul]]**
+  * **[[:ilo:obe:other:silas|Silas, Silvanus]]**
+  * **[[:ilo:obe:other:rome|Rome, Roman]]**
 ===== Translation Notes: =====
 
-  * **threw them** - That is, "put them."
-
-
+  * **threw them**  - That is, "put them."
 **[[:ilo:obs:notes:frames:47-06|<<]] | [[:ilo:obs:notes:47|Up]] | [[:ilo:obs:notes:frames:47-08|>>]]**
