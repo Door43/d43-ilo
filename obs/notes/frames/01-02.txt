@@ -8,11 +8,16 @@ Kalpasanna kinuna ti Dios, “Maadda ti lawag.” Ket naada ti lawag. Nakita ti 
 
   * **[[:ilo:obe:kt:god]]**
   * **[[:ilo:obe:kt:good]]**
-==== Translation Notes: ====
+==== **Pannakaipakaawat Kadagiti Sarsarita**: ====
 
-  * **God said**  - God created light by means of a simple verbal command. **Kinunan ti Dios **- Pinarsuan ti Dios ti lawag babaen ti mandar a pagsasao.
-  * **let there be**  - This is a command that happened immediately because it was spoken by God. It may be more natural to translate this as a statement of certainty that this would definitely happen. For example, you could translate this as, "God said, 'There will be light.'" **maadda **- Daytoy a mandar ket insigida a natungpar gapu ta Dios ti nagsao. Siguro mas nasaysayaat a maibalikas daytoy iti panagsasao nga sigurado a matungpal. Kaspangarigan, "Kinunan ti Dios, 'maadda ti lawag.'"
-  * **light**  - This was a special light that God created–the sun was not created until later. **lawag**  - Naidumduma/espesyal daytoy a lawag a pinarsuan ti Dios - ti init/sun ket saan pay a naparsua agginga sumaruno nga aldaw/tiempo.
-  * **was good**  - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose. **Nasayaat**  - Daytoy a sao ket napaminduwa a naosar iti pakaistoryaan ti panagparsua (ti Dios) ket isu nangpaneknek a kada maysa a stage ket naayayo iti Dios ken natungpal ti plano ken panggep na.
-  * **creation**  - This word is used here to refer to the six-day period during which God made everything that exists. **parsua**  - Daytoy a sao ket maipapan iti ennem nga aldaw a tiempo a nag'aramidan/nagparsuan ti amin nga adda.
+  * **God said**  - God created light by means of a simple verbal command.
+  * **Kinunan ti Dios **- Pinarsuan ti Dios ti lawag babaen ti mandar a pagsasao.
+  * **let there be**  - This is a command that happened immediately because it was spoken by God. It may be more natural to translate this as a statement of certainty that this would definitely happen. For example, you could translate this as, "God said, 'There will be light.'"
+  * **maadda **- Daytoy a mandar ket insigida a natungpar gapu ta Dios ti nagsao. Siguro mas nasaysayaat a maibalikas daytoy iti panagsasao nga sigurado a matungpal. Kaspangarigan, "Kinunan ti Dios, 'maadda ti lawag.'"
+  * **light**  - This was a special light that God created–the sun was not created until later.
+  * **lawag**  - Naidumduma/espesyal daytoy a lawag a pinarsuan ti Dios - ti init/sun ket saan pay a naparsua agginga sumaruno nga aldaw/tiempo.
+  * **was good**  - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
+  * **Nasayaat**  - Daytoy a sao ket napaminduwa a naosar iti pakaistoryaan ti panagparsua (ti Dios) ket isu nangpaneknek a kada maysa a stage ket naayayo iti Dios ken natungpal ti plano ken panggep na.
+  * **creation**  - This word is used here to refer to the six-day period during which God made everything that exists.
+  * **parsua**  - Daytoy a sao ket maipapan iti ennem nga aldaw a tiempo a nag'aramidan/nagparsuan ti amin nga adda.
 **[[:ilo:obs:notes:frames:01-01|<<]] | [[:ilo:obs:notes:01|Up]] | [[:ilo:obs:notes:frames:01-03|>>]]**
