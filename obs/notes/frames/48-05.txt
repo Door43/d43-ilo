@@ -1,20 +1,17 @@
-===== A Way of Salvation [48-05] =====
+===== Ti Dalan Ti Pannakaisalakan [48-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?nolink&}}
 
-When **God** destroyed the whole earth by the flood, he provided the boat to **save** the people who **believed** in him. In the same way, everyone deserves to be **destroyed because of their sins**, but God provided **Jesus** to save everyone who believes in him.
+Idi dinadael ti Dios ti entero a lubong babaen iti layus ken impaay na ti daong tapno maisalakan dagiti mamati kenkuana. Iti isumet laeng a wagas ket maikari a madadael dagiti amin a tattao gapo iti basol da ngem impaay ti Dios ni Jesus tapno maisalakan dagiti amin a mamati kenkuana.
+
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:save]]**
-  * **[[:ilo:obe:kt:believe]]**
-  * **[[:ilo:obe:kt:sin]]**
-  * **[[:ilo:obe:kt:jesus]]**
-
-
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:save|save, safe]]**
+  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
 ===== Translation Notes: =====
 
-  * **destroyed because of their sins** - This could also be translated as, "everyone should be punished eternally by God because they have sinned."
-
-
+  * **destroyed because of their sins**  - This could also be translated as, "everyone should be punished eternally by God because they have sinned."
 **[[:ilo:obs:notes:frames:48-04|<<]] | [[:ilo:obs:notes:48|Up]] | [[:ilo:obs:notes:frames:48-06|>>]]**
