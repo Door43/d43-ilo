@@ -1,23 +1,20 @@
-===== King of the Universe [48-14] =====
+===== Ti Ari Ti Lubong [48-14] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-14.jpg?nolink&}}
 
-**David** was the **king** of **Israel**, but **Jesus** is **the king of the entire universe**! He will come again and rule his **kingdom** with **justice** and **peace**, forever.
+Ni David ket ari ti Israel ngem ni Jesus ket Ari iti intero a sangaparsuaan! Agsublinto manen isuna ket iturayan na ti pagarian na nga addaan iti agnanayon a naananay a hustisya ken kapia.
+
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:david]]**
-  * **[[:ilo:obe:other:king]]**
-  * **[[:ilo:obe:other:israel]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:kingdomofgod]]**
-  * **[[:ilo:obe:kt:justice]]**
-  * **[[:ilo:obe:other:peace]]**
-
-
+  * **[[:ilo:obe:other:david|David]]**
+  * **[[:ilo:obe:other:king|king]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven]]**
+  * **[[:ilo:obe:kt:justice|just, justice, justly]]**
+  * **[[:ilo:obe:other:peace|peace, peaceful]]**
 ===== Translation Notes: =====
 
-  * **the king of the entire universe** - That is, "the king over everyone and everything everywhere."
+  * **the king of the entire universe**  - That is, "the king over everyone and everything everywhere."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
 **[[:ilo:obs:notes:frames:48-13|<<]] | [[:ilo:obs:notes:48|Up]] | [[:ilo:obs:notes:frames:49-01|>>]]**
