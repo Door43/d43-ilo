@@ -2,22 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-08.jpg?nolink&}}
 
-Napan ni Saul idiay Jerusalem tapnun makisinnarak kadagiti adalan, ngem nagbuteng da kenkuana. Ket ti namati nga agnagan iti Barnabas kinuyog  na ni Saul kadagiti Apostoles ket imbaga na kadakuada nu kasatnu a ni Saul ken kasanu nga situtured a nangaskasaba idiay Damascus. Kalpasan na, inawat dagiti adalan ni Saul.
+Napan ni Saul idiay Jerusalem tapno kitaen na dagiti adalan sadiay ngem nagbuteng da kenkuana. Nakaapan na ni Saul kadagiti Apostoles babaen iti maysa a namati nga agnagan iti Barnabas. Imbaga na pay kadakuada nu kasano a situtured a nangaskasaba ni Saul idiay Damascus. Kalpasan daytoy, inawaten dagiti adalan ni Saul.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:paul]]**
-  * **[[:ilo:obe:other:jerusalem]]**
-  * **[[:ilo:obe:kt:disciple]]**
-  * **[[:ilo:obe:kt:believer]]**
-  * **[[:ilo:obe:other:barnabas]]**
-  * **[[:ilo:obe:kt:apostle]]**
-  * **[[:ilo:obe:other:preach]]**
-
-
+  * **[[:ilo:obe:other:paul|Paul, Saul]]**
+  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
+  * **[[:ilo:obe:kt:disciple|disciple]]**
+  * **[[:ilo:obe:kt:believer|believer]]**
+  * **[[:ilo:obe:other:barnabas|Barnabas]]**
+  * **[[:ilo:obe:kt:apostle|apostle, apostleship]]**
+  * **[[:ilo:obe:other:preach|preach]]**
 ===== Translation Notes: =====
 
-  * **accepted Saul** - That is, "believed that Saul also was a believer in Jesus."
-
-
+  * **accepted Saul**  - That is, "believed that Saul also was a believer in Jesus."
 **[[:ilo:obs:notes:frames:46-07|<<]] | [[:ilo:obs:notes:46|Up]] | [[:ilo:obs:notes:frames:46-09|>>]]**
