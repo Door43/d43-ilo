@@ -1,19 +1,16 @@
-===== Enemies of God [48-03] =====
+===== Dagiti Kabusor Ti Dios [48-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-03.jpg?nolink&}}
 
-Because **Adam** and **Eve sinned**, something **even more terrible** happened. They became enemies of **God**. As a result, every person since then has been born with a sinful nature and is also an enemy of God. The relationship between God and people was broken by sin. But God had a plan to restore that relationship.
+Gapo ta nagbasol ni Adam ken Eve, adda pay ti nakarkaro a napasamak. Nagbalin dan a kabusor ti Dios. Kas supapak na, manipud idi aminen a maiyanak a tao ket addaanen iti managbasul a kababalin ken kabusoren ida ti Dios. Dinadael ti basol ti relasion ti Dios ken ti tao. Ngem adda plano ti Dios tapno maisubli na dayta a relasyon.
+
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:adam]]**
-  * **[[:ilo:obe:other:eve]]**
-  * **[[:ilo:obe:kt:sin]]**
-  * **[[:ilo:obe:kt:god]]**
-
-
+  * **[[:ilo:obe:other:adam|Adam]]**
+  * **[[:ilo:obe:other:eve|Eve]]**
+  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
 ===== Translation Notes: =====
 
-  * **even more terrible** - That is, "much worse" or, "worse yet."
-
-
+  * **even more terrible**  - That is, "much worse" or, "worse yet."
 **[[:ilo:obs:notes:frames:48-02|<<]] | [[:ilo:obs:notes:48|Up]] | [[:ilo:obs:notes:frames:48-04|>>]]**
