@@ -1,22 +1,19 @@
-===== Adam and Eve Sinned [48-02] =====
+===== Nagbasol da Adam Ken Eve [48-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-02.jpg?nolink&}}
 
-**Satan** spoke through the snake in **the garden** in order to **deceive Eve**. Then she and **Adam sinned** against **God**. Because they sinned, everyone on earth gets sick and everyone **dies**.
+Nagtimek ni Satanas idiay minuyongan ti Eden babaen iti maysa nga uleg tapno allilawen na ni Eve. Kalpasan daytoy, nagbasol da kenni Adam iti maibusor iti Dios. Gapo ta nagbasol da ket mangrugi metten nga agsakit ken matay dagiti amin nga adda ditoy lubong.
+
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:satan]]**
-  * **[[:ilo:obe:other:eve]]**
-  * **[[:ilo:obe:other:adam]]**
-  * **[[:ilo:obe:kt:sin]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:death]]**
-
-
+  * **[[:ilo:obe:kt:satan|Satan, devil, evil one]]**
+  * **[[:ilo:obe:other:eve|Eve]]**
+  * **[[:ilo:obe:other:adam|Adam]]**
+  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:death|death, die, dead]]**
 ===== Translation Notes: =====
 
-  * **the garden** - This refers to the garden created by God where he placed the first man and woman.
-  * **deceive Eve** - That is, "lie to Eve." Satan lied by leading Eve to doubt what God had said. By doing this, he tricked her into disobeying God.
-
-
+  * **the garden**  - This refers to the garden created by God where he placed the first man and woman.
+  * **deceive Eve**  - That is, "lie to Eve." Satan lied by leading Eve to doubt what God had said. By doing this, he tricked her into disobeying God.
 **[[:ilo:obs:notes:frames:48-01|<<]] | [[:ilo:obs:notes:48|Up]] | [[:ilo:obs:notes:frames:48-03|>>]]**
