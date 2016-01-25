@@ -2,23 +2,19 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-02.jpg?nolink&}}
 
-Nagaramid ni Jesus iti adu nga milagro a mangpaneknek nga isuna ket ti Dios. Nagna isuna iti tapaw iti danum, pinatalna na iti bagyu, nangagas iti adu a masaksakit a tattao ken nangpapanaw kadagiti demonyo ken nagpagungar ti natay ken pinagbalin na ti lima a tinapay ken duwa a babassit nga ikan a naan-anay a pannangan ti lima a ribu a tattao.
+Nagaramid ni Jesus kadagiti adu a milagro a mangpaneknek nga isuna ket ti Dios. Nagna isuna iti rabaw ti danum ken pinatalna na ti bagyo ken inagasan na dagiti adu a masakit ken pinaksiat na dagiti demonyo ken pinagungar na dagiti natay ken pinagbalin na ti lima a tinapay ken dua a babassit nga ikan nga umdas a nangpakan iti lima a ribo a tattao.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:miracle]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:heal]]**
-  * **[[:ilo:obe:kt:demon]]**
-  * **[[:ilo:obe:kt:raise]]**
-  * **[[:ilo:obe:kt:death]]**
-
-
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:miracle|miracle, wonder, sign]]**
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:other:heal|heal, cure]]**
+  * **[[:ilo:obe:kt:demon|demon, evil spirit, unclean spirit]]**
+  * **[[:ilo:obe:kt:raise|raise, rise, risen, arise, arose]]**
+  * **[[:ilo:obe:kt:death|death, die, dead]]**
 ===== Translation Notes: =====
 
-  * **drove out demons** - That is, "made demons come out of people."
-  * **raised the dead to life** - This could also be translated as, "caused dead people to become alive again."
-
-
+  * **drove out demons**  - That is, "made demons come out of people."
+  * **raised the dead to life**  - This could also be translated as, "caused dead people to become alive again."
 **[[:ilo:obs:notes:frames:49-01|<<]] | [[:ilo:obs:notes:49|Up]] | [[:ilo:obs:notes:frames:49-03|>>]]**
