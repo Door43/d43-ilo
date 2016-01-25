@@ -2,36 +2,20 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?nolink&}}
 
-Gapu ta saan a nagtulnog ni Adam ken Eve iti Dios ket nangiyumay iti basul iti daytuy nga lubong, inlunod ti Dios ti lubong ken nakasagana a mangdadael iti daytuy. Ngem iti umay ti maysa nga aldaw ket parsuaen manen ti Dios iti baru a langit ken ti baru a daga nga awan pakadillawana na (naananay).
-
-
-
-
-
-
-
-
-
-
-
-
+Gapo ta nagsukir ni Adam ken Eve iti Dios ken inyeg da ti basol iti daytoy a lubong ket inlunod ti Dios ti lubong ken inkeddeng na a dadaelen na daytoy. Ngem dumtengto ti aldaw a parsuaento manen ti Dios ti baro a langit ken baro a daga nga awanto ti pakapilawan na.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:adam]]**
-  * **[[:ilo:obe:other:eve]]**
-  * **[[:ilo:obe:other:disobey]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:sin]]**
-  * **[[:ilo:obe:kt:curse]]**
-  * **[[:ilo:obe:kt:heaven]]**
-
-
+  * **[[:ilo:obe:other:adam|Adam]]**
+  * **[[:ilo:obe:other:eve|Eve]]**
+  * **[[:ilo:obe:other:disobey|disobey, disobedient, disobedience]]**
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ilo:obe:kt:curse|curse, cursed]]**
+  * **[[:ilo:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
 ===== Translation Notes: =====
 
-  * **brought sin into** - This could be translated as, "caused sin to enter."
-  * **a new heaven** - This could also be translated as, "a new sky" or, "a new universe". It refers to a new set of stars and everything else in the sky.
-  * **a new earth** - This current earth on which we live will be replaced by a new and improved one.
-
-
+  * **brought sin into**  - This could be translated as, "caused sin to enter."
+  * **a new heaven**  - This could also be translated as, "a new sky" or, "a new universe". It refers to a new set of stars and everything else in the sky.
+  * **a new earth**  - This current earth on which we live will be replaced by a new and improved one.
 **[[:ilo:obs:notes:frames:50-15|<<]] | [[:ilo:obs:notes:50|Up]] | [[:ilo:obs:notes:frames:50-17|>>]]**
