@@ -1,35 +1,28 @@
-====== Story #15: The Promised Land ======
+====== Story #15: The Promised Land - **Ti Naikari A Daga**  ======
 
-===== Comprehension Questions and Answers =====
+===== Dagiti Salsaludsod Ken Sungsungbat A Pakaammo Iti Istorya: =====
 
-  - **When it was time to enter the Promised Land, what did Joshua do first?**
-    *//He sent two spies to Jericho. [15-01]//
-  - **What did the spies promise to do for Rahab the prostitute?**
-    *//They promised to protect Rahab and her family when the Israelites destroyed the city. [15-01]//
-  - **How were the Israelites able to cross the Jordan River?**
-    *//When the priests started to step into the Jordan River, the water stopped flowing. [15-02]//
-  - **How did the Israelites attack Jericho?**
-    *//They marched around the city once a day for six days, then on the seventh day they marched around the city seven more times. While they marched around the city for the last time, the soldiers shouted while the priests blew trumpets. [15-03], [15-04]//
-  - **What happened when the soldiers shouted and the priests blew trumpets?**
-    *//The walls of Jericho fell down so the Israelites could destroy everything in the city. [15-05]//
-  - **What happened to Rahab and her family?**
-    *//They were not killed, and became part of the Israelites. [15-05]//
-  - **How did the Gibeonites trick the Israelites into making a peace treaty with them?**
-    *//They said they were from a place far from Canaan. [15-06]//
-  - **Why did Joshua and the Israelites not know the Gibeonites were lying?**
-    *//They did not ask God. [15-06]//
-  - **Why did the Israelites keep the peace treaty and defend the Gibeonites?**
-    *//Because they had made a promise before God. [15-07]//
-  - **How did God fight for the Israelites against the Amorites?**
-    *//He confused the Amorites, sent large hailstones on them, and caused the sun to stay in one place so the Israelites had enough time to completely defeat them. [15-09], [15-10]//
-  - **What did Joshua and the Israelites do to the other Canaanite people groups who attacked them?**
-    *//Joshua and the Israelites destroyed them. [15-11]//
-  - **How was the Promised Land divided?**
-    *//God gave each of the twelve tribes of Israel its own section. [15-12]//
-  - **Why did Joshua call the Israelites together when he was old?**
-    *//To remind them of their obligation to obey the covenant that God had made with them. [15-13]//
-  - **How did the Israelites answer Joshua?**
-    *//They promised to remain faithful to God and to follow his laws. [15-13]//
-
-
-**[[en/obs/notes/questions/14|<< ]] | [[en/obs/notes/questions/16| >>]]**
+  - **Idi tiempo a makastrekda iti Naikaari Nga Daga, anya iti umuna nga inaramid ni Joshua**?****      * //Nangibaon iti dua nga espiya idiay Jericho. [15-01]//
+  - **Anya iti inkarin dagiti espiya nga aramiden da para kenni Rahab****?**
+      * //Inkari da nga aywanan da ni Rahab ken ti pamilya na inton dadaelen dagiti Israelita ti siudad. [15-01]//
+  - **Kasano a nabalinan dagiti Israelita a nakaballasiw iti Karayan ti Jordan****?**
+      * //Idi mangrugi dagiti papadi nga apan idiay Karayan ti Jordan, nagsarding nga agayus ti danom. [15-02]//
+  - **Kasano ti panagdarup dagiti Israelita iti Jericho****?**
+      * //Nagmarcha iti aglawlaw ti siudad maminsa iti maysa nga aldaw iti uneg ti ennem nga aldaw ken iti maikapito nga aldaw ket nagmarcha agpalawlaw iti siudad iti naminpito pay. Kas agmarmarcha nga agpalawlaw iti siudad idi maudi a tiempo ket nagpukkaw dagiti soldados ken pinuyutan met dagiti papadi dagiti trumpeta.. [15-03], [15-04]//
+  - **Anya iti napasamak idi nagpukkaw dagiti soldados ken pinuyutan met dagiti papadi dagiti trumpeta****?**
+      * //Narba dagiti pader ti Jerich isua mabalinen nga pirdien dagiti Israelita amin nga adda idiay siudad////. [15-05]//
+  - **Anya ti napasanak kenni Rahab ken iti pamilya na****?**
+      * //Saan da a napapatay ken nagbalin da a paset ti Israelita. [15-05]//
+  - **Kasano iti panangallilaw dagiti taga Gibeon kadagiti Israelita ta nangaramidda iti tungtungan ti pannakikapya**?****      * //Imbagada a nagapoda iti lugar nga adayu iti Canaan. [15-06]//
+  - **Apay a Saan a naamoan da joshua ken dagiti Israelita nga agul-ulbud dagiti taga Gibeon****?**
+      * //Saan da nga imbga kenni iti Dios. [15-06]//
+  - **Apay a nagtulnog dagiti Israelita iti tungtungan da maipapan iti pannkikapya da ken dinipensaanda dagiti taga Gibeon**?****      * //Ngamin ta adda inaramid da a kari iti sanguwanan ti Dios. [15-07]//
+  - **Kasano iti pannakilaban ti Dios kadagiti Israelita maibusor kadagiti Amorita****?**
+      * //Tinikaw na dagiti Amorites ken nangipaumay ti dadakkel a tudo a yelo kadakuda inkabil ti Dios ti init iti maymaysa a lugar tapno adda at-atiddug a tiempo a parmeken da kadagiti Amorita. [15-09], [15-10]//
+  - **Anya iti inaramid ni Joshua ken dagiti Israelita kadagiti grupo ti tattao ngaa taga Canaan nga nangdarup kadakuada**?****      * //Pinirpirdin da Joshua ken dagiti Isarelita ida. [15-11]//
+  - **Kasano iti panaggudwa-gudwa ti Naikari a Daga**?****      * //Nangted ti Dios iti tunggal tribu ti Israel ti kanyaknya da a dissu. [15-12]//
+  - **Apay a pina-ayaban ni Joshua dagiti Isarelita idi limmakayen isuna****?**
+      * //Tapno ipalagip na kadakuada ti obligasyon da nga agtulnog iti katulugan da inaramid iti Dios kadakuada. [15-13]//
+  - **Kasano ti sungbat dagiti Israelita****?**
+      * //Inkarida nga agtalinaedda a napudno iti Dios ken surotenda dagiti bilbilin na. [15-13]//
+**[[:en:obs:notes:questions:14|<< ]] | [[:en:obs:notes:questions:16| >>]]**
