@@ -2,36 +2,34 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **Why did Joseph's brothers hate him?**
-    *//Because Joseph was Jacob's favorite son, and because Joseph had dreamed he would be their ruler. [08-02]//
-  - **What evil thing did Joseph's brothers do to him?**
-    *//They kidnapped him and sold him to some slave traders. [08-02]//
-  - **How did Joseph's brothers explain his disappearance to Jacob?**
-    *//They put goat's blood on Joseph's robe so that Jacob would think a wild animal had killed him. [08-03]//
-  - **Did God abandon Joseph in Egypt?**
-    *//No. In everything Joseph did, God blessed him. [08-04]//
-  - **Why was Joseph sent to prison in Egypt?**
-    *//Joseph refused to sleep with his master's wife, so she falsely accused him. [08-05]//
-  - **What ability had God given Joseph?**
-    *//The ability to interpret dreams. [08-07]//
-  - **What was the meaning of Pharaoh's dream?**
-    *//God was going to send seven years of plentiful harvests, followed by seven years of famine. [08-07]//
-  - **How did Pharaoh reward Joseph after Joseph interpreted his dream?**
-    *//He made Joseph the second most powerful man in Egypt. [08-08]//
-  - **How did Joseph prepare for the famine?**
-    *//Joseph told the Egyptians to store up large amounts of food during the seven good years, and then he sold the food to the people during the seven years of famine. [08-09]//
-  - **Why did Joseph's brothers come to Egypt?**
-    *//They came to buy food, because the famine was severe in Canaan also. [08-11]//
-  - **Before Joseph told his brothers who he was, why did he test them?**
-    *//He tested them to see if they had changed. [08-12]//
-  - **How did God cause good to come from Joseph's brothers selling him as a slave?**
-    *//Joseph became a powerful ruler in Egypt, and God used him to provide food for his family and many other people during the famine. [08-12]//
-  - **What did Jacob do after he found out that Joseph was alive?**
-    *//He moved his whole family to Egypt. [08-14]//
-  - **After Jacob died, who received the promises that God gave to Abraham?**
-    *//The twelve sons of Jacob. [08-15]//
-  - **What did the descendants of the twelve sons of Jacob become?**
-    *//The twelve tribes of Israel. [08-15]//
-
-
-**[[en/obs/notes/questions/07|<< ]] | [[en/obs/notes/questions/09| >>]]**
+  - **Apay a dagiti kakabsat ni Joseph ket kagura da ni Joseph****?**
+      * //Uwen ta ni Joseph ngamin ti paborito nga anak ni Jacob ken ngamin ta adda natagtagainep ni Joseph nga isu nan to ti agturay kadi kakabsat na. [08-02]//
+  - **Anya ti dakes nga inaramid dagiti kakabsat ni Joseph kaniana?**
+      * //Tiniliw da isuna ket inlako da kadagiti agilaklako ti tagabo. [08-02]//
+  - **Kasano nga inlawlawag dagiti kakabsat ni Joseph kenni Jacob ti pannakapukaw na​?**
+      * //Inikkan da ti dara ti kalding jay atiddug gayadan na nga bado ni Joseph tapno panunoten ni Jacob nga pinatay ti narungsot nga ayup ni Joseph. [08-03]//
+  - **Bibaybay-an kadi Ti Dios ni Joseph idjay Egipto****?**
+      * //Saan. Pinaraburan ti Dios dagiti amin nga inaramid ni Joseph. [08-04]//
+  - **Apay nga naipan ni Joseph idjay pagbaludan ti Egipto****?**
+      * //Madi gamin kayat ni Joseph a makikaidda iti asawa ti amo na isunga inakusaran diay babae ti Saan nga agpaypaysu. [08-05]//
+  - **Anya ti pannakabalin nga inted ti Dios kenni Joseph****?**
+      * //Ti kabalinan nga mangipatarus kadagiti tagtagainep. [08-07]//
+  - **Anya ti kayat na a saoen diay tagtagainep ni Pharaoh****?**
+      * //Mangted ti Dios ti napintas ken adu nga apit iti pito a tawen ket sumaruno ti pito met a tawen nga awan makan. [08-07]//
+  - **Kasano a ginungunaan ni Pharaoh ni Joseph kalpasan nga inted ni Joseph jay interpretasyon diay tagtagainep na?**
+      * //Pinagbalinna ni Joseph a maikadwa a mannakabalin a tao iti Egypt.. [08-08]//
+  - **Kasano ti panagsagana ni joseph iti tiempo nga umay nga awan makan****?**
+      * //Kinuna ni Joseph kadagiti taga Egypt nga agipenpen da ti naka-ad-adu a makan iti uneg ti pito a tawen a napintas ti apit ket inlako na ti makan kadagiti tattao idi immay diay pito a tawen nga awan makan. [08-09]//
+  - **Apay a napan dagiti kakabsat ni Joseph idjay Egypt****?**
+      * //Napan da ta apan da gumatang ti makan ngamin ta uray idjay Canaan ket nakaro ti panagbisin. [08-11]//
+  - **Apay a pinadas ni Joseph dagiti kakabsat na sakbay nga impakaammo na nu siyasinno isuna****?**
+      * //Pinadas na ida tapno kitaenna nu nagbalbaliw da. [08-12]//
+  - **Kasano a pinagbalin ti Dios a pag-imbagan ni Joseph ti panagilakon dagiti kakabsat na a kas tagabo****?**
+      * //Ni Joseph ket nagbalin a mannakabalin nga agturay idjay Egypt ken inaramat ti Dios isuna a mangisabet ti makan para iti pamilyana ken adu pay a tattao idi tiempo nga awan ti makan. [08-12]//
+  - **Anya ti inaramid ni Jacob idi maammoana a sibibiag ni Joseph****?**
+      * //Impanna amin a pamilyana idjay Egypt. [08-14]//
+  - **Kalpasan a natay ni Jacob, siasinno ti nangawat kadagiti kari nga inted ti Dios kenni Abraham****?**
+      * //Dagiti sangapulo ket dua a lallaki a putot ni Jacob. [08-15]//
+  - **Anya ti nagbalinan dagiti kaputotan diay sangapulo ket dua a lallaki nga putot ni Jacob?**
+      * //Isu da ti nagbalin a sangapulo ket dua a tribu ti Israel. [08-15]//
+**[[:en:obs:notes:questions:07|<< ]] | [[:en:obs:notes:questions:09| >>]]**
