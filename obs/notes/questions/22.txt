@@ -1,33 +1,31 @@
-====== Story #22: The Birth of John ======
+====== Istorya #22: **Ti pannakaiyanak ni** John ======
 
-===== Comprehension Questions and Answers =====
+===== **Dagiti Salsaludsod Ken Sungsungbat a Pakaamuan iti Istorya:**  =====
 
-  - **How many years had passed since God had spoken to his people?**
-    *//400 years. [22-01]//
-  - **What problem did Elizabeth, Zechariah’s wife, have?**
-    *//She had not been able to have children. [22-01]//
-  - **What did the angel tell Zechariah to name his son?**
-    *//He was to name him John. [22-02]//
-  - **What did the angel say John would do in his life?**
-    *//John would prepare the people for the Messiah. [22-02]//
-  - **Why did Zechariah not believe Elizabeth would have a son?**
-    *//They were too old. [22-02]//
-  - **How did the angel punish Zechariah because he did not believe?**
-    *//Zechariah was not able to speak until John was born. [22-03]//
-  - **How long had Elizabeth been pregnant when the angel appeared to Mary?**
-    *//Six months. [22-04]//
-  - **What did the angel say was going to happen to Mary?**
-    *//She would become pregnant and give birth to a son. [22-04]//
-  - **Who did the angel say Jesus was going to be?**
-    *//The Son of the Most High God. [22-04]//
-  - **Why was Jesus’ birth a miracle?**
-    *//Mary was a virgin. [22-05]//
-  - **Whose son is Jesus?**
-    *//Jesus is the Son of God. [22-05]//
-  - **Who did Mary go to visit after after the angel left her?**
-    *//She went to visit Elizabeth. [22-06]//
-  - **What did Zechariah say about John?**
-    *//John would be a prophet of the Most High God and would tell the people how they could receive forgiveness for their sins. [22-07]//
-
-
-**[[en/obs/notes/questions/21|<<  ]] | [[en/obs/notes/questions/23| >>]]**
+  - **Manu a tawtawen iti napalabas nanipud a ti Dios ket nagsao kadagiti tattao na****?**
+      * //Uppat a gasut a tawen//. [22-01]// //
+  - **Anya ti nagbalin a problema ni Elizabeth nga asawa ni Zechariah****?**
+      * //Saan gamin a nagbalin a naadaan iti annak. [22-01]//
+  - **Anya ti inbaga ti Anghel ken Zechariah nga ipanagan na iti anak na****?**
+      * //Napanaganan iti John////. [22-02]//
+  - **Anya iti inbaga ti anghel kenni John a maaramd iti biag na****?**
+      * //Ni John ti agisagana kadagiti tattao para iti Messiah. [22-02]//
+  - **Apay ta saan a namati ni Zechariah a maadaan iti anak ni Elizabeth****?**
+      * //Nataengan da gaminen//. [22-02]// //
+  - **Kasano a dinusa ti anghel ni Zechariah gapo iti saan na a panamati****?**
+      * //Saan a nakapagsao ni Zechariah aginggana saan a naiyanak ni John. [22-03]//
+  - **Kasano kaatiddug iti panagsikug ni Elizabeth idin a nagparang ti anghel kenni Mary****?**
+      * //Innem a bulan//. [22-04]// //
+  - **Anya ti inbaga ti anghel a maaramid kenni Mary****?**
+      * //Agsikug isuna ket maaddaan iti anak. [22-04]//
+  - **Anya ti imbaga ti anghel a pagbalinan ni Jesus****?**
+      * //Ti annak ti kangatoan a Dios. [22-04]//
+  - **Apay ta nagbalin a milagro ti pannakaiyanak ni Jesus****?**
+      * //Birhen gamin ni Mary. [22-05]//
+  - **Sino ti akin anak kenni Jesus****?**
+      * //Ni Jesus ket anak ti Dios. [22-05]//
+  - **Sino ti bisita ni Mary kalpasan nga imbati isuna ti anghel****?**
+      * //Napan na binisita ni Elizsabeth. [22-06]//
+  - **Anya ti inbaga ni Zechariah maipapan kenni John****?**
+      * //Agbalin a mammadto ni John ti kangatoan a Dios ken mangibaga kadagiti tattao nu kasano da a maawat iti pannakapakawan dagiti basbasol da. [22-07]//
+**[[:en:obs:notes:questions:21|<< ]] | [[:en:obs:notes:questions:23| >>]]**
