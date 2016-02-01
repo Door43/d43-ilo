@@ -1,33 +1,31 @@
 ====== Story #26: Jesus Starts His Ministry ======
 
-===== Comprehension Questions and Answers =====
+===== Dagiti Salsaludsod Ken Sungsungbat a Pakaamuan iti Istorya: =====
 
-  - **Where did Jesus go after he overcame Satan’s temptations?**
-    *//Jesus went to the region of Galilee where he lived. [26-01]//
-  - **What was the name of the city where Jesus lived as a child?**
-    *//Nazareth. [26-02]//
-  - **Where did Jesus go on the Sabbath?**
-    *//He went to the place of worship. [26-02]//
-  - **Why did the people in the place of worship hand Jesus the scroll of Isaiah?**
-    *//They wanted Jesus to read from it. [26-02]//
-  - **The passage of Scripture that Jesus read referred to what person?**
-    *//The Messiah. [26-04]//
-  - **What did Jesus say about the Scripture that he had just read?**
-    *//He said it was being fulfilled right then. [26-04]//
-  - **How did the people of Jesus' hometown react to his words?**
-    *//They were amazed and asked, “Isn't this the son of Joseph?” [26-04]//
-  - **What examples did Jesus give of God's prophets helping people from other nations?**
-    *//God helped a widow during a drought in Elijah’s time, and he healed Naaman, a commander of Israel’s enemies. [26-05], [26-06]//
-  - **How did the people respond when Jesus told them these stories?**
-    *//They were furious and tried to kill Jesus. [26-06], [26-07]//
-  - **How did Jesus escape from the crowd?**
-    *//Jesus walked through the crowd and left the town. [26-07]//
-  - **How did the crowds in Galilee respond to Jesus?**
-    *//They brought him many who were sick or handicapped so he could heal them. [26-08]//
-  - **Who did the demons acknowledge Jesus to be when he commanded them to come out of people?**
-    *//They said Jesus was the Son of God. [26-09]//
-  - **How many men did Jesus choose to be his apostles?**
-    *//He chose twelve apostles. [26-10]//
-
-
-**[[en/obs/notes/questions/25|<< ]] | [[en/obs/notes/questions/27| >>]]**
+  - **Sadinno ti napanan ni Jesus idi nalpas na a nalasatan iti panangsulisog kenkuana ni Satanas****?**
+      * //Napan ni Jesus idiay pagilyan ti Galilee a pagnanaedan na. [26-01]//
+  - **Anya ti nagan na diay siudad nu sadinno ti pagnanae3dan ni Jesus idi ubing****?**
+      * //Nazareth. [26-02]//
+  - **Ayanna ti pappapanan ni Jesus iti aldaw ti panaginana****?**
+      * //Mapmapan isuna idiay lugar ti pagdaydayawan. [26-02]//
+  - **Apay a dagiti tattao idiay lugar iti pagdaydayawan ket pinaiggem da kenni Jesus iti balumbon ni Isaiah?****?**
+      * //Kayat da a basaen ni Jesus daytoy. [26-02]//
+  - **Iti nilaun iti teksto a binasa ni Jesus ket tuktukuyen na nu anya a tao****?**
+      * //Ti Messiah. [26-04]//
+  - **Anya iti ibagbaga ni Jesus panggep iti teksto a binasa na****?**
+      * //Kinunana a natungpalen. [26-04]//
+  - **Kasano ti panagsungbat dagiti tattao a kalugaran ni Jesus iti inbagbaga na****?**
+      * //Nasda-aw da ken nagsaludsod, “Daytuy kadi iti anak ni Jose?” [26-04]//
+  - **Anya iti pagtuladan nga inted ni Jesus kadagiti mammadto ti Dios a mangtultulong kadagiti tattao manipud iti dadduma a nasyon****?**
+      * //Tinulungan ti Dios iti balu kabayatan iti awana ti tudo idi panawen ni Elias, ken inagasan na ni Naaman a maysa a tagabo ti kaapa dagiti taga Israel. [26-05], [26-06]//
+  - **Kasano a simmungbat dagiti tattao idi inbaga ni Jesus kadakuada daytoy nga istorya****?**
+      * //Nakaunget da ken pinadas da a patayen ni Jesus. [26-06], [26-07]//
+  - **//Nakaunget da ken pinadas da a patayen ni Jesus// ****?**
+      * //Nagnagna ni Jesus iti adu a tattao ken pinanawan na iti lugar. [26-07]//
+  - **Kasano a natulungan dagiti adu a tattao idiay Galilee kenni Jesus****?**
+      * Nangiyapan da kenkuana iti adu a masaksakit wenno tapno paimbagen na ida//. [26-08]//
+  - **Asinno ti inam-ammo dagiti demonyoyo idi imbaun ni Jesus ida a pumanaw kadagiti tattao****?**
+      * //Kinuna da a ni Jesus ti Anak ti Dios. [26-09]//
+  - **Manu a lallaki iti pinili ni Jesus nga agbalin nga apostol na****?**
+      * //Nangpili isuna iti sangapulo ket duwa nga apostol. [26-10]//
+**[[:en:obs:notes:questions:25|<< ]] | [[:en:obs:notes:questions:27| >>]]**
