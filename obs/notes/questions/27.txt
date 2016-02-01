@@ -1,33 +1,31 @@
-====== Story #27: The Story of the Good Samaritan ======
+====== Story #27: T**i Istorya ti Nasingpet a** Samaritano ======
 
-===== Comprehension Questions and Answers =====
+===== **Dagiti Salsaludsod Ken Sungsungbat a Pakaamuan iti Istorya:**  =====
 
-  - **What question did the expert in the Jewish law ask Jesus?**
-    *//“Teacher, what must I do to inherit eternal life?” [27-01]//
-  - **What question did Jesus ask the expert in response?**
-    *//He asked, "What is written in God's law?" [27-01]//
-  - **Who does God's law say we should love?**
-    *//The Lord our God and our neighbor. [27-02]//
-  - **Why did the expert in the Jewish law ask who his neighbor was?**
-    *//He wanted to prove that he was righteous. [27-03]//
-  - **In Jesus’ story, what happened to the Jewish man while he was traveling?**
-    *//He was attacked by robbers, who took everything he had, and beat him until he was almost dead. [27-05]//
-  - **Who was the first person to see the wounded man?**
-    *//A Jewish priest. [27-06]//
-  - **What did the priest do when he saw the wounded man?**
-    *//He ignored him and passed by on the other side of the road. [27-06]//
-  - **Who was the second person to see the wounded man and pass by?**
-    *//A Levite. [27-07]//
-  - **What did the Levite do when he saw the wounded man?**
-    *//He ignored him and passed by on the other side of the road. [27-07]//
-  - **Who was the third person to see the wounded man?**
-    *//A Samaritan. [27-08]//
-  - **What was the relationship between Jews and Samaritans?**
-    *//They hated each other. [27-08]//
-  - **How did the Samaritan help the wounded man?**
-    *//He bandaged his wounds, took him to a roadside inn, and took care of him. [27-09], [27-10]//
-  - **Which of the three men acted like a neighbor to the wounded man?**
-    *//The Samaritan who was merciful to him. [27-11]//
-
-
-**[[en/obs/notes/questions/26|<< ]] | [[en/obs/notes/questions/28| >>]]**
+  - **Anya ti sinaludsud ti Judio a nalaing iti linteg kenni Jesus****?**
+      * //“Maestro, anya ti masapul na aramidek tapno matawid ko iti biag nga agnanayon?” [27-01]//
+  - **Anya diay sinaludsud ni Jesus iti nalaing iti linteg a kas panagsungbat na****?**
+      * //Nagsaludsod isuna,”Anya iti naisurat iti linteg ti Dios?”[" [27-01]//
+  - **Asinno kano iti ibagbaga na iti linteg ti Dios a masapul nga ayaten****?**
+      * //Ayaten ti Apo tayo a Dios ken iti karruba tayo. [27-02]//
+  - **Apay nga iti eksperto idiay linteg iti Judio ket nagdamag nu siasinno iti karrubba na****?**
+      * //Kayat na a  mapaneknekan nu isuna ket nalinteg. [27-03]//
+  - **Iti storya ni Jesus, anya iti napasamak iti Judio a lalaki kabayatan nga isuna ket agdaldalyasat****?**
+      * //Isuna ket rinaut dagiti agtatakaw, a nangala iti amin nga adda kenkuana, ken binaut baut da isuna aginggana a matay isuna. [27-05]//
+  - **Asinno iti ummuna a tao a nakakita iti nadangdangran a lalaki****?**
+      * //Isu ti Judio a padi. [27-06]//
+  - **Anya iti inaramid iti padi idi nakita na iti nadangran a lalaki****?**
+      * //Binaybay-ana isuna ken nilabsanan na ket nagna iti banger iti dalan. [27-06]//
+  - **Asinno iti simmaruno a tao a nakakita iti nadangran a lalaki ken nanglabsan****?**
+      * //Isu ti Levita. [27-07]//
+  - **Anya iti inaramid iti Levite idi nakita na iti nadangran a lalaki****?**
+      * //Binaybay-ana isuna ken nilabsanan na ket nagna iti banger. [27-07]//
+  - **Asinno iti maika tallo a tao a nakakita iti nadangaran a lalaki****?**
+      * //Isu ti Samaritano. [27-08]//
+  - **Anya iti relasyon iti nagbaetan dagiti Judio ken Samaritano****?**
+      * Agkagura da a dua//. [27-08]//
+  - **Kasano a tinulungan ti Samaritano iti nadangran a lalaki****?**
+      * //Inagasan na iti sugat na, innala na isuna iti dalan, ken inaywanan na isuna. [27-09], [27-10]//
+  - **Asinno kadagiti tallo a tattao iti  nangipakita a kasla karrubba iti nadangran a lalaki****?**
+      * //Isu ti Samaritano a nangngaasi kenkuana. [27-11]//
+**[[:en:obs:notes:questions:26|<< ]] | [[:en:obs:notes:questions:28| >>]]**
