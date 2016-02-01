@@ -1,40 +1,39 @@
-﻿====== 33. The Story of the Farmer ======
+====== 33. T**i Pakaistoryaan Ti Mannalun**  ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?direct&}}
 
-One day, Jesus was down by the sea, teaching great crowds of people. The crowd got so big that Jesus got into a boat and began speaking from there.
+Iti maysa nga aldaw ket agisursuro ni Jesus kadagiti adu a tattao iti igid ti baybay. Nagadu dagiti tattao a napan tapno dumngeg kenkuana isu a naglugan ni Jesus iti maysa a bangka iti igid ti danom tapno maaddaan isuna iti paggianan a mangisuro kadakuada. Nagtogaw isuna iti bangka ket sinorwan na dagiti tattao.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?direct&}}
 
-Jesus told this story. “A farmer went out to plant some grain. As he was spreading the seeds by hand, some seeds fell on the path, and the birds came and ate it all.”
+Imbaga ni Jesu daytoy nga istorya, “Rimmuar ti maysa a mannalon tapno agmula iti bukel. Kas ipurpurwak na dagiti bukel ket nagdisso dagiti dadduma iti dalan ket immay dagiti billit ket kinnan da amin dagidiay a bukel.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?direct&}}
 
-“Other seeds fell on a rocky place, where there was not much soil. The seeds in the rocky soil sprouted quickly. But when the sun came up and it got hot, the plants withered and died since their roots did not go deep.”
+“Nagdisso dagiti dadduma a bukel iti kabatbatoan nga addaan laeng iti bassit a daga. Nagtobo a dagus dagitoy a bukel ngem saan nga immuneg dagiti ramut da iti daga isu nga idi ngimmato ti init ket nalaylay dagiti mula ken Gapo iti pudot na ket natay da.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?direct&}}
 
-“Still other seeds fell among thorny bushes. Those seeds were choked by the thorns and did not produce any grain.”
+“Nagdisso met dagiti dadduma a bukbukel kadagiti kasisiitan. Nangrugi a dimmakkel dagita a bukel ngem kinalatkatan ida dagiti siit isua saan pulos a nagbunga dagiti bukel.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?direct&}}
 
-“Other seeds fell into good soil. These seeds grew up and produced 30, 60, or even 100 times as much grain as had been planted. He who has ears, let him hear!”
+“Nagdisso met dagiti dadduma a bukbukel iti nadam-eg a daga. Dimmakkel ken nagbunga dagitoy a bukbukel iti tallopulo ket innem a pulo ket ken uray pay namin sangagasut a daras a kas kaadu ti bukel a naimula. Dagiti adda lapayag na ket dumngeg da kuma.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?direct&}}
 
-This story confused the disciples. Jesus explained, “The seed represents the Word of God. The seeds on the path are like people who hear God’s Word, do not understand it, and the devil takes the word from them.”
+Maburiburan dagiti adalan iti daytoy nga istorya isu nga impalawag ni Jesus ti kaipapanan na. Kinuna na, “ti bukel ket isu ti sao ti Dios. Ti dalan ket ti tao a nakangngeg iti sao ti Dios ngem saan na a naawatan daytoy isu nga innala ti diablo ti sao manipud kenkuana.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?direct&}}
 
-“The seeds on the rocky soil are like people who hear God’s Word and accept it with joy. But in times of hardship or persecution, they fall away because they have no maturity.”
+“Ti kabatbatoan met ket ti tao a sirarag-o nakangngeg ken nangawat iti sao ti Dios ngem tinallikudan na daytoy idi nakapadas isuna ti kinarigat wenno pannakaidadanes.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?direct&}}
 
-“The seeds in the thorns are like people who hear God’s Word and believe it. But as time passes, their love for God is choked out by the cares, riches, and pleasures of life. The teaching they heard does not produce fruit.”
+“Ti kasisisiitan ket ti tao a nakangngeg iti sao ti Dios ket ngem iti panaglabas ti panawen ket binalud ti pakaseknan ket kinabaknang ken pagragsakan iti daytoy a biag ti panagayat na iti Dios. Kas nagbanagan na ket saan a nagbunga ti nangngeg na a pannorsuro.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?direct&}}
 
-“But the seeds that fall on good soil represent people who hear the Word of God, believe it, and produce spiritual fruit.”
+“Ngem ti nasayaat a daga ket ti tao a nakangngeg iti sao ti Dios ket pinati na daytoy ket ken nagbunga.”
 
-
-//A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15//
+//Maysa nga istorya a naggapu: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15//
