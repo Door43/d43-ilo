@@ -1,6 +1,6 @@
 ====== Story #33: The Story of the Farmer ======
 
-===== Dagiti salsaludsod ken sungsungbat ti panakaamo iti istorya: =====
+===== Dagiti salsaludsod ken sungsungbat ti pannakaamo iti istorya: =====
 
   - **What happened to the seed that fell on the path?**
       * //The birds came and ate all of it. [33-02]//
