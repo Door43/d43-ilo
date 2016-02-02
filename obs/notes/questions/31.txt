@@ -1,34 +1,31 @@
 ====== Story #31: Jesus Walks on Water ======
 
-
 ===== Comprehension Questions and Answers =====
 
-  - **What did Jesus tell the disciples to do while he dismissed the crowd?**
-    *//He told them to get into a boat and to sail to the other side of the lake. [31-01]//
-  - **What did Jesus do after he sent the disciples away in their boat?**
-    *//He went up on a mountainside to pray. [31-01]//
-  - **What problem did the disciples have during the night?**
-    *//The wind was against them, so they were only able to travel halfway across the lake. [31-02]//
-  - **How did Jesus get to their boat?**
-    *//He walked to it on top of the water. [31-03]//
-  - **How did the disciples react when they first saw Jesus?**
-    *//They were very afraid because they thought he was a ghost. [31-04]//
-  - **What did Jesus say to them to calm their fear?**
-    *//"Do not be afraid. It is I." [31-04]//
-  - **Why did Jesus tell Peter to come to him on the water?**
-    *//Because Peter asked him to do that. [31-05]//
-  - **What did Peter begin to notice when he turned his eyes away from Jesus?**
-    *//He began to look at the waves and to feel the strong wind. [31-06]//
-  - **What happened to Peter when he became afraid of the wind and the waves?**
-    *//He began to sink into the water. [31-07]//
-  - **What did Jesus do when Peter called out for help?**
-    *//Jesus reached out and grabbed Peter. [31-07]//
-  - **What did Jesus say as a rebuke to Peter?**
-    *//"You man of little faith, why did you doubt?" [31-07]//
-  - **What happened after Jesus got into the boat?**
-    *//The wind immediately stopped blowing and the water became calm. [31-08]//
-  - **How did the disciples respond to this miracle?**
-    *//They worshiped Jesus and said, “Truly, you are the Son of God.” [31-08]//
-
-
-**[[en/obs/notes/questions/30|<< ]] | [[en/obs/notes/questions/32| >>]]**
+  - **Anya iti inbaga ni Jesus kadagiti adalan kabayatan nga awan isuna kadakuada****?**
+      * //Inbaga na kadakuada nga aglugan da idiay Bangka ket mapan da idiay bangir ti karayan. [31-01]//
+  - **Anya iti inaramid ni Jesus kalpasan nga imbaun na dagiti adalan na idiay Bangka****?**
+      * //Napan isuna iti ngatuen iti bantay nga agkararag. [31-01]//
+  - **Anya iti nagbalin a problema dagiti adalan iti rabii****?**
+      * //Napigsa ti angina nga sumabat kadakuada isu nga nagpatingga da laeng iti tengngan ti karayan//. [31-02]// //
+  - **Kasano a napan ni Jesus idiay Bangka nga ayan da****?**
+      * //Nagna isuna iti rabaw ti danum. [31-03]//
+  - **Kasano ti narikna dagiti adalan idi damu a makita da ni Jesus****?**
+      * //They were very afraid because they thought he was a ghost. [31-04]//
+  - **Anya ti inbaga ni Jesus tapno maawan ti buteng da****?**
+      * //"Saan kayo nga agbuteng, siak daytoy." [31-04]//
+  - **Apay ta inbaga ni Jesus ken Peter a mapan isuna idiay ayan na a magna iti danum****?**
+      * //Gapo ta inbaga na nga aramiden na daytoy. [31-05]//
+  - **Anya iti nadlaw ni Peter idin a saan a ni Jesus iti nangikitaan dagiti matmata na****?**
+      * //Nangrugin a kinita na dagiti dalluyon ken nariknana iti napigsa nga angin. [31-06]//
+  - **Anya iti naaramid kenni Peter idin ta nagbuteng iti angina ken dagiti dalluyon****?**
+      * //Nangrugin a lumned idiay danum. [31-07]//
+  - **Anya iti inaramid ni Jesus idin ta agpatulong ni Peter****?**
+      * //Napan ni Jesus ket intag-ay na ni Peter. [31-07]//
+  - **Anya ti inbaga ni Jesus kenni Peter a kas panangtubngar****?**
+      * //"Nagbassit ketdin iti pammatim, apay ta nagduadua ka?" [31-07]//
+  - **Anya ti naaramid kalpasan a napan ni Jesus idiay Bangka****?**
+      * //Dagus a nagsardeng ti pul-oy iti angina ken nagtalna ti danum. [31-08]//
+  - **Kasano nga impakita dagiti adalan a pinati da daytoy a milagro****?**
+      * //Nagrukbab da kenni Jesus ket kinunada,”Pudno, sika ti anak ti Dios.” [31-08]//
+**[[:en:obs:notes:questions:30|<< ]] | [[:en:obs:notes:questions:32| >>]]**
