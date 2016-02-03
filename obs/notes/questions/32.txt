@@ -2,30 +2,31 @@
 
 ===== Dagiti salsaludsod ken sungsungbat ti pannakaamo iti istorya: =====
 
-  - **What happened when Jesus arrived where the Gerasene people lived?**
-      * //A demon-possessed man came running up to Jesus. [32-02]//
-  - **What did the demon cause the man to do?**
-      * //The demon made him break chains, live among the tombs, scream all day and night, not wear clothes, and cut himself with stones. [32-03], [32-04]//
-  - **What was the demon’s name?**
-      * //His name was Legion. [32-06]//
-  - **What did the name "Legion" mean?**
-      * //It meant that there were many demons in the man. [32-06]//
-  - **Where did the demons beg Jesus to send them when they left the man?**
-      * //They asked to go into a herd of about 2,000 pigs. [32-07], [32-08]//
-  - **What happened to the pigs when the demons entered them?**
-      * //They ran down a steep bank into the lake and drowned. [32-08]//
-  - **How did the man behave after the demons left him?**
-      * //He sat calmly, wore clothes, and acted like a normal person. [32-09]//
-  - **How did the people react to the healed man and the dead pigs?**
-      * //They were afraid and asked Jesus to leave them. [32-10]//
-  - **What did Jesus tell the healed man to do instead of going with Jesus?**
-      * //Jesus told him to go home and tell his friends and family about everything God had done for him. [32-11]//
-  - **Why did the woman with the bleeding problem come to Jesus?**
-      * //She thought that if she touched Jesus’ clothes, she would be healed. [32-14]//
-  - **What happened as soon as the woman touched Jesus' clothes?**
-      * //Her bleeding stopped. [32-14]//
-  - **How did Jesus know someone had touched him?**
-      * //He realized that power had gone out from him. [32-15]//
-  - **What did Jesus say to the woman when she fell down before him?**
-      * //“Your faith has healed you. Go in peace.” [32-16]//
+  - **Anya iti naaramid idin a ni Jesus ket napan iti pagnanaedan dagiti tattao a Gerasene ?**
+      * Nagtartaray a napan ken Jesus iti maysa a lalaki a nasaniban iti demonyo.// [32-02]//
+  - **Anya iti inpaaramid ti demonyo idiay lalaki ?**
+      * Inpaburak ti demonyo dagiti kawkawar ken pinagnaed na kadagiti tantanem dagiti natay, pinagririyaw na iti aldaw ken rabii, saan a nagkakawes ken sinogat sugat na iti bagi na ti batbato.// [32-03], [32-04]//
+  - **Anya ti nagan diay demonyo ?**
+      * Ti nagan na ket Legion// [32-06]//
+  - **Anya ti kayat a saritaen ti nagan a Legion ?**
+      * Kayat na saritaen ket adu a demonyo iti adda idiay lalaki.// [32-06]//
+  - **Sadino iti dinawat dagiti demonyo ken Jesus a papananda nu punawan dan diay lalaki ?**
+      * Dinawat da a mapan da kadagiti dua a ribu a babbabuy.// [32-07], [32-08]//
+  - **Anya iti naaramid kadagiiti babbabuy idin a dagiti demonyo ket napan kenkuada ?**
+      * Napan da iti dirraas sada timmapuwak iti karayan ket nalmes da.// [32-08]//
+  - **Kasano iti nagbalin a kauugali diay lalaki kalpasan a pimmanaw dagiti demonyo kanyana ?**
+      * Natalna a nakatogaw isuna ket nagbadu ken aggargaraw a kas normal a tao.//. [32-09]//
+  - **Anya ti nagbalin a karirikna dagiti tattao iti daydiay a naagasan a lalaki ken kadagiti natay a babbabuy ?**
+      * Nagbutengda ken dinawat da kenni Jesus a panawan na isuda.// [32-10]//
+  - **Anya iti inbaga ni Jesus nga aramiden diay naagasan a lalaki imbes kuma a sumurut kenni Jesus ?**
+      * Inbaga ni Jesus nga agawid tapnon ibaga na kadagiti gagayyem ken iti pamilya na dagiti amin a banag nga inaramid ti Dios kenkuana.// [32-11]//
+  - **Apay a ti babbae nga agpadpadara ket napan kenni Jesus **
+      * Pinanunut na a nu masagid na laeng iti kagay ni Jesus ket maagasan.// [32-14]//
+  - **Anya iti naaramid idiay babae kalpasan a nasagid na iti kagay ni Jesus ?**
+      * Nagsardeng iti panagpadpadarana.// [32-14]//
+  - **Kasano a naamuan ni Jesus nga adda iti nangsagid kenkuana ?**
+      * Nariknana nga adda iti pannakabalin a rimuar manipud kanyana. //[32-15]//
+  - **Anya ti inbaga ni Jesus iti babae idi nagparintomeng sakbay isuna? ?**
+      * Ti pammatim inagasan naka, apan ka nga addaan iti kapya. //[32-16]//
+
 **[[:en:obs:notes:questions:31|<< ]] | [[:en:obs:notes:questions:33| >>]]**
