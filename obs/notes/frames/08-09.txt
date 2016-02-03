@@ -6,9 +6,9 @@ Ket binilin ni Joseph dagiti tattao nga agidulin da iti ad adu ita ta nabuslon i
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:josephot|Joseph (OT)]]**
+  * **[[:ilo:obe:other:josephot]]**
 
-==== Pannakaipakaawat Kadagiti Sarsarita: ====
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **store up large amounts of food**  - They took food from the abundant harvests to the cities and stored it there. The food then belonged to Pharaoh.
   * **famine**  - See how you translated this in **[[:ilo:obs:notes:frames:08-07|[08-07]]]**.
