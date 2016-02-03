@@ -6,10 +6,10 @@ Ti simmaruno ket pinagsakit ti Dios dagiti amin a dingwen dagiti taga Egypt ket 
 
 ===== Dagiti Napapateg Nga Balikas: =====
 
-  * **[[:ilo:obe:kt:god|Dios]]**
-  * **[[:ilo:obe:other:egypt|Egypt, taga Egypt]]**
-  * **[[:ilo:obe:other:pharaoh|Pharaoh, ari ti Egypt]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelita, nasyon Israel]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:egypt]]**
+  * **[[:ilo:obe:other:pharaoh]]**
+  * **[[:ilo:obe:other:israel]]**
 
 ==== Pannakaipakaawat Kadagiti Sarsarita: ====
 
