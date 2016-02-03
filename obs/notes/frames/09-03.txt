@@ -6,12 +6,12 @@ Pinilit dagiti taga Egypt dagiti Israelita nga agaramid kadagiti adu a balbalay 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:egypt|Egypt, taga Egypt]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelita, nasyon ti Israel]]**
-  * **[[:ilo:obe:kt:god|Dios]]**
-  * **[[:ilo:obe:kt:bless|bendisyonan, nabendisyonan, bendisyon]]**
+  * **[[:ilo:obe:other:egypt]]**
+  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:bless]]**
 
-==== Pannakaipakaawat Kadagiti Sarsarita: ====
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **miserable**  – This means that they suffered terribly because of how harshly they were treated and how hard they were forced to work. They also felt very discouraged.
   * **God blessed them**  - God took care of them, helping them endure the severe treatment and even caused them to become more numerous by giving them children.
