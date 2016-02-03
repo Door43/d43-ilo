@@ -2,28 +2,29 @@
 
 ===== Dagiti salsaludsod ken sungsungbat ti pannakaamo iti istorya: =====
 
-  - **What question did Peter ask Jesus?**
-      * //"How many times should I forgive my brother when he sins against me?" [29-01]//
-  - **How many times did Peter think he should forgive his brother?**
-      * //Seven times. [29-01]//
-  - **How many times did Jesus say he should forgive his brother?**
-      * //Seventy times seven. [29-01]//
-  - **What did Jesus mean when he said, "Seventy times seven?**
-      * //He meant that we should always forgive. [29-01]//
-  - **Was the servant able to pay his huge debt to the king?**
-      * //No. [29-03]//
-  - **How did the king punish the servant with the huge debt?**
-      * //The king ordered that the man and his family be sold as slaves. [29-03]//
-  - **What did the king do when the servant begged him to be patient?**
-      * //The king felt pity on the servant and cancelled his debt. [29-04]//
-  - **What did the servant then do to a fellow servant who owed him a small debt?**
-      * //He grabbed him and demanded that he pay the money that he owed him. [29-05]//
-  - **What did the servant do when his fellow servant fell on his knees and asked him to be patient?**
-      * //He threw his fellow servant into prison. [29-06]//
-  - **How did the other servants react when he threw his fellow servant in prison?**
-      * //They were greatly disturbed and told the king about it. [29-07]//
-  - **How did the king punish the servant who did not forgive his fellow servant?**
-      * //He threw him into prison. [29-08]//
-  - **Will God forgive us if we do not forgive others from our heart?**
-      * //No. [29-09]//
+  - **Anya a saludsod iti dinamag ni Peter kenni Jesus ?**
+      * Mamin anu iti pammakawan ko kadagiti tattao a makabasul kanyak?// [29-01]//
+  - **Namin anu a daras a pinanunut ni Peter ti panang pakawan na iti kabsat na ?**
+      * maminpito// [29-01]//
+  - **Namin anu a daras  nga inbaga  ni Jesus iti panangpakawan na iti kabsat na ?**
+      * maminpito pulo ken pito.// [29-01]//
+  - **Anya ti kayat a saritaen ni Jesus iti nangibagaan na, "maminpito pulo ken pito" ?**
+      * kayat na a saritaen a kankanayun a mangpakawan.// [29-01]//
+  - **ti kadi adipen ket naaramid na a binayada tii dakkel nga utang na iti ari ?**
+      * Saan. //[29-03]//
+  - **Kasano a dinusa ti ari diay adipen a nakautang iti dakkel ?**
+      * Inbilin ti ari nga ilako da ti lalaki agraman pamilya na a kas tagabo.// [29-03]//
+  - **Anya iti inaramid diay ari idin a ti adipen ket nagpakpakaasi kenkuana ?**
+      * Naasian ti ari idiay adipen ket saannan a pinabayadan diay utang na.// [29-04]//
+  - **anya ngaruden iti inaramid diay adipen idiay pada na nga adipen a nakautang kenkuana ?**
+      * Nirabsutna sana pinilit a nagbayad idiay kuwarta nga inutang na kenkuana//. [29-05]//
+  - **Anya iti inaramid diay adipen idiay pada na nga adipen idin a naparintomeng ken dimmawat iti kaasi ?**
+      * impakulong na diay pada na nga adipen.// [29-06]//
+  - **kasano ti narikna diay maysa nga adipen idin ta impakulong na diay pada na nga adipen ?**
+      * Immay kanyada iti dakkel a pannaka riribuk ket inbaga iti ari daytoy a banag.// [29-07]//
+  - **Kasano a dinusa ti ari diay adipen a saan a nangpakawan idiay pada na nga adipen ?**
+      * Impakulongna isuna.// [29-08]//
+  - **Ti Dios kadi ket pakawanenna tayo nu saan tayo a pakawanen iti naimpusuan dagiti daaaduma ?**
+      * Saan. // [29-09]//
+
 **[[:en:obs:notes:questions:28|<< ]] | [[:en:obs:notes:questions:30| >>]]**
