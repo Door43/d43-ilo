@@ -1,30 +1,27 @@
 ====== Story #41: God Raises Jesus from the Dead ======
 
-===== Comprehension Questions and Answers =====
+===== Dagiti salsaludsod Ken sungsungbat a pakaamuan iti Istorya: =====
 
-
-  - **What had Jesus said would happen three days after his death?**
-    *//He would rise from the dead. [41-01]//
-  - **What did the Jewish leaders think of Jesus' prediction that he would rise again?**
-    *//They thought he was a liar. [41-01]//
-  - **What were the Jewish leaders afraid that the disciples would do?**
-    *//They thought the disciples would steal the body and claim Jesus had risen from the dead. [41-01]//
-  - **What did the Jewish leaders do to secure Jesus’ tomb?**
-    *//They placed soldiers to guard the tomb and put a seal on the stone at the entrance of the tomb. [41-02]//
-  - **When did the women go to Jesus’ tomb?**
-    *//Very early on the morning after the Sabbath day. [41-03]//
-  - **What miraculous events happened at the tomb before the women arrived there?**
-    *//There was an earthquake and an angel appeared, rolled away the stone, and sat on it. [41-04]//
-  - **What did the soldiers do when they saw that angel?**
-    *//They were terrified and fell to the ground like dead men. [41-04]//
-  - **What did the angel say to the women when they arrived at the tomb?**
-    *//Do not be afraid. Jesus has risen from the dead. Look in the tomb and see. [41-05]//
-  - **What did the angel tell the women to say to the disciples?**
-    *//He told them to tell the disciples that Jesus has risen from the dead, and that he would go to Galilee ahead of them. [41-06]//
-  - **Who appeared to the women as they were on their way to speak to the disciples?**
-    *//Jesus appeared to them. [41-08]//
-  - **What did the women do when they saw Jesus?**
-    *//They worshiped him. [41-08]//
-
-
-**[[en/obs/notes/questions/40|<< ]] | [[en/obs/notes/questions/42| >>]]**
+  - Anya iti inabaga ni Jesus a maaramid kalapasan iti tallo nga aldaw iti ipapatay na?
+      * Agungar isuna manipud iti patay.// [41-01]//
+  - Anya iti pinanunut dagiti panguluen iti Judio maipapan iti impadtu ni Jesus a panagungar na?
+      * Pinunut na nga isuna ket ulbod.// [41-01]//
+  - Anya iti pagbutengan dagiti panguluen iti Judio nga aramiden dagiti adalan?
+      * Pinanunut da nga baka takawen dagiti adalan ti bagi ni Jesus sa ibaga da a nagungar maniput iti patay.// [41-01]//
+  - Anya iti inaramid dagiti panguluen iti Judio tapnun ma protektaran da iti tanem ni Jesus?
+      * Nangkabil da kadagiti suldado nga agbantay idiay tanem ket nangikabil da iti kalub na diay batu nga adda idiay ruangan iti tanem.// [41-02]//
+  - Katnu a napan dagiti babbai idiay tanem ni Jeus?
+      * Napan da a nasapa kalpasan iti aldaw ti panaginana.//. [41-03]//
+  - Anya iti milagro a napasamak idiay tanem sakbay a dimteng dagti babbai sadiay?
+      * Immay iti gingined ket nagparang iti anghel nga nangitulid diay batu sa nagtugaw idiay.// [41-04]//
+  - Anya iti inaramid dagiti suldado idin ta nakita da iti anghel.
+      * Nakaru iti buteng da ket nagpakleb da iti daga nga kasla natay a lallaki.// [41-04]//
+  - Anya iti inbaga iti anghel kadagiti babbai idin ta nakadanun da idiay tanem?
+      * Saan kayo nga agbuteng, nagungaren ni Jesus manipud iti patay, kitaen yu iti tanem.// [41-05]//
+  - Anya iti inbaga ti anghel kadagiti babbai nga ibaga da kadagiti adalan?
+      * Kinunana kadakuada nga ibaga da kadagiti adalan a nagungaren ni Jesus manipud iti patay ket immune isunan a napan idiay Galilee.// [41-06]//
+  - Sinu iti nagparang kadagiti babbai kabayatan nga adda da iti dalan da nga agturong kadagiti adalan?
+      * Ni Jesus iti nagparang kadakuada’//[41-08]//
+  - Anya iti inaramid dagiti babbai idin ta nakita da ni Jesus?
+      * //Nagrukbab da kenkuana. [41-08]//
+**[[:en:obs:notes:questions:40|<< ]] | [[:en:obs:notes:questions:42| >>]]**
