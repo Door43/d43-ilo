@@ -6,12 +6,11 @@ Ngem saan a pinati dagiti taga Egypt ti Dios wenno pinagtulnogan dagiti inbilin 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:egypt|Egypt, taga Egypt]]**
-  * **[[:ilo:obe:kt:believe|mamati, mamati kenni, pammati]]**
-  * **[[:ilo:obe:kt:god|Dios]]**
+  * **[[:ilo:obe:other:egypt]]**
+  * **[[:ilo:obe:kt:believe]]**
+  * **[[:ilo:obe:kt:god]]**
 
-==== Translation Notes: ====
-
+===== Translation Notes: =====
 
   * **did not believe God or obey his commands** – In some languages it may be more natural or clear to say, "did not believe God and so they did not obey his commands."
   * **did not pass over** - He did not pass by their houses. Rather he stopped at each house and killed their eldest son.
