@@ -1,34 +1,31 @@
 ====== Story #37: Jesus Raises Lazarus from the Dead ======
 
-===== Comprehension Questions and Answers =====
+===== Dagiti salsaludsod Ken sungsungbat a pakaamuan iti Istorya: =====
 
-
-  - **What did Jesus say would be the end result of Lazarus’ sickness?**
-    *//It would be for the glory of God. [37-01]//
-  - **What did Jesus do after he heard about Lazarus’ sickness?**
-    *//He waited where he was for two more days. [37-01]//
-  - **Why were the disciples concerned when Jesus decided to go to Judea?**
-    *//Because the people there wanted to kill him. [37-02]//
-  - **What did the disciples think Jesus meant when he said that Lazarus had fallen asleep?**
-    *//They thought he was just asleep and would get better. [37-03]//
-  - **What did Jesus plainly tell the disciples about Lazarus?**
-    *//Jesus said that Lazarus had died. [37-03]//
-  - **Why was Jesus glad that he was not there when Lazarus died?**
-    *//Because something would happen that would make the disciples believe in Jesus. [37-03]//
-  - **Did Martha believe that Jesus could have healed Lazarus?**
-    *//Yes. [37-04]//
-  - **What will happen to believers because Jesus is the Resurrection and the Life?**
-    *//Whoever believes in him will live, even though he dies, and everyone who believes in him will never die. [37-05]//
-  - **Who did Martha believe that Jesus was?**
-    *//The Messiah, the Son of God. [37-05]//
-  - **How long had Lazarus been dead?**
-    *//He had been dead for four days. [37-04], [37-07]//
-  - **Why did Jesus thank the Father out loud?**
-    *//He did that so the people would believe that the Father had sent him. [37-09]//
-  - **What did Jesus command Lazarus to do?**
-    *//He commanded Lazarus to come out of the tomb! [37-09]//
-  - **How did the religious leaders of the Jews react when they saw the miracle?**
-    *//They became jealous and planned to kill Jesus and Lazarus. [37-11]//
-
-
-**[[en/obs/notes/questions/36|<< ]] | [[en/obs/notes/questions/38| >>]]**
+  - Anya iti inbaga ni Jesus nga pagbalinan iti sakit ni Lazarus iti kamaundianan na?
+      * //Agbalin a paka itantan’ukan ti Dios. [37-01]//
+  - **Anya iti inaramid ni Jesus kalpasan a nangngeg ti maipapan iti sakit ni Lazarus?**
+      * //Naguray ta adda pay iti dua nga aldaw para kanyana. [37-01]//
+  - **Apay nga dagiti adalan ket nakipagrikna da idin a ni Jesus ket denisisyonan na a mapan idiay Judea?**
+      * //Gapu ta dagiti tattao idiay ket kayat da a papatayen isuna. [37-02]//
+  - **Anya iti pinanunut dagiti adalan idi kinunana ni Jesus a ni Lazarus ket nakaturog laeng?**
+      * //Pinanunut da nga matmaturog laeng ket mabalin a sumayaat pay.////// [37-03]// //
+  - **Anya iti inbaga ni Jesus kadaiti adalan na maipapan kenni Lazarus?**
+      * //Inbaga ni Jesus a ni Lazarus ket natay. [37-03]//
+  - **Apay a naragasakan ni Jesus idi natay ni lazarus nga awan isuna?**
+      * //Gapu ta adda iti banag nga maaramid nga pagpamatian dagiti Adalan kenni Jesus. [37-03]//
+  - **Namati kadi ni Martha nga maagasan ni Jesus ni Lazarus?**
+      * //Wen. [37-04]//
+  - **Anya iti maaramid kadagiti namati gapu tani Jesus isu iti panagungar ken iti biag?**
+      * //Iti siasinuman a mamati kenkuana ket agbiag, uray pay matay, ken iti siasinuman a mamati kenkuana ket saan pulos a matay. [37-05]//
+  - **Siasinu ni Jesus iti panamati ni Martha?**
+      * //Ti Mesias, ti anak iti Dios. //[37-05]// //
+  - **Kasatnu kabayagen a natay ni Lazarus?**
+      * //Natay isunan iti uppat nga aldaw. [37-04], [37-07]//
+  - **Apay a nagyaman ni Jesus iti Ama nga addaan iti napigsa a boses?**
+      * //Inaramid na daytoy tapnun patien dagiti tattao nga imbaun isuna iti amana. [37-09]//
+  - **Anya iti inbaga ni Jesus kenni Lazarus nga aramiden na?**
+      * //Inbaga ni Jesus ken Lazarus nga rumuar isuna manipud tanem. //[37-09]// //
+  - **Anya iti narikna dagiti relihiyoso nga mangidadaulo kadagiti Judio idin ta nakita da daytoy a milagro?**
+      * **//Nakarikna da iti panagimon ket plinano da a papatayen ni Jesus kenni Lazarus.// **// [37-11]//
+**[[:en:obs:notes:questions:36|<< ]] | [[:en:obs:notes:questions:38| >>]]**
