@@ -1,27 +1,16 @@
+===== Pinarsuan Ti Dios Ti Tangatang [01-03] =====
 
-
-
-===== Pinarsuan Ti Dios Ti Tangatang  [01-03] =====
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?nolink&}}
 
 Ti maikadwa nga aldaw ket nagsao ti Dios ket naparsua ti tangatang iti rabaw ti daga. Inaramidna ti tangatang babaen iti panagsinana iti danum sadiay akin ngatu ken dadiay danum nga adda sadiay baba.
 
 ===== Important Terms: =====
 
-
-  * **[[:ilo:obe:kt:god]]**
-
-
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
 ==== Translation Notes: ====
 
-
-  * **the second day** - God's work of creation was orderly, purposeful, and sequential. The things he created each day built upon and depended on the acts of the previous days.
-  * **God spoke** - God created the sky by speaking a command.
-  * **created** - God made the sky out of nothing.
-  * **sky** - This term refers to all of the space above the earth, including the air we breathe and the heavens.
-
-
+  * **the second day**  - God's work of creation was orderly, purposeful, and sequential. The things he created each day built upon and depended on the acts of the previous days.
+  * **God spoke**  - God created the sky by speaking a command.
+  * **created**  - God made the sky out of nothing.
+  * **sky**  - This term refers to all of the space above the earth, including the air we breathe and the heavens.
 **[[:ilo:obs:notes:frames:01-02|<<]] | [[:ilo:obs:notes:01|Up]] | [[:ilo:obs:notes:frames:01-04|>>]]**
-
