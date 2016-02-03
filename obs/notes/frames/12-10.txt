@@ -6,12 +6,12 @@ Sinurot da ngarud dagiti Israelita iti dalan idiay baybay ngem pinagdanag ti Dio
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:israel|Israel, Israelita, nasyon ti Israel]]**
-  * **[[:ilo:obe:kt:god|Dios]]**
-  * **[[:ilo:obe:other:egypt|Egypt, taga Egypt]]**
-  * **[[:ilo:obe:other:chariot|karwa]]he**
+  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:egypt]]**
+  * **[[:ilo:obe:other:chariot|]]**
 
-==== Translation Notes: ====
+===== Translation Notes: =====
 
 
   * **path through the sea** - This was the dry strip of land across the bottom of the sea, with a wall of water on each side.
