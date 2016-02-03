@@ -6,12 +6,12 @@ Impan ngarud dagidiay dagiti agtagtagilako ti tagabo ni Joseph idiay Egypt. Iti 
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:servant|adipen, tagabo, pannakatagabo]]**
-  * **[[:ilo:obe:other:josephot|Joseph (OT)]]**
-  * **[[:ilo:obe:other:egypt|Egypt, taga Egypt]]**
-  * **[[:ilo:obe:other:nileriver|karayan a Nile]]**
-  * **[[:ilo:obe:kt:god|Dios]]**
-  * **[[:ilo:obe:kt:bless|bendisyonan (v), binendisyonan (v), bendisyon (n)]]**
+  * **[[:ilo:obe:other:servant]]**
+  * **[[:ilo:obe:other:josephot)]]**
+  * **[[:ilo:obe:other:egypt]]**
+  * **[[:ilo:obe:other:nileriver]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:bless]]**
 ==== Translation Notes: ====
 
   * **government official**  - This was a person who was part of the Egyptian government. Another way to say this would be, "a leader in Egypt's government."
