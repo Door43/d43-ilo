@@ -6,11 +6,11 @@ Kalpasan ti apag biit a tiempo ket nagbaliw ti panunot ni Pharaoh ken dagiti tat
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:pharaoh|Pharaoh, ari ti Egypt]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelita, nasyon ti Israel]]**
-  * **[[:ilo:obe:other:servant|sadipen, tagabo, pannakatagabo]]**
-  * **[[:ilo:obe:kt:god|Dios]]**
-  * **[[:ilo:obe:kt:falsegod|palso a dios, dediosen]]**
+  * **[[:ilo:obe:other:pharaoh]]**
+  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:other:servant]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:falsegod]]**
 
 ==== Translation Notes: ====
 
