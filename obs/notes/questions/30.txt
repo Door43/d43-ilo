@@ -2,24 +2,25 @@
 
 ===== Dagiti salsaludsod ken sungsungbat ti pannakaamo iti istorya: =====
 
-  - **What did Jesus send his apostles to do in the villages?**
-      * //He sent them to preach and teach. [30-01]//
-  - **Why did Jesus take his apostles to the other side of the lake?**
-      * //He invited them to a quiet place to rest for a while. [30-01]//
-  - **Were Jesus and his apostles able to be alone and rest?**
-      * //No. Many people ran to the other side ahead of them. [30-02]//
-  - **What was Jesus’ attitude toward the crowd that was waiting for them?**
-      * //He had compassion towards them. [30-03]//
-  - **How did Jesus demonstrate his compassion for the people?**
-      * //He taught them and healed the sick. [30-03]//
-  - **Why did the disciples want to send the people away?**
-      * //It was late in the day and they needed to get something to eat. [30-04]//
-  - **Why were the disciples unable to feed all the people?**
-      * //They only had five loaves of bread and two small fish. [30-05]//
-  - **What did Jesus do with the five loaves of bread and the two fish?**
-      * //He thanked God for the food and broke it into pieces for his disciples to give to the people. [30-07], [30-08]//
-  - **How many people ate and were satisfied from the food?**
-      * //Five thousand men, not counting the women and children. [30-03]//
-  - **How much food was left over after everyone had eaten?**
-      * //Twelve baskets full. [30-09]//
+  - **Anya iti impaaramid ni Jesus kadagiti adalan na idi imbaun na isuda idiay barbaryo ?**
+      * Imbaun na isuda a mapan mangasaba.// [30-01]//
+  - **Apay ta napan da Jesus ken dagiti apostoles na iti bangir ti karayan ?**
+      * Inayaban na isuda it naulimek a lugar tapnon aginana da iti apagbiit. // [30-01]//
+  - **Ni kadi laeng Jesus ken dagiti apostoles na iti adda ken naginana ?**
+      * Saan, adu pay dagiti tattao nga immununa ngem kadakuada.// [30-02]//
+  - **Anya ti nagbalin nga ugali ni Jesus iti adu a tattao nga agururay kadakuada ?**
+      * Naaddaan iti asi kadakuada.// [30-03]//
+  - **Kasano nga impakita ni Jesus iti asi na kadagiti tattao ?**
+      * Sinoruan ken inagasan na dagiti masakit.// [30-03]//
+  - **Apay a dagiti adalan ket kayatda a papanawen dagiti tattao ?**
+      * Sumipnget gaminen ket masapulen a mangala da iti taraon da.// [30-04]//
+  - **Apay a dagiti adalan ket saanda a mapakan dagti tattao ?**
+      * Gapo ta addaan da laeng iti lima a tinapay ken dua a lames.// [30-05]//
+  - **Anya iti inaramid ni Jesus iti lima a tinapay ken dua a lames ?**
+      * Nagyaman iti Dios para diay taraon sana pinisipisi ket inted na kadagiti adalan na tapnon  ited da kadagiti tattao.// [30-07], [30-08]//
+  - **Manu dagiti tattao a nangan ken nabsug gapo iti taraon ?**
+      * Lima ribu a lallaki, saan pay a naibilang dagiti babbae ken ub-ubbing.// [30-03]//
+  - **Manu ti nabati a taraon kalpasan a nangan iti tunggal maysa ?**
+      * Sanga pulo ket dua a basket.// [30-09]//
+
 **[[:en:obs:notes:questions:29|<< ]] | [[:en:obs:notes:questions:31| >>]]**
