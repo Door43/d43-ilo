@@ -1,34 +1,31 @@
 ====== Story #47: Paul and Silas in Philippi ======
 
-===== Comprehension Questions and Answers =====
+===== Dagiti salsaludsod Ken sungsungbat a pakaamuan iti Istorya: =====
 
-
-  - **What was the Roman name that Saul began to use?**
-    *//Paul. [47-01]//
-  - **Where did Paul go in Philippi to proclaim the good news about Jesus?**
-    *//They went to a place by the river outside the city where people gathered to pray. [47-01]//
-  - **What made it possible for Lydia to believe in Jesus?**
-    *//God made it possible for Lydia to understand the message about Jesus. [47-02]//
-  - **What did Paul and Silas do to Lydia after she believed?**
-    *//They baptized Lydia and her family. [47-02]//
-  - **What did the demon-possessed slave girl keep yelling when she saw Paul and Silas?**
-    *//“These men are servants of the Most High God. They are telling you the way to be saved!” [47-04]//
-  - **How did Paul respond to the demon's testimony?**
-    *//Paul became annoyed and commanded the demon to leave the slave girl. [47-04], [47-05]//
-  - **Why were the owners of the slave girl angry that the demon was gone?**
-    *//They realized that people would no longer pay money for her to tell people the future. [47-06]//
-  - **What were Paul and Silas doing in the middle of the night in jail?**
-    *//They were singing songs of praise to God. [47-08]//
-  - **What happened while Paul and Silas were singing?**
-    *//There was a violent earthquake, the prison doors flew open, and the chains of the prisoners fell off. [47-09]//
-  - **Why was the jailer terrified?**
-    *//He thought all the prisoners had escaped, and that the Roman authorities would kill him. [47-10]//
-  - **What question did the jailer ask Paul?**
-    *//“What must I do to be saved?” [47-11]//
-  - **What did Paul say the jailer had to do in order to be saved?**
-    *//He had to believe in Jesus, the Master. [47-11]//
-  - **What happened to some of the letters Paul and other Christian leaders wrote to the believers in the churches?**
-    *//Some of these letters became books of the Bible. [47-14]//
-
-
-**[[en/obs/notes/questions/46|<< ]] | [[en/obs/notes/questions/48| >>]]**
+  - **Anya iti nagan a Roman nga  inrugi ni Saul nga usaren? **
+      * //Paul. //// [47-01]//
+  - **Sadino idiay Philippi iti napanan ni Paul tapnun ikasaba na iti naimbag a damag maipapan kenni Jesus?**
+      * //Napan da iti lugar nga ayan ti waig ruar ti siudad nga ayan dagiti tattao nga naummong tapnun agkararag. [47-01]//
+  - **Anya iti nagnaramid nga nalaka a namti ni Lydia kenni Jesus?**
+      * //Inaramid ti Dios a nalaka kenni Lydia nga maawatan na diay mensahe maipapan kenni Jesus. [47-02]//
+  - **Anya iti inaramid ni Paul kenni Silas kalpasan a namati ni Lydia?**
+      * //Binautisaran da ni Lydia agraman pamilya na. [47-02]//
+  - **Anya iti ipukkapukkaw diay babai nga nasaniban iti demonyo idin ta nakita na da Paul kenni Silas?**
+      * //“Dagitoy a lallaki ket adipen ti Dios a kangatuan. Ibaga da kanyayu iti dalan iti pannakaisalakan”. //[47-04]// //
+  - **Anya iti narikna ni Paul iti impaduyakyak diay demonyo?**
+      * //Ni Paul ket nakaunget ket binilin na ti demonyo nga panawan na diay babai nga tinagabu na. [47-04], [47-05]//
+  - **Apay ta nakaunget diay  amo ti tagabu a babai idin ta pimmanaw diay demonyo?**
+      * Naamiris da nga dagiti tattao ket saan dan nga agbayad iti kuwarta ta saan nan nga maibaga kadagiti tattao iti masakbayan.//. [47-06]//
+  - **Anya iti ar’aramiden da Paul kenni Silas idiay pagbaludan iti tengngan ti rabii?**
+      * //Agkankanta da iti kankanta a pammadayaw iti Dios. [47-08]//
+  - **Anya iti napasamak kabayatan iti panagkankanta da Paul kenni Silas?**
+      * //Adda iti nakaru a gingined, nalukatan dagiti ruangan iti pagbaludan, naukarkar iti kawkawar dagiti balud//. [47-09]// //
+  - **Apay ta ti guardiya iti pagbaludan ket kasta unay iti buteng na?**
+      * //Pinanunut na nga nakalibas amin a balud ket papatayen isuna dagiti agturay idiay Roma. [47-10]//
+  - **Anya iti saludsod a dinamag diay guardiya kenni Paul?**
+      * //“Anya iti aramidek tapnun maisalakanak?” [47-11]//
+  - **Anya iti inbaga ni Paul idiay guardiya nga aramiden na tapnun maisalakan?**
+      * //Masapul nga mamati kenni Jesus, ti Apo. [47-11]//
+  - **Anya iti naaramid kadagiti sumagmamanu a surat da Paul ken dagiti dadduma nga kristiyano a mangidadaulo para kadagiti namati iti ig’iglesia?**
+      * **//Sumagmamanu kadagiti surat ket nagbalin nga paset iti Bibliya.// **// [47-14]//
+**[[:en:obs:notes:questions:46|<< ]] | [[:en:obs:notes:questions:48| >>]]**
