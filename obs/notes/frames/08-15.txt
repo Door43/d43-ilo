@@ -6,15 +6,16 @@ Ti tulag nga inkari ti Dios nga inted na kenni Abraham ket naipasa kenni Isaac s
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:covenant|katulagan]]**
-  * **[[:ilo:obe:kt:promise|kari]]**
-  * **[[:ilo:obe:kt:god|Dios]]**
-  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
-  * **[[:ilo:obe:other:isaac|Isaac]]**
-  * **[[:ilo:obe:other:jacob|Jacob, Israel]]**
-  * **[[:ilo:obe:other:descendant|kaputotan]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelita, nasyon ti Israel]]**
-**Pannakaipakaawat Kadagiti Sarsarita**:
+  * **[[:ilo:obe:kt:covenant]]**
+  * **[[:ilo:obe:kt:promise]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:abraham]]**
+  * **[[:ilo:obe:other:isaac]]**
+  * **[[:ilo:obe:other:jacob]]**
+  * **[[:ilo:obe:other:descendant]]**
+  * **[[:ilo:obe:other:israel]]**
+
+=====Pannakaipakaawat Kadagiti Sarsarita:=====
 
   * **covenant promises**  - Long ago God made an agreement with Abraham and promised him that he would give him many descendants; they would possess the land of Canaan and become a great nation. God also promised that all peoples would be blessed through Abraham's line. See also **[[:ilo:obs:notes:frames:07-10|[07-10]]]**.
   * **passed on to**  - Another way to say this would be, "passed down to" or, "given to" or, "applied to." God's promise to Abraham was also for Abraham's children, grandchildren and all the rest of his descendants. See also **[[:ilo:obs:notes:frames:06-04|[06-04]]]**.
