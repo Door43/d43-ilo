@@ -6,7 +6,7 @@
 
 ===== Dagiti Napapateg Nga Balikas: =====
 
-  * **[[:ilo:obe:kt:god=]]**
+  * **[[:ilo:obe:kt:god]]**
   * **[[:ilo:obe:other:egypt]]**
   * **[[:ilo:obe:other:pharaoh]]**
   * **[[:ilo:obe:other:beg]]**
