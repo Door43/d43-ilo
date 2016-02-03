@@ -6,9 +6,9 @@ Nakaro ti panagbisin saan laeng nga idiay Egypt nu diket pati iddiay Canaan nga 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:egypt|Egypt, taga Egypt]]**
-  * **[[:ilo:obe:other:canaan|Canaan, Canaanite]]**
-  * **[[:ilo:obe:other:jacob|Jacob, Israel]]**
+  * **[[:ilo:obe:other:egypt]]**
+  * **[[:ilo:obe:other:canaan]]**
+  * **[[:ilo:obe:other:jacob]]**
 
 ==== Pannakaipakaawat Kadagiti Sarsarita: ====
 
