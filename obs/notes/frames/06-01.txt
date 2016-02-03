@@ -6,14 +6,11 @@ Ket kinona ti Dios ken Abraham, "Gapu ta sipapalubos ka a mangted kaniak ti amin
 
 ===== Dagiti Napapateg Nga Balikas: =====
 
-  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
-  * **[[:ilo:obe:kt:son|anak/putot a lalaki]]**
-  * **[[:ilo:obe:kt:son|Dios]]**
-  * **[[:ilo:obe:kt:son|kari]]**
-  * **[[:ilo:obe:kt:son|bendisyonan]]**
-  * **[[:ilo:obe:kt:son|dagiti kaputotan]]**
-  * **[[:ilo:obe:kt:son|nagtulnog, tinungpal]]**
-
+  * **[[:ilo:obe:other:abraham]]**
+  * **[[:ilo:obe:kt:son]]**
+  * **[[:ilo:obe:other:Isaac]]**
+  * **[[:ilo:obe:other:servant]]**
+  
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **bugbugtong nga anak mo a lalaki**: Masarakan yu iti pannakaipalawag idiay [05-08]
