@@ -2,41 +2,38 @@
 
 ===== Comprehension Questions and Answers =====
 
-
-  - **How is Jesus both God and human?**
-    *//Because he was born of a virgin woman, and was also God’s Son. [49-01]//
-  - **How did Jesus prove that he was God?**
-    *//He did many miracles. [49-02]//
-  - **How should we love other people?**
-    *//In the same way as we love ourselves. [49-03]//
-  - **Who should we love more than anything else?**
-    *//God. [49-04]//
-  - **What is the most important thing for anyone?**
-    *//To belong to the kingdom of God.  [49-05]//
-  - **What will happen to people who reject the message about Jesus?**
-    *//They will not enter into his kingdom. [49-06]//
-  - **What does God want to do for sinners?**
-    *//He wants to forgive them and make them his children. [49-07]//
-  - **What does God hate?**
-    *//Sin. [49-08]//
-  - **What do we deserve from God because of our sin?**
-    *//We deserve to die. [49-10]//
-  - **What did Jesus receive that he did not deserve when he died on the cross?**
-    *//He received my punishment. [49-10]//
-  - **Why was Jesus' sacrifice able to take away the sins of every person in the world?**
-    *//Because Jesus never sinned. [49-11]//
-  - **Who will be saved?**
-    *//Everyone who believes in Jesus and receives him as his Master. [49-13]//
-  - **Are Christians still enemies of God?**
-    *//No, they are now close friends of God. [49-16]//
-  - **Are Christians still tempted to sin?**
-    *//Yes. [49-17]//
-  - **What should Christians do when they sin?**
-    *//They should confess their sins to God. [49-17]//
-  - **What does God promise to do if we confess our sins?**
-    *//He promises to forgive us, and to give us strength to fight against sin. [49-17]//
-  - **What are some of the things that God tells Christians to do?**
-    *//We should pray, study his word, worship him, and tell others about what he has done for us. [49-18]//
-
-
-**[[en/obs/notes/questions/48|<< ]] | [[en/obs/notes/questions/50| >>]]**
+  - **Kasatnu a ni Jesus ket Dios ken tao?**
+      * //Gapu ta naiyanak isuna babaen iti birhen a babai, ken anak ti Dios isuna ////. [49-01]//
+  - **Kasatnu nga impaneknek ni Jesus a Dios isuna? **
+      * //Nangaramid iti adu a milmilagro. [49-02]//
+  - **Kasatnu nga ayaten mi iti dadduma a tattao?**
+      * //Kas iti panagayat tayu iti bagi tayu ////. [49-03]//
+  - **Siasinu iti mas ayaten tayo ngem ti anya man a banag? **
+      * //Dios.// [49-04]// //
+  - **Anya iti kangrunaan a banag para iti tunggal maysa?**
+      * //Ti maibilang iti pagarian ti Dios ////. [49-05]//
+  - **Anya iti maaramid kadagiti tattao a saan nga umawat iti mensahe maipapan kenni Jesus?**
+      * //Saan da a mabalin iti sumrek ti pagarian ti Dios.// [49-06]// //
+  - **Anya iti kayat nga aramiden iti Dios para kadagti managbasul? **
+      * //Kayat na ida a  pakawanen ken aramiden nga annak. [49-07]//
+  - **Anya iti kagurgura ti Dios? **
+      * //Basul//. [49-08]// //
+  - **Anya iti maikari nga awaten tayo manipud iti Dios gapu kadagiti basbasul tayu?**
+      * //Maikari tayu a matay. //[49-10]// //
+  - **Anya iti inawat ni Jesus nga saan a maikari nga awaten na idi natay isuna iti krus?**
+      * //Inawat na iti dusa//. [49-10]// //
+  - **Apay nga ti pannakaidatun ni Jesus ket nabalinan na nga pukawen ti basbasul iti tunggal tao ditoy lubong?**
+      * //Gapu ta saan a pulos a nagbasul ni Jesus. [49-11]//
+  - **Siasinu iti maisalakan?**
+      * //Amin a mamati kenni Jesus ken mangawat kenkuana a kas Apo na. [49-13]//
+  - **Amin kadi a kristiyano ket maibilang a kabusor iti Dios?**
+      * //Saan, nagbalin dan a gagayyem ti Dios//. [49-16]// //
+  - **Mabalin pay kadi a masulisog nga agbasul iti kristiyano?**
+      * //Wen. [49-17]//
+  - **Anya iti aramiden dagiti kristiyano  nu agbasul da?**
+      * //Masapul nga ikonfesar da dagiti basul da iti Dios.// [49-17]// //
+  - **Anya iti inkari ti Dios nu ikonfesar da dagiti basbasul tayu? **
+      * Inkari na a pakawanen na tayu, ken ikkan na tayu iti pigsa a sumaranget iti basul.// [49-17]//
+  - **Anya dagiti sumagmamanu a banag nga inbaga ti Dios nga artamiden dagiti kristiyano?**
+      * **//Masapul nga agkararag tayu, agbasa kadagiti sasao na, agrukbab kenkuana, ket ibaga tayu iti dadduma nu anya iti inaramid na kadatayu.// [49-18]// // **
+**[[:en:obs:notes:questions:48|<< ]] | [[:en:obs:notes:questions:50| >>]]**
