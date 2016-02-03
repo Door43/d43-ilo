@@ -1,38 +1,35 @@
 ====== Story #42: Jesus Returns to Heaven ======
 
-===== Comprehension Questions and Answers =====
+===== Dagiti salsaludsod Ken sungsungbat a pakaamuan iti Istorya: =====
 
-
-  - **What were the two disciples talking about as they walked along the road?**
-    *//They were talking about what had happened to Jesus. [42-01]//
-  - **Who did the two disciples think Jesus was when he approached them on the road?**
-    *//They thought he was a visitor who did not know what had happened in Jerusalem. [42-02]//
-  - **What had the prophets said would happen to the Messiah?**
-    *//The Messiah would suffer and be killed, but would rise again on the third day. [42-03]//
-  - **What was Jesus doing when the two disciples recognized him?**
-    *//He was breaking a loaf of bread and thanking God for it. [42-04]//
-  - **What did the two disciples do after Jesus left them?**
-    *//They returned to Jerusalem and told the other disciples that Jesus was alive and that they had seen him. [42-05]//
-  - **How did Jesus prove to the disciples that he was not a ghost?**
-    *//He took a piece of cooked fish and ate it. [42-06]//
-  - **What enabled the disciples to understand God’s word?**
-    *//Jesus opened their minds. [42-07]//
-  - **What was the message that Jesus’ disciples were to proclaim?**
-    *//They would proclaim that everyone should repent in order to receive forgiveness for their sins. [42-08]//
-  - **Where were Jesus’ disciples to proclaim this message?**
-    *//They would proclaim it first in Jerusalem, and then go to all people groups everywhere. [42-08]//
-  - **How long did Jesus continue to appear to the disciples?**
-    *//He appeared to them for 40 days. [42-09]//
-  - **How big was the largest group of disciples that saw Jesus during this time?**
-    *//He appeared to more than 500 disciples at the same time. [42-09]//
-  - **What did Jesus command his disciples to go and do?**
-    *//He said to them, “Make disciples of all people groups by baptizing them in the name of the Father, the Son, and the Holy Spirit, and by teaching them to obey everything I have commanded you.” [42-10]//
-  - **Why did Jesus tell the disciples to wait in Jerusalem?**
-    *//They were to wait until the Father gave them power when the Holy Spirit came on them. [42-11]//
-  - **Where did Jesus go forty days after his resurrection?**
-    *//He went up to heaven. [42-11]//
-  - **What is Jesus doing right now?**
-    *//He is seated at the right hand of God and ruling over all things. [42-11]//
-
-
-**[[en/obs/notes/questions/41|<< ]] | [[en/obs/notes/questions/43| >>]]**
+  - **Anya iti sarsaritaen dagiti dua nga adalan kabayatan nga adda da iti dalan?**
+      * Sarsaritaen da iti maipapan diay napasamak kenni Jesus//. [42-01]//
+  - **Sinu iti pinanunut dagiti dua nga adalan maipapan kenni Jesus idi immasideg kadakuada idiay dalan?**
+      * //Pinanunut da nga bisita isuna a dina ammu iti napasamak idiay Jerusalem. [42-02]//
+  - **Anya iti kinuna dagiti mammadtu a mapasamak iti Mesiaas?**
+      * //Ti Mesias ket agsagaba ken matay, ngem agungar met laeng iti maika tallo nga aldaw. [42-03]//
+  - **Anya iti araramiden ni Jesus idin ta nailasin isuna dagiti dua nga adalan?**
+      * //Pispisien na iti tinapay ken nagyaman iti Dios. [42-04]//
+  - **Anya iti inaramid dagiti dua nga adalan kalpasan a pimmanaw ni Jesus kadakuada?**
+      * //Nagsubli da idiay Jerusalem ket inbaga da kadagiti dadduma pay nga adalan a sibibiag ni Jesus ket nakita da pay isuna. [42-05]//
+  - **Kasatnu iti inaramid ni Jesus tapnun maipaneknek na kadagiti adalan a saan nga al’alya isuna?**
+      * //Nangala iti naluto nga ikan sana kinnan. [42-06]//
+  - **Anya iti nangaramid nga dagiti adalan ket patien da iti sao ti Dios?**
+      * //Nilukatan ni Jesus dagiti panpanunut da. [42-07]//
+  - **Anya iti mensahe dagiti adalan ni Jesus nga iwaragawag da?**
+      * //Iwararagawag da a tunggal maysa ket masapul nga agbabawi tapnun awaten da ti kapakawanan dagiti basbasul da. [42-08]//
+  - **Sadino ti pangiwarawagan dagiti adalan ni Jesus iti mensahe?**
+      * //Iwaragawag da nga umuna idiay Jerusalem, sada mapan iti nadumaduma nga tattao iti sadinuman. [42-08]//
+  - **Kasatnu kabayag ni Jesus a nagparang kadagiti adalan?**
+      * //Nagparang kadagiti adalan iti uppat a pulo nga aldaw. [42-09]//
+  - **Kasatnu kaadu iti grupon dagiti adalan a nakakita kenni Jesus kadagitoy nga al’aldaw?**
+      * //Nagparang iti nasurok a lima gasut nga adalan iti isu met laeng a tiempo. [42-09]//
+  - **Anya iti inbilin ni Jesus nga papanan ken aramiden dagiti adalan na?**
+      * //Kinunanna kadakuada,”apan kayu kadagiti isu amin a grupo iti tattao ket aramiden yu isuda nga adalan ken bautisaran yu isuda iti nagan ti Ama, ti Anak, ken ti Spiritu Santo, ken isuru yu kadakuada nga pagtulnugan da iti amin nga bilin ko kadakayu”. [42-10]//
+  - **Apay ta kinana ni Jesus kadagiti adalan nga aguray da idiay Jerusalem?**
+      * Masapul nga aqguray da aginggana a ti Ama ket ited na kadakuada iti pannakabalin intun umay ti Spiritu kadakuada.// [42-11]//
+  - **Sadino iti napanan ni Jesus kalpasan iti panagungar?**
+      * //Nagpangatu idiay Langit. //[42-11]// //
+  - **Anya iti agdama nga ar’aramiden ni Jesus?**
+      * **//Nakatugaw isuna iti makannawan nga ima ti Dios ken iturayan na amin a banag.// **// [42-11]//
+**[[:en:obs:notes:questions:41|<< ]] | [[:en:obs:notes:questions:43| >>]]**
