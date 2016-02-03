@@ -6,11 +6,11 @@ Ket inkabil ti Dios diay munmun nga ulep iti nagbaetan dagiti Israelita ken dagi
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|Dios]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelita, nasyon ti Israel]]**
-  * **[[:ilo:obe:other:egypt|Egypt, taga Egypt]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:other:egypt]]**
 
-==== Translation Notes: ====
+===== Translation Notes: =====
 
 
   * **pillar of cloud** – See how you translated this phrase in **[[:ilo:obs:notes:frames:12-02|[12-02]]]**
