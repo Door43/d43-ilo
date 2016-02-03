@@ -6,12 +6,12 @@ Kalpasan iti duwa nga tawen ket adda latta idiay pagbaludan ni Joseph uray nu aw
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:josephot|Joseph (OT)]]**
-  * **[[:ilo:obe:kt:innocent|innosente/awan basur]]**
-  * **[[:ilo:obe:other:pharaoh|Pharaoh, ari ti Egypt]]**
-  * **[[:ilo:obe:other:egypt|Egypt, taga Egypt]]**
-  * **[[:ilo:obe:other:king|ari]]**
-  * **[[:ilo:obe:other:dream|tagtagainep]]**
+  * **[[:ilo:obe:other:josephot]]**
+  * **[[:ilo:obe:kt:innocent]]**
+  * **[[:ilo:obe:other:pharaoh]]**
+  * **[[:ilo:obe:other:egypt]]**
+  * **[[:ilo:obe:other:king]]**
+  * **[[:ilo:obe:other:dream]]**
 ==== Translation Notes: ====
 
   * **disturbed him greatly**  – This means that the king felt very afraid and confused (because of what he had seen in the dreams).
