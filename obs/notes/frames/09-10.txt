@@ -6,11 +6,11 @@ Idi naamuan ni Pharaoh iti inaramid ni Moses ket pinadas na nga ipapatay  ni Mos
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:pharaoh|Pharaoh, ari ti Egypt]]**
-  * **[[:ilo:obe:other:moses|Moses]]**
-  * **[[:ilo:obe:other:egypt|Egypt, taga Egypt]]**
+  * **[[:ilo:obe:other:pharaoh]]**
+  * **[[:ilo:obe:other:moses]]**
+  * **[[:ilo:obe:other:egypt]]**
 
-==== Pannakaipakaawat Kadagiti Sarsarita: ====
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **kabakiran- ** Ti kabakiran iti ket nakalawlawa ken mabatu ken namaga a lugar. Ti daga idiay ket madi matanman iti nateng ken bassit ti bilang ti tao nga apan agnaed idiay.
 **[[:ilo:obs:notes:frames:09-09|<<]] | [[:ilo:obs:notes:09|Up]] | [[:ilo:obs:notes:frames:09-11|>>]]**
