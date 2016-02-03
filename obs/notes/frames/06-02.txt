@@ -6,10 +6,10 @@ Kalpasan ti atiddog unay a panagdaldalyasat agturong iti lugar dagiti kabagiyan 
 
 ===== Dagiti Napapateg Nga Balikas: =====
 
-  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
-  * **[[:ilo:obe:kt:god|Dios]]**
-  * **[[:ilo:obe:other:servant|adipen, tagabo, pannakatagabo]]**
-  * **[[:ilo:obe:other:rebekah|Rebekah]]**
+  * **[[:ilo:obe:other:abraham]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:servant]]**
+  * **[[:ilo:obe:other:rebekah]]**
 
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
