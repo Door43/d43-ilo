@@ -1,36 +1,33 @@
 ====== Story #35: The Story of the Compassionate Father ======
 
-===== Comprehension Questions and Answers =====
+===== Dagiti salsaludsod Ken sungsungbat a pakaamuan iti Istorya: =====
 
-
-  - **Why did the religious leaders criticize Jesus?**
-    *//Because Jesus treated tax collectors and sinners as his friends. [35-02]//
-  - **What did the younger son demand from his father?**
-    *//He wanted his inheritance right away. [35-03]//
-  - **What did the younger son do with his inheritance?**
-    *//He wasted it in sinful living. [35-04]//
-  - **What happened in the land where the younger son went to live?**
-    *//There was a severe famine. [35-05]//
-  - **What did the younger son do to survive during the famine?**
-    *//He took a job feeding pigs. [35-05]//
-  - **Why did the younger son decide to return home?**
-    *//He realized that father’s servants lived better than he did and had plenty to eat. [35-06]//
-  - **What was the younger son planning to ask his father?**
-    *//He was going to ask his father to let him be one of his servants. [35-06]//
-  - **What did the father do when he saw the younger son approaching?**
-    *//He ran to him, hugged him, and kissed him. [35-07]//
-  - **What did the younger son say to his father when they met?**
-    *//“Father, I have sinned against God and against you. I am not worthy to be your son.” [35-08]//
-  - **How did the father respond to the younger son’s confession?**
-    *//He put clothes, a ring, and sandals on the younger son and had a feast to celebration his return. [35-09]//
-  - **How did the older son react when he learned that his brother had come home?**
-    *//He was very angry and refused to go into the house. [35-11]//
-  - **What was the older son’s complaint to his father?**
-    *//I worked faithfully for you and you did not give me even a small goat to celebrate, but you killed the best calf for this son of yours who consumed your money. [35-12]//
-  - **How much of the father's possessions now belonged to the older son?**
-    *//Everything the father had. [35-13]//
-  - **What reason did the father give for celebrating the return of his younger son?**
-    *//His son had been dead, but now was alive. He had been lost, but now was found. [35-13]//
-
-
-**[[en/obs/notes/questions/34|<< ]] | [[en/obs/notes/questions/36| >>]]**
+  - **Apay nga dagiti relihiyoso a mangidadaulo ket inuyaw da ni Jesus? **
+      * //Gapu ta imbilang na a gagayyem ti agsingsingir iti buwis agraman managbasul. [35-02]//
+  - **Anya iti dinawat diay maikadwa nga anak iti ama na?**
+      * //Kayat na nga alaen ti tawid na iti daydiay met a panawen.//[35-03]// //
+  - **Anya iti inaramid ti maikadwa nga anak kagaiti tawid na?**
+      * //Inusar na iti saan a nayaat a biag. [35-04]//
+  - **Anya iti naaramid ti maikadwa nga anak iti lugar a napanan na nga nagnaedan?**
+      * //Adda ti kasta unay a panagbisin. [35-05]//
+  - **Anya itiminaramid ti maikadwa ng anak tapnun agbiag iti dayta a panagbisin?**
+      * //Sinumrek nga taga pakan ti babbabuy. [35-05]//
+  - **Apay ta nagdesisyon ti maikadwa nga anak nga agawid?**
+      * //Napanunut na nga dagiti adipen ti ama na ket nasaysayaat iti biag da ngem isuna ken adu pay iti makan. [35-06]//
+  - **Anya ti plinanu diay maikadwa nga anak a dawaten iti amana?**
+      * //Dawaten na iti amana nga uray agbalin laeng a maysa kadagiti adipen na. [35-06]//
+  - **Anya iti inaramid diay ama idin ta nakita na nga paumay diay maikadwa nga anak na?**
+      * //Nagtaray nga nagturong kenkuana ket inarakup ken innagkanna//. [35-07]// //
+  - **Anya iti inbaga diay maikadwa nga anak iti amana idin ta nagkita da?**
+      * //“Ama, nagbasulak iti Dios ken kadakayu, saanak a maikari nga anak mo”. //[35-08]// //
+  - **Kasatnu nga sinubadan ti ama diay inabagan ti maikadwa nga anak na?**
+      * //Binaduan na, siningsingan na, ken sinandalan na diay anak na sada nagrambak iti panagsubli na. [35-09]//
+  - **Kasatnu iti karirikna diay inauna nga anak idin ta naamuan na a nakaawiden diay kabsat na?**
+      * //Kasta launay iti unget na ket saan na kayat iti mapan idiay balay da. [35-11]//
+  - **Anya ti inreklamo diay inauna nga anak iti amana?**
+      * //Agtrabtrabaho ak a sipupudno kenka ngem saannak nga inikkan iti uray bassit a kalding para iti panagpadayak, ngem pinartim iti kasayaatan a baka para iti daytoy nga anak mo a nang’ibus iti kuwartam? [35-12]//
+  - **Kasatnu kaadu iti sanikua diay ama nga tinagikua iti inauna nga anak?**
+      * //Amin a sanikua diay ama. //[35-13]// //
+  - **Anya a rason nga ti ama ket pinarambakan na iti panagsubli diay maikadwa nga anak na?**
+      * **//Ti anak na ket natay, ngem itan sibibiag, napukaw ngem itan nabirukan. // **// [35-13]//
+**[[:en:obs:notes:questions:34|<< ]] | [[:en:obs:notes:questions:36| >>]]**
