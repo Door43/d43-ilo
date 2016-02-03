@@ -6,14 +6,14 @@ Idi nakita dagiti Israelita a natayen dagiti taga Egypt ket nagtalek da iti Dios
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:israel|Israel, Israelita, nasyon ti Israel]]**
-  * **[[:ilo:obe:other:egypt|Egypt, taga Egypt]]**
-  * **[[:ilo:obe:kt:god|Dios]]**
-  * **[[:ilo:obe:kt:believe|mamati, mamati kenni/iti, pammati]]**
-  * **[[:ilo:obe:other:moses|Moses]]**
-  * **[[:ilo:obe:kt:prophet|mammadtu, padtu, agipadtu, tagasirmata]]**
+  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:other:egypt]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:believe]]**
+  * **[[:ilo:obe:other:moses]]**
+  * **[[:ilo:obe:kt:prophet]]**
 
-==== Translation Notes: ====
+===== Translation Notes: =====
 
 
   * **trusted in God** - In other words, the people now trusted that God was powerful and could protect them.
