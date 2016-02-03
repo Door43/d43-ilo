@@ -1,6 +1,6 @@
 ====== Story #48: Jesus is the Promised Messiah ======
 
-===== **Dagiti s al saludsod Ken sungsungbat a pakaamuan iti Istorya: **  =====
+===== Dagiti s al saludsod Ken sungsungbat a pakaamuan iti Istorya: =====
 
   - **Anya iti umuna nga buya ti lubong idin a pinarsua ti Dios? **
       * //Naan’anay, awan basul, saksakit wennu patay. [48-01]//
@@ -19,14 +19,13 @@
   - **Kasatnu a ni Jesus ket maiyarig a karnero nga naidatun imbes a ni Isaac? **
       * //Ni Jesus ket karnero iti Dios a naidatun para kadatayo ////. [48-08]//
   - **Kasatnu a ni Jesus ket maiyarig a karnero a napapatay kalpasan nga limmabas iti anghel ti patay?**
-      * //Ni Jesus ket naan’anay ken awan basul na, ket ti dara na (ti ipapatay na) iti gapu a ti panangdusa ti Dios ket saan nga umay iti siasinuman a mamati kenkuana//. [48-10]// //
+      * //Ni Jesus ket naan’anay ken awan basul na, ket ti dara na (ti ipapatay na) iti gapu a ti panangdusa ti Dios ket saan nga umay iti siasinuman a mamati kenkuana//. [48-10]
   - **Siasinu iti agbalin nga tattao ti Dios? **
       * //Ti siasinuman nga agtaud iti nadumaduma a grupo iti tattao ket mabalin nga agbalin a paset iti tattao ti Dios babaen iti baru a tulag ken iti panamati da kenni Jersus ////. [48-11]//
   - **Iti anya a wagas a ni Jesus ket isu iti kangatuan kadagiti amin a mammadtu?**
-      * //Isu ket Dios, amin nga inaramid ken sinau na ket aramid ken saun ti Dios. //[48-12]// //
+      * //Isu ket Dios, amin nga inaramid ken sinau na ket aramid ken saun ti Dios. // [48-12]
   - **Kasatnu a ni Jesus ket intungpal na ti kari iti Dios kenni ari a David?**
       * Gapu ta isuna ket anak ti Dios, isuna iti kapututan ni David nga mabalin a mangituray iti amin //. [48-13]//
-  - **Iti anya a wagas a ni Jeus ket nangatngatu  ngem ni ari David?**
+  - **Iti anya a wagas a ni Jeus ket nangatngatu ngem ni ari David?**
       * **//Ni Jesus ket ari iti intero a sangalubungan // **//. [48-14]//
-
 **[[:en:obs:notes:questions:47|<< ]] | [[:en:obs:notes:questions:49| >>]]**
