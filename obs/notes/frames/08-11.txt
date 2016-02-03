@@ -6,11 +6,11 @@ Isunga imbaon ni Jacob dagiti inauna nga natataengan nga annak na idiay Egypt ta
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:jacob|Jacob, Israel]]**
-  * **[[:ilo:obe:other:egypt|Egypt, taga Egypt]]**
-  * **[[:ilo:obe:other:josephot|Joseph (OT)]]**
+  * **[[:ilo:obe:other:jacob]]**
+  * **[[:ilo:obe:other:egypt]]**
+  * **[[:ilo:obe:other:josephot]]**
 
-==== Pannakaipakaawat Kadagiti Sarsarita: ====
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **his older sons**  - These were Joseph's older brothers who had sold him into slavery.
   * **did not recognize Joseph**  - They did not know that the man was Joseph, because now Joseph was much older than when they last saw him, and he was dressed as an Egyptian ruler.
