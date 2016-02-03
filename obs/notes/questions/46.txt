@@ -1,38 +1,35 @@
 ====== Story #46: Saul Believes in Jesus ======
 
-===== Comprehension Questions and Answers =====
+===== Dagiti salsaludsod Ken sungsungbat a pakaamuan iti Istorya: =====
 
-
-  - **Why was Saul going to Damascus?**
-    *//To arrest Christians and to bring them back to Jerusalem. [46-01]//
-  - **What question did Jesus ask Saul on the road to Damascus?**
-    *//“Why do you persecute me?” [46-02]//
-  - **What happened to Saul when he got up after seeing the bright light?**
-    *//Paul could not see. His friends led him into Damascus and he did not eat or drink for three days. [46-03]//
-  - **Why was Ananias afraid to speak to Saul?**
-    *//He had heard that Saul was persecuting the believers. [46-04]//
-  - **What did God say was the purpose for which he had chosen Saul?**
-    *//Saul would declare God’s name to the Jews and to people from other people groups. [46-04]//
-  - **How did Ananias enable Saul to see again?**
-    *//He placed his hands on him. [46-05]//
-  - **What did Ananias do to Saul after he regained his sight?**
-    *//Ananias baptized him. [46-05]//
-  - **What message did Saul immediately begin preaching to the Jews?**
-    *//“Jesus is the Son of God!” [46-06]//
-  - **How did the Jews respond to Saul's preaching?**
-    *//They made a plan to kill Saul. [46-07]//
-  - **How did Saul escape from Damascus?**
-    *//His friends lowered him over the city wall in a basket. [46-07]//
-  - **Who helped Saul to be accepted by the disciples in Jerusalem?**
-    *//Barnabas took Saul to the apostles and told them how Saul had preached boldly in Damascus. [46-08]//
-  - **What was different about the people who became believers in Antioch?**
-    *//They were not Jews. [46-09]//
-  - **What name first began to be used for the believers in Antioch?**
-    *//Christians. [46-09]//
-  - **What was the church in Antioch doing when the Holy Spirit told them to set apart Barnabas and Saul?**
-    *//They were praying and fasting. [46-10]//
-  - **What was the purpose for which the church in Antioch sent out Saul and Barnabas?**
-    *//They sent them out to preach the good news about Jesus in many other places. [46-10]//
-
-
-**[[en/obs/notes/questions/45|<< ]] | [[en/obs/notes/questions/47| >>]]**
+  - **Apay ta apan ni Saul idiay Damascus?**
+      * //Tapnun tiliwen na dagiti kristiyano ket isubli na ida idiay Jerusalem. [46-01]//
+  - **Anya a saludsod iti dinamag ni Jesus kenni Saul idiay dalan nga agturong iti Damascus?**
+      * //“Apay ta idaddadanes nak?” [46-02]//
+  - **Anya iti naaramid kenni Saul idin a timmakder kalpasan a nakita na iti naraniag a lawag?**
+      * //Ni Paul ket saan a makakita. Inturong isuna iti gayyem na idiay Damascus ket saan a nangan wennu imminom iti tallo nga aldaw. [46-03]//
+  - **Apay ta mabuteng nga agsao ni Ananias ken ni Saul?**
+      * //Nangngeg na gamin nga ni Saul ket idaddadanes na dagiti namati. [46-04]//
+  - **Anya iti inbaga ti Dios nga panggep iti nangpilian na kenni Saul?**
+      * //Tapnun ipakaammu ni Saul iti nagan ti Dios kadagiti Judio ken amin tattao kadagiti dadduma a grupo. //[46-04]// //
+  - **Kasatnu nga ni Ananias ket napagbalin na nga makakita manen ni Saul?**
+      * //Inpatay na iti imana kenkuana//. [46-05]// //
+  - **Anya iti inaramid ni Ananias ken Saul kalpasan a makakita manen?**
+      * //Binautisaran ni Ananias isuna. [46-05]//
+  - **Anya iti mensahe a dagus nga ingkasaba ni Paul kadagiti Judio?**
+      * //“Ni Jesus isu iti anak ti Dios!” [46-06]//
+  - **Anya iti narikna dagiti Judio iti ingkasaba ni Saul?**
+      * //Plinano da a papatayen ni Saul//. [46-07]// //
+  - **Kasatnu a naglibas ni Saul manipud Damascus?**
+      * //Inlugan isuna dagiti gagayyem na iti maysa a basket sada imbaba iti pader ti siudad. [46-07]//
+  - **Sinu ti nangtulong kenni Saul tapnun awaten isuna dagiti adalan idiay Jerusalem?**
+      * //Insurut ni Barnabas ni Saul kadagiti apostoles ket inabaga na nu kasatnu a ni Saul ket nangasaba a situtured idiay Damascus.// [46-08]// //
+  - **Anya iti naidumaan panggep kadagiti tattao a nagbalin a namati idiay Antioch? **
+      * //Saan da a Judio. [46-09]//
+  - **Anya iti umuna a nagan nga naited kadagiti namati idiay Antioch?**
+      * //Kristiyano. //[46-09]// //
+  - **Anya iti ar’aramiden iti iglesia idiay Antioch idin a ti Nasantuan nga Spiritu kinunana kadakuada nga isina da ni Barnabas kenni Saul?**
+      * //Agkarkararag ken agay’ayunar da. [46-10]//
+  - **Anya iti panggep iti iglesia idiay Antioch iti panangibaun da kada Saul kenni Barnabas?**
+      * //Imbaun da isuda a mangasaba iti naimbag a damag maipapan kenni Jesus kadagiti amin a luglugar. [46-10]//
+**[[:en:obs:notes:questions:45|<< ]] | [[:en:obs:notes:questions:47| >>]]**
