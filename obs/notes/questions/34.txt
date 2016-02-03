@@ -2,28 +2,28 @@
 
 ===== Dagiti salsaludsod ken sungsungbat ti pannakaamo iti istorya: =====
 
-  - **How does a mustard seed compare to other seeds?**
-      * //It is the smallest seed of all. [34-01]//
-  - **What happens to a mustard seed when it grows?**
-      * //It becomes the largest of all the garden plants. [34-02]//
-  - **What happens to yeast when it is mixed into bread dough?**
-      * //It spreads throughout the dough. [34-03]//
-  - **What did the man do after he found the treasure that was hidden in the field?**
-      * //He sold all that he had and used the money to buy it. [34-04]//
-  - **What did the pearl merchant do when he found a perfect pearl?**
-      * //He sold all that he had and used the money to buy it. [34-05]//
-  - **To whom did Jesus tell the story of the two men praying at the Temple?**
-      * //People who trusted in their own good deeds and despised other people. [34-06]//
-  - **Why did the religious leader thank God?**
-      * //He thanked God that he was not a sinner like other men. [34-07]//
-  - **Why did the religious leader think he was righteous?**
-      * //He fasted two times every week and gave ten percent of his money and goods. [34-08]//
-  - **What did the tax collector request from God?**
-      * //He asked God to be be merciful to him because he was a sinner. [34-09]//
-  - **Which man did God declare to be righteous?**
-      * //The tax collector. [34-10]//
-  - **What will God do to everyone who is proud?**
-      * //He will humble them. [34-01]//
-  - **What will God do to everyone who is humble?**
-      * //He will lift them up. [34-10]//
+  - **Kasatnu a ti bukel iti mustasa ket maipada iti dadduma a bukbukel?**
+      * //Isu ti kabassitan kadagiti amin a bukbukel. //[34-01]// //
+  - **Anya iti maaramid nu dumakkel iti bukel ti mustasa?**
+      * //Agbalin a kadakkelan kadagiti amin nga naimula iti hardin. //[34-02]// //
+  - **Anya iti maaramid nu ti lebadura ket mailauk iti namasa nga arena?**
+      * Paalsaen na ti namasa nga arena.// [34-03]//
+  - **Anya iti inaramid diay lalaki kalpasan a nakabiruk ti kinabaknang a naidulin idiay taltalun?**
+      * //Inlako na amin nga adda kenkuana ket inusar na diay kuwarta a pinanggatang. [34-04]//
+  - **Anya iti inaramid diay agnegnegosyo ti perlas idi nakakita iti naananay a perlas?**
+      * //Inlako na amin nga adda kenkuana ket inusar na diay kuwarta a pinanggatang. [34-05]//
+  - **Siasinu iti nangibagaan ni Jesus iti daytoy nga istorya ti dua a lalaki nga agkarkararag idiay templo?**
+      * //Dagiti tattao nga agtalek iti bukud da nga kinasayaat ken managuyuyaw iti dadduma nga tattao. [34-06]//
+  - **Apay nga ti relihiyoso a mangidadaulo ket nagyaman  ti Dios?**
+      * Nagyaman iti Apo ta saan a kas kadagiti dadduma nga managbasul.// [34-07]//
+  - **Apay ta pinanunut diay relihiyoso a mangidadaulo nga isu ket nalinteg?**
+      * //Mamindua nga agayunar iti uneg ti maysa a lawas ken it-ited na iti apagka pullo ti kuwarta agraman sanikua na. [34-08]//
+  - **Anya ti kiniddaw diay agsinsingir iti buwis manipud ti Dios?**
+      * //Dinawat na iti kaasi ti Dios gapu ta maysa isuna nga managbasul. [34-09]//
+  - **Siasinu kadagiti lallaki iti impakaamu na nga nalinteg?**
+      * //Ti agsingsingir iti buwis. [34-10]//
+  - **Anya iti aramiden ti Dios iti siasinuman a napalangguad?**
+      * Ipababa na isuda.// [34-01]//
+  - **Anya iti aramiden ti Dios iti siasinuman nga napakumbaba?**
+      * //Itag-ay na isuda. [34-10]//
 **[[:en:obs:notes:questions:33|<< ]] | [[:en:obs:notes:questions:35| >>]]**
