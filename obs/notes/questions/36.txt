@@ -1,26 +1,23 @@
 ====== Story #36: The Transfiguration ======
 
-===== Comprehension Questions and Answers =====
+===== Dagiti salsaludsod Ken sungsungbat a pakaamuan iti Istorya: =====
 
-
-  - **Who did Jesus take with him to the mountain?**
-    *//Three of his disciples, Peter, James, and John. [36-01]//
-  - **What change happened to Jesus as he was praying?**
-    *//His face became as bright as the sun and his clothes became as white as light. [36-02]//
-  - **Who were the two men who appeared with Jesus?**
-    *//Moses and the prophet Elijah. [36-03]//
-  - **Why was it miraculous that Moses and Elijah appeared with Jesus?**
-    *//They both lived hundreds of years before this. [36-03]//
-  - **What were Moses and Elijah discussing with Jesus?**
-    *//They talked about Jesus’ death. [36-03]//
-  - **Where was Jesus going to die?**
-    *//Jerusalem. [36-03]//
-  - **What did Peter suggest that they do for Jesus, Moses, and Elijah?**
-    *//He wanted to make three shelters, one for Jesus, one for Moses, and one for Elijah. [36-04]//
-  - **What did the voice from the bright cloud say to the disciples?**
-    *//“This is my Son whom I love. I am pleased with him. Listen to him.” [36-05]//
-  - **What did Jesus tell the disciples to do about what they had seen?**
-    *//He told them not tell anyone about what happened on the mountain until after he died and came back to life. [36-07]//
-
-
-**[[en/obs/notes/questions/35|<< ]] | [[en/obs/notes/questions/37| >>]]**
+  - **Sinu iti insurut ni Jesus kanya na idiay bantay?**
+      * //Tallo kadagiti adalan na, Peter, James ken John. [36-01]//
+  - **Anya a panagbaliw  ti immay ken Jesus bayat iti panagkararag na?**
+      * //Ti rupa na ket nagraniag a kas iti init ken dagiti kawes na nagbalin a puraw a kas iti lawag. //[36-02]// //
+  - **Siasinu dagiti dua a lallaki a nagparang kenni Jesus?**
+      * //Ni Moses ken ti mammadtu nga Elijah. //[36-03]// //
+  - **Apay ta nagbalin a milagro nga ni Moses kenni Elijah ket nagparang da ken Jesus?**
+      * //Nagbiag da gamin iti sangagasut a tawtawen sakbay daytoy. [36-03]//
+  - **Anya iti pagsasaritaan da Moses kenni Elijah ken Jesus?**
+      * //Pagsasaritaan da iti maipapan ti pannakatay ni Jesus. [36-03]//
+  - **Sadinu iti pakatayan ni Jesus?**
+      * //Idiay Jerusalem [36-03]//
+  - **Anya iti inbaga ni Peter nga aramiden da kenni Jesus, Moses ken Elijah?**
+      * //Kayat na nga iyaramidan isuda iti pangnaedan, maysa ken Jesus, maysa ken Moses, ken maysa met kenni Elijah. [36-04]//
+  - **Anya ti inbaga iti timek manipud iti naraniag nga ulep kadagiti adalan? **
+      * //“Daytoy ti ayayatek nga anak, ket maayayu ak kenkuana, dumngeg kayu kenkuana”. //[36-05]// //
+  - **Anya iti inbaga ni Jesus kadagiti adalannga aramiden da maipapan iti nakita da?**
+      * **//Inbaga na kadakuada a saan da ibagbaga iti siasinuman nu anya iti naaramid idiay bantay aginggana iti kalpasan ti ipapatay ken panagungar na.// **// [36-07]//
+**[[:en:obs:notes:questions:35|<< ]] | [[:en:obs:notes:questions:37| >>]]**
