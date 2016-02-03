@@ -8,11 +8,11 @@ Kalpasan iti tallo nga aldaw kalpasan a nagsagana dagiti tattao iti naispirituan
 
 
   * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:sinai]]**
+  * **[[:ilo:obe:other:sinai]]**
   * **[[:ilo:obe:other:moses]]**
 
 
-==== Translation Notes: ====
+===== Translation Notes: =====
 
 
   * **Three days later** - In other words, three days after they arrived at Mount Sinai and God first spoke to them.
