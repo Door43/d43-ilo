@@ -1,11 +1,11 @@
 ====== Story #34: Jesus Teaches Other Stories ======
 
-===== Dagiti salsaludsod ken sungsungbat ti pannakaamo iti istorya: =====
+===== Dagiti salsaludsod ken sungsungbat a pakaamuan iti istorya: =====
 
   - **Kasatnu a ti bukel iti mustasa ket maipada iti dadduma a bukbukel?**
-      * //Isu ti kabassitan kadagiti amin a bukbukel. //[34-01]// //
+      * //Isu ti kabassitan kadagiti amin a bukbukel. // [34-01]
   - **Anya iti maaramid nu dumakkel iti bukel ti mustasa?**
-      * //Agbalin a kadakkelan kadagiti amin nga naimula iti hardin. //[34-02]// //
+      * //Agbalin a kadakkelan kadagiti amin nga naimula iti hardin. // [34-02]
   - **Anya iti maaramid nu ti lebadura ket mailauk iti namasa nga arena?**
       * Paalsaen na ti namasa nga arena.// [34-03]//
   - **Anya iti inaramid diay lalaki kalpasan a nakabiruk ti kinabaknang a naidulin idiay taltalun?**
@@ -14,7 +14,7 @@
       * //Inlako na amin nga adda kenkuana ket inusar na diay kuwarta a pinanggatang. [34-05]//
   - **Siasinu iti nangibagaan ni Jesus iti daytoy nga istorya ti dua a lalaki nga agkarkararag idiay templo?**
       * //Dagiti tattao nga agtalek iti bukud da nga kinasayaat ken managuyuyaw iti dadduma nga tattao. [34-06]//
-  - **Apay nga ti relihiyoso a mangidadaulo ket nagyaman  ti Dios?**
+  - **Apay nga ti relihiyoso a mangidadaulo ket nagyaman ti Dios?**
       * Nagyaman iti Apo ta saan a kas kadagiti dadduma nga managbasul.// [34-07]//
   - **Apay ta pinanunut diay relihiyoso a mangidadaulo nga isu ket nalinteg?**
       * //Mamindua nga agayunar iti uneg ti maysa a lawas ken it-ited na iti apagka pullo ti kuwarta agraman sanikua na. [34-08]//
