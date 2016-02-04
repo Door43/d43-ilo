@@ -2,24 +2,20 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg?nolink&}}
 
-Simmungbat ni Jesus ket kinunana, “Umadayo ka kanyak ket Satanas! Imbilin ti Dios kadagiti sao na a  ‘dayawem laeng ti Apo a Dios mo ken isuna laeng ti pagserbiam.’”
+Simmungbat ni Jesus ket kinunana, “Umadayo ka kanyak ket Satanas! Imbilin ti Dios kadagiti sao na a ‘dayawem laeng ti Apo a Dios mo ken isuna laeng ti pagserbiam.’”
 
-===== Important Terms: =====
+===== Dagiti Importante Nga Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:satan]]**
-  * **[[:ilo:obe:kt:wordofgod]]**
-  * **[[:ilo:obe:kt:worship]]**
-  * **[[:ilo:obe:kt:lord]]**
-  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:satan|Satan, devil, evil one]]**
+  * **[[:ilo:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]**
+  * **[[:ilo:obe:kt:worship|worship]]**
+  * **L[[:ilo:obe:kt:lord|ord, master, sir]]**
+  * **[[:ilo:obe:kt:god|Dios]]**
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-
-===== Translation Notes: =====
-
-  * **Get away from me** - This may also be translated as, "Leave me" or, "Leave me alone."
-  * **In God's word he commands his people, "Worship only the Lord your God and only serve him"** - This could be written as an indirect quote, "In God's word, he commands us that we must worship and serve only the Lord God, who rules over us."
-  * **Lord your God** - Translate this phrase the same way as you did in **[[:ilo:obs:notes:frames:25-05|[25-05]]]**.
-  * **and only serve him** - Another way to say this would be, "He is the only one you should serve."
-
-
+  * **Umadayu ka kanyak **– Daytuy ket maipatarus a kas, “ panawan nak” wenno, “ panawan nak nga agmaymaysa.”
+  * **Iti sao ti Dios ket imbilin na kadagiti tattao na, “ Dayawen yu laeng ti Apo nga Dios yu ken pagserbian yu laeng” **– Naisurat daytuy a saan nga direkta nga kota, “ iti sao ti Dios, imbilin na kadatayu nga kasapulan a dayawen ken pagserbian tayo laeng ni Apo Dios , nga isu ti agar ari kadatayu.”
+  * **Apo nga Dios mu **– ipatarus mu daytuy nga ibagbaga na nga isu met laeng iti inaramid mu idiay[25-05].
+  * **Ken pagserbiam laeng isuna **– iti sabali pay nga wagas nga maibaga daytuy ket, “  Isuna laeng iti maymaysa nga pagserbiam.”
 **[[:ilo:obs:notes:frames:25-06|<<]] | [[:ilo:obs:notes:25|Up]] | [[:ilo:obs:notes:frames:25-08|>>]]**
