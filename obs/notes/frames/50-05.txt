@@ -9,9 +9,9 @@ Imbaga ni Jesus daytoy nga istorya kadagiti adalan na tapno ilawlawag dagiti map
   * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:ilo:obe:kt:disciple|disciple]]**
   * **[[:ilo:obe:kt:good|good, goodness]]**
-===== Translation Notes: =====
+===== Pannakaawat Kadagiti Sarsarita: =====
 
-  * **good seed**  - This seed was wheat grain. If this type of seed is not known in your language area, it is best to use a general term for "seed." If there is no general term, it may be necessary to choose a type of grain seed that is known and say, for example, "good seed like rice."
-  * **weed seeds**  - The weed seeds that were planted would grow up as tall grass but could not be eaten. They were useless.
-  * **wheat**  - That is, "wheat seeds." Wheat is a kind of grain that grows like a tall grass. It has seeds that people use for food.
+  * **nasayaat a bukel**  - bukel iti trigo daytoy. Nu daytoy a bukel ket saan a nalatak iti bukod yu a pagsasao, maymayaten nga usaren iti sao nga “bukel” kas gagangayen a sao. Nu awan iti gagangay a sao, ket mabalin nga agpili iti bukel nga kunaen tayo iti, kaspangarigan, “bukel iti pagay."
+  * **bukel iti ruut**  - ti bukel iti ruut nga naimula ket dumakkel a kas ruut ngem saan a makan. Dagitoy ket awan serserbi na.
+  * **trigo**  - daytoy ket, “bukel ti trigo”. Ti trigo ket maysa nga mula a dumakkel kas natayag a ruut. Addaan iti bukel nga agbalin a taraon dagiti tattao.
 **[[:ilo:obs:notes:frames:50-04|<<]] | [[:ilo:obs:notes:50|Up]] | [[:ilo:obs:notes:frames:50-06|>>]]**
