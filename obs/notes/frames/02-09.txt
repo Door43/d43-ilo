@@ -6,18 +6,14 @@ Kinuna ti Dios iti uleg, “Mailunod ka! Agkaradap ka babaen iti buksit mo ket m
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:curse]]**
-  * **[[:ilo:obe:other:descendant]]**
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:curse|curse, cursed]]**
+  * **[[:ilo:obe:other:descendant|descendant (kaputotan)]]**
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-
-===== Translation Notes: =====
-
-
-  * **you are cursed** - This could also be translated as, "I curse you" or, "Great harm will come to you." Do not use a word that implies magic.
-  * **hate each other** - The woman would hate the snake and the snake would hate the woman. The women's descendants would also hate the snake's descendants, and the snake's descendants would hate them.
-  * **woman's descendant** - Refers to one of her descendants in particular.
-  * **crush your head** - The descendant of the woman will destroy the descendant of the snake.
-  * **wound his heel** - The descendant of the snake will wound the descendant of the woman.
-
+  * **nailunod ka**  - daytoy ket mabalin met nga ipakaawat a kas, “ilunod ka” wenno, “umay ti daakel a peggad kenka”. Saan nga mangusar iti sao nga mangipakita ti magic.
+  * **agginnura kayo iti tunggal maysa**  - ti babae guraen na iti nuleg ket diay uleg guraen na diay babae. Guraen met ti kapututan iti babae diay kapututan iti uleg, ket diay kapututan iti uleg ket guraen na met isuda.
+  * **kaputotan iti babae**  - maipapan daytoy iti maysa kadagiti kapututan na.
+  * **dangran na iti ulom**  - ti kaputotan iti babae ket dadaelen na iti kaputotan ti uleg.
+  * **sugaten na ta mukod mo**  - ti kaputotan iti uleg ket sugaten na iti kaputotan iti babae.
 **[[:ilo:obs:notes:frames:02-08|<<]] | [[:ilo:obs:notes:02|Up]] | [[:ilo:obs:notes:frames:02-10|>>]]**
