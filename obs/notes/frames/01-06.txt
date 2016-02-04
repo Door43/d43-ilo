@@ -6,19 +6,13 @@ Ti maikauppat nga aldaw ket nagsao manen ti Dios ket naparsua ti init ken ti bul
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:good|good, goodness (nasayaat/naimbag, kinasayaat/kinaimbag)]]**
+==== Pannakaipakaawat Kadagiti Sarsarita: ====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:good]]**
-
-
-==== Translation Notes: ====
-
-
-  * **the fourth day** - The next in the orderly series of days in which God created.
-  * **God spoke** - God created the sun, moon, and stars by speaking a command.
-  * **light** - Shining objects in the sky now provided light for the earth.
-  * **day and night, seasons and years** - God created a different light to mark each portion of time from small to large, and set them to repeat continually until the end of time.
-  * **created** - This word is used here in the sense of making something out of nothing.
-
-
+  * **ti maikauppat nga aldaw**  - iti sumaruno nga naurnos a pasamak iti aldaw a nangparsua ti Dios..
+  * **nagsao manen ti Dios**  - ti Dios pinarsua na iti init, bulan, ken dagiti bitbituen babaen iti pinagsao na ti bilin.
+  * **lawag**  - ti agranraniag a banag idiay tangatang isun iti nangted iti lawag ti daga..
+  * **aldaw ken iti rabii, panpanawen ken dagiti tawtawen**  - ti Dios pinarsua na iti nadumaduma a lawag iti tunggal paset iti panawen manipud kabassitan aginggana kadakkelan, ket insaad na nga maulit'ulit daytoy aginggana iti panawen iti panungpalan.
+  * **naparsua**  - daytoy a balikas ket nausar a mangipakita nga naaramid iti banag manipud iti awan..
 **[[:ilo:obs:notes:frames:01-05|<<]] | [[:ilo:obs:notes:01|Up]] | [[:ilo:obs:notes:frames:01-07|>>]]**
