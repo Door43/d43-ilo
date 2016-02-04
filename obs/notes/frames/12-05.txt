@@ -6,17 +6,13 @@ Kinuna ni Moses kadagiti Israelita, “Dikay agbuteng! Ti Dios isu ti makilaban 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:moses]]**
-  * **[[:ilo:obe:other:israel]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:save]]**
-  * **[[:ilo:obe:other:redsea]] **
+  * **[[:ilo:obe:other:moses|Moses (Moses)]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel (Israel, Israelita, nasyon ti Israel)]]**
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:save|save, safe]]**
+  * **[[:ilo:obe:other:redsea|Red Sea, Sea of Reeds (Nalabbaga a baybay, baybay a napunti ti Reeds)]]**
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-===== Translation Notes: =====
-
-
-  * **God will fight for you today and save you** - Another way to say this would be, "Today God will defeat the Egyptians for you and keep them from harming you."
-  * **move** – Some languages will be more specific and say, "walk."
-
-
+  * **God will fight for you today and save you**  - Another way to say this would be, "Today God will defeat the Egyptians for you and keep them from harming you."
+  * **move**  – Some languages will be more specific and say, "walk."
 **[[:ilo:obs:notes:frames:12-04|<<]] | [[:ilo:obs:notes:12|Up]] | [[:ilo:obs:notes:frames:12-06|>>]]**
