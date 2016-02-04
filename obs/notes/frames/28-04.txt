@@ -2,21 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-04.jpg?nolink&}}
 
-Simmungbat ni Jesus, “No kayat mo ti agbalin a naan-anay ket mapan mo ilako dagiti amin a sanikuam ken ited mo ti kuwartam kadagiti marigrigat ket maaddaan kanto iti gameng idiay  laengit. Kalpasan daytoy ket umay ka ket suroten nak.”
+Simmungbat ni Jesus, “No kayat mo ti agbalin a naan-anay ket mapan mo ilako dagiti amin a sanikuam ken ited mo ti kuwartam kadagiti marigrigat ket maaddaan kanto iti gameng idiay laengit. Kalpasan daytoy ket umay ka ket suroten nak.”
 
-===== Important Terms: =====
+===== Dagiti Importante Nga Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:heaven]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-
-===== Translation Notes: =====
-
-  * **you** - If your language has different words for "you" depending on the number of people intended, use the singular form. Jesus was addressing this command to this one man.
-  * **perfect** - That is, "completely righteous."
-  * **everything you own** - That is, "all of your possessions."
-  * **treasure** - This could also be translated as, "riches" or, "great wealth."
-  * **in heaven** - This could also be translated as, "located in heaven when you arrive there." This treasure will exist "there and then," as opposed to the wealth that Jesus asked the young man to give up "here and now."
-
-
+  * **Sika**- nu ti pagsasaom ket naiduma a sao para “kenka” agdepende iti bilang iti tattao nga pangibagaam, usarem ti maysa laeng a sao. Ni Jesus ket ibagbaga na daytoy a bilin iti maysa laeng a tao.
+  * **Naan’anay**- dayta ket, “naan’anay a nalinteg”.
+  * **Amin nga adda kenka**-  dayta ket, “amin a sanikuam”
+  * **Gameng**- mabalin nga daytoy ket maipatarus nga, “kinabaknang”, wenno, “adu a kinabaknang”.
+  * **Idiay langit**- daytoy ket mabalin nga ipatarus kas, “nakaisaadan iti langit  nu nmakadanun ka idiay”. Daytoy a gameng ket adda da nga agnanayon idiay, kas na isupadi kadagiti sanikua nga imbaga ni Jesus idiay  tao a masapul nga ited na ditoy ken ita.
 **[[:ilo:obs:notes:frames:28-03|<<]] | [[:ilo:obs:notes:28|Up]] | [[:ilo:obs:notes:frames:28-05|>>]]**
