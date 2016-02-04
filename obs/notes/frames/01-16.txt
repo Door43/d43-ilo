@@ -6,16 +6,15 @@ Idi dumteng iti maikapito nga aldaw ket nalpasen ti Dios ti amin nga aramiden na
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:bless]]**
-  * **[[:ilo:obe:kt:holy]]**
-==== Translation Notes: ====
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:bless|bless, blessed, blessing (bendisyonan (v), binendisyonan (v), bendisyon (n))]]**
+  * **[[:ilo:obe:kt:holy|holy, holiness (nasantuan, kinasantu)]]**
+==== Pannakaipakaawat Kadagiti Sarsarita: ====
 
-  * **the seventh day**  - The next day after the six days of creation were completed.
-  * **finished his work**  - Specifically, God finished the work of creation. He still performs other work.
-  * **God rested**  - God "rested" in the sense that he stopped working because creation was complete. God was not tired, or unable to continue.
-  * **blessed the seventh day**  - God had a special, positive plan for the seventh day, and for every seventh day to follow.
-  * **made it holy**  - That is, God "set apart" the day as a special day. It was not to be used in the same way as the other six days of the week.
-  * **the universe**  - This includes everything that God created on the earth and in the heavens, both visible and invisible things.
+  * **ti maikapitu nga aldaw**  - iti sumaruno nga aldaw kalpasan iti maika innem nga al'aldaw iti panangparsua ket naaramid amin.
+  * **nalpas iti trabaho na**  - ipakita na iti panakalpas ti panangparsua iti Dios. Nagaramid pay iti dadduma a trabaho.
+  * **naginana ti Dios**  - ti Dios “naginana” ta insardeng nan iti agtrabaho gapu ta nalapasasen iti panangparsua na. Saan a nabannog ti Dios wenno saan nan kaya nga ituloy.
+  * **inaramid na a Nasantoan**  - dayta ket, ti Dios “insina na” daytoy nga aldaw a kas naisangsangayan. Saan a mausar daytoy a kasla iti innem nga aldaw iti uneg ti makalawas.
+  * **ti sangalubungan**  - ramanen na daytoy iti amin a pinarsua iti Dios ditoy daga ken idiay langlangit, makita ken saan a makita nga banbanag.
   * //Ti maysa nga istorya aggapu iti Genesis 1-2.//
 **[[:ilo:obs:notes:frames:01-15|<<]] | [[:ilo:obs:notes:01|Up]] | [[:ilo:obs:notes:frames:02-01|>>]]**
