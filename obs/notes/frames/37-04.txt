@@ -4,7 +4,7 @@
 
 Idi nakadanun ni Jesus iti ili da Lazarus ket uppaten nga aldaw ti napalabas manipud idi natay ni Lazarus. Simmabat ni Martha kadakuada ket kinunana, “Apo, nu adda ka laeng saan koma a natay ti kabsat ko. Ngem ammuk nga ited ti Dios kenka aniaman a dawaten kenkuana.”
 
-===== Important Terms: =====
+===== Dagiti Importante Nga Balikas: =====
 
   * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:ilo:obe:other:lazarus|Lazarus]]**
@@ -12,10 +12,11 @@ Idi nakadanun ni Jesus iti ili da Lazarus ket uppaten nga aldaw ti napalabas man
   * **[[:ilo:obe:kt:lord|lord, master, sir]]**
   * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
   * **[[:ilo:obe:kt:god|God]]**
-===== Translation Notes: =====
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **Martha**  - Martha was the sister of Lazarus and Mary. See **[[:ilo:obs:notes:frames:37-01|[37-01]]]**.
-  * **went out to meet Jesus**  - That is, "went to meet Jesus as he was coming into the town."
-  * **my brother would not have died.**  - That is, "you would have healed my brother and he would not have died" or, "you could have prevented my brother from dying."
-  * **will give you whatever you ask from him**  - That is, "will do whatever you ask him to do."
+  * Martha- ni Martha ket kabsat ni Lazarus kenni Mary
+  * rimuar tapno sabaten na ni Jesus- dayta ket, “rimuar tapno sabaten na ni Jesus nga paumay manipud idiay ili”.
+  * ti kabsat ko ket saan kuma a natay- dayta ket, “inagasam kuma diay kabsat ko tapno saan a natay”
+  * ited na iti anyaman a dawatem kenkuana- dayta ket, “aramiden na iti anya man a kayat mo  nga aramiden na”.
+
 **[[:ilo:obs:notes:frames:37-03|<<]] | [[:ilo:obs:notes:37|Up]] | [[:ilo:obs:notes:frames:37-05|>>]]**
