@@ -6,19 +6,13 @@ Sinungbatan ti uleg ti babai, “Saan a pudno dayta! saan kayu a matay. Ammu ti 
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:kt:true|true, truth]]**
+  * **[[:ilo:obe:kt:death|death, die, dead]]**
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:good|good, goodness (nasayaat/naimbag, kinasayaat/kinaimbag)]]**
+  * **[[:ilo:obe:kt:evil|evil, wicked, wickedness (dakes (v), dakes (n), kinadakes)]]**
+==== Pannakaipakaawat Kadagiti Sarsarita: ====
 
-  * **[[:ilo:obe:kt:true]]**
-  * **[[:ilo:obe:kt:death]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:good]]**
-  * **[[:ilo:obe:kt:evil]]**
-
-
-==== Translation Notes: ====
-
-
-  * **like God** - The man and the woman were already made in the likeness of God. The snake is suggesting that the woman would be more like God if she understood evil. However, God never intended for her to have this knowledge.
-  * **understand good and evil** - To know from personal experience what things are good and what things are bad, or being able to know whether something is good or bad.
-
-
+  * **kas Dios**  - ti lalake ken iti babae ket naaramiden a kalanglanga ti Dios. Inbaga ti uleg iti babae nga agbalin pay a kas iti Dios nu maawatan na iti dakes. Numan pay kasdiay, ti Dios saan na nga inranta a maaddaan isuna iti kastoy a pannakaammu.
+  * **mawatan na ti nasayaat ken iti dakes**  - ti panangammu manipud iti bukod a kapadasan nu anya dagiti banbanag a nasayaat ken saan a nasayaat, wenno mabalin na a maammuan nu adda iti banag a nasayaat wenno saan a nasayaat.
 **[[:ilo:obs:notes:frames:02-03|<<]] | [[:ilo:obs:notes:02|Up]] | [[:ilo:obs:notes:frames:02-05|>>]]**
