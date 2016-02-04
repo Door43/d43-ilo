@@ -2,23 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg?nolink&}}
 
-Ti maikalima nga aldaw ket pinarsua ti Dios amin nga aglalangoy iti danum ken amin a billit. Nakitan ti Dios dagitoy ket naayatan  ket binendesiona na ida.
+Ti maikalima nga aldaw ket pinarsua ti Dios amin nga aglalangoy iti danum ken amin a billit. Nakitan ti Dios dagitoy ket naayatan ket binendesiona na ida.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:good]]**
-  * **[[:ilo:obe:kt:bless]]**
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:good|good, goodness (nasayaat/naimbag, kinasayaat/kinaimbag)]]**
+  * **[[:ilo:obe:kt:bless|bless, blessed, blessing (bendisyonan (v), binendisyonan (v), bendisyon (n))]]**
+==== Pannakaipakaawat Kadagiti Sarsarita: ====
 
-==== Translation Notes: ====
-
-
-  * **the fifth day** - God continues his orderly progression of creation that he started during the previous four days.
-  * **God spoke** - God created the birds and water creatures by speaking a command.
-  * **everything that swims** - God not only made fish, but every kind of living thing that lives in the waters. Every one exists because God chose to create it.
-  * **all the birds** - God did not make just one kind of bird, but all of the amazing variety of shapes, sizes, colors, and kinds of birds.
-  * **it was good** - This phrase is repeated throughout creation to show that every step went exactly according to God's wise plan and purpose.
-  * **blessed them** - God speaks his desire that they would prosper and that things would go well for them in the world in which he had placed them.
-
-
+  * **iti maikalima nga aldaw**  - ti Dios intultuloy na iti naurnos a wagas iti nairuginan a panangparsua iti napalabas nga uppat nga aldaw.
+  * **nagsao ti Dios**  - ti Dios pinarsua na dagiti bilbillit ken dagiti adda idiay danum babaen iti pinagsao na iti mandar.
+  * **amin a bilbillit**  - ti Dios saan laeng a maymaysa a kitan ti billit ti pinarsua na., ngem amin a nakaskasdaaw a nadumaduma a buya, rukud, kolor ken aminen a kitan ti bilbillit.
+  * **ket nasayaat**  - daytoy a paset ket naulit'ulit iti sibubukel a nangparsuan tapnun ipakita na iti tunggal addang ket maiyannatup daytoy iti nainsiriban a plano ken panggep iti Dios..
+  * **benendisyonan na ida**  - ti Dios insawang na iti tarigagay na a rumang'ay da ken amin a banag ket nasayaat para kadakuada iti lubong a nakaikabilan da.
 **[[:ilo:obs:notes:frames:01-06|<<]] | [[:ilo:obs:notes:01|Up]] | [[:ilo:obs:notes:frames:01-08|>>]]**
