@@ -4,21 +4,18 @@
 
 “Simmungbat iti ama ket kinuana, ‘anakko, addaka latta kanyak ken amin a sanikuak ket sanikuam. Ngem karbengan tayu nga agrambak ngamin iti kabsat mo ket kasla natay ngem tattan ket nabiag, napukaw isuna ngem tattan ket nasarakan!’”
 
-===== Important Terms: =====
+===== Dagiti Importante Nga Balikas: =====
 
-  * **[[:ilo:obe:kt:son]]**
-  * **[[:ilo:obe:kt:death]]**
-  * **[[:ilo:obe:kt:life]]**
+  * **[[:ilo:obe:kt:son|son ]]**
+  * **[[:ilo:obe:kt:death|death, die, dead]]**
+  * **[[:ilo:obe:kt:life|life, live, living, alive]]**
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **it is right for us** - That is, "it is the right thing for us to do" or, "it is proper for us."
-  * **your brother** - The father refers to his younger son as, "your brother" to remind the older son of his relationship to the younger son and of how he should love his younger brother.
-  * **was dead, but now is alive** - See how you translated this in **[[:ilo:obs:notes:frames:35-09|[35-09]]]**.
-  * **He was lost, but now is found!** - See how you translated this in **[[:ilo:obs:notes:frames:35-09|[35-09]]]**.
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * (intuloy ni Jesus iti istorya)
+  * nasayaat kadi para kanyami- dayta ket, “nasayaat kadi a banag nu aramiden mi” wenno, “kusto kadi kanyami”.
+  * Ub'ubing a kabsat- ti ama ket saritaen na iti ub'ubinf nga anak na kas, “ti kabsat mo” tapno ipalagip na iti inauna nga anak na ti pakainaigan na iti ub'ubing nga anak ken nu kasano iti panagayat na iti ub'ubing a kabsat na.
+  * natay, ngem itan sibibag- kitaen nu kasano iti pannakaipakaawat
+  * napukaw ngem itan nasarakan- kitaen nu kasano iti pannakaipakaawat na daytoy.
+  * Istorya manipud Bibliya- daytoy nga pangkitaan ket mabalin nga adda bassit naidumaan na kadagiti dadduma nga pannakaipakaawat iti Bibliya.
 
 **[[:ilo:obs:notes:frames:35-12|<<]] | [[:ilo:obs:notes:35|Up]] | [[:ilo:obs:notes:frames:36-01|>>]]**
