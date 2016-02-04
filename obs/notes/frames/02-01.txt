@@ -6,15 +6,12 @@ Agbibiag ni Adam ken ti asawa na a siraragsak idiay hardin nga inaramid ti Dios 
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:adam]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:other:adam|Adam]]**
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning (basur (n), agbasur (v), panagbasur, managbasur, agbasbasur)]]**
+==== Pannakaipakaawat Kadagiti Sarsarita: ====
 
-
-==== Translation Notes: ====
-
-  * **garden**  - A special collection of trees and plants that God prepared for Adam and Eve to enjoy and from which to eat. This should be the same word that was used in **[[:ilo:obs:notes:frames:01-11|[01-11]]]**. See how you translated it there.
-  * **talked with God**  - The word for "talk" should be the same as would be used to refer to talking to a human being. God may have taken a physical form to talk to the man and the woman since the text indicates that they talked to him face-to-face.
-  * **shame**  - The feeling that comes with knowing we have sinned or that we fall short in some way.
-
+  * **hardin**  – ti naisangsangayan a panagurnong kadagiti kaykayu ken mulmula nga insagana ti Dios kada Adam kenni Eve tapno agrag-o da ken tapno adda kanen da. Daytoy kuma ket kasla metlaeng idiay sao nga nausar idiay **[[https://door43.org/en/obs/notes/frames/01-11|[01-11]]]**. Kitaem nu kasano nga ipakaawat daytoy.
+  * **nakisao iti Dios**  - ti sao  para iti “nakisao” ket masapul a maipada a kas nausar iti pannakisao na iti tao. Ti Dios ket nakisao iti lalake ken iti babae a kas nainpisikalan gapu ta ti sumaruno pangkitaan ket ipakita na a nakisao da kenkuana iti sangusango.
+  * **panagbain**  - ti rikna nga agtaud iti panangammu a nagbasol wen nu adda iti nagkurangan tayo iti maysa a banag.
 **[[:ilo:obs:notes:frames:01-16|<<]] | [[:ilo:obs:notes:02|Up]] | [[:ilo:obs:notes:frames:02-02|>>]]**
