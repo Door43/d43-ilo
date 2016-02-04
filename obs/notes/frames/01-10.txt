@@ -2,27 +2,21 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg?nolink&}}
 
-Isua nangala ti Dios iti tapuk ket pinormana ti tao. Kelpasan daytoy, impuyutna iti angis iti biag iti naporma. Ti nagan datoy a tao ket Adam. Nag'aramid iti minuyungan ti Dios a pagyanan ni Adam ken insaadna iti daga ta agbantay  sadiay.
+Isua nangala ti Dios iti tapuk ket pinormana ti tao. Kelpasan daytoy, impuyutna iti angis iti biag iti naporma. Ti nagan datoy a tao ket Adam. Nag'aramid iti minuyungan ti Dios a pagyanan ni Adam ken insaadna iti daga ta agbantay sadiay.
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:life|life, live, living, alive]]**
+  * **[[:ilo:obe:other:adam|Adam]]**
+==== Pannakaipakaawat Kadagiti Sarsarita: ====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:life]]**
-  * **[[:ilo:obe:other:adam]]**
-
-
-==== Translation Notes: ====
-
-
-  * **took some dirt** - God made man from the dust, or dry dirt from the ground. This word should probably be different from the general word used for earth.
-  * **formed it** - This word expresses that God personally fashioned the man, comparing this to how a person creates something with his hands. Make sure that a different word from "create" is used. Note that this is very different from how he created everything else through a simple spoken command.
-  * **a man** - Only the man was created at this time; the woman was created later by a different method.
-  * **breathed life** - This phrase expresses God's very personal, intimate action as he transferred life from himself into Adam's body, comparing this to how a human being breathes out air.
-  * **life** - In this event, God breathed both physical and spiritual life into the man.
-  * **Adam** - Adam's name is the same as the Old Testament word for "man," and similar to the word for "dirt" from which he was formed.
-  * **garden** - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
-  * **care for it** - To maintain the garden by tending, weeding, watering, harvesting, planting, etc.
-
-
+  * **took some dirt**  - God made man from the dust, or dry dirt from the ground. This word should probably be different from the general word used for earth.
+  * **formed it**  - This word expresses that God personally fashioned the man, comparing this to how a person creates something with his hands. Make sure that a different word from "create" is used. Note that this is very different from how he created everything else through a simple spoken command.
+  * **a man**  - Only the man was created at this time; the woman was created later by a different method.
+  * **breathed life**  - This phrase expresses God's very personal, intimate action as he transferred life from himself into Adam's body, comparing this to how a human being breathes out air.
+  * **life**  - In this event, God breathed both physical and spiritual life into the man.
+  * **Adam**  - Adam's name is the same as the Old Testament word for "man," and similar to the word for "dirt" from which he was formed.
+  * **garden**  - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
+  * **care for it**  - To maintain the garden by tending, weeding, watering, harvesting, planting, etc.
 **[[:ilo:obs:notes:frames:01-09|<<]] | [[:ilo:obs:notes:01|Up]] | [[:ilo:obs:notes:frames:01-11|>>]]**
