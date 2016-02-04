@@ -1,4 +1,4 @@
-===== Dagiti Duwa A Kayo [01-11] =====
+===== Dagiti Dua A Kayo [01-11] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?nolink&}}
 
@@ -6,19 +6,19 @@ Nagmula ti Dios iti duwa a naidumduma a kayo iti tingnga ti minuyungan. Ti kayo 
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:life]]**
-  * **[[:ilo:obe:kt:good]]**
-  * **[[:ilo:obe:kt:evil]]**
-  * **[[:ilo:obe:other:adam]]**
-  * **[[:ilo:obe:kt:death]]**
-==== Translation Notes: ====
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:life|life, live, living, alive]]**
+  * **[[:ilo:obe:kt:good|good, goodness (nasayaat/naimbag, kinasayaat/kinaimbag)]]**
+  * **[[:ilo:obe:kt:evil|evil, wicked, wickedness (dakes (v), dakes (n), kinadakes)]]**
+  * **[[:ilo:obe:other:adam|Adam]]**
+  * **[[:ilo:obe:kt:death|death, die, dead]]**
+==== Pannakaipakaawat Kadagiti Sarsarita: ====
 
-  * **in the middle**  - The central location emphasizes the importance of the two trees.
-  * **garden**  - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
-  * **tree of life**  - Anyone who ate fruit from this tree would never die.
-  * **tree of knowledge of good and evil**  - The fruit of this tree could enable a person to know both good and evil.
-  * **knowledge**  - To know or understand by personal experience.
-  * **good and evil**  - Evil is the opposite of good. Just as "good" refers to what is pleasing to God, "evil" refers to everything that is not pleasing to God.
-  * **die**  - In this instance, he would die both physically and spiritually.
+  * **iti tengnga**  -  ti nagtengngaan a paset ket ipakita na iti kinapateg ti dua a kayo.
+  * **hardin**  - daytoy a paset iti daga ket namulaan kadagiti kaykayu ken mulmula tapnun adda iti pagtaudan iti taraon ken mangted iti pintas.
+  * **kayo ti biag**  - ti siasinuman a mangan iti bunga na daytoy a kayo ket saan tu pulos a matay.
+  * **kayo iti biag ken dakes**  - ti bunga daytoy a kayo ket mabalinana a ti tao ket maamuan na iti nasayaat ken dakes.
+  * **pannakaammu**  - ammuen wenno maawatan babaen iti bukod a kapadasan.
+  * **nasayaat ken dakes**  - dakes ket isu iti kabaliktad iti nasayaat. Nga ti “nasayaat” ket maipapan kadagiti makaay'ayu iti Dios, “dakes” maipapan kadagiti banbanag nga saan a makay-ayu iti Dios.
+  * **matay **- iti daytoy a gundaway, mabalin a matay isuna iti nainpisikalan ken naispiritualan.
 **[[:ilo:obs:notes:frames:01-10|<<]] | [[:ilo:obs:notes:01|Up]] | [[:ilo:obs:notes:frames:01-12|>>]]**
