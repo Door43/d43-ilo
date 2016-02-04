@@ -2,23 +2,21 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-12.jpg?nolink&}}
 
-Ket imbaga ti Dios,”Itatta nagbalin a kas kadatayun dagiti tattao babaen iti pannakaammu da iti nasayaat ken kinadakes. Kasapulan a saan da a mapalubusan a mangan manen iti bunga iti kayo ti biag ken agbiag awan inggana.” Isua impaadayu ti Dios ni Adam ken Eve iti hardin. Ket pinabantay ti Dios iti dakkel ken mannakabalin nga anghel iti ruangan iti hardin tapnun awan iti uray maysa a makapangan ti bunga ti kayo iti biag.
+Ket imbaga ti Dios,”Itatta nagbalin dagiti tattao a kas kadatayo nakaammu iti nasayaat ken kinadakes. Kasapulan a saan da a mapalubusan a mangan manen iti bunga iti kayo ti biag ken agbiag awan inggana.” Isua impaadayu ti Dios ni Adam ken Eve iti hardin. Ket pinabantay ti Dios iti dakkel ken mannakabalin nga anghel iti ruangan iti hardin tapnun awan iti uray maysa a makapangan ti bunga ti kayo iti biag.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:Ilo:obe:kt:good]]**
-  * **[[:ilo:obe:kt:evil]]**
-  * **[[:ilo:obe:kt:life]]**
-  * **[[:ilo:obe:other:adam]]**
-  * **[[:ilo:obe:other:eve]]**
-  * **[[:ilo:obe:kt:angel]]**
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:good|good, goodness (nasayaat/naimbag, kinasayaat/kinaimbag)]]**
+  * **[[:ilo:obe:kt:evil|evil, wicked, wickedness (dakes (v), dakes (n), kinadakes)]]**
+  * **[[:ilo:obe:kt:life|life, live, living, alive]]**
+  * **[[:ilo:obe:other:adam|Adam]]**
+  * **[[:ilo:obe:other:eve|Eve]]**
+  * **[[:ilo:obe:kt:angel|angel, archangel]]**
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-===== Translation Notes: =====
-
-  * **like us by knowing good and evil**  - Here, this phrase points to a new way that Adam and Eve would be like God. Because they had sinned, they were aware of evil and could experience it. You could say, “because now they knew both good and evil.”
-  * **fruit**  - The specific kind of fruit is not revealed, so it is best to translate this using a general word for fruit.
-  * **tree of life**  - This was an actual tree with fruit. See **[[:en:obs:notes:frames:01-11|[01-11]]]**. If a person ate this fruit he would live continually and never die.
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.  
-
+  * **a kas kadatayo a nakaammu iti nasayaat ken iti dakes**  - iti daytoy a paset ket iturong na iti baru a wagas a ni Adam kenni Eve ket kasla iti Dios. Gapu ta nagbasol da, makita da iti dakes ket mabalin da a padasen daytoy.mabalin nga ibagam, “gapu ta tatta ket naammuan da iti nasayaat ken iti dakes.”
+  * **bunga**  - saan a naiparangarang iti numiso a bunga, isu nga nasayaat nga ipakaawat daytoy babaen iti panangusar iti gagangay ba sao para iti bunga.
+  * **kayo ti biag**  - kayo daytoy nga addaan iti bunga. Kitaen[01-11]. Nu ti tao ket kanen na daytoy a bunga, agbiag daytoy iti agnanayon ket saan to a matay.
+  * //Istorya iti Bibliya manipud iti//- daytoy a pangkitaan ket mabalin nga adda bassit naidumaan na kadagiti dadduma a pannakaipakaawat iti Bibliya.
 **[[:ilo:obs:notes:frames:02-11|<<]] | [[:ilo:obs:notes:02|Up]] | [[:ilo:obs:notes:frames:03-01|>>]]**
