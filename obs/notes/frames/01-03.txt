@@ -4,13 +4,14 @@
 
 Ti maikadwa nga aldaw ket nagsao ti Dios ket naparsua ti tangatang iti rabaw ti daga. Inaramidna ti tangatang babaen iti panagsinana iti danum sadiay akin ngatu ken dadiay danum nga adda sadiay baba.
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Sarsarita:  =====
 
-  * **[[:ilo:obe:kt:god|God (Dios)]]**
-==== Translation Notes: ====
+===== **[[:ilo:obe:kt:god|God (Dios)]]**  =====
 
-  * **the second day**  - God's work of creation was orderly, purposeful, and sequential. The things he created each day built upon and depended on the acts of the previous days.
-  * **God spoke**  - God created the sky by speaking a command.
-  * **created**  - God made the sky out of nothing.
-  * **sky**  - This term refers to all of the space above the earth, including the air we breathe and the heavens.
+==== **Pannakaipakaawat Kadagiti Sarsarita**: ====
+
+  * **Ti maikadwa nga aldaw**- ti trabaho ti Dios iti panangparsua ket naurnos, nasayaat, ken napintas. Dagiti banbanag a pinarsua na iti tunggal aldaw ket napaada ken maiyannatup daytoy iti inaramid na ti napalabas nga al'aldaw.
+  * **Ti Dios nagsao**- pinarsua ti Dios iti tangatang babaen iti pinagsao na iti bilin.
+  * **naparsua**- pinarsua ti Dios iti tangatang manipud iti awan..
+  * **tangatang**- daytoy a balikas ket maipapan iti amin a naparsua iti ngatun ti daga, ramanen na daytoy iti anges tayu ken dagiti langlangit.
 **[[:ilo:obs:notes:frames:01-02|<<]] | [[:ilo:obs:notes:01|Up]] | [[:ilo:obs:notes:frames:01-04|>>]]**
