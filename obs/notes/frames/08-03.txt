@@ -2,13 +2,14 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-03.jpg?nolink&}}
 
-Sakbay a nagawid dagiti kakabsat ni Joseph idiay balay da ket pinigispigis da pay ti pagan-anay na ken insawsaw da iti dara ti kalding. Ket  impakita da iti ama da tapno ipagarup na a pinatay ti narungsot nga ayop. Ket nagladigit ni Jacob ti kasta launay.
+Sakbay a nagawid dagiti kakabsat ni Joseph idiay balay da ket pinigispigis da pay ti pagan-anay na ken insawsaw da iti dara ti kalding. Ket impakita da iti ama da tapno ipagarup na a pinatay ti narungsot nga ayop. Ket nagladigit ni Jacob ti kasta launay.
 
-===== Important Terms: =====
+===== Dagiti Importante Nga Balikas: =====
 
-  * **[[:ilo:obe:other:josephot]]**
-  * **[[:ilo:obe:other:jacob]]**
-==== Translation Notes: ====
+  * **[[:ilo:obe:other:josephot|Joseph (OT) ]]**
+  * **[[:ilo:obe:other:jacob|Jacob, Israel ]]**
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **goat's blood**  - The brothers wanted Jacob to think that the blood on the clothes was Joseph's blood.
+  * dara ti kalding- Kayat dagiti agkakabsat nga panunuten ni Jacob nga jay dara iti bado ket dara ni Joseph.
+
 **[[:ilo:obs:notes:frames:08-02|<<]] | [[:ilo:obs:notes:08|Up]] | [[:ilo:obs:notes:frames:08-04|>>]]**
