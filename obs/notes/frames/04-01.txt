@@ -6,11 +6,12 @@ Adu a tawen kalpasan iti layus ket immadu ti tattao ditoy lubong ken maymaysa la
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:god]]**
-===== Translation Notes: =====
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-  * **many years after the flood**  - Many generations had passed since the end of the flood.
-  * **again many people**  - Noah's family multiplied into enough people to fill a city.
-  * **same language**  - This means there was only one language, so they could all understand each other.
-  * **a city**  - It is best to use a general word for "city" since the text does not give a specific name.
+  * **adu a tawen kalpasan iti layus ** - adu iti naglabas a kaputotan nanipud a nalpas ti layus .
+  * **adu manen iti tattao ** - immadu iti pamilya ni Noah ket makaanay a tattao a manpunno iti siudad .
+  * **agpada a pagsasao ** - kayat na a saritaen ket adda iti maysa laeng a pagsasao .
+  * **maysa a siudad ** - nasayaat nga usaren iti gagangay a sao para iti, “siudad” ngem tangay ta awan met iti umiso a naited a nagan .
+
 **[[:ilo:obs:notes:frames:03-16|<<]] | [[:ilo:obs:notes:04|Up]] | [[:ilo:obs:notes:frames:04-02|>>]]**
