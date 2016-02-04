@@ -4,19 +4,15 @@
 
 Santu napan ni Jacob kenni Isaac ket kinunana, "Siak ni Esau. Immayak tapno bendisyonanak koma." Idi narikna ni Isaac ti barbon ti kalding ken inangot na ket ipagarup na nga isu ni Esau ket binendisyonanna.
 
-===== Important Terms: =====
+===== Dagiti Importante Nga Balikas: =====
 
+  * **[[:ilo:obe:other:jacob|Jacob, Israel (Jacob, Israel)]]**
+  * **[[:ilo:obe:other:isaac|Isaac (Isaac)]]**
+  * **[[:ilo:obe:other:esau|Esau (Esau)]]**
+  * **[[:ilo:obe:kt:bless|bless, blessed, blessing (bendisyonan (v), binendisyonan (v), bendisyon (n))]]**
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **[[:ilo:obe:other:jacob]]**
-  * **[[:ilo:obe:other:isaac]]**
-  * **[[:ilo:obe:other:esau]]**
-  * **[[:ilo:obe:kt:bless]]**
-
-
-===== Translation Notes: =====
-
-
-  * **Jacob came to Isaac** - In some languages it might be more natural to say, "Jacob went to Isaac."
-  * **he thought it was Esau** - He thought that the person he was touching and smelling was Esau.
-
+  * **//napan ni Jacob kenni Isaac//**
+ -// Iti dadduma nga sasao kasla nasaysayaat nga ibaga, "ni Jacob ket napan kenni Isaac" //
+  * **//ipagarup na nga isu ni Esau//**- //Ipagarup na nga ti ig'iggaman na ken ang'anguten ket ni Esau.//
 **[[:ilo:obs:notes:frames:07-03|<<]] | [[:ilo:obs:notes:07|Up]] | [[:ilo:obs:notes:frames:07-05|>>]]**
