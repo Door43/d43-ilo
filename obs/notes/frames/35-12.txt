@@ -4,20 +4,17 @@
 
 “Simmungbat ti ama ket kinuna na, ‘anakko, addaka a kankanayon iti dennak ket amin a sanikuak ket sanikuam. Ngem maiparbeng nga agrambaktayo agsipud ta natay ti kabsat mo ngem ita ket sibibiag, napukaw isuna ngem nasarakan!’”
 
-===== Important Terms: =====
+===== Dagiti Importante Nga Balikas: =====
 
-  * **[[:ilo:obe:kt:faithful]]**
-  * **[[:ilo:obe:other:disobey]]**
-  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:kt:faithful|faithful, faithfulness ]]**
+  * **[[:ilo:obe:other:disobey|disobey, disobedient, disobedience]]**
+  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning ]]**
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **one small goat** - A small goat would have fed fewer people than the best calf, and would not be valued as much. The older brother is complaining that his father was treating the sinful younger son better than him.
-  * **this son of yours** - This expression shows that the older son was angry. It shows his rejection of his younger brother and his disapproval of his father for welcoming back this wayward son. Other languages may also have an indirect way of communicating these things.
-  * **consumed your money** - That is, "squandered the money that you gave him" or, "devoured your wealth." If possible, use an expression that shows the brother's anger.
-  * **killed the best calf** - That is, "killed the best calf to eat at a feast."
-
+  * (intuloy ni Jesus iti istorya)
+  * Maysa a bassit nga kalding- ti bassit a kalding ket mapakan na iti  bassit a tao ngem diay kasayaatan a baka, ket saan unay a napateg. Agrekreklamo diay inauna iti ama na ta maymayat iti panagtrato na idiay managbasul nga anak na.
+  * Daytoy nga anak mo- daytoy nga panangiyebkas ket ipakita na nga makapungtot diay inauna nga anak. Ipakita na met iti panangbalewala na iti ub'ubing a kabsat na ken saan nga umanamong iti panangawatiti ama na iti daytoy nga pimmanaw nga anak.  Iti dadduma a pagsasao ket adda iti sabali a wagas iti pangusar na iti daytoy a banbanag.
+  * Inibus na iti kuwartam- dayta ket, “sinayang na iti kuwarta nga inted mo kanyana” wenno, “inalun-on na iti kinabaknang mo”. Nu mabalin, mangusar iti panangiyebkas iti pungtot diay inauna nga kabsat.
+  * pinarti diay kasayaatan a baka- dayta ket, “pinarti diay kasayaatan a baka tapno kanen iti padaya”.
 
 **[[:ilo:obs:notes:frames:35-11|<<]] | [[:ilo:obs:notes:35|Up]] | [[:ilo:obs:notes:frames:35-13|>>]]**
