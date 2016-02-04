@@ -6,9 +6,10 @@ Idi dumteng iti maikapito nga aldaw ket nalpasen ti Dios ti amin nga aramiden na
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:god|God (Dios)]]**
-  * **[[:ilo:obe:kt:bless|bless, blessed, blessing (bendisyonan (v), binendisyonan (v), bendisyon (n))]]**
-  * **[[:ilo:obe:kt:holy|holy, holiness (nasantuan, kinasantu)]]**
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:kt:bless|bless, blessed, blessing]]**
+  * **[[:ilo:obe:kt:holy|holy, holiness]]**
+
 ==== Pannakaipakaawat Kadagiti Sarsarita: ====
 
   * **ti maikapitu nga aldaw**  - iti sumaruno nga aldaw kalpasan iti maika innem nga al'aldaw iti panangparsua ket naaramid amin.
