@@ -6,13 +6,13 @@ Inaramid ti Dios iti lalake ken babae a kaasping na. Binendisyunan ti Dios ida k
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:bless]]**
-  * **[[:ilo:obe:kt:good]]**
-==== Translation Notes: ====
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:bless|bless, blessed, blessing (bendisyonan (v), binendisyonan (v), bendisyon (n))]]**
+  * **[[:ilo:obe:kt:good|good, goodness (nasayaat/naimbag, kinasayaat/kinaimbag)]]**
+==== Pannakaipakaawat Kadagiti Sarsarita: ====
 
-  * **God made**  - God formed the man and the woman in a very personal way.
-  * **in his own image**  - An image is a physical representation of someone or something. God made people to display or represent some of his qualities and traits, but not to be equal to him.
-  * **very good**  - More intense than the, "it was good" statements on previous days. "Very good" refers to all of creation, not just the man and the woman. Everything was exactly as God intended it to be.
-  * **creation**  - The six-day period during which God made everything that exists.
+  * **inaramid ti Dios **- ti Dios pinarsua na iti lalake ken ti babae iti bikod na a wagas.
+  * **iti bukod na a langa**  - iti langa ket nainpisikalan a panangibagi iti maysa a tao wenno banag. Ti Dios inaramid na dagiti tattao a mangiparangarang wenno mangipakita kadagiti dadduma a katato ken kababalin na ngem saan a maipada kenkuana.
+  * **nagsayaat**  - mas naiduma ngem iti, “ket nasayaat” a nausar kadagiti napalabas nga al'aldaw. “Nagsayaat” maipapan daytoy iti amin a naiparsua a saan laeng iti lalake ken ti babae. Amin a banbanag ket naaramid a kas maiyannatup iti pagayatan ti Dios a pakaiparsuan da.
+  * **panangparsua**  - iti maika innem nga aldaw kabayatan a ti Dios ket inaramid na amin a banbanag a makita.
 **[[:ilo:obs:notes:frames:01-14|<<]] | [[:ilo:obs:notes:01|Up]] | [[:ilo:obs:notes:frames:01-16|>>]]**
