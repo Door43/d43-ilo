@@ -4,22 +4,18 @@
 
 Kayat ni Isaac nga ited kenni Esau ti pamendisyon na. Ngem sakbay nga ited na ket inallilaw da Rebekah ken Jacob ni Isaac babaen ti panagpammarang ni Jacob nga isu ni Esau. Lakayen ni Isaac ket saanen a makakita. Isu nga inkawes ni Jacob dagiti badbado ni Esau ken nangikabel iti lalat ti kalding iti tingnged ken ima na.
 
-===== Important Terms: =====
+===== Dagiti Importante Nga Balikas: =====
 
+  * **[[:ilo:obe:other:isaac|Isaac (Isaac)]]**
+  * **[[:ilo:obe:kt:bless|bless, blessed, blessing (bendisyonan (v), binendisyonan (v), bendisyon (n))]]**
+  * **[[:ilo:obe:other:esau|Esau (Esau)]]**
+  * **[[:ilo:obe:other:rebekah|Rebekah (Rebekah)]]**
+  * **[[:ilo:obe:other:jacob|Jacob, Israel (Jacob, Israel)]]**
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **[[:ilo:obe:other:isaac]]**
-  * **[[:ilo:obe:kt:bless]]**
-  * **[[:ilo:obe:other:esau]]**
-  * **[[:ilo:obe:other:rebekah]]**
-  * **[[:ilo:obe:other:jacob]]**
-
-
-===== Translation Notes: =====
-
-
-  * **give his blessing** - It was customary for fathers to formally express their desire for good things to happen to their children. Normally the older son received the best promise. Isaac wanted this extra prosperity to happen to Esau.
-  * **tricked him** - The word "trick" means to do something to deliberately deceive someone. Rebekah came up with a plan to deceive Isaac into giving Jacob the special blessing instead of Esau.
-  * **pretend** - The word "pretend" shows how Jacob would deceive his father (who had very poor eyesight in his old age).
-  * **goatskins** - The hairiness of the goatskins would make Jacob feel like Esau.
+  * **blessing ** -  CKGE_TMP_i ited na ti pamendisyona CKGE_TMP_i -  CKGE_TMP_i Kustombren dagiti tatang nga opisyal nga ipakaammoda ti tarigagay da nga naiimbag nga banag nga kayat da nga mapasamak iti an'annak da. Kadawyan ket jay inauna nga nak ti umawat iti kapipintasan nga kari. Kayat ni Isaac nga ti sobra nga kinabaknang ket mapasamak kenni Esau. CKGE_TMP_i
+  * //inallilaw isuna // -  CKGE_TMP_i Ti balikas nga "inallilaw" ket kayat na nga sawen nga inggagara nga mangaramid ti maysa nga banag tapno allilawen ti maysa nga tao. Ni rebekah ket nagaramid ti maysa nga plano tapno allilawena ni Isaac ta maitedna kenni Jacob jay naisangsangayan nga bendisyon imbes nga ni Esau.  CKGE_TMP_i
+  * //agpammarang // -  CKGE_TMP_i Ti sarita nga "agpammarang" ket ipakita na nu kasano nga ni Jacob ket maallilaw na ni tatang na (nga nakapuy unay ti pangkita na gapu iti kinalakay na).  CKGE_TMP_i
+  * **//lalat ti kalding // ** -  CKGE_TMP_i Ti mabarbon nga lalat ti kalding ti namagbalin kenni Jacob nga kasla ni Esau.  CKGE_TMP_i
 
 **[[:ilo:obs:notes:frames:07-02|<<]] | [[:ilo:obs:notes:07|Up]] | [[:ilo:obs:notes:frames:07-04|>>]]**
