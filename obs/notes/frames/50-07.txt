@@ -10,11 +10,11 @@
 
   * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
   * **[[:ilo:obe:kt:lord|lord, master, sir]]**
-===== Translation Notes: =====
+===== Pannakaawat Kadagiti Sarsarita: =====
 
-  * (Jesus continues to tell the story.)
-  * **you will pull out some of the wheat as well**  - That is, "you will accidentally pull out some of the wheat also." It would be too difficult to distinguish young wheat from the weeds, and to pull the weeds without uprooting the wheat.
-  * **until the harvest**  - That is, "until the time when the wheat is ready to harvest" or, "until the wheat has grown enough to be harvested."
-  * **the wheat**  - That is, "the harvested wheat grains."
-  * **barn**  - This refers to the building where the harvested wheat grain was saved and stored. It could also be called a "storehouse."
+  * (Intuloy ni Jesus nga agistorya.)
+  * **maparut mo ti dadduma a trigo**  - dayta ket, “baka pati trigo ket mairaman mo a maparut met”. Narigat nga mailasin iti naganus pay a trigo manipud kadagiti ruut, ken ti panangparut kadagiti ruut nga saan a mairaman dagiti trigo.
+  * **aginggana panagaapit**  - dayta ket, “aginggana nga umay iti panawen a ti trigo ket mabalinen nga maapit” wenno, aginggana a trigo ket dakkelen ket nakasagan a maapit."
+  * **ti trigo**  - dayta ket, “ti maapit a bukel ti trigo."
+  * **kamalig**  - daytoy ket maiyarig iti maysa a patakder a pangikabilan ken pangidulinan dagiti naapit a trigo. Daytoy ket mabalin met nga ipakaawat a kas, “pangidulinan."
 **[[:ilo:obs:notes:frames:50-06|<<]] | [[:ilo:obs:notes:50|Up]] | [[:ilo:obs:notes:frames:50-08|>>]]**
