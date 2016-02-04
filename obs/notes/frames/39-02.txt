@@ -10,10 +10,11 @@ Inusig dagiti panguloen a Judio ni Jesus iti uneg ti balay. Nangiyeg da kadagiti
   * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:ilo:obe:kt:witness|witness, eyewitness]]**
   * **[[:ilo:obe:kt:guilt|guilt, guilty]]**
-===== Translation Notes: =====
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **put Jesus on trial**  - This could be translated as, "had a formal meeting to accuse Jesus of doing something wrong." Usually a trial is done to find out if someone is innocent or guilty of a certain crime. In this case, the leaders were determined to make Jesus seem guilty.
-  * **lied about him**  - That is, "told lies about him" or, "falsely accused him of doing something wrong."
-  * **their statements did not agree with each other**  - This could be translated as, "they said things about Jesus that were very different from each other" or, "the witnesses said things about Jesus that contradicted each other."
-  * **he was guilty of anything**  - That is, "that he had done anything wrong."
+  * Ket ingkaso da ni Jesus;- daytoy ket mabalin nga ipakaawat a kas, “naaddaan da iti panagsasangu tapno pabasulen da ni Jesus iti panangaramid na ti saan a nasayaat.”
+  * nagulbod da kenkuana- dayta ket, “imbaga da iti inuulbod kenkuana” wenno, “pinabasol da iti inuulbod isuna nga nagaramid iti saan a nasayaat”
+  * ti sinarita da ket saan nga immanamung iti dadduma- daytoy ket mabalin nga ipakaawat a kas, “nangibaga da kadagiti banbanag maipapan ken Jesus nga naiduma kadagiti dadduma” wenno, “nagsaksi da kadagiti banbanag maipapan kenni Jesus a bumusor iti tunggal maysa”.
+  * saan a napabasul iti anya man a banag- dayta ket, “awan iti inaramid nga saan a nasayaat”.
+
 **[[:ilo:obs:notes:frames:39-01|<<]] | [[:ilo:obs:notes:39|Up]] | [[:ilo:obs:notes:frames:39-03|>>]]**
