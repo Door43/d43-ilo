@@ -6,12 +6,12 @@ Ita kinuna ti Dios, “Saan a nasayaat nga agmaymaysa iti tao.” Ngem awan kada
 
 ===== Important Terms: =====
 
-  * **[[:tl:obe:kt:god]]**
-  * **[[:tl:obe:kt:good]]**
-  * **[[:tl:obe:other:adam]]**
-==== Translation Notes: ====
+  * **[[:tl:obe:kt:god|Diyos]]**
+  * **[[:tl:obe:kt:good|mabuti, kabutihan]]**
+  * **[[:tl:obe:other:adam|Adam]]**
+==== Pannakaipakaawat Kadagiti Sarsarita: ====
 
-  * **not good**  - This is the first time that anything in creation was not good. It means it was, "not yet good" because God was not finished with the creation of humans.
-  * **alone**  - Adam was the only human, with no possibility of a relationship with another person, and unable to reproduce children and multiply.
-  * **Adam's helper**  - There was no one who was similar enough to Adam to join with him to accomplish the task that God gave to him. None of the animals could do this.
+  * **saan a nasayaat**  - daytoy iti umuna a gundaway a ti nakaiparsuan ket saan a nasayaat. Kayat na a saritaen ket, “saan pay a nasayaat” gapu ta saan pay a nalpas ti Dios iti panangparsua na iti tao.
+  * **agmaymaysa**  - ni Adam laeng iti tao, nga awan iti mabalin a pakainaigan na iti sabali a tao, ken saan a makaaramid kadagiti ubbing ken saan nga agpaadu.
+  * **katulungan ni Adam**  - awan iti kapadpada ni Adam a mabalin a mangkadwa kenkuana tapno aramiden na dagiti trabaho nga inted ti Dios kenkuana. Awan kadagiti animles ti makaaramid iti daytoy.
 **[[:ilo:obs:notes:frames:01-11|<<]] | [[:ilo:obs:notes:01|Up]] | [[:ilo:obs:notes:frames:01-13|>>]]**
