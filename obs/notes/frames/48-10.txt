@@ -2,9 +2,9 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-10.jpg?nolink&}}
 
-Ni Jesus ti Karnero ti Ilalabas ti Patay tayo. Naan-anay ken awan basol ni Jesus. Natay isuna iti kanito ti pannakarambak ti Ilalabas ti Patay. Nu adda ti siasinno man a mamati ken Jesus ket bayadan ti dara ni Jesus dagiti nagbasulan dayta a tao ken labasan ti dusa ti Dios dayta a tao.
+Ni Jesus ti Karnero ti Ilalabas ti Patay tayo. Naan-anay ken awan basol ni Jesus. Natay isuna iti kanito ti pannakarambak ti Ilalabas ti Patay. Nu adda ti siasinno man a mamati ken Jesus ket bayadan ti dara ni Jesus dagiti nagbasolan dayta a tao ken labsan ti dusa ti Dios dayta a tao.
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
   * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:ilo:obe:kt:passover|Passover]]**
@@ -12,12 +12,14 @@ Ni Jesus ti Karnero ti Ilalabas ti Patay tayo. Naan-anay ken awan basol ni Jesus
   * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
   * **[[:ilo:obe:kt:blood|blood]]**
   * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:god|God]]**
   * **[[:ilo:obe:other:punish|punish, punishment]]**
-===== Translation Notes: =====
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **our Passover Lamb**  - That is, “the Passover Lamb that was killed for us” or, “the lamb that was killed so that God would pass over us” or, “the lamb that was killed so that God would spare us.”
-  * **sinless**  - This can also be translated as, “had never sinned.”
-  * **blood of Jesus**  – This could be translated as, “The sacrifice that Jesus made of himself when he died for sinners.” The word “blood” here also means “death.”
-  * **God's punishment passes over that person**  - This statement means, “God does not punish that person.” Translate it using a phrase that shows its relationship to the words for "Passover" and the "Passover Lamb." If the word "spare" is used in the name of the Passover, this could also be translated as, “God spares that person from punishment.”
+  * **ti karnero ti Ilalabas ti Patay tayo - ** Daytoy ket, "ti karnero a mapapatay gapu kadatayo iti 'ilalabas ti Patay'" wenno, "ti karnero a mapapatay tapno aglabas ti Angel ti Dios" wenno, "ti karnero a mapapatay tapno saan tayo a dangran ti Dios."
+  * **awan basol**
+ - Daytoy ket mabilin a maibalikas a, "saan pulos a nagbasol"
+  * **dara ni Jesus -** Mabalin a maibalikas daytoy kas, "ti daton a bagi ni Jesus nga inted na idi natay gapo kadagiti mangbasol." Ti sao a "dara" ket "pannakatay" ti kayatna nga ibaga.
+  * ** labsan ti dusa ti Dios dayta a tao ** - Ti kayatna a saoen daytoy a sasao ket, "Saan a dusaen ti Dios dayta a tao." Ibalikas daytoy tapno maipakaammu ti nagpadaan dagitoy dua a sarsarita a "ilalabas/panaglabas" ken "karnero ti panaglabas ti Patay." Nu ti sarita a  "saan a dangran" ti mausar ket mabalin ti balikas kas, "saan a dangran ti Dios dayta a tao."
+
 **[[:ilo:obs:notes:frames:48-09|<<]] | [[:ilo:obs:notes:48|Up]] | [[:ilo:obs:notes:frames:48-11|>>]]**
