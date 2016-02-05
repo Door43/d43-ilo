@@ -2,23 +2,19 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-02.jpg?nolink&}}
 
-Iti maysa nga aldaw idi nga agisursuro ni Stephen iti maipanggep kenni Jesus ket nakisupiat kenkuana dagiti sumagmamano a Judio a saan namati kenni Jesus. Nakaunget da ken nagulbod da kadagiti panguloen ti relihiyon maipapan kenni Stephen. Kinunada, “Nangngegmi ni Stephen a nagsao kadagiti dakes a bambanag maipapan kenni Moses ken iti Dios.”  Daytoy ti rason nu apay a tiniliw da ni Stephen ket inyapanda iti kangangatoan a padi ken kadagiti dadduma pay a panguloen dagiti Judio. Sadiay manen dagiti ad-adu palso a saksi a nagulbod maipapan kenni Stephen.
+Iti maysa nga aldaw idi nga agisursuro ni Stephen iti maipanggep kenni Jesus ket nakisupiat kenkuana dagiti sumagmamano a Judio a saan namati kenni Jesus. Nakaunget da ken nagulbod da kadagiti panguloen ti relihiyon maipapan kenni Stephen. Kinunada, “Nangngegmi ni Stephen a nagsao kadagiti dakes a bambanag maipapan kenni Moses ken iti Dios.” Daytoy ti rason nu apay a tiniliw da ni Stephen ket inyapanda iti kangangatoan a padi ken kadagiti dadduma pay a panguloen dagiti Judio. Sadiay manen dagiti ad-adu palso a saksi a nagulbod maipapan kenni Stephen.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:other:jew]]**
-  * **[[:ilo:obe:other:jewishleaders]]**
-  * **[[:ilo:obe:kt:evil]]**
-  * **[[:ilo:obe:other:moses]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:highpriest]]**
-  * **[[:ilo:obe:kt:witness]]**
-
-
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:other:jew|Jew, Jewish]]**
+  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ilo:obe:kt:evil|evil, wicked, wickedness (dakes (v), dakes (n), kinadakes)]]**
+  * **[[:ilo:obe:other:moses|Moses (Moses)]]**
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:highpriest|high priest]]**
+  * **[[:ilo:obe:kt:witness|witness, eyewitness]]**
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-
-
+  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
 **[[:ilo:obs:notes:frames:45-01|<<]] | [[:ilo:obs:notes:45|Up]] | [[:ilo:obs:notes:frames:45-03|>>]]**
