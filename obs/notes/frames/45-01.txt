@@ -2,24 +2,20 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg?nolink&}}
 
-Maysa kadagiti panguloen iti immuna nga Iglesia ket ti lalaki nga agnagan iti Stephen. Addaan daytoy iti nasayaat a kababalin ken napunno isuna iti Espirito Santo ken kinasirib. Nagaramid ni Stephen kadagiti adu a milagro ken makaallukoy ti panagsasao na a nasken a mamati dagiti tattao ken ni Jesus.
+Maysa kadagiti panguloen ti immuna nga Iglesia ket ti lalaki nga agnagan iti Stephen. Addaan daytoy iti nasayaat a kababalin ken napunno iti Espirito Santo isuna ken kinasirib. Nagaramid ni Stephen kadagiti adu a milagro ken makaallukoy a panagsasao a nasken a mamati dagiti tattao ken ni Jesus.
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:church]]**
-  * **[[:ilo:obe:kt:holyspirit]]**
-  * **[[:ilo:obe:kt:wise]]**
-  * **[[:ilo:obe:kt:miracle]]**
-  * **[[:ilo:obe:kt:believe]]**
-  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:church|church, Church]]**
+  * **[[:ilo:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]**
+  * **[[:ilo:obe:kt:wise|wise, wisdom]]**
+  * **[[:ilo:obe:kt:miracle|miracle, wonder, sign]]**
+  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-
-===== Translation Notes: =====
-
-  * **the early Church** - That is, "the Church when it first began."
-  * **had a good reputation** - This could be translated as, "was thought well of by the people." Some languages might translate this as, "had a good name."
-  * **was full of the Holy Spirit and of wisdom** - This could also be translated as, "had power and ability from the Holy Spirit and had much wisdom" or, "was full of the Holy Spirit and was very wise."
-  * **reasoned persuasively that** - That is, "gave convincing reasons why."
-
-
+  * **ti immuna nga Iglesia**  - dayta ket, “ti nangrugian iti iglesia."
+  * **addaan daytoy iti nasayaat a katatao**  - mabalin met nga ipakaawat daytoy a kas, “nasuruan a nasayaat babaen kadagiti tattao””. Dadduma a pagsasao ket mabalin nga ipakaawat da a kas, “addaan iti nasayaat a nagan."
+  * **napunno iti Ispiritu Santo ken ti kinasirib**  - daytoy ket mabalin met nga ipakaawat a kas, “addaan iti bileg ken kabalinan manipud iti Nasantoan nga Ispiritu ken addaan iti kasta launay a kinasirib” wenno, “napnuan iti Nasantoan nga Ispiritu ket kasat launay iti kinasirib na."
+  * **makaallukoy ti panagsasao**  - dayta ket, “nangted iti makapasagid a gapo iti."
 **[[:ilo:obs:notes:frames:44-09|<<]] | [[:ilo:obs:notes:45|Up]] | [[:ilo:obs:notes:frames:45-02|>>]]**
