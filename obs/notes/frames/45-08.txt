@@ -2,17 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink&}}
 
-Idi immasideg ni Philip iti karwahe ket nangngegna  ti taga Ethiopia nga agbasbabsa manipud iti insurat ni mammadtu nga Isaiah. Basbasaen ti lalaki ti paset a kunana, “Inturong da isuna a kas maysa a karnero a mapapatay ken kas maysa a kordero a naulimek ken saan pulos isuna a nagsasao. Saan a nasayaat ti panangtrato da kenkuana ken saanda a rinaem. Innala da ti biag na manipud kenkuana.”
+Idi immasideg ni Philip iti karwahe ket nangngegna ti taga Ethiopia nga agbasbabsa manipud iti insurat ni mammadtu nga Isaiah. Basbasaen ti lalaki ti paset a kunana, “Inturong da isuna a kas maysa a karnero a mapapatay ken kas maysa a kordero a naulimek ken saan pulos isuna a nagsasao. Saan a nasayaat ti panangtrato da kenkuana ken saanda a rinaem. Innala da ti biag na manipud kenkuana.”
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
   * **[[:ilo:obe:other:chariot|chariot]]**
   * **[[:ilo:obe:other:isaiah|Isaiah]]**
   * **[[:ilo:obe:kt:lamb|lamb, Lamb of God]]**
   * **[[:ilo:obe:kt:life|life, live, living, alive]]**
-===== Translation Notes: =====
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **Ethiopian**  - That is, a person from the country of Ethiopia. See note on **[[:ilo:obs:notes:frames:45-07|[45-07]]]**.
-  * **approached the chariot**  - That is, "got close to the chariot" or, "came near to the chariot."
-  * **as a lamb is silent**  - This could also be translated as, "like a lamb that is silent even when it is about to be killed."
+  * **taga Ethiopia**  - dayta ket, manipud iti pagilian iti Ethiopia. Kiaten iti pannakaipakaawat iti **[[:ilo:obs:notes:frames:45-07|[45-07]]]**.
+  * **Immasideg … iti karwahe**  - dayta ket, “nakaasideg da iti karuahe” wenno, “nakaasideg dan iti karuahe."
+  * **kordero a naulimek**  - daytoy ket mabalin met nga ipakaawat a kas, “nagulimek a kasla karnero uray pay dandanin iti pannakapapatay na."
 **[[:ilo:obs:notes:frames:45-07|<<]] | [[:ilo:obs:notes:45|Up]] | [[:ilo:obs:notes:frames:45-09|>>]]**
