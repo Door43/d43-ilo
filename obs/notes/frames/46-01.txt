@@ -2,24 +2,20 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-01.jpg?nolink&}}
 
-Ni Saul ti lalaki a nangbantay kadigiti pagan-anay dagiti lallaki a nangpatay ken ni Stephen. Saan a mamati isuna kenni Jesus isu nga indadanes na dagiti namati. Sinagsaggaysa na dagiti babbalay idiay Jerusalem tapno tiliwen ken ipakulong na dagiti namati kenni Jesus. Inikkan isuna ti kangatoan a padi iti pammalubos a mapan idiay Damascus tapno tiliwenna dagiti amin a kristiano sadiay ken isubli na ida idiay Jerusalem.
+Ni Saul ti lalaki a nangbantay kadigiti pagan-anay dagiti lallaki a nangpatay kenni Stephen. Saan a mamati isuna kenni Jesus isu nga indadanes na dagiti namati. Sinagsaggaysa na dagiti babbalay idiay Jerusalem tapno tiliwen ken ipakulong na dagiti namati kenni Jesus. Inikkan isuna ti kangatoan a padi iti pammalubos a mapan idiay Damascus tapno tiliwenna dagiti amin a kristiano sadiay ken isubli na ida idiay Jerusalem.
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:paul]]**
-  * **[[:ilo:obe:kt:believe]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:other:persecute]]**
-  * **[[:ilo:obe:kt:believer]]**
-  * **[[:ilo:obe:other:jerusalem]]**
-  * **[[:ilo:obe:kt:highpriest]]**
+  * **[[:ilo:obe:other:paul|Paul, Saul]]**
+  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:other:persecute|persecute, persecution]]**
+  * **[[:ilo:obe:kt:believer|believer]]**
+  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
+  * **[[:ilo:obe:kt:highpriest|high priest]]**
+===== Dagiti Napapateg A Balikas: =====
 
-
-===== Translation Notes: =====
-
-  * **guarded the robes of the men who killed Stephen** - See **[[:ilo:obs:notes:frames:45-06|[45-06]]]**.
-  * **from house to house** - That is, "into many houses."
-  * **Damascus** - Damascus is now the capital of the country of Syria. During Saul's time, it was a city belonging to the Roman Empire. Most of the people there were not Jewish, but there were some Jews and also some Christians living there.
-
-
+  * **nangbantay kadagiti pagan-anay dagiti lallaki a nangpatay kenni Stephen**  – Kitaen idiay **[[:ilo:obs:notes:frames:45-06|[45-06]]]**.
+  * **Sinagsaggaysa na dagiti babbalay **- dayta ket, “iti adu a balbalay."
+  * **Damascus**  - Damascus ket isu itan iti ili iti pagilian a Syria. Iti panawen ni Saul, isu iti siudad a saklawen iti Roman Empire. Kaadduan nga tattao idiay ket saan a Judio ngem addada iti sumagmamanu a Judio ken kristiano nga agnanaed sadiay.
 **[[:ilo:obs:notes:frames:45-13|<<]] | [[:ilo:obs:notes:46|Up]] | [[:ilo:obs:notes:frames:46-02|>>]]**
