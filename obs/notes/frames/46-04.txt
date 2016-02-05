@@ -4,7 +4,7 @@
 
 Adda idi ti maysa nga adalan idiay Damascus nga agnagan iti Ananias. Imbagan ti Dios kenkuana, “Mapan ka iti balay a pagnanaedan ni Saul. Ipatay mo dagita imam kenkuana tapno makakita manen isuna.” Ngem kinuna ni Ananias, “Apo, nadamag ko nu kasano ti panangidaddadanes daytoy a lalaki kadagiti namati.” Ngem simmungbat ti Dios, “Apan ka! Ta pinilik isuna a mangiwaragawag iti nagan ko kadagiti Judio ken kadagiti tattao manipud kadagiti dadduma a tribu. Adunto ti sagabaenna a banag para iti nagan ko.”
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
   * **[[:ilo:obe:kt:disciple|disciple]]**
   * **[[:ilo:obe:kt:god|God (Dios)]]**
@@ -12,10 +12,10 @@ Adda idi ti maysa nga adalan idiay Damascus nga agnagan iti Ananias. Imbagan ti 
   * **[[:ilo:obe:kt:lord|lord, master, sir]]**
   * **[[:ilo:obe:other:persecute|persecute, persecution]]**
   * **[[:ilo:obe:kt:suffer|suffer, suffering]]**
-===== Translation Notes: =====
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **But Ananias said**  - If it is not clear why the word "But" is used here, this could be translated as, "But Ananias was afraid, so he said."
-  * **God answered him**  - This could be translated as, "To reassure Ananias, God said" to make clear why God said this.
-  * **to declare my name**  - That is, "to teach about me" or, "to make me known."
-  * **for my name**  - That is, "for me" or, "because of me" or, "because he serves me" or, "because he teaches others about me."
+  * **ngem kinuna ni Ananias**  - ngem nu saan a nalawag apay nga ti sao “ngem nausar iti daytoy, daytoy ket mabalin nga ipakaawat a kas, “nagbuteng ni Ananias,isu nga inbaga na."
+  * **simmungbat ti Dios**  - daytoy ket mabalin met nga ipakaawat a kas, “tapno maisigurado ni Ananias, “ti Dios kinunana” tapno maipalawag kinuna ti Dios daytoy.
+  * **tapno mangiwaragawag ti nagan ko**  - dayta ket, “tapno isuro da iti maipapan kanyak” wenno, “tapno aramiden da nga maipakaammu dak."
+  * **para iti nagan**  - dayta ket, “para kanyak” wenno, gapo kanyak” wenno, “gapo ta agserbi kanyak” wenno, “gapo ta isursuro na iti maipapan kanyak kadagiti dadduma."
 **[[:ilo:obs:notes:frames:46-03|<<]] | [[:ilo:obs:notes:46|Up]] | [[:ilo:obs:notes:frames:46-05|>>]]**
