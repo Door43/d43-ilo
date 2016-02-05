@@ -4,9 +4,9 @@
 
 Ngem ay-ayaten ti Dios ti tunggal maysa ditoy lubong isunga inted na ti kakaisuna nga Anakna tapno ti siasinoman a mamati kenni Jesus ket saanto a madusa gapo kadagiti basbasolna ngem agnanayon nga agbiagto isuna iti denna ti Dios.
 
-===== Important Terms: =====
+===== Dagiti Napapateg a Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:god|God ]]**
   * **[[:ilo:obe:kt:love|love]]**
   * **[[:ilo:obe:kt:sonofgod|Son of God, the Son]]**
   * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
@@ -14,9 +14,9 @@ Ngem ay-ayaten ti Dios ti tunggal maysa ditoy lubong isunga inted na ti kakaisun
   * **[[:ilo:obe:other:punish|punish, punishment]]**
   * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
   * **[[:ilo:obe:kt:life|life, live, living, alive]]**
-===== Translation Notes: =====
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **gave his only Son**  - This could also be translated as, "offered his only Son to the world as a sacrifice for sins" or, "gave us his only Son to be a sacrifice for our sins."
-  * **whoever believes**  - This could also be translated as, "anyone who believes."
-  * **whoever believes in Jesus will not be punished for his sins, but will live with God forever**  - This could also be translated as, "When anyone believes in Jesus, God will not punish that person for his sins, but will allow him to live with God forever."
+  * **inted na ti kakaisuna nga Anak na**  - daytoy ket mabalin met nga ipakaawat a kas, “indaton na iti Anak na iti lubong a kas maidaton gapu iti basbasol” wenno, “inted na iti kakaisuna nga Anak na tapno maidaton gapu kadagiti basbasol tayo."
+  * **siasinoman a mamati**  - daytoy ket mabalin met nga ipkaawat a kas, “tuinggal maysa a mamati."
+  * **siasinoman a mamati kenni Jesus ket saan a madusa kadagiti basbasol na ngem agnanayon nga agbiagto isuna iti denna ti Dios**  - daytoy ket mabalin met nga ipakaawat a kas, “nu ti tunggal maysa ket mamati kenni Jesus, saan a dusaen ti Dios dayta a tao gapu iti basol na, ngem palubusan ti Dios a makipagnaed kenkuana iti agnanayon."
 **[[:ilo:obs:notes:frames:49-08|<<]] | [[:ilo:obs:notes:49|Up]] | [[:ilo:obs:notes:frames:49-10|>>]]**
