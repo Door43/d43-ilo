@@ -4,7 +4,7 @@
 
 Aw-awisen naka ni Jesus a mamati kenkuana ken mabautisaran. Mamati ka kadi a ni Jesus ti Messiah ti kakaisuna nga Anak ti Dios? Mamati ka kadi a managbasol ka ken maikari ka a dusaen ti Dios? Mamati ka kadi a natay ni Jesus idiay krus tapno alaen na dagiti basbasol mo?
 
-===== Important Terms: =====
+===== Dagiti Napapateg a Balikas: =====
 
   * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
@@ -12,14 +12,14 @@ Aw-awisen naka ni Jesus a mamati kenkuana ken mabautisaran. Mamati ka kadi a ni 
   * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
   * **[[:ilo:obe:kt:sonofgod|Son of God, the Son]]**
   * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:god|God]]**
   * **[[:ilo:obe:other:punish|punish, punishment]]**
   * **[[:ilo:obe:kt:death|death, die, dead]]**
   * **[[:ilo:obe:kt:cross|cross]]**
-===== Translation Notes: =====
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **believe in him**  - This can also be translated as, "trust in him" or, "trust in him to save you" or, "entrust your whole life to him."
-  * **be baptized**  - This could also be translated as, "have someone baptize you" or, "let them baptize you."
-  * **believe that**  - This can also be translated as, "acknowledge that" or, "agree that."
-  * **take away**  - See note on **[[:ilo:obs:notes:frames:49-11|[49-11]]]**.
+  * **mamati ka kenkuana**  - daytoy ket mabalin met nga ipakaawat a kas, “agtalek ka kenkuana” wenno, “agtalek ka kenkuana tapno isalakan naka” wenno, “italek mo iti amin a biag mo kenkuana."
+  * **mabautisaran ka**  - daytoy ket mabalin met  nga ipakaawat a kas, “adda kadin iti nangbautisar kenka” wenno, “palubusam a bautisaran daka."
+  * **mamati ka**  - daytoy ket mabalin met nga ipakaawat a kas, “bigbigem nga” wenno, “anamungam nga."
+  * **alaen na**  - kitaen ti naipakaawat idiay **[[:ilo:obs:notes:frames:49-11|[49-11]]]**.
 **[[:ilo:obs:notes:frames:49-13|<<]] | [[:ilo:obs:notes:49|Up]] | [[:ilo:obs:notes:frames:49-15|>>]]**
