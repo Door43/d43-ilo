@@ -2,16 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-16.jpg?nolink&}}
 
-Nu maysa ka a Kristiano ket pinakawanen ti Dios dagiti basbasol mo gapo iti inaramid ni Jesus. Ibilbilang nakan ti Dios kas nasinged a gayyem imbes a kabusor.
+Nu maysa ka a Kristiano ket pinakawanen ti Dios dagiti basbasol mo gapo iti inaramid ni Jesus. Ibilbilang naka ti Dios kas nasinged a gayyem imbes a kabusor.
 
 ===== Important Terms: =====
 
   * **[[:ilo:obe:kt:christian|Christian]]**
-  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:god|God]]**
   * **[[:ilo:obe:kt:forgive|forgive, forgiveness]]**
   * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
   * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
 ===== Translation Notes: =====
 
-  * **considers you to be**  - That is, "thinks of you as" or, "regards you as" or, "calls you."
+  * **ibilang naka**
+ - dayta ket, “panunuten naka a kas” wenno, “ibilang naka a kas” wenno, "awagan naka.”
+
 **[[:ilo:obs:notes:frames:49-15|<<]] | [[:ilo:obs:notes:49|Up]] | [[:ilo:obs:notes:frames:49-17|>>]]**
