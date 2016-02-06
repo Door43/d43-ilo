@@ -2,21 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-11.jpg?nolink&}}
 
-Kalpasanna nangibaon ti Dios iti sipnget a nagpaut iti tallo nga aldaw. Nagsipnget launay isua saan a makaruar dagiti taga Egypt kadagiti babbalay.  Ngem adda lawag iti pagnanaedan dagiti Israelita.
+Kalpasanna nangibaon ti Dios iti sipnget a nagpaut iti tallo nga aldaw. Nagsipnget launay isua saan a makaruar dagiti taga Egypt kadagiti babbalay. Ngem adda lawag iti pagnanaedan dagiti Israelita.
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:egypt|Egypt, Egyptian ]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel ]]**
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:egypt]]**
-  * **[[:ilo:obe:other:israel]]**
-
-
-==== Translation Notes: ====
-
-
-  * **God sent darkness** - God caused darkness to cover or spread over most of Egypt. In other words, God took away the light from this part of Egypt.
-  * **darkness that lasted for three days** - This darkness was darker than ordinary nighttime darkness, and it continued to be totally dark for three whole days.
-
-
+  * **God sent darkness**  - God caused darkness to cover or spread over most of Egypt. In other words, God took away the light from this part of Egypt.
+  * **darkness that lasted for three days**  - This darkness was darker than ordinary nighttime darkness, and it continued to be totally dark for three whole days.
 **[[:ilo:obs:notes:frames:10-10|<<]] | [[:ilo:obs:notes:10|Up]] | [[:ilo:obs:notes:frames:10-12|>>]]**
