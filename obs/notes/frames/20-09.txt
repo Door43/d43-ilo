@@ -1,4 +1,3 @@
-
 ===== Pannakaipanaw Dagiti taga Judah idiay Babylon [20-09] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-09.jpg?nolink&}}
@@ -7,20 +6,14 @@ Nganngani inala ni Nebuchadnezzar dagiti amin a tattao ti pagarian ti Judah idia
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:other:nebuchadnezzar|Nebuchadnezzar]]**
+  * **[[:ilo:obe:other:kingdom-of-judah|kingdom-of-judah]]**
+  * **[[:ilo:obe:other:babylon|Babylon, Babylonian]]**
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:promisedland|Promised Land (Naikari a Daga)]]**
+==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **[[:ilo:obe:other:nebuchadnezzar]]**
-  * **[[:ilo:obe:other:kingdom-of-judah]]**
-  * **[[:ilo:obe:other:babylon]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:promisedland]]**
-
-
-==== Translation Notes: ====
-
-
-  * **leaving…behind** - That is, "leaving only the poorest people in Judah" or, "letting only the poorest people stay in Judah."
-  * **This period of time** - To translate this, choose a phrase that can refer to a long time, since this exile period lasted seventy years.
-  * **Exile** - The word "exile" means someone is removed from they country by force. The "Exile" is the term for this 70-year period when the Israelites were forced to live in Babylon.
-
-
+  * **Imbati na**- dayta ket, “dagiti laeng marigrigat unay nga tattao iti imbati na idiay Judah’ wennu, “dagiti laeng marigrigat unay a tattao iti impalubos na nga nagbati idiay Judah.”
+  * **Daytoy a panawen- ** ti panangipakaawat iti daytoy, mangpili iti paset nga maipapan iti nabayagen a panawen, nanipud iti panawen iti pannakapapanaw nga bimmayagen iti pitu pulo a tawen.
+  * **Pannakaipanaw**– Iti Sao nga “Pannakapapanaw” ti kaipapanan na ket pinilit da a napapanaw iti maysa manipud iti pagilian. Ti “pannakapapanaw” ket isu iti balikas para iti pitu pulo a tawen idin a dagiti Israelita ket napilitan da a pimmanaw idiay Badbylon.
 **[[:ilo:obs:notes:frames:20-08|<<]] | [[:ilo:obs:notes:20|Up]] | [[:ilo:obs:notes:frames:20-10|>>]]**
