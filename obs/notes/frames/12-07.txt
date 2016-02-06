@@ -6,9 +6,9 @@ Imbaga ti Dios kenni Moses nga ingato ken iturong na ti ima na idiay baybay tapn
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:moses]]**
-===== Translation Notes: =====
+  * **[[:ilo:obe:kt:god|God ]]**
+  * **[[:ilo:obe:other:moses|Moses]]**
+===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * **raise his hand over the sea**  - This could be translated as, "held out his hand over the sea". This was a gesture to show that God was doing this miracle through Moses.
 **[[:ilo:obs:notes:frames:12-06|<<]] | [[:ilo:obs:notes:12|Up]] | [[:ilo:obs:notes:frames:12-08|>>]]**
