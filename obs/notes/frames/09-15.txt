@@ -2,19 +2,21 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-15.jpg?nolink&}}
 
-Nagbuteng ni Moses ket saan nan a kayat a mapan kenni pharaoh ta saan isuna nga nalaing a sumao. Ket gapu iti daytoy, imbaon ti Dios ni Aaron a kabsat ni Moses tapnon tulungan na ni Moses. Binallaagan ti Dios ni Moses ken Aaron a natangken ti ulo ni Pharaoh.
+Nagbuteng ni Moses ket saan nan a kayat a mapan kenni pharaoh ta saan isuna a nalaing a sumao. Ket gapu iti daytoy, imbaon ti Dios ni Aaron a kabsat ni Moses tapnon tulungan na ni Moses. Binallaagan ti Dios ni Moses ken Aaron a natangken ti ulo ni Pharaoh.
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:moses]]**
-  * **[[:ilo:obe:other:pharaoh]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:aaron]]**
-
+  * **[[:ilo:obe:other:moses|Moses ]]**
+  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt]]**
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:aaron|Aaron]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **was afraid and did not want to go**  - Moses knew that Pharaoh wanted to kill him, and he did not believe that he could do what God wanted him to do.
+  * ** Nagbuteng... ket saan nan a kayat a mapan ** - Ammun ni Moses a kayat ni Pharaoh a patayin isuna ken saan na patien a kaya na nga aramiden ti ipaaramid ti Dios kanyana.
   * **Moses' brother, Aaron**  - Aaron was Moses's actual brother from his Israelite mother and father. Aaron would have been at least several years older than Moses.
+  * ** ni Aaron a kabsat ni Moses ** - Agpayasu nga agkapsat da Aaron ken Moses babaen iti pada da nga ama ken nanang nga Israelita. Mas nataengan ni Aaron ngem ni Moses iti adu a tawen.
   * **stubborn**  - This means the Pharaoh would refuse to obey God. You may also want to add, "stubborn and refuse to listen (or obey)."
+  * ** natangken ti ulo ** - Kayatna a saoen a saan nga agtulnog ni Pharaoh iti ibagan ti Dios. Mabalin nga inayon ti, "natangken ti ulo ni Pharaoh ken saan nga agdengngeg iti Dios."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
 **[[:ilo:obs:notes:frames:09-14|<<]] | [[:ilo:obs:notes:09|Up]] | [[:ilo:obs:notes:frames:10-01|>>]]**
