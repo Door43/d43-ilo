@@ -3,31 +3,24 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-09.jpg?nolink&}}
 
 Siasinoman a manglabsing kadagiti bilin ti Dios ket mabalin a mangipan iti ayup kas daton na iti Dios idiay dissu a pagdatunan iti sango ti Tolda a Paguummungan. Alaento ti padi diay ayup ken partien ken puuran na idiay dissu a __pagidatunan__. Abbongan ti dara ti ayup a naidatun dagiti basol diay nangidatag ken daytoy ti mangdalus kenkuana iti imatang ti Dios. Pinili ti Dios ni Aaron a kabsat ni Moses ken dagiti kaputotan na nga isuda ti agbalin a papadi na.
-
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:other:disobey|disobey, disobedient, disobedience]]**
+  * **[[:ilo:obe:kt:lawofmoses|law, law of Moses, God's law, law of Yahweh]]**
+  * **[[:ilo:obe:other:tentofmeeting|tent of meeting]]**
+  * **[[:ilo:obe:other:sacrifice|sacrifice, offering]]**
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:kt:priest|priest, priesthood]]**
+  * **[[:ilo:obe:other:altar|altar]]**
+  * **[[:ilo:obe:kt:blood|blood ]]**
+  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning ]]**
+  * **[[:ilo:obe:other:moses|Moses]]**
+  * **[[:ilo:obe:other:aaron|Aaron]]**
+  * **[[:ilo:obe:other:descendant|descendant (kaputotan)]]**
+==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **[[:ilo:obe:other:disobey]]**
-  * **[[:ilo:obe:kt:lawofmoses]]**
-  * **[[:ilo:obe:other:tentofmeeting]]**
-  * **[[:ilo:obe:other:sacrifice]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:priest]]**
-  * **[[:ilo:obe:other:altar]]**
-  * **[[:ilo:obe:kt:blood]]**
-  * **[[:ilo:obe:kt:sin]]**
-  * **[[:ilo:obe:other:moses]]**
-  * **[[:ilo:obe:other:aaron]]**
-  * **[[:ilo:obe:other:descendant]]**
-
-
-==== Translation Notes: ====
-
-
-  * **God's law** - This refers to all the commandments and instructions that God had told the Israelites to obey.
-  * **to the Tent of Meeting** - They did not bring the animal inside the Tent of Meeting, but to the altar in front of the Tent of Meeting. Be sure not to use an expression that means that they brought it inside.
-  * **covered the person's sin** - When people brought animals to sacrifice, God chose to see the blood of the animals as a covering over their sin. This is like hiding something that is ugly or dirty by covering it.
-  * **clean in God's sight** - This could be translated as, "as if he did not have the sin according to God" or, "free of the punishment for breaking God's law."
-
-
+  * **God's law**  - This refers to all the commandments and instructions that God had told the Israelites to obey.
+  * **to the Tent of Meeting**  - They did not bring the animal inside the Tent of Meeting, but to the altar in front of the Tent of Meeting. Be sure not to use an expression that means that they brought it inside.
+  * **covered the person's sin**  - When people brought animals to sacrifice, God chose to see the blood of the animals as a covering over their sin. This is like hiding something that is ugly or dirty by covering it.
+  * **clean in God's sight**  - This could be translated as, "as if he did not have the sin according to God" or, "free of the punishment for breaking God's law."
 **[[:ilo:obs:notes:frames:13-08|<<]] | [[:ilo:obs:notes:13|Up]] | [[:ilo:obs:notes:frames:13-10|>>]]**
