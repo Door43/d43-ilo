@@ -2,26 +2,22 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-07.jpg?nolink&}}
 
-“Mapan yo sapulen ket masarakan yonto ti maysa nga ubing a nabungun kadagiti luput ken nakaidda iti maysa a kulluong.” Pagammuan napunno ti tangatang kadagiti Anghel nga agdaydayaw iti Dios ken kunkuna da, “Madaydayaw ti Dios ti  laengit ken maadda koma ti kappia ditoy lubong ken kadagita tattao a pinaboran na!”
+“Mapan yo sapulen ket masarakan yonto ti maysa nga ubing a nabungun kadagiti luput ken nakaidda iti maysa a kulluong.” Pagammuan napunno ti tangatang kadagiti Anghel nga agdaydayaw iti Dios ken kunkuna da, “Madaydayaw ti Dios ti langit ken maadda koma ti kappia ditoy lubong ken kadagita tattao a pinaboran na!”
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:angel]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:glory]]**
-  * **[[:ilo:obe:kt:heaven]]**
-  * **[[:ilo:obe:other:peace]]**
+  * **[[:ilo:obe:kt:angel|angel, archangel]]**
+  * **[[:ilo:obe:kt:god|God ]]**
+  * **[[:ilo:obe:kt:glory|glory, glorious]]**
+  * **[[:ilo:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
+  * **[[:ilo:obe:other:peace|peace, peaceful]]**
+===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-
-===== Translation Notes: =====
-
-  * (The angel continued speaking.)
-  * **wrapped in pieces of cloth** - The custom of that time was to tightly wrap newborn babies in long strips of cloth. It may be necessary to say, "wrapped in long strips of cloth, in the customary way."
-  * **feeding trough** - That is, "animal feeding box." Also see how you translated this in **[[:ilo:obs:notes:frames:23-05|[23-05]]]**.
-  * **filled with angels** - This means that there were so many angels that they seemed to fill the sky.
-  * **Glory to God** - This can also be translated as, "Let us all give glory to God!" or, "Our God deserves all glory and honor!" or, "We all give glory to God!"
-  * **peace on earth** - Another way to say this would be, "may there be peace on earth."
-  * **the people he favors** - This might be translated as, "people that God looks upon with favor, delight, or good will."
-
-
+  * (intultuloy ti anghel iti nagsao)
+  * **nabungun kadagiti luput - ** ti kostumbre da iit dayta a tiempo ket masapol a balkutenda a nasayaat iti kaipaspasngay a maladaga iti atiddog a kawes. Mabalin nga ibaga a, “balkuten iti atiddog a kawes, iti wags iti kostumbre.”
+  * **pangpanganan **– Dayta ket,” kulluong a pangpanganan dagiti ay’ayup.” Kitaen met laeng nu kasanum nga ipakaawat daytoy idiay[23-05].
+  * **Napnu kadagiti angheles**– ti kaipapanan na ket adu launay dagiti angheles nga kasla mangpunno iti tangatang.
+  * **Glorya iti Dios- ** daytoy ket mabalin met nga ipakaawat a kas, “ited tayo ti glorya iti Dios” wennu, “ti Dios ket maikari iti amin a glorya ken dayaw!” wennu, “ited tayo amin ti glorya iti Dios!”
+  * **Talna iti lubong**- Iti sabali a wagas ti panagibaga ket mabalin nga, “ maadaan kuma iti talna ti lubong.”
+  * **Dagiti tattao a pinaboranna-**  mabalin nga ipakaawat daytoy a kas, “dagiti kitkitaen ti Dios a tattao a kaykayat na, pagragragsakan na, wennu naasideg iti riknana.”
 **[[:ilo:obs:notes:frames:23-06|<<]] | [[:ilo:obs:notes:23|Up]] | [[:ilo:obs:notes:frames:23-08|>>]]**
