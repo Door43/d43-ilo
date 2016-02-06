@@ -2,24 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-11.jpg?nolink&}}
 
-Iti dayta a rabii kinuna ti Dios kenni Gideon, “Mapan kayo iti kampo dagiti taga Midian ket no mangngeg yo no anya ti ibagbaga da ket saan kayonton a mabuteng kadakuada.” Isunga iti dayta a rabii bimmaba ni Gideon iti kampo ket nangngeg na ti suldado a taga Midian nga ibagbaga na iti gayyem na ti natagtagainep na. Kinuna ti lalaki iti gayyem na, “Ti kaipapanan daytoy a tagtagainep ket parmekento dagiti suldado ni Gideon datayo a suldado ti taga Midian!” idi nangngeg ni Gideon daytoy ket nagdaydayaw isuna ti Dios.
+Iti dayta a rabii kinuna ti Dios kenni Gideon, “Mapan kayo iti kampo dagiti taga Midian ket no mangngeg yo no anya ti ibagbaga da ket saan kayonton a mabuteng kadakuada.” Isunga iti dayta a rabii Simmalog ni Gideon iti kampo ket nangngeg na ti suldado a taga Midian nga ibagbaga na iti gayyem na ti natagtagainep na. Kinuna ti lalaki iti gayyem na, “Ti kaipapanan daytoy a tagtagainep ket parmekento dagiti suldado ni Gideon datayo a suldado ti taga Midian!” idi nangngeg ni Gideon daytoy ket nagdaydayaw isuna ti Dios.
 
 ===== Important Terms: =====
 
-
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:gideon]]**
-  * **[[:ilo:obe:other:midian]]**
-  * **[[:ilo:obe:other:dream]]**
-  * **[[:ilo:obe:kt:worship]]**
-
-
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:gideon|Gideon]]**
+  * **[[:ilo:obe:other:midian|Midian, Midianites]]**
+  * **[[:ilo:obe:other:dream|dream ]]**
+  * **[[:ilo:obe:kt:worship|worship]]**
 ==== Translation Notes: ====
 
-
-  * **Go down** - The Midianite soldiers were camping out in a valley and were at a lower elevation than the Israelite soldiers.
-  * **you will no longer be afraid** – That is, "you will stop being afraid."
-  * **something he had dreamed** – That is, "something he had seen in a dream" or, "a dream he had had."
-
-
+  * **Simmalog- ** nagkampo dagiti Midianites iti ruar ti lugar ken basbassit da iti bilang ngem dagiti suldado nga Israelita.
+  * **Saan kan a pulos nga agbuteng - ** Dayta ket, “agsardeng kan iti panagbuteng.”
+  * **Banag a natagtagainep na**- dayta ket, “banag a nakitana iti tagtagainep na” wennu, “ti tagtagainep nga adda kenkuana.”
 **[[:ilo:obs:notes:frames:16-10|<<]] | [[:ilo:obs:notes:16|Up]] | [[:ilo:obs:notes:frames:16-12|>>]]**
