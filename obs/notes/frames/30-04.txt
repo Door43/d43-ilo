@@ -2,18 +2,14 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-04.jpg?nolink&}}
 
-Idi rumabiin ket kinuna dagiti adalan kenni Jesus, “Rumabiin ket  awan ti ili nga asideg ditoy. Pagawidemon dagiti tattao tapno mapan da agbiruk iti mabalin a kanen da.”
+Idi rumabiin ket kinuna dagiti adalan kenni Jesus, “Rumabiin ket awan ti ili nga asideg ditoy. Pagawidemon dagiti tattao tapno mapan da agbiruk iti mabalin a kanen da.”
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:disciple]]**
-  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:disciple|disciple]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-
-===== Translation Notes: =====
-
-  * **Late in the day** - This could also be translated as, "When it was almost evening."
-  * **Send the people away** - This could be translated as, "Please tell the people to go to a town" or, "Shouldn't you tell the people to go somewhere?" or, "Let the people go to a town." Make sure it sounds like a polite request, not an order.
-
-
+  * **Late in the day**  - This could also be translated as, "When it was almost evening."
+  * **Send the people away**  - This could be translated as, "Please tell the people to go to a town" or, "Shouldn't you tell the people to go somewhere?" or, "Let the people go to a town." Make sure it sounds like a polite request, not an order.
 **[[:ilo:obs:notes:frames:30-03|<<]] | [[:ilo:obs:notes:30|Up]] | [[:ilo:obs:notes:frames:30-05|>>]]**
