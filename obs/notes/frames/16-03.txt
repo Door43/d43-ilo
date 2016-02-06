@@ -6,22 +6,16 @@ Nangibaun ti Dios iti mangisalakan a mangispal kadakuada manipud kadagiti kabuso
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:kt:deliverer|deliver, deliverer]]**
+  * **[[:ilo:obe:other:peace|peace, peaceful]]**
+  * **[[:ilo:obe:kt:worship|worship]]**
+  * **[[:ilo:obe:other:idol|idol, idolatrous]]**
+  * **[[:ilo:obe:other:midian|Midian, Midianites]]**
+==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:deliverer]]**
-  * **[[:ilo:obe:other:peace]]**
-  * **[[:ilo:obe:kt:worship]]**
-  * **[[:ilo:obe:other:idol]]**
-  * **[[:ilo:obe:other:midian]]**
-
-
-==== Translation Notes: ====
-
-
-  * **God provided** - This could be translated as, "God chose" or, "God appointed" or, "God raised up."
-  * **brought peace** - This could be translated as, "allowed the people to live without fear" or, "ended the fighting" or, "stopped their enemies from attacking them."
-  * **the land** - That refers to Canaan, the Promised Land that God had given to Abraham.
-  * **the people forgot about God** - This means, "The people stopped thinking about God and ignored what he had commanded them."
-
-
+  * ** Dios iti mangisalakan ** ** **– Daytoy ket mabalin nga ipakaawat a kas, “Pinili ti Dios” wennu, “dinutukan ti Dios” wennu, “Imbangon ti Dios”
+  * **Nangi’umay iti talna **- Daytoy ket mabalin nga ipakaawat a kas, “impalubos na nga agbiag dagiti tattao nga awan iti buteng” weenu, “niringpas na iti panagraranget” wennu, “pinasardeng na dagiti kabusor manipud iti panangdarup kadakuada.”
+  * **Iti Daga **– dayta ket maipapan iti Canaan, ti naikari a daga nga inted ti Dios kenni Abraham.
+  * **Nalipatan dagiti tattao iti maipapan ti Dios- ** ti kaipapanan na daytoy ket, “insardeng dagiti tattao iti agpanunot maipapan ti Dios ken inlaksid da nu anya dagiti imbilinna kadakuada.”
 **[[:ilo:obs:notes:frames:16-02|<<]] | [[:ilo:obs:notes:16|Up]] | [[:ilo:obs:notes:frames:16-04|>>]]**
