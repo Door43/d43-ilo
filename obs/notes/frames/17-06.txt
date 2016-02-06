@@ -2,25 +2,19 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-06.jpg?nolink&}}
 
-Kayat ni David a mangpatakder iti templo  a pagdayawan dagiti amin nga Israelita iti Dios ken pagidatonan dakadagiti daton.  Mapan iti uppat a gasut a tawen a nagdaydayaw ken nagidaton dagiti Israelita ti Dios idiay tolda a paguummungan a pinatakder ni Moses.
+Kayat ni David a mangpatakder iti templo a pagdayawan dagiti amin nga Israelita iti Dios ken pagidatonan dakadagiti daton. Mapan iti uppat a gasut a tawen a nagdaydayaw ken nagidaton dagiti Israelita ti Dios idiay tolda a paguummungan a pinatakder ni Moses.
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:other:david|David]]**
+  * **[[:ilo:obe:kt:temple|temple]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ilo:obe:kt:worship|worship]]**
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:sacrifice|sacrifice, offering]]**
+  * **[[:ilo:obe:other:tentofmeeting|tent of meeting]]**
+  * **[[:ilo:obe:other:moses|Moses]]**
+==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **[[:ilo:obe:other:david]]**
-  * **[[:ilo:obe:kt:temple]]**
-  * **[[:ilo:obe:other:israel]]**
-  * **[[:ilo:obe:kt:worship]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:sacrifice]]**
-  * **[[:ilo:obe:other:tentofmeeting]]**
-  * **[[:ilo:obe:other:moses]]**
-
-
-==== Translation Notes: ====
-
-
-  * **build a temple** - David wanted to construct a permanent building for worshiping God that would replace the portable Tent of Meeting.
-
-
+  * **Mangpatakder iti templo **– Kayat ni David nga mangipatakder iti naan’anay a patakder nga pagdayawan da iti Dios nga maisukat iti tolda nga paguummungan da.
 **[[:ilo:obs:notes:frames:17-05|<<]] | [[:ilo:obs:notes:17|Up]] | [[:ilo:obs:notes:frames:17-07|>>]]**
