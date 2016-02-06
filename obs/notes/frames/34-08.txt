@@ -6,14 +6,10 @@
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:fast]]**
+  * **[[:ilo:obe:other:fast|fast]]**
+===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues to tell of the religious leader's prayer.)
-  * **I fast** - The religious ruler believed that doing this would earn favor with God.
-  * **ten percent** - That is, "one-tenth."
-
-
+  * (intuloy ni Jesus iti istorya)
+  * **Agay'ayonarak-**  dagiti panpangulo iti relihiyon ket mamati da nga nu aramiden da daytoy ket ited ti Dios ti parabur na kadakuada”.
+  * **sangpulo a pursyento**- dayta ket, “apagkapullo”.
 **[[:ilo:obs:notes:frames:34-07|<<]] | [[:ilo:obs:notes:34|Up]] | [[:ilo:obs:notes:frames:34-09|>>]]**
