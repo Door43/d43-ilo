@@ -2,23 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-03.jpg?nolink&}}
 
-Inkari ti Dios kenni Moses nga iti masangwanan ket mangpataudto isuna iti sabali a mammadto a akas kenni Moses. Daytoy ket sabali pay a kari maipapan iti umayto a Messiah.
+Inkari ti Dios kenni Moses nga iti masangwanan ket mangpataudto isuna iti sabali a mammadto a kas kenni Moses. Daytoy ket sabali pay a kari maipapan iti umayto a Messiah.
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:kt:promise|promise ]]**
+  * **[[:ilo:obe:other:moses|Moses]]**
+  * **[[:ilo:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
+  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
+==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:promise]]**
-  * **[[:ilo:obe:other:moses]]**
-  * **[[:ilo:obe:kt:prophet]]**
-  * **[[:ilo:obe:kt:christ]]**
-
-
-==== Translation Notes: ====
-
-
-  * **raise up another prophet like Moses** - That is, "appoint another prophet like Moses" or, "cause another prophet to come who would be like Moses."
-  * **prophet like Moses** - To be like Moses, the future prophet would need to have great authority from God to lead and rescue his people.
-
-
+  * **Mangpataud iti sabali a mammadtu a kasla kenni Moses-  ** dayta ket, “mangdutok iti sabali a mammadtu a kasla kenni Moses” wennu, “mangaramid iti sabali a mammadtu nga umay a kasla kenni Moses.”
+  * **Mammadtu a kas kenni Moses **– ti agbalin a kasla kenni Moses,  ti masanguanan a mammadtu ket masapul nga maaddaan iti dakkel  a panagturay manipud iti Dios a mangidalan ken mangsalaknib kadagiti tattao na.
 **[[:ilo:obs:notes:frames:21-02|<<]] | [[:ilo:obs:notes:21|Up]] | [[:ilo:obs:notes:frames:21-04|>>]]**
