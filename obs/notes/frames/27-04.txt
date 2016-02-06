@@ -6,17 +6,13 @@ Sinongbatan ni Jesus ti saludsod ti nalaing iti linteg babaen iti maysa nga isto
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:other:jew]]**
-  * **[[:ilo:obe:other:jerusalem]]**
-  * **[[:ilo:obe:other:jericho]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:other:jew|Jew, Jewish]]**
+  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
+  * **[[:ilo:obe:other:jericho|Jericho]]**
+===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-
-===== Translation Notes: =====
-
-  * (The cloud-like frame around this picture indicates that Jesus is telling a story, and not necessarily explaining a historical event.)
-  * **law expert** - See how you translated this term in **[[:ilo:obs:notes:frames:27-01|[27-01]]]**.
-  * **from Jerusalem to Jericho** - In some languages you could translate this as, "from the city of Jerusalem to the city of Jericho" or, "from Jerusalem City to Jericho City."
-
-
+  * (ti ulep a kasla nanglawlaw iti daytoy a ladawan ket ipakita na nga ni Jesus ket ibagbagana iti istorya, ken saan a masapul nga ipalawag a kas idi naplabas a pasamak.)
+  * **Nalaing iti linteg**- kitaen nu kasanum nga ipakaawat daytoy a balikas idiay [27-01].
+  * **Manipud idiay Jerusalem a mapan idiay Jericho **– Iti dadduma a pagsasao mabalin mo nga ipakaawat daytoy a kas, “ manipud iti siudad ti Jerusalem aginggana iti siudad ti Jericho” wennu, “manipud iti Jerusalem a siudad aginggana Jericho a siudad.”
 **[[:ilo:obs:notes:frames:27-03|<<]] | [[:ilo:obs:notes:27|Up]] | [[:ilo:obs:notes:frames:27-05|>>]]**
