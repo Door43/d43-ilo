@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink&}}
 
-Kimmita ni Jesus iti langit ket kinunana, “Ama, agyamanak ta dumdumgeg ka kaniak. Ammok a kanayun a dengdenggennak ngem ibagak daytoy para kadagiti amin a tattao a nakatakder ditoy tapno mamati da nga imbaon nak.” Nagpukkaw ni Jesus ket kinunana, “Lazarus, rummuar ka!”
+Kimmita ni Jesus iti langit ket kinunana, “Ama, agyamanak ta dumdumggeg ka kaniak. Ammok a kanayun a dengdenggennak ngem ibagak daytoy para kadagiti amin a tattao a nakatakder ditoy tapno mamati da nga imbaon nak.” Nagpukkaw ni Jesus ket kinunana, “Lazarus, rummuar ka!”
 
 ===== Dagiti Importante Nga Balikas: =====
 
@@ -13,7 +13,6 @@ Kimmita ni Jesus iti langit ket kinunana, “Ama, agyamanak ta dumdumgeg ka kani
   * **[[:ilo:obe:other:lazarus|Lazarus]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * denggen nak- dayta ket, “panagdengngeg kanyak”. Maktulong nu inayun iti, “kas panangikararag ko kanyam”wenno, “idi nagsao ak kenka”.
-  * rumuar ka- dagiti dadduma a pagsasao ket ibaga da, “rumuar ka manipud iti tanem”
-
+  * **dengdenggennak**- dayta ket, “panagdengngeg kanyak”. Maktulong nu inayun iti, “kas panangikararag ko kanyam”wenno, “idi nagsao ak kenka”.
+  * **rummuar ka**- dagiti dadduma a pagsasao ket ibaga da, “rumuar ka manipud iti tanem”
 **[[:ilo:obs:notes:frames:37-08|<<]] | [[:ilo:obs:notes:37|Up]] | [[:ilo:obs:notes:frames:37-10|>>]]**
