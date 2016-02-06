@@ -2,9 +2,9 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-07.jpg?nolink&}}
 
-Numan pay natay ni Jesus ket pinagungar ti Dios isuna manipud kadagiti natay. Daytoy ti pannakatungpal ti naipadtu a, ‘saan mo nga ipalubos nga agrupsa ti Nasantoan nga Adipen mo iti tanem.’ Dakami ti saksi iti kinapudno a pinangpagungar ti Dios kenni Jesus.’”
+Numan pay natay ni Jesus ket pinagungar ti Dios isuna manipud kadagiti natay. Daytoy ti pannakatungpal ti naipadtu a, ‘saan mo nga ipalubos nga agrupsa ti Nasantoan nga Adipen mo iti tanem.’ Dakami ti saksi iti kinapudno a panagpagungar ti Dios kenni Jesus.’”
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
   * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:ilo:obe:kt:god|God]]**
@@ -15,11 +15,11 @@ Numan pay natay ni Jesus ket pinagungar ti Dios isuna manipud kadagiti natay. Da
   * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
   * **[[:ilo:obe:kt:witness|witness, eyewitness]]**
   * **[[:ilo:obe:kt:life|life, live, living, alive]]**
-===== Translation Notes: =====
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * (Peter continues preaching to the crowd.)
-  * **This fulfills the prophecy which says**  - Another way to translate this would be, "This caused to come true what one of the prophets said long ago."
-  * **You will not let your**  - "You" and "your" refer to God the Father. To make that clear, this could be translated as, "You, God, will not let your." Some languages may have a special way of addressing someone, such as, "You, O God."
-  * **rot in the grave**  - That is, "decay in the tomb" or, "decompose in the grave." This refers to the fact that Jesus did not remain in the tomb very long and is another way of saying that he did not stay dead, but rather came back to life again.
-  * **raised Jesus to life again**  - That is, "made Jesus alive again."
+  * (Intuloy ni Peter ti panagkaskasaba na kadagiti bunggoy ti tattao.)
+  * **Daytoy ti ****pannakatungpal ti naipadtu a kunana**  - ti sabali pay a pannakaipakaawat na daytoy ket “tapno  maaramid a maitungpal iti imbaga dagiti mammadtu iti nabayagen a panawen."
+  * **saan mo nga ipalubos**  - “Sika ken iti” ket maipapan ti Dios Ama. Tapno nalawag daytoy, mabalin nga ipakaawat daytoy a kas, “Sika o Dios, saan mo ipalubos iti”. Dadduma a pagsasao ket adda iti naisangsangayan a panangisao a kas, “Sika o Dios."
+  * **agrupsa …iti tanem**  -  dayta ket, “panagrupsa iti tanem” wenno, “panagrupsa iti naikataneman”. Daytoy maipapan iti kinapudno a ni Jesus ket saan a nagtalinaed idiay nakaitaneman na iti nabayag a panawen ken iti sabali a pannakaisao na ket saan a natay isuna nu diket nagbiag manen.
+  * **pinagungar**   - dayta ket, “inaramid ti Dios nga agungar ni Jesus ket nagbiag manen."
 **[[:ilo:obs:notes:frames:43-06|<<]] | [[:ilo:obs:notes:43|Up]] | [[:ilo:obs:notes:frames:43-08|>>]]**
