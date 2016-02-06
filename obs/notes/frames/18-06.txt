@@ -2,20 +2,14 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-06.jpg?nolink&}}
 
-Minamaag a simmungbat ni Rehoboam ket kinuna, “Impagarup  yo a pinagtrabaho na kayo ni Solomon nga amak iti naririgat a trabaho ngem pagtrabahuen kayo iti narigrigat pay ngem iti inaramid na ken dusaen kayo iti nakarkaro pay ngem kadagiti inaramid na.”
+Minamaag a simmungbat ni Rehoboam ket kinuna, “Impagarup yo a pinagtrabaho na kayo ni Solomon nga amak iti naririgat a trabaho ngem pagtrabahuen kayo iti narigrigat pay ngem iti inaramid na ken dusaen kayo iti nakarkaro pay ngem kadagiti inaramid na.”
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:other:rehoboam|Rehoboam]]**
+  * **[[:ilo:obe:other:solomon|Solomon]]**
+  * **[[:ilo:obe:other:punish|punish, punishment]]**
+==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **[[:ilo:obe:other:rehoboam]]**
-  * **[[:ilo:obe:other:solomon]]**
-  * **[[:ilo:obe:other:punish]]**
-
-
-==== Translation Notes: ====
-
-
-  * **foolishly answered** - Rehoboam's answer was harsh, and caused the people to turn against him.
-
-
+  * **Minamaag a simmungbat- ** saan a nasayaat iti panagsungbat ni Rehoboam, ket inaramid na a bumusor dagiti tattao kenkuana.
 **[[:ilo:obs:notes:frames:18-05|<<]] | [[:ilo:obs:notes:18|Up]] | [[:ilo:obs:notes:frames:18-07|>>]]**
