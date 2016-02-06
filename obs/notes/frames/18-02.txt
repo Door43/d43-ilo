@@ -6,22 +6,16 @@ Imapatakder ni Solomon ti templo idiay Jerusalem. Daytoy ti plinano ken in yornu
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
+  * **[[:ilo:obe:other:solomon|Solomon]]**
+  * **[[:ilo:obe:kt:temple|temple]]**
+  * **[[:ilo:obe:other:david|David]]**
+  * **[[:ilo:obe:kt:worship|worship]]**
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:other:sacrifice|sacrifice, offering]]**
+  * **[[:ilo:obe:other:tentofmeeting|tent of meeting]]**
+==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **[[:ilo:obe:other:jerusalem]]**
-  * **[[:ilo:obe:other:solomon]]**
-  * **[[:ilo:obe:kt:temple]]**
-  * **[[:ilo:obe:other:david]]**
-  * **[[:ilo:obe:kt:worship]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:sacrifice]]**
-  * **[[:ilo:obe:other:tentofmeeting]]**
-
-
-==== Translation Notes: ====
-
-
-  * **was present in the Temple** – That is, "was present in the Temple in a special way." Even though God was also present everywhere else at the same time, he made himself especially available to the people at the Temple.
-  * **with his people** - This could be translated as, "in the midst of his people" or, "among his people."
-
-
+  * **nagnaed ti presensya na idiay templo - **dayta ket, “adda isuna idiay templo iti naisangsangayan a wagas.” Numan pay kasdiay ti Dios ket adda isuna iti sadinoman iti isumet laeng a panawen, inaramid na iti bagi na ket adda a kankanayon kadagiti tattao idiay templo.
+  * **Sibay dagiti tattao na**- Daytoy ket mabalin nga ipakaawat a kas, “iti nagbaetan dagiti tattao na” wennu, ”kadagiti tattao na.”
 **[[:ilo:obs:notes:frames:18-01|<<]] | [[:ilo:obs:notes:18|Up]] | [[:ilo:obs:notes:frames:18-03|>>]]**
