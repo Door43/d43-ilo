@@ -6,19 +6,15 @@ Kalpasan daytoy ket nagsaludsod ni Jesus iti tao a nalaing iti linteg a kunana, 
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:mercy]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:mercy|mercy, merciful]]**
+===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-
-===== Translation Notes: =====
-
-  * **law expert** - That is, "an expert in the Jewish law." See how you translated this term in **[[:ilo:obs:notes:frames:27-01|[27-01]]]**.
-  * **the three men** - The three men were the priest, the Levite, and the Samaritan.
-  * **neighbor** - Jesus is using the word "neighbor" in a broader sense than in **[[:ilo:obs:notes:frames:27-02|[27-02]]]**. "Neighbor" here refers to anyone that we meet who needs our help.
-  * **was a neighbor** - This can also be translated as, "behaved as a neighbor" or, "was a friend" or, "acted in a loving way". See how you translated "neighbor" in **[[:ilo:obs:notes:frames:27-02|[27-02]]]** and **[[:ilo:obs:notes:frames:27-03|[27-03]]]**.
-  * **You go and do** - That is, "You, too, should go and do" or, "Now you must do." Jesus was commanding the law expert to do as the Samaritan did.
-  * **do the same** - That is, "love others, even your enemies." Make sure it does not sound like "the same" is only referring to helping a wounded man.
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **Nalaing iti linteg **– Dayta ket, “ ti nalaing kadagiti linteg dagiti Judio.” Kitaen nu kasanum nga ipakaawat daytoy a balikas idiay [27-01]
+  * **Dagiti tallu nga lallaki **– Dagiti tallu nga lallaki ket papadi, ti Levita ken ti Samaritano.
+  * **Karruba **– ar’aramamten ni Jesus iti sao nga “ karruba” iti nalawlawa a kaipapanan kaysa idiay[27-02]. “ Karruba” ditoy ket maipapan iti siasinuman nga maam’ammu tayu nga makasapul iti tulong tayu.
+  * **Ket ti karruba **– Daytoy ket mabalin nga ipakaawat a kas, “ natalna a kas karruba” wennu, “ a kas gayyem” wennu “ aggargaraw iti naayat a wagas.” Kitaen nu kasanum nga ipakaawat iti “ karruba” idiay [27-02] ken [27-03].
+  * **Mapan ka ken aramidem **– Dayta ket, “ Sika met  ket masapul nga mapan ken aramidem “ wennu, “ Tatta ket masapul nga aramidem”. Bibilinen ni Jesus diay nalaing ti linteg nga aramiden na a kas inaramid iti Samaritano.
+  * **Apan ka ngarud ket aramidem met dayta –**Dayta ket , “ ayatem ti dadduma, uray dagiti kabusor mo.” Siguraduem nga saan nga iti panagdingngeg ket kasla “ agpada” maipapan laeng daytoy iti lalaki a nadangran.
+  * //Ti istorya manipud iti Bibliya //– daytoy a pangkitaan ket adda bassit nagdumaan na kadagiti dadduma a pannakaipakaawat iti Bibliya.
 **[[:ilo:obs:notes:frames:27-10|<<]] | [[:ilo:obs:notes:27|Up]] | [[:ilo:obs:notes:frames:28-01|>>]]**
