@@ -6,19 +6,13 @@ Ti ari ket maysa a mangituray iti pagarian ken mangukom kadagiti tattao. Ti Mess
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:other:king|king]]**
+  * **[[:ilo:obe:other:kingdom|kingdom]]**
+  * **[[:ilo:obe:kt:judge|judge, judgment]]**
+  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
+  * **[[:ilo:obe:other:david|David]]**
+==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **[[:ilo:obe:other:king]]**
-  * **[[:ilo:obe:other:kingdom]]**
-  * **[[:ilo:obe:kt:judge]]**
-  * **[[:ilo:obe:kt:christ]]**
-  * **[[:ilo:obe:other:david]]**
-
-
-==== Translation Notes: ====
-
-
-  * **sit on the throne of his ancestor David** - A throne is a ceremonial chair for a king or queen that represents their authority. This expression could also be translated as, "have the authority to reign as his ancestor King David did" or, "be the descendant of King David and continue his rule over God's people."
-  * **the whole world** - This could also be translated as, "everyone everywhere."
-
-
+  * **agtugawto iti tono ti kapuonan na a ni David - ** ti trono ket maysa a naisansangayan a tugaw para iti ari wennu reyna a mangiparangarang iti panagturay da. Daytoy ket mabalin nga ipakaawat a kas, “adda iti kabalinanna nga agturay a kas iti inaramid ti kapututanna a ni David” wennu, “ti kapututan ni Ari David ken mangituloy a mangituray kadagiti tattao ti Dios.”
+  * **ti intero a sangalubungan**- daytoy ket mabalin nga ipakaawat a kas, “tunggal maysa iti sadinuman.”
 **[[:ilo:obs:notes:frames:21-07|<<]] | [[:ilo:obs:notes:21|Up]] | [[:ilo:obs:notes:frames:21-09|>>]]**
