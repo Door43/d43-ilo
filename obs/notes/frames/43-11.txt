@@ -4,7 +4,7 @@
 
 Simmungbat ni Peter kadakuada ket kinunana, “Masapul nga agbabawi ti tunggal maysa kadakayo ken mabautisaran babaen iti nagan ni Jesu-Kristo tapno pakawanen ti Dios dagiti basbasolyo. Kalpasan na, itednanto met kadakayo ti sagut ti Espiritu Santo.”
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
   * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
   * **[[:ilo:obe:kt:repent|repent, repentance]]**
@@ -14,9 +14,9 @@ Simmungbat ni Peter kadakuada ket kinunana, “Masapul nga agbabawi ti tunggal m
   * **[[:ilo:obe:kt:forgive|forgive, forgiveness]]**
   * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
   * **[[:ilo:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]**
-===== Translation Notes: =====
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **in the name of**  - This phrase means both, "by the authority of" and, "under the authority of." Consider translating the word "name" literally if it will be understood in this way in your language.
-  * **Christ**  - This is the same meaning as "Messiah." It could be translated as "Anointed One" or, "Chosen One." Instead of translating the meaning, some translators may choose to keep the word "Christ" and spell it using the sounds in their own language.
-  * **Jesus Christ**  - Since "Christ" is a title here, some translators may choose to change the order and say, "Christ Jesus." Both orders are used in the Bible.
+  * **iti nagan ni**  - daytoy a paset ket, “babaen ti kabalinan iti” ken, “iti babaean ti kabalinan”. Ipakaawat daytoy a sao, “nagan” iti nalaka a maawatan iti wagas iti pagsasao yo.
+  * **Kristo**  - daytoy ket isu met laeng iti kayat na saritaen a kas, “Messiah”. Mabalin met nga ipakaawat a kas, “ti “napulutan” wenno, “ti napili”. Imbes nga ipakaawat iti kayat na a saritaen, dadduma a manipakpakaawat ket pinagtalinaed da iti sao a “Kristo” ket ipatarus da iti bukod da a pagsasao.
+  * **Jesu-Kristo**  - gapo ta 'Kristo” ti pannakaibaga na ditoy, dadduma a mangipakpakaawat ket pinili da a sukatan daytoy  iti, “Kristo-Jesus.”  Agpada a nausar dayoty iti Biliya.
 **[[:ilo:obs:notes:frames:43-10|<<]] | [[:ilo:obs:notes:43|Up]] | [[:ilo:obs:notes:frames:43-12|>>]]**
