@@ -2,19 +2,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink&}}
 
-Sinaludsod dagiti dadduma a Judio ni John no isuna kadi ti Messiah. Simmungbat ni John ket kinunana, “Saan a siak ti Mesiah ngem adda ti umay a sumaruno kanyak. Natan-ok la unay isuna ket uray pay siak ket saanak a maikari a mangwarwar iti kurdon dagiti sandalyas na.”
+Sinaludsod dagiti dadduma a Judio ni John no isuna kadi ti Messiah. Simmungbat ni John ket kinunana, “Saan a siak ti Mesiah ngem adda ti umay a sumaruno kanyak. Natan-ok launay isuna ket uray pay siak ket saanak a maikari a mangwarwar iti kurdon dagiti sandalyas na.”
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:jew]]**
-  * **[[:ilo:obe:other:johnthebaptist]]**
-  * **[[:ilo:obe:kt:christ]]**
+  * **[[:ilo:obe:other:jew|Jew, Jewish]]**
+  * **[[:ilo:obe:other:johnthebaptist|John (the Baptist)]]**
+  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
+===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-
-===== Translation Notes: =====
-
-  * **He is so great** - This could be translated as, "He is so important."
-  * **not even worthy to untie his sandals** - In other words, "compared to him, I am not important enough to do even the most menial task for him." Untying sandals was a very low job, something a slave would do.
-
+  * **Natan-ok unay isuna- **.”daytoy ket mabalin met nga ipakaawat a kas, “napateg unay isuna.”
+  * **saanak a maikari a mangwarwar iti kurdon dagiti sandalyas na **- iti sabali a sao, “panangipada kenkuana, saanak unay a napateg a mangaramid uray pay iti kabassitan a trabaho para kenkuana.’ Ti panangigalut iti sandalyas ket kababaan a trabaho, banag nga ar’aramiden dagiti tagabu.
 
 **[[:ilo:obs:notes:frames:24-04|<<]] | [[:ilo:obs:notes:24|Up]] | [[:ilo:obs:notes:frames:24-06|>>]]**
