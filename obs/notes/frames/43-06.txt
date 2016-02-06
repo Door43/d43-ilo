@@ -2,9 +2,9 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?nolink&}}
 
-“Lallaki nga Israelita! Ni Jesus ket maysa a tao a nagaramid kadagiti adu a nabibileg a pagilasinan ken pagsidsiddaawan babaen iti pannakabalin ti Dios. Nakita ken ammoyo daytoy ngem pinatay yo isuna babaen iti panangilansa iti krus!”
+“Lallaki iti Israel! Ni Jesus ket maysa a tao a nagaramid kadagiti adu a nabibileg a pagilasinan ken pagsidsiddaawan babaen iti pannakabalin ti Dios. Nakita ken ammoyo daytoy ngem inlansa yo isuna iti krus!”
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
   * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
   * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
@@ -12,9 +12,11 @@
   * **[[:ilo:obe:kt:power|power]]**
   * **[[:ilo:obe:kt:god|God]]**
   * **[[:ilo:obe:kt:crucify|crucify]]**
-===== Translation Notes: =====
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * (Peter continues preaching to the crowd.)
-  * **Men of Israel**  - For some languages it is better to say, "People of Israel" for it to be clear that this included men and women. This could also be translated as, "My fellow people of Israel" or, "My fellow Jews" to make it clear that Peter was also a Jew and belonged to the "people of Israel."
-  * **you crucified him!**  - This could also be translated as, "you caused him to be crucified" or, "because of you, he was crucified." The Jews did not actually nail Jesus to the cross. However, the Jewish leaders caused him to be condemned and many of the people in the crowd had shouted for him to be crucified.
+  * **lallaki iti Israel**  - kadagiti dadduma a pagsasao ket maymayat nga ibaga, “tattao iti Israel” ta nalawag a ramanen na daytoy dagiti lallaki ken babbae. Daytoy ket mabalin met nga ipakaawat a kas, “dagiti padak a tattao iti Israel” wenno, dagiti padak a Judio” ta nalawag a ni Pedro ket maysa met a Judio a karaman kadagiti “tattao iti Israel."
+  * **Inlansa yo isuna iti Krus**
+ - daytoy ket mabalin met nga ipakaawat a kas, “inaramid yo nga inlansa iti krus isuna” wenno, “nailansa isuna iti krus gapo kadakayo”. Saan a dagiti Judio iti kusto a nangipalansa kenni Jesus iti krus. Numan pay kasta, dagiti pangpangulo iti Judio ti nangaramid a nangpabpabasol kenni Jesus isu a dagiti tattao a naummong ket impukkaw da nga ilansada isuna iti krus.
+
 **[[:ilo:obs:notes:frames:43-05|<<]] | [[:ilo:obs:notes:43|Up]] | [[:ilo:obs:notes:frames:43-07|>>]]**
