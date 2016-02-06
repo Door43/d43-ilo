@@ -2,25 +2,21 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink&}}
 
-“Ngem immadayo ti agsing-singir iti buwis manipud iti panguloen iti relihyon ket dina pay intangad na idiay langit. Dinandanog na ket di ti barukong na ket nagkararag, ‘Apo ket pangaasim ta maasian ka koma kaniak agsipud ta managbasolak.”
+“Ngem immadayo ti agsing-singir iti buwis manipud iti panguloen iti relihyon ket dina pay intangad na idiay langit. Dinandanog na ketdi ti barukong na ket nagkararag, ‘Apo ket pangaasim ta maasian ka koma kaniak agsipud ta managbasolak.”
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:taxcollector]]**
-  * **[[:ilo:obe:other:jewishleaders]]**
-  * **[[:ilo:obe:kt:heaven]]**
-  * **[[:ilo:obe:other:pray]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:mercy]]**
-  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:other:taxcollector|tax collector]]**
+  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ilo:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
+  * **[[:ilo:obe:other:pray|pray, prayer]]**
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:kt:mercy|mercy, merciful]]**
+  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **stood far away ** - This can also be translated as, "stood at a distance" or, "stayed separate."
-  * **did not even look up to heaven** - The word "even" indicates that people normally looked up to heaven when praying to God, but that this man did not because he was so ashamed of his sin.
-  * **he pounded on his chest with his fist** - This could also be translated as, "because of his grief, he hit his chest with his fist" or, "he pounded his chest in sorrow." If people would find this hard to understand because they beat their chest for other reasons, you could translate this as, "he showed his despair."
-
-
+  * (intuloy ni Jesus iti istorya)
+  * **nagtakder iti saan unay adayu- ** daytoy ket mabalin met nga ipakaawat a kas, “timmakder iti saan unay adayu, wennu, “naisina”.
+  * **Saan pay a makatangad idiay langit-**  ti sao, “pay” iparparang na a normal kadagiti tattao nga tumangad da idiay langit nu agkararag da ti Dios, ngem daytoy a tao ket saan gapu ta mabain kadaghiti basbasul na”.
+  * **dinandanog na ketdi ti barukong na-**  mabalin met nga ipakaawat a kas, “gapu iti ladingit na, dinanug na iti barukong na” wennu, “dinanug na iti barukong na gapu iti nakaru a ladingit na”. Nu dagiti tattao ket narigat da a maawatan daytoy, mabalin nga ti panangdandanug da kadagiti barukong da ket adda iti sabali a makagapu, mabalin nga ipakaawat daytoy a kas, “impakita na ti kinaawan iti namnama na”.
 **[[:ilo:obs:notes:frames:34-08|<<]] | [[:ilo:obs:notes:34|Up]] | [[:ilo:obs:notes:frames:34-10|>>]]**
