@@ -2,23 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?nolink&}}
 
-Kinuna ti anghel kenni Zachariah, “Maaddaanto ti asawam iti anak a lalaki ket panaganamto daytoy iti Juan. Mapnonto isuna iti Espiritu Santo ken isaganananto dagiti tattao para iti Messiah!” Simmungbat ni Zechariah ket kinunana, “Nataengan kami unayen iti asawak tapno aganak pay! Kasatnok a maamwan a mapasamakto daytoy?”
+Kinuna ti anghel kenni Zachariah, “Maaddaanto ti asawam iti anak a lalaki ket panaganamto daytoy iti Juan. Mapnonto isuna iti Espiritu Santo ken isaganananto dagiti tattao para iti Messiah!” Simmungbat ni Zechariah ket kinunana, “Nataengan kami unayen iti asawak tapno aganak pay! Kasatnok a maamoan a mapasamakto daytoy?”
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:kt:angel|angel, archangel]]**
+  * **[[:ilo:obe:other:zechariahnt|Zechariah (NT)]]**
+  * **[[:ilo:obe:other:johnthebaptist|John (the Baptist)]]**
+  * **[[:ilo:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]**
+  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
+===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-  * **[[:ilo:obe:kt:angel]]**
-  * **[[:ilo:obe:other:zechariahnt]]**
-  * **[[:ilo:obe:other:johnthebaptist]]**
-  * **[[:ilo:obe:kt:holyspirit]]**
-  * **[[:ilo:obe:kt:christ]]**
-
-
-===== Translation Notes: =====
-
-  * **The angel** - This refers to the angel that came to Zechariah in **[[:ilo:obs:notes:frames:22-01|[22-01]]]**.
-  * **filled with the Holy Spirit** - That is, "controlled by the Holy Spirit" or, "given wisdom and power by the Holy Spirit."
-  * **How will I know this will happen?** - Another way to translate this would be, "How can I be sure that this will truly happen?"
-
-
+  * **Ti anghel**- daytoy ket maipapan iti anghel nga napan kenni Zechariah idiay [22-01]
+  * **Napnuan iti Nasantuan nga Spiritu- ** dayta ket, “tengngel ti Nasantuan nga Spiritu” wennu, “naikkan iti kinasirib ken pannakabalin babaen iti Nasantuan nga Spiritu.”
+  * **Kasatnok a maamuan a mapasamakto daytoy?**  – Iti sabali a wagas nga ipakaawat daytoy ket mabalin nga, “kasanu a masiguradok nga dagitoy ket pudno a mapasamak?”
 **[[:ilo:obs:notes:frames:22-01|<<]] | [[:ilo:obs:notes:22|Up]] | [[:ilo:obs:notes:frames:22-03|>>]]**
