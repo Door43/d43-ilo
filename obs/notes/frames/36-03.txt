@@ -2,9 +2,9 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?nolink&}}
 
-Kalpasan daytoy ket nagpakita kadakuada ni Moses ken ni mammadtu nga Elijah. Nagbiag dagitoy a tattao ginasgasut a tawen sakbay daytoy a kanito. Kinasarita da ni Jesus maipapan iti ipapatay na a mapasamak iti saan a mabayag idiay Jerusalem.
+Kalpasan daytoy ket nagpakita kadakuada ni Moses kenni mammadtu nga Elijah. Nagbiag dagitoy a tattao ginasgasut a tawen sakbay daytoy a kanito. Kinasarita da ni Jesus maipapan iti ipapatay na a mapasamak iti saan a mabayag idiay Jerusalem.
 
-===== Dagiti Importante Nga Balikas: =====
+===== Dagiti Importante a Balikas: =====
 
   * **[[:ilo:obe:other:moses|Moses ]]**
   * **[[:archive:ktobs:prophet|prophet]]**
@@ -14,8 +14,7 @@ Kalpasan daytoy ket nagpakita kadakuada ni Moses ken ni mammadtu nga Elijah. Nag
   * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * Nagparang- mabalin met nga ibaga, “nagparang manipud iti awan.” dagus nga adda.
-  * iti ipapatay na ket maaramid iti mabiit- daytoy ket mabalin nga ipakaawat a kas, “kasano iti mabiit nga ipapatay na” wenno, “kasanuntu iti pannakatay na iti mabiit”
-  * idiay Jerusalem- dadduma a pagsasao ket mabalin nga ibaga da, “idiay siudad ti Jerusalem”.
-
+  * **Nagpakita**- mabalin met nga ibaga, “nagparang manipud iti awan.” dagus nga adda.
+  * **iti ipapatay na a mapasamak iti saan a mabayag**- daytoy ket mabalin nga ipakaawat a kas, “kasano iti mabiit nga ipapatay na” wenno, “kasanuntu iti pannakatay na iti mabiit”
+  * **idiay Jerusalem**- dadduma a pagsasao ket mabalin nga ibaga da, “idiay siudad ti Jerusalem”.
 **[[:ilo:obs:notes:frames:36-02|<<]] | [[:ilo:obs:notes:36|Up]] | [[:ilo:obs:notes:frames:36-04|>>]]**
