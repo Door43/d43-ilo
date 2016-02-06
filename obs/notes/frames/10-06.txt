@@ -4,13 +4,12 @@
 
 Ti simmaruno ket pinagsakit ti Dios dagiti amin a dingwen dagiti taga Egypt ket natay da. Ngem pinatangken pay ti Pharaoh ti puso na ket saan na a pinalubusan dagiti Israelita.
 
-===== Dagiti Napapateg Nga Balikas: =====
+===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:egypt]]**
-  * **[[:ilo:obe:other:pharaoh]]**
-  * **[[:ilo:obe:other:israel]]**
-
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:egypt|Egypt, Egyptian ]]**
+  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **farm animals**  - This refers to large animals that the Egyptians used to help them in their work, such as horses, donkeys, camels, cattle, sheep, and goats.
