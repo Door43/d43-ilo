@@ -2,19 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink&}}
 
-Idi simmangpet da idiay Bethlehem ket awan ti mabalin a pagdagusan da. Ti laeng nakita da a mabalin a pagturugan ket ti pagiyap-apunan kadagiti dingwen. Naipasngay ti ubing sadiay ket impaidda ti ina na iti maysa a kulluong agsipud ta awan ti pagiddaan a naisagana. Pinanaganan da ti ubing iti Jesus.
+Idi simmangpet da idiay Bethlehem ket awan ti mabalin a pagdagasan da. Ti laeng nakita da a mabalin a pagturugan ket ti pagiyap-apunan kadagiti dingwen. Naipasngay ti ubing sadiay ket impaidda ti ina na iti maysa a kulluong agsipud ta awan ti pagiddaan a naisagana. Pinanaganan da ti ubing iti Jesus.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:bethlehem]]**
-  * **[[:ilo:obe:kt:jesus]]**
- 
+  * **[[:ilo:obe:other:bethlehem|Bethlehem, Ephrathah]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-===== Translation Notes: =====
-
-  * **no place to stay** - That is, "no usual place to stay." Because Bethlehem was so crowded at that time, the usual rooms for guests were already full of people.
-  * **place where animals stayed** - This was a place for sheltering animals, not a place where people lived. Translate this with a term that would normally be used for a place where animals were kept.
-  * **feeding trough** - That is, "animal feed box" or, "wooden or stone box for feeding animals." The box could have been filled with hay to provide a padded surface for the baby to lie on.
-
-
+  * **Awan ti mabalin a pagdagasan **– Dayta ket,” awan ti lugar nga pagnaedan.” Gapu ta adu unayen iti tattao idiay Bethlehem iti dayta a tiempo, napunnon dagiti kuwarkuwarton a pangbisita ket napnun kadagiti tattao.
+  * **Lugar a pagiyap-apunan dagiti ay’ayup**– Daytoy nga lugar ket paglinlinungan dagiti ay’ayup, saan a lugar a pagnaedan dagiti tatao. Ipakaawat daytoy a balikas a gagangay a maararamat para iti lugar a pagnanaedan dagiti ay’ayup.
+  * **Pangpanganan **- dayta ket, “kulluong a pangpanganan dagiti ay’ayup” wennu, “kayu wennu a batu a pangpanganan dagiti ay’ayup.” Ti kulluong ket napunno iti garami tapnun nalukneng a pagiddaan iti maladaga.
 **[[:ilo:obs:notes:frames:23-04|<<]] | [[:ilo:obs:notes:23|Up]] | [[:ilo:obs:notes:frames:23-06|>>]]**
