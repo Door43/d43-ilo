@@ -6,22 +6,16 @@ Inaramat ni Gideon dagiti balituk a nagaramid iti naisangsangayan a pagan-anay a
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:other:gideon|Gideon]]**
+  * **[[:ilo:obe:kt:highpriest|high priest]]**
+  * **[[:ilo:obe:kt:worship|worship]]**
+  * **[[:ilo:obe:other:idol|idol, idolatrous]]**
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:punish|punish, punishment]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ilo:obe:kt:deliverer|deliver, deliverer]]**
+==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **[[:ilo:obe:other:gideon]]**
-  * **[[:ilo:obe:kt:highpriest]]**
-  * **[[:ilo:obe:kt:worship]]**
-  * **[[:ilo:obe:other:idol]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:punish]]**
-  * **[[:ilo:obe:other:israel]]**
-  * **[[:ilo:obe:kt:deliverer]]**
-
-
-==== Translation Notes: ====
-
-
-  * **Gideon used the gold to make a special garment** – This could be translated as, "Gideon melted down the gold objects the people had given him and formed a special garment out of that gold."
-  * **turned away from God** - This could be translated as, "disobeyed God" or, "stopped worshiping God."
-
-
+  * **Inaramat ni Gideon iti balitok nga agaramid iti naisangsangayan a kawes- ** daytoy ket mabalin met nga ipkaawat a kas, “nilusaw ni Gideon iti balitok nga inted dagiti tattao kenkuana ket nangaramid iti naisansangayan a kawes manipud iti daytoy a balitok.”
+  * **Timmalikod manipud iti Dios- ** daytoy ket mabalin nga ipakaawat a kas, “saan a nagtulnog iti Dios” wennu, “nagsardeng a nagdaydayaw iti Dios.”
 **[[:ilo:obs:notes:frames:16-15|<<]] | [[:ilo:obs:notes:16|Up]] | [[:ilo:obs:notes:frames:16-17|>>]]**
