@@ -6,18 +6,12 @@ Napan kenni Gideon ti tallopulo ket dua a ribu a suldado nga Israelita ngem kinu
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ilo:obe:other:gideon|Gideon]]**
+  * **[[:ilo:obe:kt:god|God]]**
+==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **[[:ilo:obe:other:israel]]**
-  * **[[:ilo:obe:other:gideon]]**
-  * **[[:ilo:obe:kt:god]]**
-
-
-==== Translation Notes: ====
-
-
-  * **32,000 Israelite soldiers came to Gideon** - Some languages might need to insert the following sentence at the beginning of the story: "Gideon called the Israelites to come fight against the Midianites." See **[[:ilo:obs:notes:frames:16-08|[16-08]]]**.
-  * **too many** - This was more soldiers than God wanted for this fight. If that many solders fought and won, they would think that they won the battle with their own strength, and they would not know that God did it.
-  * **except for 300 soldiers** - This sentence could be translated as, "So Gideon allowed only 300 men to stay, and the rest of the men went home."
-
-
+  * **Tallu pulo ket duwa a ribu a suldado nga Israelita iti napan kenni Gideon- ** iti dadduma a pagsasao ket mabalin nga iballaet iti sumaganad a balikas iti rugi ti istorya. “inayaban ni Gideon dagiti Israelita a makiranget a bumusor kadagiti Midianites.” Kitaen  [16-08].
+  * **Adu launay**  – Daytoy ket adu unay a suldado ngem diay kayat ti Dios para iti daytoy a ranget. Tanu mangabak dagiti adu a suldado, panunuten da nga nangabak da iti gubat gapu iti bukod da a pigsa, ken saan da a maamuan nga ti Dios iti nangaramid iti daytoy.
+  * **Malaksid iti tallu a gasut a suldado **– Daytoy a balikas ket mabalin nga ipakaawat a kas, “impalubos ni Gideon nga tallu a gasut laeng a lallaki iti agbati, nagawid dagiti dadduma.”
 **[[:ilo:obs:notes:frames:16-09|<<]] | [[:ilo:obs:notes:16|Up]] | [[:ilo:obs:notes:frames:16-11|>>]]**
