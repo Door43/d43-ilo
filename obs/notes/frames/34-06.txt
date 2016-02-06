@@ -6,19 +6,15 @@ Kalpasan daytoy ket sinarita ni Jesus ti maysa nga istorya kadagiti dadduma a ta
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:trust]]**
-  * **[[:ilo:obe:kt:temple]]**
-  * **[[:ilo:obe:other:pray]]**
-  * **[[:ilo:obe:other:taxcollector]]**
-  * **[[:ilo:obe:other:jewishleaders]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:trust|trust, trustworthy, trustworthiness]]**
+  * **[[:ilo:obe:kt:temple|temple]]**
+  * **[[:ilo:obe:other:pray|pray, prayer]]**
+  * **[[:ilo:obe:other:taxcollector|tax collector]]**
+  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-
-===== Translation Notes: =====
-
-  * **story** - See how you translated this term in **[[:ilo:obs:notes:frames:34-01|[34-01]]]**.
-  * **trusted in their own good deeds** - That is, "believed that their good deeds made them righteous" or, "were proud of how perfectly they kept God's law" or, "believed that their good deeds caused God to be completely pleased with them."
-  * **despised other people** - That is, "considered other people to be inferior to them" or, "looked down on other people."
-
-
+  * **istorya-**  kitaen yu nu kasanu iti pannakaipakaawat yu iti daytoy nga balikas iti. [34-01].
+  * **agtaltaek iti bukod da a inasayaat nga ar-aramid**- dayta ket, “mamati da nga baban iti aramid da nga nasayaat ket agbalin da a nalinteg” wennu, “ipalangguad da nga kaya da a tungpalen iti linteg ti Dios” wennu, “mamati da nga babaen iti nasayaat nga ar'aramid da ket maay'ayu da ti Dios”.
+  * **mangdildillaw iti dadduma a tattao-**  dayta ket, “panangibilang kadagiti dadduma a tattao a kas naisabsabali kadakuwada” wennu, “panangibabada iti dadduma a tattao”.
 **[[:ilo:obs:notes:frames:34-05|<<]] | [[:ilo:obs:notes:34|Up]] | [[:ilo:obs:notes:frames:34-07|>>]]**
