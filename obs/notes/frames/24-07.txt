@@ -6,17 +6,13 @@ Kinuna ni John kenni Jesus, “Saanak maikari a mangbautisar kenka. Siak ketdi k
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:other:johnthebaptist|John (the Baptist)]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:baptize|baptize, baptism]]**
+  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-  * **[[:ilo:obe:other:johnthebaptist]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:baptize]]**
-  * **[[:ilo:obe:kt:sin]]**
-
-
-===== Translation Notes: =====
-
-  * **I am not worthy to baptize you** - This could be translated as, "I am not good enough to baptize you" or, "I am sinful, so I should not baptize you."
-  * **it is the right thing to do** - This might also be translated as, "it is the proper thing to do" or, "this is what God wants me to do."
-
+  * **Saan nak a maikari a mangbautisar kenka **– Daytoy ket mabalin met nga ipakaawat a kas, “saanank unay a nasayaat a mangbautisar kenka” weenu, “managbasulak, isunga saanka bautisaran.”
+  * **agsipud ta daytoy ti rumbeng a maaramid **– Daytoy ket mabalin met nga ipakaawat a kas, “ Isu iti nasayaat nga banag nga aramiden” wennu,” Daytoy iti kayat ti Dios nga aramidek.”
 
 **[[:ilo:obs:notes:frames:24-06|<<]] | [[:ilo:obs:notes:24|Up]] | [[:ilo:obs:notes:frames:24-08|>>]]**
