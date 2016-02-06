@@ -2,18 +2,14 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg?nolink&}}
 
-Ti simmaruno a simmalog iti dalan ket maysa Samaritano. (Dagiti taga Samaria ket kaputotan dagiti Judio a nakiasawa kadagiti tattao manipud iti naduma-duma a nasion. Agkagura dagiti Samaritano ken Judio).  Ngem idi nakita ti Samaritano ti lalaki a Judio ket naassian launay isuna isu a tinaming na daytoy ken binedbedan na dagiti sugsugat na.
+Ti simmaruno a simmalog iti dalan ket maysa Samaritano. (Dagiti taga Samaria ket kaputotan dagiti Judio a nakiasawa kadagiti tattao manipud iti naduma-duma a nasion. Agkagura dagiti Samaritano ken Judio). Ngem idi nakita ti Samaritano ti lalaki a Judio ket naassian launay isuna isu a tinaming na daytoy ken binedbedan na dagiti sugsugat na.
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:samaria]]**
-  * **[[:ilo:obe:other:jew]]**
+  * **[[:ilo:obe:other:samaria|Samaria, Samaritan]]**
+  * **[[:ilo:obe:other:jew|Jew, Jewish]]**
+===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **walk down** - That is, "travel along." These people were traveling from one city to another. Make sure that it does not sound like they were just taking a walk.
-
-
+  * (intuloy ni Jesus nga inbaga iti istorya)
+  * **simmaruno a simmalog**  – Dayta ket, “ agdaldaliasat iti.” Dagitoy nga tattao ket agdaldaliasat manipud iti maysa a siudad aginggana iti sabali. Siguraduen nga dayta ket saan a kasla laeng magmagna da.
 **[[:ilo:obs:notes:frames:27-07|<<]] | [[:ilo:obs:notes:27|Up]] | [[:ilo:obs:notes:frames:27-09|>>]]**
