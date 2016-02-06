@@ -2,22 +2,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-15.jpg?nolink&}}
 
-Idi unona na ket nakaunget ni Naaman ken madi na kayat nga aramiden daytoy ta kasla maysa a minamaag. Ngem binaliwan na met laeng ti panonot na ket napan na intapug iti namin pitu a daras ti bagi na idiay karayan ti Jordan. Iti maudi a daras ket naagasan a naan-anay ti kudil na. Inagasan ti Dios isuna.
+Idi unona na ket nakaunget ni Naaman ken madi na kayat nga aramiden daytoy ta kasla maysa a minamaag. Ngem binaliwan na met laeng ti panunot na ket napan na intapug iti namin pitu a daras ti bagi na idiay karayan ti Jordan. Iti maudi a daras ket naagasan a naan-anay ti kudil na. Inagasan ti Dios isuna.
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:other:naaman|Naaman]]**
+  * **[[:ilo:obe:other:jordanriver|Jordan River]]**
+  * **[[:ilo:obe:other:heal|heal, cure]]**
+  * **[[:ilo:obe:kt:god|God]]**
+==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **[[:ilo:obe:other:naaman]]**
-  * **[[:ilo:obe:other:jordanriver]]**
-  * **[[:ilo:obe:other:heal]]**
-  * **[[:ilo:obe:kt:god]]**
-
-
-==== Translation Notes: ====
-
-
-  * **would not do it because it seemed foolish** - Naaman would not do what Elisha said because he knew that washing alone could not heal his disease.
-  * **he changed his mind** - That is, "he decided to do what Elisha had told him to do."
-
-
+  * **madi na kayat nga aramiden daytoy ta kasla maysa a minamaag ******– Saan nga inaramid ni Naaman ti inbaga ni Elisha gapu ta ammuna nga uray pay iti panagbuggo laeng ket saan a maagasan iti sakit na.
+  * **Binaliwan na metlaeng iti panunot na**- dayta ket, “nagdesisyon nga aramiden na iti inbaga ni Elisha nga aramiden na.”
 **[[:ilo:obs:notes:frames:19-14|<<]] | [[:ilo:obs:notes:19|Up]] | [[:ilo:obs:notes:frames:19-16|>>]]**
