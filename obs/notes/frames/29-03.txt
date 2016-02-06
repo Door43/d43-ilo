@@ -2,20 +2,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink&}}
 
-“Gapo ta saan a makabayad ti katulong iti utang na ket imbagan ti ari, “Ilako yo kas tagabu daytoy a lalaki ken ti pamilya na  tapno mabayadan ti inotang na.'’’
+“Gapo ta saan a makabayad ti katulong iti utang na ket imbagan ti ari, “Ilako yo kas tagabu daytoy a lalaki ken ti pamilya na tapno mabayadan ti inotang na.'’’
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:servant]]**
-  * **[[:ilo:obe:other:king]]**
-  * **[[:ilo:obe:other:servant]]**
-
-
-===== Translation Notes: =====
+  * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
+  * **[[:ilo:obe:other:king|king ]]**
+  * **[[:ilo:obe:other:servant|servant, slave, slavery ]]**
+===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * (Jesus continues the story.)
-  * **pay the debt** - That is, "pay back the money he owed to the king."
-  * **to make payment on his debt** - This could be translated as, "and use the money received from selling them to pay part of what he owes me."
-
-
+  * **pay the debt**  - That is, "pay back the money he owed to the king."
+  * **to make payment on his debt**  - This could be translated as, "and use the money received from selling them to pay part of what he owes me."
 **[[:ilo:obs:notes:frames:29-02|<<]] | [[:ilo:obs:notes:29|Up]] | [[:ilo:obs:notes:frames:29-04|>>]]**
