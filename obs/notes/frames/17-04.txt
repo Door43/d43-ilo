@@ -2,23 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-04.jpg?nolink&}}
 
-Pinagimunan ni Saul diay panagayat ti tattao kenni David. Namin adu a pinadas ni Saul a patayen isuna isua naglemlemmeng ni David kenni Saul. Iti maysa nga aldaw ket birbiruken ni Saul ni David ta no mabalin ket patayen na . Napan ni Saul iti kweba a paglemlemmengan ni David ngem saan a nakita ni Saul isuna.  Asidigen ni David iti ayan ni Saul ket mapatay na kuma ngem saan. Imbes, nangputed ni David iti bassit idiay badu ni Saul tapno paneknekan na nga awan balak na a mangpatay kanyana tapno sukatan na isuna nga agbalin nga ari.
+Pinagimunan ni Saul diay panagayat ti tattao kenni David. Namin adu a pinadas ni Saul a patayen isuna isua naglemlemmeng ni David kenni Saul. Iti maysa nga aldaw ket birbiruken ni Saul ni David ta no mabalin ket patayen na . Napan ni Saul iti kweba a paglemlemmengan ni David ngem saan a nakita ni Saul isuna. Asidigen ni David iti ayan ni Saul ket mapatay na kuma ngem saan. Imbes, nangputed ni David iti bassit idiay badu ni Saul tapno paneknekan na nga awan balak na a mangpatay kanyana tapno sukatan na isuna nga agbalin nga ari.
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:other:saul|Saul (OT)]]**
+  * **[[:ilo:obe:kt:love|love]]**
+  * **[[:ilo:obe:other:david|David]]**
+  * **[[:ilo:obe:other:king|king]]**
+==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **[[:ilo:obe:other:saul]]**
-  * **[[:ilo:obe:kt:love]]**
-  * **[[:ilo:obe:other:david]]**
-  * **[[:ilo:obe:other:king]]**
-
-
-==== Translation Notes: ====
-
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **to prove to Saul** - That is, "to convince Saul" or, "to show Saul."
-  * **to become king** – David would not dishonor God by killing the man that God placed as king over Israel.
-
-
+  * **Iti maysa nga aldaw **– Daytoy nga balikas ket iparangarang na iti napasamak iti napalabas, ngem saan na nga ipakita itiumiso a panawen. Adu a pagsasao iti addaan iti isumet laeng a wagas iti panangrugi nga mangibaga iti pudno nga istorya.
+  * **Tapnu paneknekan na kenni Saul **– Dayta ket, “tapnun maallukoy ni Saul” wennu, “Tapnun maipakita kenni Saul.”
+  * **Tapnun... agbalin nga Ari **– Saan nga dinayaw ni David iti Dios babaen iti panangpapatay na iti tao nga insaad  ti Dios nga ari iti sibubukel nga Israel.
 **[[:ilo:obs:notes:frames:17-03|<<]] | [[:ilo:obs:notes:17|Up]] | [[:ilo:obs:notes:frames:17-05|>>]]**
