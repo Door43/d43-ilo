@@ -6,22 +6,17 @@ Kalpasan ti panawen ni Elijah ket pinili ti Dios ti maysa a tao nga agnagan iti 
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:other:elijah|Elijah]]**
+  * **[[:ilo:obe:kt:god|God ]]**
+  * **[[:ilo:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
+  * **[[:ilo:obe:kt:miracle|miracle, wonder, sign]]**
+  * **[[:ilo:obe:other:naaman|Naaman]]**
+  * **[[:ilo:obe:other:heal|heal, cure]]**
+  * **[[:ilo:obe:other:jordanriver|Jordan River]]**
+==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **[[:ilo:obe:other:elijah]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:prophet]]**
-  * **[[:ilo:obe:kt:miracle]]**
-  * **[[:ilo:obe:other:naaman]]**
-  * **[[:ilo:obe:other:heal]]**
-  * **[[:ilo:obe:other:jordanriver]]**
-
-
-==== Translation Notes: ====
-
-
-  * **an enemy commander** - Naaman was a commander in the army of one of the countries that was Israel's enemy.
-  * **He had heard of Elisha** - This means that people had told Naaman that Elisha was able to perform miracles.
-  * **he went and asked Elisha** - That is, "he went to see Elisha and asked him." Naaman had to go into Israel to find Elisha and ask him to do this.
-
+  * **Ti panguluen dagiti kabusor- ** ni Naaman ket pangulo dagiti susuldado iti maysa a pagilian a kabusor dagiti Israelita.
+  * Nadamag na ti maipapan ken ni Elisha ****– ti kaipapanan na daytoy ket dagiti tattao inbaga da kenni Naaman nu kasanu a nangipakita kadagiti milagro ni Elisha.
+  * **napan tapno kiddawen na ... ni Elisha **– Dayta ket, “Napan tapnu kitaen na ni Elisha ken nagdamag kenkuana.” Napan idiay Israel ni Naaman tapnun biruken na ni Elisha ken dawaten na nga aramiden na dagitoy.
 
 **[[:ilo:obs:notes:frames:19-13|<<]] | [[:ilo:obs:notes:19|Up]] | [[:ilo:obs:notes:frames:19-15|>>]]**
