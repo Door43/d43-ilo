@@ -2,21 +2,23 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?nolink&}}
 
-Napan da Moses ken Aaron iti ayan ti Pharaoh. Ket kinuna da kenkuana, “Daytoy ti imbaga ti Dios ti Israel, ‘palubusam dagiti tattaok.’” Ngem madi a dumngeg ni Pharaoh kadakuada. Imbes a palubusan na a pumanaw dagiti Israelita ket pinilt  na pay ketdi ida nga agtrabaho iti narigrigat.
+Napan da Moses ken Aaron iti ayan ti Pharaoh. Ket kinuna da kenkuana, “Daytoy ti imbaga ti Dios ti Israel, ‘palubusam dagiti tattaok.’” Ngem madi a dumngeg ni Pharaoh kadakuada. Imbes a palubusan na a pumanaw dagiti Israelita ket pinilt na pay ketdi ida nga agtrabaho iti narigrigat.
 
-===== Dagiti Napapateg Nga Balikas: =====
+===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:moses]]**
-  * **[[:ilo:obe:other:aaron]]**
-  * **[[:ilo:obe:other:pharaoh]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:israel]]**
-
-===== Pannakaipakaawat Kadagiti Sarsarita: =====
-
+  * **[[:ilo:obe:other:moses|Moses ]]**
+  * **[[:ilo:obe:other:aaron|Aaron]]**
+  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt ]]**
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel ]]**
   * **to Pharaoh**  – It may be clearer to say, "to Pharaoh's palace to talk to him."
+  * **ti Pharaoh -** Mabalin a mas nalawag nga ibaga kas, "iti balay ti Pharaoh tapno makisao kenkuana."
   * **God of Israel**  - This could be translated as, "God, who chose the Israelites to be his people" or, "God, who rules the people of Israel" or, "the God whom the Israelites worship."
+  * **Dios ti Israel -** Mabalin a maibalikas kas, "ti Dios a namili kadagiti Israelita kas tattao na" wenno, "ti Dios nga agturturay kadagiti tattao ti Israel."
   * **Let My people go**  – Another way to say this would be, "Allow My people to go free" or, "Free My people to leave Egypt."
+  * **palubusam dagiti tattaok -** Ti maysa a mabalin a panagbalikas ket kas, "ikkam dagiti tattaok ti waya da nga pumanaw a siwayawaya" wenno, "pawayaam dagiti tattaok a pumanaw manipud dita Egypt."
   * **my people**  - See "my people" in **[[:ilo:obs:notes:frames:09-13|[09-13]]]**.
+  * **tattaok -** Kitaen ti "tattaok" idiay **[[:ilo:obs:notes:frames:09-13|[09-13]]]** .
   * **listen to**  – This could be translated as "heed" or, "obey."
+  * **dumngeg -** Mabalin a maibalikas kas, "nagtulog" wenno, "sinurot."
 **[[:ilo:obs:notes:frames:09-15|<<]] | [[:ilo:obs:notes:10|Up]] | [[:ilo:obs:notes:frames:10-02|>>]]**
