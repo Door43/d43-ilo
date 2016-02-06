@@ -2,20 +2,19 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-12.jpg?nolink&}}
 
-Iti maysa nga aldaw kabayatan nga ipaspastor ni Moses dagiti karnero ket nakakita isuna iti maysa a kayo a mapupuuran ngem iti kinagpaysuanan na saan met talaga nga marunrunot diay kayo. Inasetgan na diay mapupuuran a kayo tapnon makita na a nalaing. Idi nakaasideg isuna iti ayan ti kayon nagtimek ti Dios kenkuana ket kinonana, “Moses, ikkatem ta sandalyas mo ta nasantuan a daga ti badbaddekam.”
+Iti maysa nga aldaw kabayatan nga ipaspastor ni Moses dagiti karnero ket nakakita isuna iti maysa a kayo a mapupuuran ngem iti kinagpaysuanan na saan met talaga nga marunrunot diay kayo. Inasetgan na diay mapupuuran a kayo tapnon makita na a nalaing. Idi nakaasideg isuna iti ayan ti kayon nagtimek ti Dios kenkuana ket kinunana, “Moses, ikkatem ta sandalyas mo ta nasantuan a daga ti badbaddekam.”
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:moses]]**
-  * **[[:ilo:obe:other:sheep]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:holy]]**
+  * **[[:ilo:obe:other:moses|Moses]]**
+  * **[[:ilo:obe:other:sheep|sheep, ram, ewe ]]**
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:kt:holy|holy, holiness ]]**
+===== Dagiti Pannakaipakaawat Kadagiti Sarsarita: =====
 
-===== Pannakaipakaawat Kadagiti Sarsarita: =====
-
-  * **taking care of his sheep**  - This means he was doing the work of a shepherd to guide the sheep to grass and water, and to protect them. It could be translated as, "tending the sheep."
-  * **bush did not burn up**  - God made the bush full of fire, but the fire did not damage the bush.
-  * **the voice of God said**  - This could be translated as, "God said out loud." Moses heard God speak, but he did not see God.
-  * **take off your shoes**  - God wanted him to take off his shoes to show that he greatly respected God. To make clear the reason for this, you could say, "take off your shoes, because you are on holy ground."
-  * **holy ground**  - It was holy in the sense that God set it apart from the ordinary land and made it to be a special place where He would reveal Himself.
+  * ** ipaspastor... dagiti karnero ** - Ti kayatna ng ibaga ket ar-aramiden na dagiti trabaho ti maysa a pastor nga agikuyog kadagiti karnero iti panganan da ken paginuman da, ken agbanbantay kadagiti karnero wenno, "agtalipato kadagiti karnero."
+  * ** kayo a mapupuuran ngem iti kinagpaysuanan na saan met talaga nga marunrunot  ** - Pinagbalin ti Dios a malikmutan iti apuy ngem saan met a malaylay wenno maperdi diay kayo.
+  * ** nagtimek ti Dios ** - Mabalin a maibalikas kas, "Nagsoa ti Dios iti napigsa." Nanggeg ni Moses ti panagsao ti Dios ngem saan na makita ti Dios.
+  * ** ikkatem ta sandalyas mo ** - Kayat ti Dios nga ikkaten ni Moses ti sapatos na tapno maipakita na iti panagrespeto iti Dios. Tapno maibutaktak daytoy a panggep ket mabalin a kuna, "ikkaktem ta sandakyas mo gapo ta adda ka iti nasantuan a daga."
+  * **nasantuan a daga -** Nasantuan gapo ta naisina ti Dios manipud iti gagangay a daga ken pinagbalin na naisangsangayan a lugar kas pagiyam-ammoan na ti bagi na.
 **[[:ilo:obs:notes:frames:09-11|<<]] | [[:ilo:obs:notes:09|Up]] | [[:ilo:obs:notes:frames:09-13|>>]]**
