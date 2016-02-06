@@ -4,13 +4,11 @@
 
 ===== Important Terms: =====
 
-===== Translation Notes: =====
+===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-  * (Jesus continues the story.)
-  * **mustard seed** - See how you translated this term in **[[:ilo:obs:notes:frames:34-01|[34-01]]]**.
-  * **grows** - You may want to add, "into a mature plant."
-  * **garden plants** - This can also be translated as, "plants that would be planted in a garden."
-  * **rest in** - This may also be translated as, "sit on" or, "perch on."
-
-
+  * (intuloy ni Jesus ti istorya)
+  * **bukel ti mustasa-**  kitaem iti panagipakaawat mo iti daytoy a balikas
+  * **panagdakkel-**  mabalin nga inayun mo, “iti nataengan a  mula”
+  * **mulmula iti minuyongan-**  mabalin mee nga ipakaawat a kas, “mulmula nga ,maimula iti hardin”.
+  * **panaginana iti-**  mabalin nga ipakaawat dayoy a kas, “agtugaw ka iti” wennu, “agidda iti”
 **[[:ilo:obs:notes:frames:34-01|<<]] | [[:ilo:obs:notes:34|Up]] | [[:ilo:obs:notes:frames:34-03|>>]]**
