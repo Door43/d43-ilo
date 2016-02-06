@@ -6,12 +6,10 @@ Kalpasan na kinuna ni Hesus, “Kastoy met laeng ti aramiden ti Amak a nai laeng
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus]] said**
-  * **[[:ilo:obe:kt:godthefather]]**
-  * **[[:ilo:obe:kt:forgive]]**
-
-
-===== Translation Notes: =====
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]] said**
+  * **[[:ilo:obe:kt:godthefather|God the Father, Heavenly Father]]**
+  * **[[:ilo:obe:kt:forgive|forgive, forgiveness]]**
+===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * **Then Jesus said**  - Some languages may add, "to his disciples."
   * **This**  - "This" refers back to the way the king punished the unforgiving servant in **[[:ilo:obs:notes:frames:29-08|[29-08]]]**.
