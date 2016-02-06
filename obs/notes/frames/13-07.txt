@@ -6,25 +6,19 @@ Insurat ti Dios dagitoy a sangapulo a bilin iti duwa a pisi ti bato ken inted na
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:tencommandments|Ten Commandments]]**
+  * **[[:ilo:obe:other:moses|Moses]]**
+  * **[[:ilo:obe:kt:lawofmoses|law, law of Moses, God's law, law of Yahweh]]**
+  * **[[:ilo:obe:other:obey|obey, obedient, obedience ]]**
+  * **[[:ilo:obe:kt:promise|promise ]]**
+  * **[[:ilo:obe:kt:bless|bless, blessed, blessing]]**
+  * **[[:ilo:obe:other:disobey|disobey, disobedient, disobedience]]**
+  * **[[:ilo:obe:other:punish|punish, punishment]]**
+==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:tencommandments]]**
-  * **[[:ilo:obe:other:moses]]**
-  * **[[:ilo:obe:kt:lawofmoses]]**
-  * **[[:ilo:obe:other:obey]]**
-  * **[[:ilo:obe:kt:promise]]**
-  * **[[:ilo:obe:kt:bless]]**
-  * **[[:ilo:obe:other:disobey]]**
-  * **[[:ilo:obe:other:punish]]**
-
-
-==== Translation Notes: ====
-
-
-  * **these Ten Commandments** - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:ilo:obs:notes:frames:13-05|[13-05]]]** and **[[:ilo:obs:notes:frames:13-06|[13-06]]]**.
-  * **stone tablets** - These were flat pieces of stone.
-  * **God also gave** - This can be translated as, "God also told them."
-  * **to follow** - This can be translated as, "that they must obey" or, "that they must keep."
-
-
+  * **these Ten Commandments**  - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:ilo:obs:notes:frames:13-05|[13-05]]]** and **[[:ilo:obs:notes:frames:13-06|[13-06]]]**.
+  * **stone tablets**  - These were flat pieces of stone.
+  * **God also gave**  - This can be translated as, "God also told them."
+  * **to follow**  - This can be translated as, "that they must obey" or, "that they must keep."
 **[[:ilo:obs:notes:frames:13-06|<<]] | [[:ilo:obs:notes:13|Up]] | [[:ilo:obs:notes:frames:13-08|>>]]**
