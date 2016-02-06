@@ -6,20 +6,14 @@ Inkari ti Dios ken ni Abraham a babaen kenkuana ket umawatto iti parabur dagiti 
 
 ===== Important Terms: =====
 
-
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:abraham]]**
-  * **[[:ilo:obe:other:peoplegroup]]**
-  * **[[:ilo:obe:kt:bless]]**
-  * **[[:ilo:obe:kt:fulfill]]**
-  * **[[:ilo:obe:kt:christ]]**
-  * **[[:ilo:obe:kt:save]]**
-
-
+  * **[[:ilo:obe:kt:god|God ]]**
+  * **[[:ilo:obe:other:abraham|Abraham, Abram ]]**
+  * **[[:ilo:obe:other:peoplegroup|people group, people]]**
+  * **[[:ilo:obe:kt:bless|bless, blessed, blessing ]]**
+  * **[[:ilo:obe:kt:fulfill|fulfill]]**
+  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
+  * **[[:ilo:obe:kt:save|save, safe]]**
 ==== Translation Notes: ====
 
-
-  * **through him** – That is, "because of one of his descendants."
-
-
+  * **Babaen kenkuana **– Dayta ket, “Gapu iti maysa kadagiti kapututan na.”
 **[[:ilo:obs:notes:frames:21-01|<<]] | [[:ilo:obs:notes:21|Up]] | [[:ilo:obs:notes:frames:21-03|>>]]**
