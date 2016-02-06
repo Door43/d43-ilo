@@ -6,26 +6,20 @@ agiti papadi nga Israelita ti mangisagsagana kadagiti daton dagiti tattao a para
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel ]]**
+  * **[[:ilo:obe:kt:priest|priest, priesthood]]**
+  * **[[:ilo:obe:other:sacrifice|sacrifice, offering]]**
+  * **[[:ilo:obe:kt:god|God ]]**
+  * **[[:ilo:obe:other:punish|punish, punishment]]**
+  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning ]]**
+  * **[[:ilo:obe:other:pray|pray, prayer]]**
+  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
+  * **[[:ilo:obe:kt:highpriest|high priest]]**
+==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **[[:ilo:obe:other:israel]]**
-  * **[[:ilo:obe:kt:priest]]**
-  * **[[:ilo:obe:other:sacrifice]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:punish]]**
-  * **[[:ilo:obe:kt:sin]]**
-  * **[[:ilo:obe:other:pray]]**
-  * **[[:ilo:obe:kt:christ]]**
-  * **[[:ilo:obe:kt:highpriest]]**
-
-
-==== Translation Notes: ====
-
-
-  * **on behalf of** - This may be translated as, "for the benefit of" or, "in the place of."
-  * **as a substitute for the punishment for their sins** - God allowed people to bring animals to sacrifice for their sin as a reminder of the punishment that they deserved and their dependence on God to remove their sin. God accepted these sacrifices as a temporary covering for sin and did not punish the people for it.
-  * **perfect high priest** - Unlike the other high priests, the Messiah would never sin, and he would permanently take away all the sins of the people.
-  * **offer himself** – That is, "allow himself to be killed."
-  * **perfect sacrifice** - That is, "a sacrifice that has no fault or imperfection."
-
-
+  * **Iti biangen ti**- daytoy ketmabalin nga ipakaawat a kas, “para iti gunguna ti” wennu, “iti lugar ti.”
+  * **A kas kasukat dagiti dusa dagiti basbasol da - ** impalubos ti Dios nga dagiti tattao ket mangiyumay da iti ay’ayup a maidatun para kadagiti basbasulda a kas mangpalagip kadakuada iti dusa a maikari nga awaten da ken ti panagtalek da iti Dios nga mangikkat kadagiti basbasulda. Inawat ti Dios dagitoy nga datdatun da a kas panangkalub iti basul ken saanna a dinusa dagiti tattao iti daytoy.
+  * **Naan’anay a kangatuan a padi-  ** saan a kas kadagiti dadduma a nangatu a papadi, saan to a pulos nga agbasul ti Mesias, ken ikkatenna amin dagiti basbasul dagiti tattao.
+  * **Indatunna iti bukodna a bagi-  ** dayta ket, “impalubos na a mapapatay isuna.”
+  * **Naa’nanay a daton**- dayta ket, “ti datun nga awan iti pakapilawan ken pagkuranganna.”
 **[[:ilo:obs:notes:frames:21-06|<<]] | [[:ilo:obs:notes:21|Up]] | [[:ilo:obs:notes:frames:21-08|>>]]**
