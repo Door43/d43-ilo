@@ -2,18 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-08.jpg?nolink&}}
 
-“Naitag-ayen ni Jesus ita iti makannawan nga ima ti Dios Ama ken imbaun ni Jesus ti Espiritu Santo kas inkari na nga aramiden. Ti Espiritu Santo ti mangar-aramid kadagiti bambanag a makitkita ken mangmangngeg yo ita.”
+“Naitan'ok ni Jesus ita iti makannawan nga ima ti Dios Ama ken imbaun ni Jesus ti Espiritu Santo kas inkari na nga aramiden. Ti Espiritu Santo ti mangar-aramid kadagiti bambanag a makitkita ken mangmangngeg yo ita.”
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
   * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:ilo:obe:kt:godthefather|God the Father, Heavenly Father]]**
   * **[[:ilo:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]**
   * **[[:ilo:obe:kt:promise|promise]]**
-===== Translation Notes: =====
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * (Peter continues preaching to the crowd.)
-  * **Jesus is now exalted**  - This could also be translated as, "Jesus is now lifted up" or, "Jesus is now raised up" or, "God has exalted Jesus."
-  * **the right hand of**  - This could also be translated as, "the most important position with" or, "the place of highest honor next to."
-  * **causing**  - That is, "enabling the believers to do" or, "giving these people the power to do."
+  * (Intuloy ni Peter ti panagkaskasaba na kadagiti bunggoy ti tattao.)
+  * **Naitan'ok ni Jesus ita**  - daytoy  ket mabalin met nga ipakaawat a kas, “naitag'ay ni Jesus” wenno, “ni Jesus ket napagungar” wenno, “ti Dios ket intan'ok na ni Jesus."
+  * **iti makannawan nga ima ti Dios**  - dayoty ket mabalin met nga ipakaawat a kas, “ti kapatgan nga akem iti” wenno, “ti lugar ti kangatuan a dayaw a sumaruno iti."
+  * **mangar-aramid**  - dayta ket, “kabalinan dagiti adalan nga aramiden” wenno, “maited  dayoty kadagiti tattao ti pannakabalin a mangaramid iti."
 **[[:ilo:obs:notes:frames:43-07|<<]] | [[:ilo:obs:notes:43|Up]] | [[:ilo:obs:notes:frames:43-09|>>]]**
