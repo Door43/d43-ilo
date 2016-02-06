@@ -6,18 +6,14 @@ Idi nangngeg dagiti tattao ti mensahe ni John ket adu kadakuada ti nagbabawi kad
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:johnthebaptist]]**
-  * **[[:ilo:obe:kt:repent]]**
-  * **[[:ilo:obe:kt:sin]]**
-  * **[[:ilo:obe:kt:baptize]]**
-  * **[[:ilo:obe:other:jewishleaders]]**
+  * **[[:ilo:obe:other:johnthebaptist|John (the Baptist)]]**
+  * **[[:ilo:obe:kt:repent|repent, repentance]]**
+  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ilo:obe:kt:baptize|baptize, baptism]]**
+  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-
-===== Translation Notes: =====
-
-  * **repented from their sins** - This could also be translated as, "repented concerning their sins" or, "changed their minds about their sins" or, "turned away from their sins."
-  * **did not repent** - That is, "did not turn away from their sins."
-  * **confess their sins** - To confess is to acknowledge that something is true. These leaders did not want to acknowledge that they had sinned. This may be translated as, "confess that they had sinned."
-
-
+  * **Nagbabawi manipud kadagiti basbasul da **– Daytoy ket mabalin met nga ipakaawat a kas, “nagbabawi maipapan kadagiti basbasulda” wennu, “nagbaliw dagiti panpanunot da maipapanan kadagiti basbasulda” wennu, “timmallikudda manipud kadagiti basbasulda.”
+  * **Saanda nga nagbabawi **– Dayta ket, “ Saan da a timmallikud manipud kadagiti basbasul da.”
+  * **Panangibaga kadagiti basbasul **– ti panangibaga ket isu iti panangbigbig iti kinapudno maipapan iti maysa a banag. Saan a binigbig dagitoy a pangpangulo nga nagbasulda. Mabalin met nga ipakaawat daytoy a kas, “ibagada a nagbasulda.”
 **[[:ilo:obs:notes:frames:24-02|<<]] | [[:ilo:obs:notes:24|Up]] | [[:ilo:obs:notes:frames:24-04|>>]]**
