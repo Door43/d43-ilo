@@ -2,16 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?nolink&}}
 
-Pinagbalin ti Dios a dara ti danum tikarayan a Nile ngem saanlattaa pinalubusan ni Pharaoh dagiti Israelita.
+Pinagbalin ti Dios a dara ti danum ti karayan a Nile ngem saanlattaa pinalubusan ni Pharaoh dagiti Israelita.
 
-===== Dagiti Napapateg Nga Balikas: =====
+===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god=]]**
-  * **[[:ilo:obe:other:nileriver=]]**
-  * **[[:ilo:obe:other:pharaoh=]]**
-  * **[[:ilo:obe:other:israel=]]**
-
+  * **[[:ilo:obe:kt:god|God ]]**
+  * **[[:ilo:obe:other:nileriver|Nile River, River of Egypt ]]**
+  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **turned the Nile River into blood**  - Some languages may need to say, "turned the water in the Nile River into blood." Instead of water in the river there was blood, so the fish died and the people had no water to drink.
+  * ** Pinagbalin... a dara ti danum ti karayan a Nile ** - Iti dadduma a pagsasao ket mabalin nga ibaga kas, "pinagbalin... ti karayan a Nile a dara."
+
 **[[:ilo:obs:notes:frames:10-02|<<]] | [[:ilo:obs:notes:10|Up]] | [[:ilo:obs:notes:frames:10-04|>>]]**
