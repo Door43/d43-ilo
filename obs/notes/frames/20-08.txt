@@ -6,21 +6,15 @@ Tapno madusa ti ari ti Judah iti panagrebelde na ket pinatay dagiti suldado ni N
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:other:punish|punish, punishment]]**
+  * **[[:ilo:obe:other:king|king]]**
+  * **[[:ilo:obe:other:kingdom-of-judah|kingdom-of-judah]]**
+  * **[[:ilo:obe:other:nebuchadnezzar|Nebuchadnezzar]]**
+  * **[[:ilo:obe:kt:son|son]]**
+  * **[[:ilo:obe:other:babylon|Babylon, Babylonian]]**
+==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **[[:ilo:obe:other:punish]]**
-  * **[[:ilo:obe:other:king]]**
-  * **[[:ilo:obe:other:kingdom-of-judah]]**
-  * **[[:ilo:obe:other:nebuchadnezzar]]**
-  * **[[:ilo:obe:kt:son]]**
-  * **[[:ilo:obe:other:babylon]]**
-
-
-==== Translation Notes: ====
-
-
-  * **To punish** - Nebuchadnezzar punished the king of Judah by telling his soldiers to do these things.
-  * **in front of him** - This may be translated as, "where he could see," or "so that he could see it," or "before his eyes."
-  * **made him blind** - This may also be translated as, "destroyed his eyes."
-
-
+  * **Tapnun dusaen **– Dinusa ni Nebuchadnezzar diay Ari ti Judah babaen iti panagibaga na kadagiti suldado na tapnun aramiden na dagitoy a banbanag.
+  * **Iti sanguanan na **– Daytoy ket mabalin nga ipakaawat a kas, “Nu sadinno iti pakakitaan na,” wennu “Tapnun Makita na daytoy,” wennu “Sanguanan dagiti matmata na.”
+  * **Nagbalin isuna a bulsek **– Daytoy ket mabalin met nga ipakaawat a kas,”Nadadael dagiti matmata na.”
 **[[:ilo:obs:notes:frames:20-07|<<]] | [[:ilo:obs:notes:20|Up]] | [[:ilo:obs:notes:frames:20-09|>>]]**
