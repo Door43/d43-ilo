@@ -6,25 +6,21 @@ Kalpasan nga inpasngay ni Elizabeth ti anak na a lalaki ket pinanaganan ni Zacha
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:zechariahnt]]**
-  * **[[:ilo:obe:other:johnthebaptist]]**
-  * **[[:ilo:obe:kt:angel]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:zechariahnt]]**
-  * **[[:ilo:obe:other:praise]]**
-  * **[[:ilo:obe:kt:prophet]]**
-  * **[[:ilo:obe:kt:forgive]]**
-  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:other:zechariahnt|Zechariah (NT)]]**
+  * **[[:ilo:obe:other:johnthebaptist|John ]]**
+  * **[[:ilo:obe:kt:angel|angel, archangel]]**
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:zechariahnt|Zechariah (NT)]]**
+  * **[[:ilo:obe:other:praise|praise]]**
+  * **[[:ilo:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
+  * **[[:ilo:obe:kt:forgive|forgive, forgiveness]]**
+  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-
-===== Translation Notes: =====
-
-  * **Elizabeth** - See the note about Elizabeth on **[[:ilo:obs:notes:frames:22-04|[22-04]]]**.
-  * **Praise God** - That is, "We should all praise God."
-  * **will be called** - This is another way of saying, "will be" or, "will be known as." John would actually be the Prophet of the Most High God.
-  * **the prophet** - That is, "the very important prophet." John would be the prophet that the Old Testament prophets had predicted would come before the Messiah.
-  * **Most High God** - Another way to say this would be, "the God who is greater than everything" or, "the God who rules over everything."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **Elizabeth**- Kitaen iti balikas maipapan kenni Elizabeth idiay [22-04].
+  * **madaydayaw ti Dios **– Dayta ket, “masapul nga agdayaw tayu amin iti Dios.”
+  * **Maawagan iti **– Daytoy iti sabali nga wagas a panangibga“agbalin nga” wennu, “ maam’ammu a kas.” Ni John iti agbalin a mammadtu iti kangatuan a Dios.
+  * **Ti mammadtu- ** dayta ket, “ti kangrunaan a mammadtu.” Ni John iti mammadtu nga impadtu dagiti mammadtu iti Daan a Tulag nga umay sakbay iti Mesias.
+  * **Kangatuan a Dios- ** iti sabali a wagas iti panangibaga iti daytoy ket, “ti Dios a katan-okan iti amin a banag” wennu, “ti Dios nga agturay iti amin a banag.”
+  * //Ud Iti istorya manipud ti Bibliya- dagitoy a pangkitaan ket adda bassit a nagdumaanna kadagiti dadduma a pannakaipakaawat iti Bibliya.//
 **[[:ilo:obs:notes:frames:22-06|<<]] | [[:ilo:obs:notes:22|Up]] | [[:ilo:obs:notes:frames:23-01|>>]]**
