@@ -6,22 +6,16 @@ Nabileg ti pagarian a Persia ngem mannangaasi daytoy kadagiti tattao a sinakup d
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:kt:mercy|mercy, merciful]]**
+  * **[[:ilo:obe:other:jew|Jew, Jewish]]**
+  * **[[:ilo:obe:kt:temple|temple]]**
+  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
+==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **[[:ilo:obe:kt:mercy]]**
-  * **[[:ilo:obe:other:jew]]**
-  * **[[:ilo:obe:kt:temple]]**
-  * **[[:ilo:obe:other:jerusalem]]**
-
-
-==== Translation Notes: ====
-
-
-  * **Persian Empire** - See how you translated this term in **[[:ilo:obs:notes:frames:20-11|[20-11]]]**.
-  * **Cyrus** - See how you translated his name in **[[:ilo:obs:notes:frames:20-11|[20-11]]]**.
-  * **Judah** - See the note about Judah in **[[:ilo:obs:notes:frames:20-11|[20-11]]]**.
-  * **to return to Judah** - Since most of these Jews were the children and grandchildren of those who left Judah, they had never lived in Judah before. In some languages it might be better to say "to go to Judah."
-  * **exile** - See how you translated this term in **[[:ilo:obs:notes:frames:20-09|[20-09]]]**.
-  * **returned** – That is, "went back." Some languages may prefer to say, "went" since most of these people had never been to Jerusalem.
-
-
+  * **Persian Empire**- kitaen nu kasanum nga impakaawat daytoy a balikas idiay [20-11].
+  * **Cyrus**- kitaen nu kasanum nga impakaawat diay naganna idiay [20-11].
+  * **Judah**-kitaen iti surat a maipapan iti Judah idiay [20-11].
+  * **tapnu agsubli idiay Judah**- agsipud ta kaadwan kadagitoy nga Judio ket Annak ken Appuko dagidiay pimmanaw idiay Judah, saan da pulos a nagnaed idiay Judah idi. Iti sumagmamanu a pagsasao maymayat nga ibaga iti “tapnun mapan idiay Judah”.
+  * **panagruwar**- kitaen nu kasanum nga impakaawat daytoy  a balikas idiay [20-09].
+  * **nagsubli- ** dayta ket, “nagsubli”. Iti dadduma a panagsasao ket kayat da  nga ibaga nga “napan” ngem tangay iti kaaduan kadagitoy a tattao ket saan a pulos napan idiay Jerusalem.
 **[[:ilo:obs:notes:frames:20-11|<<]] | [[:ilo:obs:notes:20|Up]] | [[:ilo:obs:notes:frames:20-13|>>]]**
