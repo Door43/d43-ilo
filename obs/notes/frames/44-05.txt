@@ -2,9 +2,9 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?nolink&}}
 
-“Dakayo ti nangibaga iti gobernador ti Roman a papatayen na ni Jesus. Pinatay yo ti nangparsua iti biag! ngem pinagungar isuna ti Dios manipud iti patay. Numan pay saan yo a naaw-awatan dagiti inar-aramid yo, inaramat ti Dios dagiti aramid yo tapno matungpal dagiti padtu nga agsagaba ken matayto ti Messiah. Isunga ita, agbabawi kayo ken agsubli kayo iti Dios tapno maugasan dagiti basbasol yo.”
+“Dakayo ti nangibaga iti gobernador ti Roman a papatayen na ni Jesus. Pinatay yo ti nagtaudan ti biag! ngem pinagungar isuna ti Dios manipud iti patay. Numan pay saan yo a naaw-awatan dagiti inar-aramid yo, inaramat ti Dios dagiti aramid yo tapno matungpal dagiti padtu nga agsagaba ken matayto ti Messiah. Isunga ita, agbabawi kayo ken agsubli kayo iti Dios tapno maugasan dagiti basbasol yo.”
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
   * **[[:ilo:obe:other:rome|Rome, Roman]]**
   * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
@@ -18,11 +18,11 @@
   * **[[:ilo:obe:kt:suffer|suffer, suffering]]**
   * **[[:ilo:obe:kt:repent|repent, repentance]]**
   * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
-===== Translation Notes: =====
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * (Peter continues to preach to the crowd.)
-  * **author of life**  - That is, "the one who created life" or, "the one who gives us life" or, "the one who causes people to live." This refers to Jesus.
-  * **your actions **  - This can also be translated as, "the things you did." This refers to their asking Pilate to kill Jesus.
-  * **turn to God**  - That is, "decide to obey God."
-  * **your sin will be washed away**  - This could be translated as, "God will wash away your sins" or, "God will take away your sins and make you clean." This is talking about God purifying people in their spirit by completely removing their sins. It does not mean physical washing.
+  * **nagtaudan ti biag**  - dayta ket “ti nangparsua iti biag” wenno, “ti mangmangted kanya tayo iti biag” wenno, “ti nangaramid nga agbiag dagiti tattao.” Daytoy  ket maipapan kenni Jesus.
+  * **dagiti inar-aramid yo**  - daytoy ket mabalin met nga ipakaawat a kas, “dagiti banag nga inaramid mo”. Daytoy ket maipapan iti panangdawat da kenni Pilate a panangpapatay kenni Jesus.
+  * **agsubli kayo iti Dios**  - dayta ket, “agdesisyon kayo nga agtulnog iti Dios."
+  * **maugasan dagiti basbasol yo**  - daytoy ket mabalin met nga ipkaawat a kas, “ugasan ti Dios dagiti basbasol yo” wenno, “ikkaten ti Dios dagiti basbasol yo ket aramiden na kayo a nadalus”. Daytoy ket saritaen na iti panangdalus ti Dios iti Ispiritu dagiti tatto babaen iti naan'anay a panangikkat dagiti basbasol da. Saan na saritaen ditoy iti nainpisikalan a panangugas.
 **[[:ilo:obs:notes:frames:44-04|<<]] | [[:ilo:obs:notes:44|Up]] | [[:ilo:obs:notes:frames:44-06|>>]]**
