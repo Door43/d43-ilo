@@ -2,21 +2,20 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-05.jpg?nolink&}}
 
-Isu nga inted ti Dios ti didigra iti timtimel ken ti didigra dagiti ngilngilaw. Ket pinaayaban manen ti Pharaoh da Moses ken Aaron ken imbaga na a nu ikkaten da dagiti dididgra ket palubusan na dagiti Israelita a pumanaw idiay Egypt. Idi nagkararag ni Moses ket inikkat ti Dios dagiti ngilaw manipud idiay Egypt. Ngem pinatangken manen ti Pharaoh ti puso na ket saan na a pinalubusan a pumanaw dagiti tattao
+Isu nga inted ti Dios ti didigra ti timtimel ken ti didigra dagiti ngilngilaw. Ket pinaayaban manen ti Pharaoh da Moses ken Aaron ken imbaga na a nu ikkaten da dagiti dididgra ket palubusan na dagiti Israelita a pumanaw idiay Egypt. Idi nagkararag ni Moses ket inikkat ti Dios dagiti ngilaw manipud idiay Egypt. Ngem pinatangken manen ti Pharaoh ti puso na ket saan na a pinalubusan a pumanaw dagiti tattao
 
-===== Dagiti Napapateg Nga Balikas: =====
+===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:pharaoh]]**
-  * **[[:ilo:obe:other:moses]]**
-  * **[[:ilo:obe:other:aaron]]**
-  * **[[:ilo:obe:other:israel]]**
-  * **[[:ilo:obe:other:egypt]]**
-
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt ]]**
+  * **[[:ilo:obe:other:moses|Moses ]]**
+  * **[[:ilo:obe:other:aaron|Aaron]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel ]]**
+  * **[[:ilo:obe:other:egypt|Egypt, Egyptian ]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **nangted ti Dios iti didigra**  – This could be translated as, "God caused there to be a plague" or, "God caused a plague (of gnats) to come over the land of Egypt."
-  * **dagiti timel- ** These were tiny, biting insects flying in large swarms, annoying and landing on all the people and animals of Egypt.
-  * **dagiti ngilaw- ** These were much bigger flying insects that were both annoying and destructive. There were so many of these flies that they covered everything, even filling the Egyptians' houses**.**
-  * **pinatangken ti puso na- ** See note in **[[:ilo:obs:notes:frames:10-04|[10-04]]]**.
+  * **ti timtimel- **  These were tiny, biting insects flying in large swarms, annoying and landing on all the people and animals of Egypt.
+  * **dagiti ngilaw- **  These were much bigger flying insects that were both annoying and destructive. There were so many of these flies that they covered everything, even filling the Egyptians' houses**.**
+  * **pinatangken... ti puso na- **  See note in **[[:ilo:obs:notes:frames:10-04|[10-04]]]**.
 **[[:ilo:obs:notes:frames:10-04|<<]] | [[:ilo:obs:notes:10|Up]] | [[:ilo:obs:notes:frames:10-06|>>]]**
