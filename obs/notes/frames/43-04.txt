@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-04.jpg?nolink&}}
 
-Idi nangngeg dagiti tattao idiay Jerusalem ti ringgor ket immay dagiti adu a tattao tapno kitaen da no anya ti mapaspasamak. Idi nangngeg dagiti tattao nga ibagbaga dagiti namati kadagiti nakaskasdaaw nga araramid ti Dios ket nasdaaw da ta nangngeg da dagitoy manipud iti bukod da a pagsasao.
+Idi nangngeg dagiti tattao idiay Jerusalem ti ringgor ket immay ti dakkel a bungoy ti tattao tapno kitaen da no anya ti mapaspasamak. Idi nangngeg dagiti tattao nga ibagbaga dagiti namati dagiti nakaskasdaaw nga araramid ti Dios ket nasdaaw da ta nangngeg da dagitoy manipud iti bukod da a pagsasao.
 
 ===== Important Terms: =====
 
@@ -11,6 +11,6 @@ Idi nangngeg dagiti tattao idiay Jerusalem ti ringgor ket immay dagiti adu a tat
   * **[[:ilo:obe:kt:god|God]]**
 ===== Translation Notes: =====
 
-  * **a crowd**  - This could be translated as, "a crowd of people" or, "a large group of people."
-  * **the wonderful works of God**  - This could be translated as, "the amazing things that God had done."
+  * **dakkel a bungoy**  - daytoy ket mabalin met nga ipakaawat a kas, “dagiti naummong a tattao” wenno, “ti adu a bunggoy dagiti tattao."
+  * **nakaskasdaaw nga araramid ti Dios**  -  daytoy ket mabalin met nga ipakaawat a kas, “dagiti nakaskasdaaw nga inaramid ti Dios."
 **[[:ilo:obs:notes:frames:43-03|<<]] | [[:ilo:obs:notes:43|Up]] | [[:ilo:obs:notes:frames:43-05|>>]]**
