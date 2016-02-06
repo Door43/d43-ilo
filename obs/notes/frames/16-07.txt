@@ -2,21 +2,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-07.jpg?nolink&}}
 
-Iti kabigatan na ket nakita dagiti tattao nga adda nangperdi iti pagidatonan isua nagpungtot da iti kasta launay. Napan da iti balay ni Gideon tapno patayen da isuna ngem kinuna ti ama ni Gideon kadakuada, “Apay ta padpadasen yo a tulungan ti diosyo? Nu pudno isuna a maysa a dios  masalakniban na ti bagbagi na!” Gapo ta kasta ti imbaga na ket  saan dan a pinatay ni Gideon.
+Iti kabigatan na ket nakita dagiti tattao nga adda nangperdi iti pagidatonan isua nagpungtot da iti kasta launay. Napan da iti balay ni Gideon tapno patayen da isuna ngem kinuna ti ama ni Gideon kadakuada, “Apay ta padpadasen yo a tulungan ti diosyo? Nu pudno isuna a maysa a dios masalakniban na ti bagbagi na!” Gapo ta kasta ti imbaga na ket saan dan a pinatay ni Gideon.
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:other:altar|altar]]**
+  * **[[:ilo:obe:other:gideon|Gideon]]**
+  * **[[:ilo:obe:kt:falsegod|false god, foreign god, god, goddess ]]**
+==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **[[:ilo:obe:other:altar]]**
-  * **[[:ilo:obe:other:gideon]]**
-  * **[[:ilo:obe:kt:falsegod]]**
-
-
-==== Translation Notes: ====
-
-
-  * **Why are you trying to help your god?** - This is not a real question that asks for information. Another way of saying this would be, "You should not be trying to help your god" or, "You should not need to help your god."
-  * **If he is a god, let him protect himself** - This means, "If he were truly a god, he would be able to defend himself."
-
+  * **Apay ta padpadasen ... ti diosyo? ** – saan a pudno a saludsod daytoy nga dumawdawat iti damage. Iti sabali a wagas ti panagibaga iti daytoy ket, “saan yu kuma a padpadasen a tulungan ti dios yu.”
+  * **Nu pudno isuna a maysa a dios, masalakniban na ti bagbagi na! - **ti kaipapanan na daytoy, “Nu isuna ket pudno a dios, mabalinan na nga isalakan iti bukod na a bagi.”
 
 **[[:ilo:obs:notes:frames:16-06|<<]] | [[:ilo:obs:notes:16|Up]] | [[:ilo:obs:notes:frames:16-08|>>]]**
