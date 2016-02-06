@@ -2,19 +2,21 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-04.jpg?nolink&}}
 
-.Nangibaun ti Dios kadagiti karagiti intero nga Egypt. Idi nagpakpakaasi ti Pharaoh kenni Moses nga ikkatenna dagitoy. Ngem kalpasan  a nataydagitiamin a karagket pinatangken ti Pharaoh ti puso na ken saan na a pinalubusan a pumanaw dagiti Israelita.
+.Nangibaun ti Dios kadagiti karag iti intero nga Egypt. Idi nagpakpakaasi ti Pharaoh kenni Moses nga ikkatenna dagitoy. Ngem kalpasan a natay dagiti amin a karag ket pinatangken ti Pharaoh ti puso na ken saan na a pinalubusan a pumanaw dagiti Israelita.
 
-===== Dagiti Napapateg Nga Balikas: =====
+===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:egypt]]**
-  * **[[:ilo:obe:other:pharaoh]]**
-  * **[[:ilo:obe:other:beg]]**
-  * **[[:ilo:obe:other:moses]]**
-  * **[[:ilo:obe:other:israel]]**
-
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt ]]**
+  * **[[:ilo:obe:other:beg|beg, beggar]]**
+  * **[[:ilo:obe:other:moses|Moses]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **God sent frogs all over Egypt**  - This could be translated as, "God caused many frogs to appear throughout Egypt."
+  * ** Nangibaun ti Dios kadagiti karag ** - Mabalin a maibalikas daytoy kas, "pinaruar ti Dios ti adu a karag iti inetro Egypt."
   * **hardened his heart**  - He became stubborn again and refused to obey God.
+  * ** pinatangken ti Pharaoh ti puso na ** - Natuso manen isuna ken madi agtulnog iti Dios.
+
 **[[:ilo:obs:notes:frames:10-03|<<]] | [[:ilo:obs:notes:10|Up]] | [[:ilo:obs:notes:frames:10-05|>>]]**
