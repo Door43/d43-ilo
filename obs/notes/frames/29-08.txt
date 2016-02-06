@@ -6,20 +6,16 @@
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:king]]**
-  * **[[:ilo:obe:other:servant]]**
-  * **[[:ilo:obe:kt:forgive]]**
-  * **[[:ilo:obe:other:beg]]**
-  * **[[:ilo:obe:kt:evil]]**
-
-
-===== Translation Notes: =====
+  * **[[:ilo:obe:other:king|king]]**
+  * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
+  * **[[:ilo:obe:kt:forgive|forgive, forgiveness]]**
+  * **[[:ilo:obe:other:beg|beg, beggar ]]**
+  * **[[:ilo:obe:kt:evil|evil, wicked, wickedness]]**
+===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * (Jesus continues the story.)
-  * **called the servant** - That is, "commanded the servant to come to him" or, "ordered his guards to bring the servant to him."
-  * **begged me** - This could be translated as, "pleaded with me" or, "urgently asked me to be merciful."
-  * **You should have done the same** - That is, "You should have forgiven the man who owed you, just as I forgave you."
-  * **threw** - That is, "commanded his guards to put." Consider how "threw" was translated in frame **[[:ilo:obs:notes:frames:29-06|[29-06]]]**.
-
-
+  * **called the servant**  - That is, "commanded the servant to come to him" or, "ordered his guards to bring the servant to him."
+  * **begged me**  - This could be translated as, "pleaded with me" or, "urgently asked me to be merciful."
+  * **You should have done the same**  - That is, "You should have forgiven the man who owed you, just as I forgave you."
+  * **threw**  - That is, "commanded his guards to put." Consider how "threw" was translated in frame **[[:ilo:obs:notes:frames:29-06|[29-06]]]**.
 **[[:ilo:obs:notes:frames:29-07|<<]] | [[:ilo:obs:notes:29|Up]] | [[:ilo:obs:notes:frames:29-09|>>]]**
