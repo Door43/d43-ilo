@@ -6,24 +6,18 @@ Agarup sanga gasut a tawen kalpasan a dinadael dagiti taga Assyria ti pagarian t
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:other:assyria|Assyria, Assyrian, Assyrian Empire, Asshur]]**
+  * **[[:ilo:obe:other:kingdom-of-israel|kingdom-of-israel]]**
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:other:nebuchadnezzar|Nebuchadnezzar]]**
+  * **[[:ilo:obe:other:king|king (ari)]]**
+  * **[[:ilo:obe:other:babylon|Babylon, Babylonian]]**
+  * **[[:ilo:obe:other:kingdom-of-judah|kingdom-of-judah]]**
+  * **[[:ilo:obe:other:babylon|Babylon, Babylonian]]**
+  * **[[:ilo:obe:other:servant|servant, slave, slavery (adipen, tagabo, pannakatagabo)]]**
+==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **[[:ilo:obe:other:assyria]]**
-  * **[[:ilo:obe:other:kingdom-of-israel]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:nebuchadnezzar]]**
-  * **[[:ilo:obe:other:king]]**
-  * **[[:ilo:obe:other:babylon]]**
-  * **[[:ilo:obe:other:kingdom-of-judah]]**
-  * **[[:ilo:obe:other:babylon]]**
-  * **[[:ilo:obe:other:servant]]**
-
-
-==== Translation Notes: ====
-
-
-  * **empire** - See how you translated this in **[[:ilo:obs:notes:frames:20-02|[20-02]]]**.
-  * **agreed to be** – The king of Judah was forced to either serve the Babylonian king or be destroyed.
-  * **to be Nebuchadnezzar's servant** - This could be translated as, "to govern Judah under Nebuchadnezzar's command."
-
-
+  * **pagarian **- Kitaen nu kasatnum nga impakaawat daytoy daytoy idiay[20-02].
+  * **Immanogot nga- ** napilitan ti  ari iti Judah nga agserbi ti ari iti Babylonian wennu madadael.
+  * **Tapnun agbalin nga Adipen ni Nebuchadnezzar **- Daytoy ket mabalin nga ipakaawat a kas, “tapnun iturayan na iti Judah babaen iti bilbilin ni Nebuchadnezzar.”
 **[[:ilo:obs:notes:frames:20-05|<<]] | [[:ilo:obs:notes:20|Up]] | [[:ilo:obs:notes:frames:20-07|>>]]**
