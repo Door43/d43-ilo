@@ -2,27 +2,21 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-05.jpg?nolink&}}
 
-Kalpasan ti tallo ket kagudwa a tawen ket imbaga ti Dios kenni Elijah nga agsublin idiay pagarian ti Israel ket makisaonto ken ni Ahab agsipud ta iyeg manen ti Dios ti tudo. Idi nakita ni Ahab ni Elijah kinunana, “Addaka met gayam ditoy sika a manggulgulo! Ngem simmungbat ni Elijah ket kinuna, “Sika ti manggulgulo! Tinallikudam ni Yahwe, ti pudno a Dios ken dinayaw mo ni Baal. Ibaon mo dagiti amin a tattao ti pagarian ti Israel idiay bantay Carmel.”
+Kalpasan ti tallo ket kagudwa a tawen ket imbaga ti Dios kenni Elijah nga agsublin idiay pagarian ti Israel ket makisaonto ken ni Ahab agsipud ta iyeg manen ti Dios ti tudo. Idi nakita ni Ahab ni Elijah kinunana, “Addaka met gayam ditoy sika a manggulgulo! Ngem simmungbat ni Elijah ket kinuna, “Sika ti manggulgulo! Tinallikudam ni Yahweh, ti pudno a Dios ken dinayaw mo ni Baal. Ibaon mo dagiti amin a tattao ti pagarian ti Israel idiay bantay Carmel.”
 
 ===== Important Terms: =====
 
+  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:other:elijah|Elijah]]**
+  * **[[:ilo:obe:other:kingdom-of-israel|kingdom-of-israel]]**
+  * **[[:ilo:obe:other:ahab|Ahab]]**
+  * **[[:ilo:obe:kt:yahweh|Yahweh]]**
+  * **[[:ilo:obe:kt:worship|worship]]**
+  * **[[:ilo:obe:other:baal|Baal]]**
+==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:elijah]]**
-  * **[[:ilo:obe:other:kingdom-of-israel]]**
-  * **[[:ilo:obe:other:ahab]]**
-  * **[[:ilo:obe:kt:yahweh]]**
-  * **[[:ilo:obe:kt:worship]]**
-  * **[[:ilo:obe:other:baal]]**
-
-
-==== Translation Notes: ====
-
-
-  * **speak with Ahab because he was going to send** – This could be translated as, "tell Ahab that God was going to send."
-  * **you troublemaker** - This means, "You are a troublemaker!" Ahab was accusing Elijah of causing trouble by telling the king that he was doing wrong and also by stopping the rain.
-  * **You have abandoned Yahweh** - That is, Ahab had led Israel to stop worshiping and obeying Yahweh.
-  * **Mount Carmel** - Mount Carmel is the name of a mountain located in northern Israel. It is over 500 meters high.
-
-
+  * **Makisaonto kenni Ahab gapu ta mangibaun isuna **– Daytoy ket mabalin nga ipakaawat a kas, “Ia kenni Ahab nga ti Dios ket mangibaun.”
+  * **Sika nga manggulgulo- ** ti kaipapanan na daytoy ket, “managaramid ka iti gulo!” pabpabasulen ni Ahab ni Elijah nga isuna iti nagaramid iti gulo babaen iti panangibaga na iti ari nga agar’aramid isuna iti saan a nasayaat ken kasta met iti panagpasardeng na iti tudo.
+  * **Tinalikudam ni Yahweh- ** dayta ket, insuro ni Ahab dagiti Israelita nga isardeng da iti panagdayaw ken panagtulnog da iti Dios.
+  * **Bantay Carmel **– Iti bantay Carmel ket isu iti nagan ti bantay nga adda idiay lauden iti Israel. Nalablabes nga lima gasut a metro iti kangatu na.
 **[[:ilo:obs:notes:frames:19-04|<<]] | [[:ilo:obs:notes:19|Up]] | [[:ilo:obs:notes:frames:19-06|>>]]**
