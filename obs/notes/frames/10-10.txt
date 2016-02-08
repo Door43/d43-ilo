@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-10.jpg?nolink&}}
 
-Isua nangted ti Dios ti nakaad-adu a dudon iti intero nga Egypt. Ket kinnan dagiti dudon dagiti amin a mulmula a saan a naperdi diay tudo a yelo.
+Isua nangted ti Dios ti nakaad-adu a dudon iti intero nga Egypt. Ket kinnan dagiti dudon dagiti amin a mulmula a saan a naperdi diay uraro (tudo a yelo).
 
 ===== Dagiti Napapateg A Balikas: =====
 
@@ -11,5 +11,7 @@ Isua nangted ti Dios ti nakaad-adu a dudon iti intero nga Egypt. Ket kinnan dagi
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **swarms of locusts**  - Locusts are grasshoppers that fly together in swarms, or large groups, and that can destroy large areas of all kinds of plants and food crops by eating them.
+  * **nakaad-adu a dudon -** Dagiti dudon ket kasla rumsa wenno silam nga agtatayab iti dakkel a grupo ken manguram iti adu klase ti mula.
   * **hail**  - Hail is like chunks of ice that fall down from the clouds as rain does.
+  * **uraro -** Ti uraro ket panagtudo iti kasla napisipisi a yelo nga aggapu iti tangatang.
 **[[:ilo:obs:notes:frames:10-09|<<]] | [[:ilo:obs:notes:10|Up]] | [[:ilo:obs:notes:frames:10-11|>>]]**
