@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink&}}
 
-“Ngem ti nasayaat a daga ket ti tao a nakangngeg iti sao ti Dios ket pinati na daytoy ket ken nagbunga.”
+“Ngem ti nadam-eg a daga ket ti tao a nakangngeg iti sao ti Dios ket pinati na daytoy ket ken nagbunga.”
 
 ===== Important Terms: =====
 
@@ -11,9 +11,9 @@
   * **[[:ilo:obe:kt:believe|believe, believe in, belief ]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-  * (Jesus continues to explain the story.)
-  * **good soil**  - See how you translated this term in **[[:ilo:obs:notes:frames:33-05|[33-05]]]**.
-  * **is a person**  - See how you translated this comparison in **[[:ilo:obs:notes:frames:33-06|[33-06]]]**.
-  * **produce fruit**  - See how you translated this phrase in **[[:ilo:obs:notes:frames:33-08|[33-08]]]**.
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * (intuloy ni Jesus nga ipaliwanag ti istorya.)
+  * **nadam-eg a daga**- kitaen no kasano iti pannakaipakaawat na daytpy a balikas idiay **[[:ilo:obs:notes:frames:33-05|[33-05]]]**.
+  * **Ket ti tao**- kitaen no kasano iti pannakaipakaawat na daytoy a pannakaipada idiay **[[:ilo:obs:notes:frames:33-06|[33-06]]]**.
+  * **nagbunga **- kitaen no kasano iti pannakaipakaawat na daytoy a paset **[[:ilo:obs:notes:frames:33-08|[33-08]]]**.
+  * //Maysa nga istorya manipud iti bibliya a naggapu //- dagitoy a pangkitaan ket mabalin nga adda iti bassit a nagdumaan na  kadagiti dadduma a pannakaibalikas iti biblia.
 **[[:ilo:obs:notes:frames:33-08|<<]] | [[:ilo:obs:notes:33|Up]] | [[:ilo:obs:notes:frames:34-01|>>]]**
