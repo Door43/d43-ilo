@@ -1,10 +1,10 @@
-===== Ti Kararag Ti Relihyoso A Pangpangulo [34-07] =====
+===== Ti Kararag Ti Panguloen Ti Relihiyon [34-07] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink&}}
 
 “Kastoy ti panagkararag ti panguloen ti relihiyon ket ‘Agyamanak Apo Dios ket ta saanak a managbasol a kas kadagiti dadduma a tattao - kas kadagiti agtatakaw ket wenno dagiti saan a nalinteg a tattao ket dagiti mannakikamalala ket wenno kas iti dayta nga agsingsingir iti buwis.”
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
   * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
   * **[[:ilo:obe:kt:god|God ]]**
@@ -13,8 +13,8 @@
   * **[[:ilo:obe:other:taxcollector|tax collector]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-  * (intuloy ni Jesus iti istorya)
+  * (intuloy ni Jesus ti istorya)
   * **Kastoy ti panagkararag ti panguloen ti relihiyon **- iti sabali pay a pannakaibaga na ket mabalin nga, “kastoy ti panagkararag dagiti pangpangulo dagiti relihiyon” wennu, “dagiti pangpangulo iti relihiyon ket agkarkararag da a kastoy”.
-  * **saanak ****a managbasul ****a kas kadagiti dadduma a tao**- dayta ket, “saanak a kas kadakuada nga agbasbasul” wennu, “nalintegak, saan a kas kadakuada”
-  * **saan a nalinteg a tao**- dayta ket, “tattao nga saan a nalinteg” wennu, “tattao nga agar'aramid iti kinadakes” wennu, “saan a managtungpal iti linteg”.
+  * **saanak ****a managbasol ****a kas kadagiti dadduma a tao**- dayta ket, “saanak a kas kadakuada nga agbasbasul” wennu, “nalintegak, saan a kas kadakuada”
+  * **saan a nalinteg a tattao **- dayta ket, “tattao a saan a nalinteg” wenno, “tattao nga agar'aramid iti kinadakes” wenno, “saan a managtungpal iti linteg”.
 **[[:ilo:obs:notes:frames:34-06|<<]] | [[:ilo:obs:notes:34|Up]] | [[:ilo:obs:notes:frames:34-08|>>]]**
