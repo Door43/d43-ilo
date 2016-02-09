@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink&}}
 
-Iti maysa nga aldaw ket sinaludsod ni Peter kenni Jesus, “Apo ket mamin-anok kadi a pakawanen ti kabsat ko no makabasol isuna kaniak? Mamin pito kadi a daras?” Kinuna ni Jesus, “Saan laeng a mamin pitu no di ket mamin pitu a pitopulo!” Ti kayat a saoen ni Jesus iti daytoy ket kankanayon tayo kuma a mamakawan. Kalpasan daytoy ket sinarita ni Jesus daytoy nga istorya.
+Iti maysa nga aldaw ket sinaludsod ni Peter kenni Jesus, “Apo ket mamin-anok kadi a pakawanen ti kabsat ko no makabasol isuna kaniak? Mamin pito kadi a daras?” Kinuna ni Jesus, “Saan laeng a mamin pitu no diket maminpitu a pitopulo ken pitu!” Ti kayat a saoen ni Jesus iti daytoy ket kankanayon tayo kuma a mamakawan. Kalpasan daytoy ket sinarita ni Jesus daytoy nga istorya.
 
 ===== Important Terms: =====
 
@@ -13,9 +13,10 @@ Iti maysa nga aldaw ket sinaludsod ni Peter kenni Jesus, “Apo ket mamin-anok k
   * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **my brother**  - This term sometimes included people who were not actually siblings, but who shared another very strong connection such as religion, ethnic background, etc.
-  * **sins against me**  - This could also be translated as, "does something wrong against me."
-  * **Not seven times, but seventy times seven!**  - This could be translated as, "You should not forgive only seven times, rather you should forgive seventy times seven times." Jesus was not talking about an exact number. He was saying that we should forgive people every time they sin against us.
-  * **By this, Jesus meant**  - That is, "When Jesus said this he meant."
+  * **Maysa nga aldaw**- daytoy a sao ket ipakita na iti pasamak a naaramid iti napalabas, ngem saan na a saritaen iti naan’any a panawen. Adu a pagsasao iti addaan ti agpada a wagas ti pannakaibaga ti pudno nga istorya..
+  * **ti kabsat ko**- daytoy a sao nu maminsan ket ramanen na dagiti tattao a saan tayu a  talaga a kakabsat, ngem dagitoy dagiti nangiparikna iti nabileg a pannakikadua kas, dagitoy relihiyon, ken nainkabsatan, ken dadduma pay.
+  * **makabasol... kanyak**- daytoy ket mabalin nga ipakaawat na a kas, “nangaramid iti saan a nasayaat kanyak."
+  * **saan a maminpitu nudiket maminpitupulo ken pitu-**  daytoy ket mabalin nga ipakaawat a kas, “saan ka lang kuma a mammakawan iti mamin pitu, nu di ket maminpitu pulo ken pitu a daras.”Saan nga saritaen ni Jesus ditoy iti umiso a bilang. Ti kayat na saritaen ket pakawanen tayo dagiti tattao tunggal makabasul da kadatayu.
+  * **Ti kayat a saoen ni Jesus **- dayta ket, “idi sinarita ni Jesus daytoy ket agpaypaysu."
+
 **[[:ilo:obs:notes:frames:28-10|<<]] | [[:ilo:obs:notes:29|Up]] | [[:ilo:obs:notes:frames:29-02|>>]]**
