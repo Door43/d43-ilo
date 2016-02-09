@@ -2,9 +2,9 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink&}}
 
-“Pinaayaban ti ari ti katulong ket kinuna na ‘dakes ka nga adipen! Pinakawan ko ti utang mon agsipud ta nagpakaasi ka kanyak. Kasta met laeng koma ti inaramid mo.’ Nalaus ti pungtot ti ari ket impakulong na ti dakes nga adipen agingga a mabayadan na dagiti amin nga utang na.”
+“Pinaayaban ti ari ti adipen ket kinuna na ‘dakes ka nga adipen! Pinakawan ko ti utang mon agsipud ta nagpakpakaasi ka kanyak. Kasta met laeng koma ti inaramid mo.’ Nalaus ti pungtot ti ari ket impakulong na ti dakes nga adipen agingga a mabayadan na dagiti amin nga utang na.”
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
   * **[[:ilo:obe:other:king|king]]**
   * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
@@ -13,9 +13,9 @@
   * **[[:ilo:obe:kt:evil|evil, wicked, wickedness]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-  * (Jesus continues the story.)
-  * **called the servant**  - That is, "commanded the servant to come to him" or, "ordered his guards to bring the servant to him."
-  * **begged me**  - This could be translated as, "pleaded with me" or, "urgently asked me to be merciful."
-  * **You should have done the same**  - That is, "You should have forgiven the man who owed you, just as I forgave you."
-  * **threw**  - That is, "commanded his guards to put." Consider how "threw" was translated in frame **[[:ilo:obs:notes:frames:29-06|[29-06]]]**.
+  * (intuloy ni Jesus iti istorya.)
+  * **pinaayaban ti ari ti adipen**- dayta ket, “inbaga na iti adipen a mapan kenkuana” wenno, “bibilin na dagiti guardiya nga iyapan da kenkuana diay adipen."
+  * **nagpakpakaasi kanyak**- daytoy ket mabalin nga ipakaawat a kas, “dimmawat iti kaasi kanyak”, wenno, “dagus a dimmawat kanyak iti pannanga’asi."
+  * ** Kasta met laeng koma ti inaramid mo ** - dayta ket, “pinakawan moi kuma diay tao a nakautang kenka a kas panangpakawan ko met kanyam
+  * **pannakaikulong **- dayta ket, “inbilin na kadagiti guwardia nga ikabil da”. Kasatnu nga “impakulong” ket naipakaawat a kas idiay **[[:ilo:obs:notes:frames:29-06|[29-06]]]**.
 **[[:ilo:obs:notes:frames:29-07|<<]] | [[:ilo:obs:notes:29|Up]] | [[:ilo:obs:notes:frames:29-09|>>]]**
