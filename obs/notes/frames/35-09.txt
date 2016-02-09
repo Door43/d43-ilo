@@ -2,8 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?nolink&}}
 
-“Ngem kinuna ti ama iti maysa kadagiti adipen na, ‘darasem ti mapan mangala kadagiti kasasayaatan a bado ket isuot mo dagitoy iti anak ko! Ikkam pay iti singsing ti ramay na ken sapatos iti saka na. Partien yo pay diay kalulukmegan nga urbon ti baka ta agrambak tayo gapo ta natay ti maikadua a putot ko ngem ita ket sibibiag manen! Napukaw isuna ngem nasarakan manen!”
-
+“Ngem kinuna ti ama iti maysa kadagiti adipen na, ‘darasem ti mapan mangala kadagiti kasasayaatan a bado ket isuot mo dagitoy iti anak ko! Ikkam pay iti singsing ti ramay na ken sapatos iti saka na. Partien yo pay diay kalulukmegan nga urbon ti baka ta agrambak tayo gapo ta **natay i anak ko ngem sibiag itan sibibiag** manen! **N**apukaw ngem itan nasarakan**** manen!”
 ===== Dagiti Napapateg A Balikas: =====
 
   * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
@@ -13,7 +12,7 @@
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * (Jesus continues the story.)
-  * **the best calf**  - This could also be translated as, "the fattest calf." This was the calf that had been fattened so that when cooked it would taste the best.
-  * **My son was dead, but now he is alive!**  - That is, "This is like my son was dead and is alive again!" or, "I grieved as if my son had died, but now I rejoice because it is as if he has come back to life!" The father is using this expression to show how happy he is that his son has come home.
-  * **He was lost, but now he is is found!**  - That is, "This is like I had lost him but now I have found him." This expression also shows how happy the father is about having his son at home again.
+  * **ti kasayaatan a baka -** mabalin nga ipakaawat daytoy a kas, “ti kalukmegan a baka”. Dayoty ti baka a napalukmeg mayat iti raman na nu mailuto.
+  * **natay i anak ko, ngem itan sibibiag **- dayta ket, “maiyarig a natay iti anak ko ngem itan sibibag manen,” wenno, “agladingitak nu natay iti anak ko, ngem itan agrag-o ak ta nagsubli a sibibiag”. Inusar ti ama daytoy a panagiyebkas nu kasano ti ragsak na ta ti anak na ket nakaawiden”.
+  * **napukaw ngem itan nasarakan **- dayta ket, “maiyarig a napukaw ko ngem itan nasarakak”. Daytroy a panangiyebkas ket ipakita na no kasano iti karagsak diay ama ta adda manen iti anak na idiay balay da.
 **[[:ilo:obs:notes:frames:35-08|<<]] | [[:ilo:obs:notes:35|Up]] | [[:ilo:obs:notes:frames:35-10|>>]]**
