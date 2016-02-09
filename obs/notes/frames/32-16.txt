@@ -2,9 +2,9 @@
 
 i{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink&}}
 
-Napan nagparintumeng nga agtigtigerger ken permi a mabutbuteng ti babai iti sangoanan ni Jesus. Imbaga na kenkuana ti inaramid na ken ti pannakaagas na babaen iti daytoy. Kinuna ni Jesus kenkuana, “Inagasan na ka ti pammatim. Agawid ka nga addaan kappia.”
+Napan nagparintumeng nga agtigtigerger ken permi a mabutbuteng ti babai iti sangoanan ni Jesus. Imbaga na kenkuana ti inaramid na ken ti pannakaagas na babaen iti daytoy. Kinuna ni Jesus kenkuana, “Inagasan naka ti pammatim. Agawid ka nga addaan kappia.”
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
   * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:ilo:obe:kt:faith|faith]]**
@@ -12,10 +12,11 @@ Napan nagparintumeng nga agtigtigerger ken permi a mabutbuteng ti babai iti sang
   * **[[:ilo:obe:other:peace|peace, peaceful]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-  * **fell on her knees**  - That is, "quickly knelt down."
-  * **before Jesus**  - That is, "in front of Jesus."
-  * **shaking and very afraid**  - That is, "shaking with fear" or, "trembling because she was afraid."
-  * **Your faith has healed you.**  - This could also be translated as, "You have been healed because of your faith."
-  * **Go in peace.**  - People spoke this traditional blessing when they left each other. Other languages may say something similar such as, "Go well", "Go with God" or, "Peace." Other ways of translating it could be, "May you have peace as you go" or, "Go and know that all is well between us."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * **nagparintumeng **- dayta ket, “dagus a nagparintumeng."
+  * **iti sangoanan ni Jesus **- dayta ket, “iti sangoanan ni Jesus."
+  * **agtagtagerger ken permi a mabutbuteng **- dayta ket, “agtagtagerger iti nbuteng” wenno, “agtagtagerger gapo ta mabutbuteng."
+  * **inagasan naka iti pammatim -**  daytoy ket mabalin nga ipakaawat a kas, “naagasan ka gapo iti pammatim."
+  * **Agawid ka nga addaan kappia ****
+ -**  dagiti tattao ket saritaenngda daytoy a kas kadawyan nga ar’aramiden da nga panagibaga iti bendisyon no agsisina da iti tunggal maysa. Iti dadduma a pagsasao ket mabalin nga ibaga da,”nasayaat kuma iti ipapan mo”, “ti Dios ti sumurut kenka” wenno, “talna”. Iti sabali pay a pannakaipkaawat ket, “maaddaan ka kuma iti talna iti ipapan mo” wenno, Mapan ka ngem amuem nga nasayaat amin a banag iti adda kadata."
+  * //Maysa nga istorya  manipud bibliya a naggapu //- dagitoy a pangkitaan ket mabalin nga adda bassit iti nagdumaan na  kadagiti dadduma a pannakaibalikas iti biblia.
 **[[:ilo:obs:notes:frames:32-15|<<]] | [[:ilo:obs:notes:32|Up]] | [[:ilo:obs:notes:frames:33-01|>>]]**
