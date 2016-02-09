@@ -2,19 +2,19 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-09.jpg?nolink&}}
 
-Kalpasan na kinuna ni Hesus, “Kastoy met laeng ti aramiden ti Amak a nai laengitan kadakayo no saan yo a naimpusoan a pakawanen ti kabsat yo.”
+Kalpasan na kinuna ni Hesus, “Kastoy met laeng ti aramiden ti Amak a nainlangitan kadakayo no saan yo a naimpusoan a pakawanen ti kabsat yo.”
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]] said**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:ilo:obe:kt:godthefather|God the Father, Heavenly Father]]**
   * **[[:ilo:obe:kt:forgive|forgive, forgiveness]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-  * **Then Jesus said**  - Some languages may add, "to his disciples."
-  * **This**  - "This" refers back to the way the king punished the unforgiving servant in **[[:ilo:obs:notes:frames:29-08|[29-08]]]**.
-  * **my heavenly Father**  - That is, "my Father in heaven." Jesus is expressing his unique, personal relationship to God the Father.
-  * **your brother**  - See how you translated this in **[[:ilo:obs:notes:frames:29-01|[29-01]]]**.
-  * **from your heart**  - That is, "with sincerity" or, "truly" or, "genuinely" or, "honestly."
+  * **kinuna ni Jesus **- daaduma nga padsasao ket mabalin a mainayun, “kadagiti adalan na."
+  * **daytoy **- “Daytoy” maipapan iti ari no kasano na a dinusa diay adipen nga saan a nangpakawan iti **[[:ilo:obs:notes:frames:29-08|[29-08]]]**.
+  * **Ama a nainlangitan **- dayta ket, “ti amak nga adda sadi langit”. Iyeb’ebkas ni Jesus iti naidumduma, bukod na a pannakilanglangen iti Dios Ama.
+  * **ti kabsat yo **- kitaem no kasatnom nga ipakaawat daytoy kas iti **[[:ilo:obs:notes:frames:29-01|[29-01]]]**.
+  * **naimpusoan **- dayta ket, “addaan iti saan a panaginkukuna, wenno, “pudno”, wenno, ‘pudpudno” wenno, “awan inuulbod na."
   * //Maysa nga pakasaritaan iti Biblia a naGapo iti://  Dagiti nasarita iti daytoy nga istorya ket mabalin nga adda bassit ti nakaidumaan na manipud kadagiti dadduma a patarus ti Biblia.
 **[[:ilo:obs:notes:frames:29-08|<<]] | [[:ilo:obs:notes:29|Up]] | [[:ilo:obs:notes:frames:30-01|>>]]**
