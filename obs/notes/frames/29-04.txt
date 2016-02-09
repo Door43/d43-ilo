@@ -2,17 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink&}}
 
-“Ngem nagparintumeng ti katulong iti sangoanan ti ari ken nagpakpakaasi a kunkuna na, ‘Pangaasi yo ta maasian kayo kaniak. Bayadakto ti naan-anay a gatad ti nautang ko kenka. Naasian ti ari iti katulong isu pinakawan nan ti utang na ken pinalubusan nan daytoy a pumanaw a siwayawaya’.”
+“Ngem nagparintumeng ti adipen iti sangoanan ti ari ken nagpakpakaasi a kunkuna na, ‘Pangaasi yo ta maasian kayo kaniak. Bayadakto ti naan-anay a gatad ti nautang ko kenka. Naasian ti ari iti adipen isu pinakawan nan ti utang na ken pinalubusan nan daytoy a pumanaw a siwayawaya’.”
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
   * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
   * **[[:ilo:obe:other:king|king]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
-  * (Jesus continues the story.)
-  * **fell on his knees**  - That is, "quickly knelt down on the ground." This was a way to show his humility and his desire for the king to help him. Make sure it doesn't sound like he fell down accidentally.
-  * **before the king**  - This means, "in front of the king."
-  * **felt pity**  - That is, "felt compassion for" or, "felt sorry for." The king knew that the servant and his family would suffer greatly if they were sold into slavery.
-  * **canceled all of his debt**  - This can be translated as, "said that the servant did not need to pay back any of the money that he owed the king."
+  * ((intuloy ni Jesus diay istorya.)
+  * **nagparintumeng **- dayta ket, “dagus a nagparintumeng iti daga”. Daytoy iti wagas iti panagpakumbaba na ken iti tarigagay na a tulungan isuna iti ari. Siguraduen tayo nga kasla ketdin saan na nga inggagara iti nagparitumeng.
+  * **sanguanan ti ari **- saritaen na nga, “iti sanguanan ti ari."
+  * **naasian**- dayta ket, “pannaka rikna ti kaasi iti” wenno, “panangaasi iti.” Ammu ti ari nga agrigat ti adipen na agraman iti pamilya na no ilako na isuda.
+  * ** pinakawan nan ti ** **utang na**- daytoy ket mabalin nga ipakaawat a kas, “inbaga na iti adipen na a  saanen a masapul a bayadan na dagiti pirak a inutang na iti ari."
+
 **[[:ilo:obs:notes:frames:29-03|<<]] | [[:ilo:obs:notes:29|Up]] | [[:ilo:obs:notes:frames:29-05|>>]]**
