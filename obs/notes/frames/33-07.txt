@@ -2,18 +2,19 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink&}}
 
-“Ti kabatbatuan met ket ti tao a sirarag-o nakangngeg ken nangawat iti sao ti Dios ngem tinallikudan na daytoy idi nakapadas isuna ti kinarigat wenno pannakaidadanes.”
+“Ti kabatbatoan met ket ti tao a sirarag-o nakangngeg ken nangawat iti sao ti Dios ngem tinallikudan na daytoy idi nakapadas isuna ti kinarigat wenno pannakaidadanes.”
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
   * **[[:ilo:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]**
   * **[[:ilo:obe:kt:joy|joy, joyful]]**
   * **[[:ilo:obe:other:persecute|persecute, persecution]]**
-===== Pannakaipakaawat Kadagiti Sarsarita : =====
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * (Jesus continues to explain the story.)
-  * **rocky ground**  - See how you translated this term in **[[:ilo:obs:notes:frames:33-03|[33-03]]]**.
-  * **is a person**  - See how you translated this comparison in **[[:ilo:obs:notes:frames:33-06|[33-06]]]**.
-  * **accepts it with joy**  - That is, "believes it joyfully" or, "joyfully agrees that it is true."
-  * **falls away**  - That is, "no longer follows God or obeys him" or, "stops following or obeying God."
+  * ((Intuloy ni Jesus nga ilawlawag ti istorya.)
+  * **kabatbatoan **- kitaen no kasano a naipakaawat daytoy a balikas idiay **[[:ilo:obs:notes:frames:33-03|[33-03]]]**.
+  * **ket ti tao **-  kitaen no kasano a naipakaawat daytoy nga pannakaipada idiay **[[:ilo:obs:notes:frames:33-06|[33-06]]]**.
+  * **sirarag-o a nakangngeg**
+ - dayta ket, “patiem a sirarag-o wenno, “sirarag-o nga anamungam a pudno."
+  * **tinallikudan na **- dayta ket, “saanen a sumursurut ken agtultulnog iti Dios” wenno, “simmardeng a sumursurut ken agtultulnog iti Dios."
 **[[:ilo:obs:notes:frames:33-06|<<]] | [[:ilo:obs:notes:33|Up]] | [[:ilo:obs:notes:frames:33-08|>>]]**
