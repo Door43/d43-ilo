@@ -2,9 +2,9 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-06.jpg?nolink&}}
 
-Imbilin ti Dios kadagiti Israelita a saan da nga agar-aramid iti tulag a pannakikapya iti aniaman a bunggoy dagiti tattao idiay Canaan. Ngem nagulbod kenni Joshua ti maysa a tribu ti Canaan a maaw-awagan a Gibeonita. Imbaga da a naggapu da iti lugar nga adayu manipud idiay Canaan. Kiniddaw da ken ni Joshua nga agaramid da iti tulag a pannakikapya kadakuada. Saanen a sinalsaludsod ni Joshua ken dagiti Israelita iti Dios no sadinno ti naggappuan dagitoy a Gibeonita. Isua nagaramid ni Joshua iti tulag a pannakikapya kadakuada.
+Imbilin ti Dios kadagiti Israelita a saan da nga agar-aramid iti tulag a pannakikapia iti aniaman a bunggoy dagiti tattao idiay Canaan. Ngem nagulbod kenni Joshua ti maysa a tribu ti Canaan a maaw-awagan a Gibeonita. Imbaga da a naggapu da iti lugar nga adayu manipud idiay Canaan. Kiniddaw da ken ni Joshua nga agaramid da iti tulag a pannakikapya kadakuada. Saanen a sinalsaludsod ni Joshua ken dagiti Israelita iti Dios no sadinno ti naggappuan dagitoy a Gibeonita. Isua nagaramid ni Joshua iti tulag a pannakikapya kadakuada.
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
   * **[[:ilo:obe:kt:god|God]]**
   * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel ]]**
@@ -14,8 +14,8 @@ Imbilin ti Dios kadagiti Israelita a saan da nga agar-aramid iti tulag a pannaki
   * **[[:ilo:obe:other:joshua|Joshua]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **peace treaty**  – This is an agreement between two groups of people that they will not harm each other but will live in peace and help each other. This could be translated as, "peace agreement."
-  * **But one of the Canaanite people groups called the Gibeonites**  – Some languages may introduce this as, "But one day a Canaanite people group by the name of the Gibeonites …"
-  * **lied to Joshua and said**  - This could be translated as, "They lied to Joshua by saying" or, "They falsely said to Joshua" or, "They falsely told Joshua."
-  * **where the Gibeonites were from**  - That is, "where the Gibeonites lived" or, "where the Gibeonites' home was." "Gibeonites" means, "people of Gibeon."
+  * **tulag a pannakikapia **- daytoy ket maysa nga nagnumuan iti dua nga grupo ti tattao nga saan dan nga dangran iti maysa ngem di ket di agbibbiag iti kapia ken agtintinnulong da iti maysa ken maysa. Mabalin met nga ibalikas daytoy a kas, "nagnumuan maipapan iti kapia."
+  * **Ngem maysa kadagiti grupo ti tattao ti Canaan a maawagan iti Gibeonita**  - iti dadduma nga panagsao ket ipakaammo na nga, "Ngem iti maysa nga aldaw maysa kadagiti grupo ti tattao idiay Canaan nga nanaganan ti Gibeonites ..."
+  * **nagulbod kenni Joshua ket kinunana**  - Daytoy ket mabalin nga kastoy ti ballikas na, "Nag-ulbod da kenni Joshua nga kunada" wenno, "nagsao da ti saan nga pudno kenni Joshua" wenno, "saan nga pudno ti imbaga da kenni Joshua."
+  * **no sadinno ti nagapuan dagitoy Gibeonita**  - daytoy ket, "adinno iti pagiiyanan dagiti Gibeonites" wenno, "adinno ti balay dagiti Gibeonites." Ti "Gibeonites" ket kayat na nga saoen nga, "dagiti tattao iti Gibeon."
 **[[:ilo:obs:notes:frames:15-05|<<]] | [[:ilo:obs:notes:15|Up]] | [[:ilo:obs:notes:frames:15-07|>>]]**
