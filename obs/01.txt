@@ -4,7 +4,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?direct&}}
 
-Kastoy ti nagrugian dagiti amin a banbanag. Pinarsua ti Dios ti lubong ken amin nga adda sadiay iti uneg ti innim nga aldaw. Idi rugrugina, nakasepsepnget ken awan nagian iti daga ken awan pormana. Ngem ti Espiritu ti Dios ket adda sadiay rabaw ti danom.
+Kastoy ti pangrugian ti amin.Ti umuna nga inaramid ti Dios ket ti lubong.Ngem ti dayta nga panawen, awan pay ti anniayaman nga makita ti lubong gapu ta puro nga danum ken sipngit. Ngem Espirito ti Dios, addan iti lubong.
 
 
 
@@ -98,6 +98,6 @@ Idi dumteng iti maikapito nga aldaw ket nalpasen ti Dios ti amin nga aramiden na
 
 
 
-// //Maysa nga Istorya manipud iti Biblia a naggapu : Genesis 1-2//
+// // //Maysa nga Istorya manipud iti Biblia a naggapu : Genesis 1-2//
 
- ~~DISCUSSIONS: ON~~ //
+ ~~DISCUSSIONS: ON~~ // //
