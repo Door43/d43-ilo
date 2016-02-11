@@ -2,8 +2,9 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-09.jpg?nolink&}}
 
-Siasinoman a manglabsing kadagiti bilin ti Dios ket mabalin a mangipan iti ayup kas daton na iti Dios idiay dissu a pagdatunan iti sango ti Tolda a Paguummungan. Alaento ti padi diay ayup ken partien ken puuran na idiay dissu a __pagidatunan__. Abbongan ti dara ti ayup a naidatun dagiti basol diay nangidatag ken daytoy ti mangdalus kenkuana iti imatang ti Dios. Pinili ti Dios ni Aaron a kabsat ni Moses ken dagiti kaputotan na nga isuda ti agbalin a papadi na.
-===== Important Terms: =====
+Siasinoman a manglabsing kadagiti bilin ti Dios ket mabalin a mangipan iti ayup kas daton na iti Dios idiay dissu a pagdatunan iti sango ti Tolda a Paguummungan. Alaento ti padi diay ayup ken partien ken puuran na idiay dissu a pagidatunan. Kaluban ti dara ti ayup a naidatun dagiti basol diay nangidatag ken daytoy ti mangdalus kenkuana iti imatang ti Dios. Pinili ti Dios ni Aaron a kabsat ni Moses ken dagiti kaputotan na nga isuda ti agbalin a papadi na.
+
+===== Dagiti Napapateg A Balikas: =====
 
   * **[[:ilo:obe:other:disobey|disobey, disobedient, disobedience]]**
   * **[[:ilo:obe:kt:lawofmoses|law, law of Moses, God's law, law of Yahweh]]**
@@ -19,8 +20,8 @@ Siasinoman a manglabsing kadagiti bilin ti Dios ket mabalin a mangipan iti ayup 
   * **[[:ilo:obe:other:descendant|descendant (kaputotan)]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **God's law**  - This refers to all the commandments and instructions that God had told the Israelites to obey.
-  * **to the Tent of Meeting**  - They did not bring the animal inside the Tent of Meeting, but to the altar in front of the Tent of Meeting. Be sure not to use an expression that means that they brought it inside.
-  * **covered the person's sin**  - When people brought animals to sacrifice, God chose to see the blood of the animals as a covering over their sin. This is like hiding something that is ugly or dirty by covering it.
-  * **clean in God's sight**  - This could be translated as, "as if he did not have the sin according to God" or, "free of the punishment for breaking God's law."
+  * **bilin ti Dios**  – Maipapan daytoy kadagiti amin a bilbilin ken sursuro nga imbaga ti Dios a pagtulnogan dagiti Israelita.
+  * **ti Tolda a Paguummungan**  – Saan da nga impan ti ayup iti uneg ti Paguummungan no diket idiay altar iti ruar iti sango ti Tolda a Paguummungan. Siguradoen nga agusar iti sarita a mangipakaawat nga saan da impan idiay uneg.
+  * **kaluban ti dara... dagiti basol na**  – No impan ti tao ti ayup a maidaton ket pilien ti Dios a kitaen ti dara ti ayup kas kelleb iti basold da. Daytoy ket kasla panaglemmeng iti banag a pangit wenno narugit babaen iti pang-akkub.
+  * **mangdalus kenkuana iti imatang ti Dios**  - Mabalin a maibalikas daytoy kas, “kasla saan a nagbasol iti panagkita ti Dios” wenno, “nailibre iti dusa iti panaglabsing ti bilin ti Dios."
 **[[:ilo:obs:notes:frames:13-08|<<]] | [[:ilo:obs:notes:13|Up]] | [[:ilo:obs:notes:frames:13-10|>>]]**
