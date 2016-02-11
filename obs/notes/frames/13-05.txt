@@ -2,9 +2,9 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-05.jpg?nolink&}}
 
-“Saan kayu nga agaramid kadagiti didiosen ken saan yo a dayawen dagitoy gapu ta siak ni Yahweh a managimonak a Dios. Saan yo nga usaren ti nagan ko iti awan resrespeto na a wagas. Ngilinen yo ti aldaw a panaginana. Ti kayat na a saoen ket aramiden yo dagiti amin a trabaho yo iti uneg ti innem nga aldaw ngem ti maikapitu nga aldaw ket aldaw a panaginana ken pananglagip yo kanyak.”
+“Saan kayo nga agaramid kadagiti didiosen ken saan yo a dayawen dagitoy gapu ta siak ni Yahweh a managimonak a Dios. Saan yo nga usaren ti nagan ko iti awan resrespeto na a wagas. Ngilinen yo ti aldaw a panaginana. Ti kayat na a saoen ket aramiden yo dagiti amin a trabaho yo iti uneg ti innem nga aldaw ngem ti maikapitu nga aldaw ket aldaw a panaginana ken pananglagip yo kanyak.”
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
   * **[[:ilo:obe:other:idol|idol, idolatrous]]**
   * **[[:ilo:obe:kt:worship|worship]]**
@@ -15,9 +15,9 @@
   * **[[:ilo:obe:kt:sabbath|Sabbath]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * (God continues speaking to Moses.)
-  * **I, Yahweh, am a jealous God**  - This could be translated as, "I, Yahweh, will be angry if you worship or honor anything besides me." God strongly desires that his people love, serve, and obey Him more than anything or anyone else. He must be the only master of their lives.
-  * **Do not use my name in a disrespectful way**  - This could be translated as, "Do not talk about me in a way that does not show respect and honor" or, "Talk about me in a way that gives me proper respect and honor."
-  * **seventh day**  - To translate this, it is best to use the number ("seventh") rather than give the name of a specific day of the week.
-  * **to remember me**  - This could be translated as, "to keep me in mind" or, "to honor me."
+  * (Intuloy ti Dios nga agsao kenni Moses.)
+  * **siak ni Yahweh a managimun a Dios**  – Mabalin a maibalikas daytoy kas, “Siak ni Yahweh. Agungetak no agdayaw kayo wenno ipatpateg yo ti anyaman a sabsabali.” Dakkel ti tarigagay ti Dios iti panangayat ken panangserbi ken panagtulnog dagiti tattao kenkuana ngem iti anyaman wenno asinnoman. Kasapulan nga isuna laeng to apo kadagiti bibiag da.
+  * **Saan yo nga usaren ti nagan ko iti awan resrespeto na a wagas **- Mabalin a maibalikas daytoy kas, “Saan kayo agsasao maipapan kaniak iti awan respeto ken awan awan panangpateg” wenno, “Agsao kayo maipapan kaniak iti addaan respeto ken pannangipateg."
+  * **iti maikapitu nga aldaw**  – Ti panagbalikas iti daytoy ket mas nasayaat no usaren ti numero (“Mikapitu”) kaysa ti nagan ti aldaw ti lawas.
+  * **pananglagip yo kanyak**  - Mabalin a maibalikas daytoy kas, “kankanayon yo a laglagipen” wenno, “tapno ipatpateg yo siak."
 **[[:ilo:obs:notes:frames:13-04|<<]] | [[:ilo:obs:notes:13|Up]] | [[:ilo:obs:notes:frames:13-06|>>]]**
