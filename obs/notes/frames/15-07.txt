@@ -2,9 +2,9 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-07.jpg?nolink&}}
 
-Nakaunget dagiti Israelita idi natakuatan da nga inallilaw dagiti Gibeonita ida. Ngem sinurot da latta ti tulag a pannakikapya da kadakuada agsipud ta kari daytoy iti sanguanan ti Dios. Kalpasan ti sumagmamano a tiempo ket nadamag dagiti ari dagiti dadduma a tribu ti Canaan kas iti Amorita a nangaramid dagiti Gibeonita iti katulagan a pannakikapya kadagiti Israelita. Isua pinagmaymaysa da dagiti suldado da tapno darupen da dagiti Gibeonita. Ngem nangipatulod iti mensahe dagiti Gibeonita kenni Joshua tapno dumawat da iti tulong.
+Nakaunget dagiti Israelita idi natakuatan da nga inallilaw dagiti Gibeonita ida. Ngem sinurot da latta ti tulag a pannakikapya da kadakuada agsipud ta kari daytoy iti sanguanan ti Dios. Kalpasan ti sumagmamano a tiempo ket nadamag dagiti ari dagiti dadduma a tribu ti Canaan kas iti Amorita a nangaramid dagiti Gibeonita iti katulagan a pannakikapya kadagiti Israelita. Isua pinagmaymaysa da dagiti suldado da tapno darupen da dagiti Gibeonita. Ngem nangipatulod dagaiti Gibeonita iti mensahe kenni Joshua tapno dumawat da iti tulong.
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
   * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
   * **[[:ilo:obe:other:gibeon|Gibeon, Gibeonite]]**
@@ -16,7 +16,7 @@ Nakaunget dagiti Israelita idi natakuatan da nga inallilaw dagiti Gibeonita ida.
   * **[[:ilo:obe:other:amorite|Amorite]]**
   * **[[:ilo:obe:other:gibeon|Gibeon, Gibeonite]]**
   * **[[:ilo:obe:other:joshua|Joshua]]**
-==== Translation Notes: ====
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **sent a message to Joshua asking for help**  - This could be translated as, "sent some of their people to tell Joshua that they needed the Israelites to help defend them against their enemies."
+  * **nangipatulod dagiti Gibeonita iti mensahe kenni Joshua a dumawdawat iti****tulong**  - Mabalin nga ibalikas daytoy a, "nangibaon da iti sumagmamano kadagiti tattao da tapno ibagada kenni Joshua a kasapulan da dagiti Israelita tapno tulungan da isuda a mangsalaknib kadakuada manipud kadagiti kabusor da"
 **[[:ilo:obs:notes:frames:15-06|<<]] | [[:ilo:obs:notes:15|Up]] | [[:ilo:obs:notes:frames:15-08|>>]]**
