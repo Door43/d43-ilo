@@ -2,98 +2,68 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?direct&}}
 
-This is how the beginning of everything happened. God created the universe and everything in it in six days. At first, the earth was dark and empty, and nothing had been formed in it. But God's Spirit was there over the water.
+Kastoy ti nagrugian dagiti amin a banbanag. Pinarsua ti Dios ti lubong ken amin nga adda sadiay iti uneg ti innim nga aldaw. Idi rugrugina, nakasepsepnget ken awan nagian iti daga ken awan pormana. Ngem ti Espiritu ti Dios ket adda sadiay rabaw ti danom.
 
-Kastoy ti nagrugian dagiti amin a banbanag. Pinarsua ti Dios ti lubong ken amin nga adda sadiay iti uneg ti innim nga aldaw. Idi rugrugina, nakasepsepnget ken awan nagian iti daga ken awan pormana. Ngem ti Espiritu ti Dios ket adda sadiay rabaw ti danum. {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?direct&}}
 
-Then God spoke and said, "Let there be light!" And there was light. God saw that the light was good and called it "day." He separated it from the darkness, which He called "night." God created the light on the first day of creation.
-
-Tatta, kinuna ti Dios, “Maadda ti lawag.” Ket naada ti lawag. Nakita ti Dios a ti lawag ket nasayaat ket inawagan na a "aldaw". Insina na ti aldaw manipud iti kasepngetan ket inawagan na "rabii." Pinarsuan ti Dios ti lawag iti ummuna nga aldaw iti panagparsua.
+Kalpasanna kinuna ti Dios, “Maadda ti lawag.” Ket naada ti lawag. Nakita ti Dios a ti lawag ket nasayaat ken inawaganna nga “aldaw”. Insinana ti aldaw manipud iti kinasepnget ket inawagan na ti “rabii.” Pinarsua ti Dios ti lawag idi ummuna nga aldaw ti panagparsua.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?direct&}}
 
-On the second day of creation, God spoke and created the sky above the earth.
-
-Ti maikadwa nga aldaw, nagsao ti Dios ket naparsua ti tangatang iti rabaw ti daga.
+Ti maikadwa nga aldaw ket nagsao ti Dios ket naparsua ti tangatang iti rabaw ti daga. Inaramidna ti tangatang babaen iti panagsinana iti danom sadiay akin ngatu ken dadiay danom nga adda sadiay baba.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?direct&}}
 
-On the third day, God spoke and separated the water from the dry land. He called the dry land "earth," and He called the water "seas."
-
-Ti maikatlo nga aldaw, nagsao manen ti Dios ket naisina ti danom iti daga. Inawagan na ti namaga a "daga" ken inawagan na ti danom a "baybay".
+Ti maikatlo nga aldaw ket nagsao manen ti Dios ket naisina ti danom manipud iti daga. Inawaganna ti namaga a paset a “daga” ken inawagan na ti danom a “baybay”. Nakita ti Dios nga ti pinarsuana ket nasayaat.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg?direct&}}
 
-Then God said, "Let the earth produce all kinds of trees and plants." And that is what happened. God saw that what He had created was good, and He was pleased with it all.
-
-Kalpasanna kinuna ti Dios “Agtubo amin nga klase/itsura nga kaykayo ken mulmula." Ket kasta iti napasamak. Nakita ti Dios inaramid na ket naayatan.
+Kalpasanna kinuna ti Dios, “Agtubo amin a klase ti kaykayo ken mulmula.” Ket kasta iti napasamak. Nakita ti Dios ti inaramidna ket nasayaat.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-06.jpg?direct&}}
 
-On the fourth day of creation, God spoke and made the sun, the moon, and the stars. God made them to give light to the earth and to mark day and night, seasons and years.
-
-Ti makauppat nga aldaw, nagsao ti Dios ket naparsua ti araw, ti bulan, ken dagiti bituen. Pinarsua na dagitoy ta mangted da ti lawag iti lubong ken pagilasinan iti aldaw ken iti rabii, ken dagiti panpanawen ken tawtawen.
+Ti maikauppat nga aldaw ket nagsao manen ti Dios ket naparsua ti init ken ti bulan ken dagiti bituen. Pinarsuana dagitoy tapno mangtedda ti lawag iti lubong ken pagilasinan iti aldaw ken rabii ken dagiti panpanawen ken tawtawen. Nakita ti Dios ti inaramidna ket nasayaat.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg?direct&}}
 
-On the fifth day, God created everything that swims in the water and all the birds. God saw that it was good, and He blessed them.
-
-Ti mikalima nga aldaw, pinarsuan ti Dios amin nga aglalangoy iti danom ken amin a billit. Nakitan ti Dios dagitoy ket mayat ket binendesiona na ida.
+Ti maikalima nga aldaw ket pinarsua ti Dios amin nga aglalangoy iti danom ken amin a billit. Nakitan ti Dios dagitoy ket naayatan  ket binendesiona na ida.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg?direct&}}
 
-On the sixth day of creation, God said, "Let there be all kinds of land animals!" And it happened just like God said. Some were farm animals, some crawled on the ground, and some were wild. And God saw that it was good.
-
-Ti makainem nga aldaw a panangparsua, kinuna ti Dios, “Maadda ti agduduma nga animales iti rabaw to daga!" Ket napasamak a kas kinuna ti Dios. Ti dadduma kadagitoy ket maaramat iti panagtalon, ti dadduma ket agkaradap iti daga, ket ti dadduma ket atap. Idi nakita ti Dios dagitoy ket mayat.
+Ti maikaennem nga aldaw a panangparsua kinuna ti Dios, “Maadda ti agduduma nga ay-ayup iti rabaw __ti__ daga!” Ket napasamak a kas kinuna ti Dios. Ti dadduma kadagitoy ket maaramat iti panagtalon ket ti dadduma ket atap ken ti dadduma ket agkaradap iti daga,. Nakita ti Dios dagitoy ket naayatan isuna.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-09.jpg?direct&}}
 
-Then God said, "Let us make human beings in our image to be like us. They will have authority over the earth and all the animals."
-
-Ket kinunan ti Dios, “Agaramid tayo iti tattao a kas iti kalanglanga tayo. Maaddaan da iti kababalin iti daga/lubong ken amin nga animales."
+Ket kinunan ti Dios, “Agaramid tayo ti tattao a kaasping tayo. Maaddaan danto iti kababalin iti daga ken amin nga ay-ayup.”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg?direct&}}
 
-So God took some dirt, formed it into a man, and breathed life into him. This man's name was Adam. God planted a garden where Adam could live, and put him there to care for it.
-
-Isu nga nangala iti daga ti Dios, nagporma iti tao, santo na impuyut ti biag iti naporma na. Ti nagan datoy a tao ket Adan. Nag'aramid iti minuyungan ti Dios a pagyanan ni Adan, santo na impan idiay ta aywanana.
+Isua nangala ti Dios iti tapuk ket pinormana ti tao. Kelpasan daytoy, impuyutna iti angis iti biag iti naporma. Ti nagan datoy a tao ket Adam. Nag'aramid iti minuyungan ti Dios a pagyanan ni Adam ken insaadna iti daga ta agbantay  sadiay.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?direct&}}
 
-In the middle of the garden, God planted two special trees—the tree of life and the tree of the knowledge of good and evil. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would die.
-
-Ti tingnga ti minuyungan, nagtanem ti Dios iti duwa a sabsabali a kayo - kayo ti biag ken kayo ti pagammuan ti nasayaat ken dakes. Ket kinuna ti Dios kenni Adan a mabalin a magan iti aggapo iti inyaman a kayo, maliban iti aggapo iti kayo ti biag ken kayo ti pagammuan ti nasayaat ken dakes. No mangan isuna iti daytoy a kayo ket matay isuna.
+Nagtanem ti Dios iti dua a naidumduma a kayo iti tingnga ti minuyungan. Ti kayo ti biag ken ti kayo ti pannakaamo ti nasayaat ken dakes. Ket kinuna ti Dios kenni Adam a mabalin a mangan manipud iti inyaman a kayo malaksid iti aggapo iti kayo ti pannakaamo iti nasayaat ken dakes. No mangan isuna manipud iti daytoy a kayo ket matayto isuna.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?direct&}}
 
-Then God said, "It is not good for man to be alone." But none of the animals could be Adam's helper.
-
-Ita kinuna ti Dios, “Saan nasayaat agmaymaysa iti tao.” Kinunana dayta ngamin awan kadwa ni Adan kadagiti ayup,
+Ita kinuna ti Dios, “Saan a nasayaat nga agmaymaysa iti tao.” Ngem awan kadagiti ayup ti mabalin a makatulong kenni Adam
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-13.jpg?direct&}}
 
-So God made Adam fall into a deep sleep. Then God took one of Adam's ribs and made it into a woman and brought her to him.
-
-Isu nga pinaturog ti Dios ni Adan agingga narnekan ti turog na, nangala ti Dios iti paragpag na ket inaramid na nga babae santo na impan iti ayan ni Adan.
+Isua pinaturog ti Dios ni Adam agingga narnekan ti turog, Santo nangala ti Dios iti maysa a paragpagna ket inaramidna daytoy a babae ken inyegna ti babae kenkuana.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg?direct&}}
 
-When Adam saw her, he said, "At last! This one is like me! Let her be called 'Woman,' for she was made from Man." This is why a man leaves his father and mother and becomes one with his wife.
-
-Idi makita ni Adan ti babae, naragsakan. Kinuna, “Agyamanak gapu ta addan ti kadwak nga kapadak. Awagak ti 'babae' gapu ta naggapu iti lalaki.” Daytoy itigapu isu nga panawan ti lalake dagiti nagannak na tapno agmaymaysa da iti asawana.
+Idi nakita ni Adam ti babae ket naragsakan isuna. Kinunana, “Agyamanak gapo ta addan ti kadwak a kapadpadak. Awagak isuna iti babae gapo ta naggapu daytoy iti lalake.” Daytoy iti gapo isua panawan ti lalake dagiti nagannak na tapno tumipon  iti asawana.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg?direct&}}
 
-God made man and woman in His own image, and He saw that it was very good. He blessed them and told them, "Have many children and grandchildren and fill the earth!" This all happened on the sixth day of creation.
-
-Inaramid ti Dios iti lalake ken babae nga kapada ket nakita na nga nakasaysayaat. Binindisyunan ida ti Dios ket kinuna kada kuwada, “Aganak kayo ti adu agingga mapuno yo ti tao iti lubong.” Dayta ti napasamak iti mika'innem nga aldaw.
+Inaramid ti Dios iti lalake ken babae a kaasping na. Binendisyunan ti Dios ida ket kinunana kudakuada, “Aganak kayo ti adu agingga mapuno yo ti tao iti lubong.” Idi makita ti Dios iti amin nga inaramidna ket naayatan unay isuna. Dayta ti napasamak iti mika'innem nga aldaw ti panagparsua.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg?direct&}}
 
-When the seventh day came, God had already finished His work. So God rested from all He had been doing. He blessed the seventh day and made it holy, because on this day He rested from His work. This is how God created the universe and everything in it.
+Idi dumteng iti maikapito nga aldaw ket nalpasen ti Dios ti amin nga aramiden na. Isua naginana ti Dios manipud iti panagtrahona. Ket binendesyunan na ti makapito nga aldaw ken inaramid na a nasagradduan gamin ta iti dayta nga aldaw ket naginana isuna manipud iti panagtrabo. Kasta ti panangparsua ti Dios iti lubong ken dagiti amin a banbanag.
 
-Idi dumteng iti makapito nga aldaw, nalpasen amin ti trabaho nga aramiden ti Dios. Isu nga naginana ti Dios ket binendesyunana iti makapito nga aldaw ken inaramid na nasagradduan gapu ta naginana iti trabaho. Kasta ti panagparsuan ti Dios iti lubong ken dagiti amin nga adda sadiay.
-
-//A Bible story from: Genesis 1-2//
+//Maysa nga Istorya manipud iti Biblia a naggapu : Genesis 1-2//
 
  ~~DISCUSSIONS: ON~~
