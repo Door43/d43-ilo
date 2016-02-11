@@ -2,9 +2,9 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-10.jpg?nolink&}}
 
-Nagnunumuan dagiti tattao a tungpalen da dagiti bilin ti Dios ken dayawen da ti maymaysa a Dios ken agbalin da a naidumduma a tattao na. Ngem iti saan a mabayag kalpasan ti panagkari da nga agtulnog da iti Dios ket nagbasol da iti nakaro launay.
+Nagnunumuan dagiti tattao a tungpalen da dagiti bilin nga inted ti Dios kadakuada ken dayawen da ti maymaysa a Dios ken agbalin da a naidumduma a tattao na. Ngem iti saan a nabayag kalpasan ti panagkari da nga agtulnog da iti Dios ket nagbasol da iti nakaro launay.
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
   * **[[:ilo:obe:other:obey|obey, obedient, obedience ]]**
   * **[[:ilo:obe:kt:god|God]]**
@@ -13,8 +13,8 @@ Nagnunumuan dagiti tattao a tungpalen da dagiti bilin ti Dios ken dayawen da ti 
   * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning ]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **given them**  - This could be translated as, "told them to obey."
-  * **his special people**  - From among all the nations, God had chosen the Israelites for his special purpose. This could be translated as "his special nation" or, "his own people" or, "the nation he chose to be his people."
-  * **a short time**  – The people sinned during the forty days that Moses was on the mountain with God.
-  * **sinned terribly**  - They sinned in a way that was especially offensive to God. This could be translated as, "they sinned badly," or "they did something that was very bad" or, "they did something bad that made God very angry."
+  * **nga inted ti Dios kadakuada**  - Mabalin a maibalikas daytoy kas, “imbaga ti Dios a pagtulnogan da."
+  * **naidumduma a tattao na**  – Pinili ti Dios dagiti Israelita manipud kadagiti amin a nasnasyon para iti naisangsangayan a panggep ti Dios. Mabalin a maibalikas daytoy kas, “naisangsangayan a nasyon na” wenno, “tattao na mismo” wenno, “nasyon a pinili na agbalin a tattao na."
+  * **saan a nagbayag**  – Apagbiit a tiempo ket nagbasol dagiti tattao kabayatan ti uppat a pulo nga ladaw nga addaan ni Moses idiay bantay a kadwana ti Dios.
+  * **nagbasol da ti nakaro launay**  – Nagbasol da iti permi a mapakagura iti Dios. Mabalin a maibalikas daytoy kas, “Nagbasol da iti nakaro a kinadakes” wenno, “Adda inaramid a nagungetan ti Dios iti nakaro."
 **[[:ilo:obs:notes:frames:13-09|<<]] | [[:ilo:obs:notes:13|Up]] | [[:ilo:obs:notes:frames:13-11|>>]]**
