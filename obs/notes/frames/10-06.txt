@@ -6,10 +6,10 @@ Ti simmaruno ket pinagsakit ti Dios dagiti amin a dingwen dagiti taga Egypt ket 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:egypt|Egypt, Egyptian ]]**
-  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:egypt]]**
+  * **[[:ilo:obe:other:pharaoh]]**
+  * **[[:ilo:obe:other:israel]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **dingwen**  - Daytoy ket mipapan iti dadakkel nga ay-ayup nga usaren dagiti tagan Egypt iti trabaho agraman dagiti kabayo, donkey, camelyo, baka, karnero ken kalding.
