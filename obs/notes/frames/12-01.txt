@@ -6,13 +6,13 @@ Naragsak la unay dagiti Israelita a pimmanaw idiay Egypt. Saanda metten a tagabo
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:ilo:obe:other:egypt|Egypt, Egyptian ]]**
-  * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
-  * **[[:ilo:obe:kt:promisedland|Promised Land]]**
-  * **[[:ilo:obe:other:egypt|Egypt, Egyptian ]]**
-  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
-  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:other:egypt]]**
+  * **[[:ilo:obe:other:servant]]**
+  * **[[:ilo:obe:kt:promisedland]]**
+  * **[[:ilo:obe:other:egypt]]**
+  * **[[:ilo:obe:kt:believe]]**
+  * **[[:ilo:obe:kt:god]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
   * **Saan da mettenen a tagabo **- daytoy ket mabalin nga ipakaawat a kas, “pulos a saan da a tagabo."
