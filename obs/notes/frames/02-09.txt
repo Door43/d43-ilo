@@ -6,15 +6,13 @@ Kinuna ti Dios iti uleg, “Mailunod ka! Aguyas ka babaen iti tianmo ket mangan 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:curse|curse, cursed]]**
-  * **[[:ilo:obe:other:descendant|descendant]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:curse]]**
+  * **[[:ilo:obe:other:descendant]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **mailunod ka**  - daytoy ket mabalin met nga ipakaawat a kas, “ilunod ka” wenno, “umay ti daakel a peggad kenka”. Saan nga mangusar iti sao nga mangipakita ti magic.
-  * **agginnuranto met**
-- ti babae guraen na iti nuleg ket diay uleg guraen na diay babae. Guraen met ti kaputotan iti babae diay kaputotan iti uleg, ket diay kaputotan iti uleg ket guraen na met isuda.
-
+  * **agginnuranto met** - ti babae guraen na iti nuleg ket diay uleg guraen na diay babae. Guraen met ti kaputotan iti babae diay kaputotan iti uleg, ket diay kaputotan iti uleg ket guraen na met isuda.
   * **kaputotan ti babae**  - maipapan daytoy iti maysa kadagiti kaputotan na.
   * **rim-iten nanto ti ulom**  - ti kaputotan iti babae ket dadaelen na iti kaputotan ti uleg.
   * **sugatemto iti mukod na **- ti kaputotan iti uleg ket sugaten na iti kaputotan iti babae.
