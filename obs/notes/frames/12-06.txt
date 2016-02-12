@@ -6,9 +6,9 @@ Ket inkabil ti Dios diay munmun nga ulep iti nagbaetan dagiti Israelita ken dagi
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:ilo:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:other:egypt]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * **munmun nga ulep**  - kitaem nu kasanom nga ipakaawat daytoy a paset idiay **[[:ilo:obs:notes:frames:12-02|[12-02]]]**
