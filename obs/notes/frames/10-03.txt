@@ -6,10 +6,10 @@ Pinagbalin ti Dios a dara ti danum ti karayan a Nile ngem saanlattaa pinalubusan
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God ]]**
-  * **[[:ilo:obe:other:nileriver|Nile River, River of Egypt ]]**
-  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:nileriver|]]**
+  * **[[:ilo:obe:other:pharaoh]]**
+  * **[[:ilo:obe:other:israel]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **turned the Nile River into blood**  - Some languages may need to say, "turned the water in the Nile River into blood." Instead of water in the river there was blood, so the fish died and the people had no water to drink.
