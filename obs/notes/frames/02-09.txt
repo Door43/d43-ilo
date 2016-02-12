@@ -2,18 +2,21 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-09.jpg?nolink&}}
 
-Kinuna ti Dios iti uleg, “Mailunod ka! Agkaradap ka babaen iti buksit mo ket mangan ka ti rugit. Sika ken ti babai ket agginnura kayu iti tunggal maysa ken uray pay dagiti anannak yu ket agginnura met. Ti kapututan iti babai ket dangran nan tu ti ulom ket sugatem tu iti mukod na.”
+Kinuna ti Dios iti uleg, “Mailunod ka! Aguyas ka babaen iti tianmo ket mangan ka ti tapokt. Sika ken ti babai ket agginnura ken uray pay dagiti ananannakyo ket agginnuranto met. Ti kaputotan ti babai ket rim-iten nanto ti ulom ket sugatemto iti mukod na.”
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God (Dios)]]**
+  * **[[:ilo:obe:kt:god|God]]**
   * **[[:ilo:obe:kt:curse|curse, cursed]]**
-  * **[[:ilo:obe:other:descendant|descendant (kaputotan)]]**
+  * **[[:ilo:obe:other:descendant|descendant]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **nailunod ka**  - daytoy ket mabalin met nga ipakaawat a kas, “ilunod ka” wenno, “umay ti daakel a peggad kenka”. Saan nga mangusar iti sao nga mangipakita ti magic.
-  * **agginnura kayo iti tunggal maysa**  - ti babae guraen na iti nuleg ket diay uleg guraen na diay babae. Guraen met ti kapututan iti babae diay kapututan iti uleg, ket diay kapututan iti uleg ket guraen na met isuda.
-  * **kaputotan iti babae**  - maipapan daytoy iti maysa kadagiti kapututan na.
-  * **dangran na iti ulom**  - ti kaputotan iti babae ket dadaelen na iti kaputotan ti uleg.
-  * **sugaten na ta mukod mo**  - ti kaputotan iti uleg ket sugaten na iti kaputotan iti babae.
+  * **mailunod ka**  - daytoy ket mabalin met nga ipakaawat a kas, “ilunod ka” wenno, “umay ti daakel a peggad kenka”. Saan nga mangusar iti sao nga mangipakita ti magic.
+  * **agginnuranto met**
+ - ti babae guraen na iti nuleg ket diay uleg guraen na diay babae. Guraen met ti kaputotan iti babae diay kaputotan iti uleg, ket diay kaputotan iti uleg ket guraen na met isuda.
+  * **kaputotan ti babae**  - maipapan daytoy iti maysa kadagiti kaputotan na.
+  * **rim-iten nanto ti ulom**  - ti kaputotan iti babae ket dadaelen na iti kaputotan ti uleg.
+  * **sugatemto iti mukod na**
+ - ti kaputotan iti uleg ket sugaten na iti kaputotan iti babae.
+
 **[[:ilo:obs:notes:frames:02-08|<<]] | [[:ilo:obs:notes:02|Up]] | [[:ilo:obs:notes:frames:02-10|>>]]**
