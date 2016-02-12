@@ -6,12 +6,12 @@
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:egypt|Egypt, Egyptian]]**
-  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt ]]**
-  * **[[:ilo:obe:other:beg|beg, beggar]]**
-  * **[[:ilo:obe:other:moses|Moses]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:egypt]]**
+  * **[[:ilo:obe:other:pharaoh]]**
+  * **[[:ilo:obe:other:beg]]**
+  * **[[:ilo:obe:other:moses]]**
+  * **[[:ilo:obe:other:israel]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **God sent frogs all over Egypt**  - This could be translated as, "God caused many frogs to appear throughout Egypt."
