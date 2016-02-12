@@ -6,11 +6,11 @@ Sinungbatan ti uleg ti babae, “Saan a pudno dayta! saan kayonto a matay. Ammu 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:true|true, truth]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:good|good, goodness]]**
-  * **[[:ilo:obe:kt:evil|evil, wicked, wickedness]]**
+  * **[[:ilo:obe:kt:true]]**
+  * **[[:ilo:obe:kt:death]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:good]]**
+  * **[[:ilo:obe:kt:evil]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita: ====
 
   * **kas Dios**  - ti lalake ken iti babae ket naaramiden a kalanglanga ti Dios. Inbaga ti uleg iti babae nga agbalin pay a kas iti Dios nu maawatan na iti dakes. Numan pay kasdiay, ti Dios saan na nga inranta a maaddaan isuna iti kastoy a pannakaammu.
