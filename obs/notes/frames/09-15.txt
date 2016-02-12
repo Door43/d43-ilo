@@ -6,10 +6,10 @@ Nagbuteng ni Moses ket saan nan a kayat a mapan kenni pharaoh ta saan isuna a na
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:moses|Moses ]]**
-  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:aaron|Aaron]]**
+  * **[[:ilo:obe:other:moses]]**
+  * **[[:ilo:obe:other:pharaoh]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:aaron]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **was afraid and did not want to go**  - Moses knew that Pharaoh wanted to kill him, and he did not believe that he could do what God wanted him to do.
