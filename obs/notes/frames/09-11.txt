@@ -6,10 +6,10 @@ Nagbalin a tagapastor dagiti karnero ni Moses idiay kabakbakiran nga adayu manip
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:moses|Moses]]**
-  * **[[:ilo:obe:other:shepherd|pastor]]**
-  * **[[:ilo:obe:other:egypt|Egypt]]**
+  * **[[:ilo:obe:other:moses]]**
+  * **[[:ilo:obe:other:shepherd]]**
+  * **[[:ilo:obe:other:egypt]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita: ====
 
-  * **kabakbakiran, bakir - **  kitaen ti pannaibalikas iti daytoy idiay [[:ilo:obs:notes:frames:09-10|[09-10]]]**.**
+  * **kabakbakiran, bakir - **  kitaen ti pannaibalikas iti daytoy idiay **[[:ilo:obs:notes:frames:09-10|[09-10]]]**.
 **[[:ilo:obs:notes:frames:09-10|<<]] | [[:ilo:obs:notes:09|Up]] | [[:ilo:obs:notes:frames:09-12|>>]]**
