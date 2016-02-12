@@ -1,3 +1,4 @@
+
 ===== Binendisyonan ni Isaac ni Jacob [07-04] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-04.jpg?nolink&}}
@@ -6,12 +7,14 @@ Santu napan ni Jacob kenni Isaac ket kinunana, "Siak ni Esau. Immayak tapno bend
 
 ===== Dagiti Importante Nga Balikas: =====
 
-  * **[[:ilo:obe:other:jacob|Jacob, Israel]]**
-  * **[[:ilo:obe:other:isaac|Isaac]]**
-  * **[[:ilo:obe:other:esau|Esau]]**
-  * **[[:ilo:obe:kt:bless|(bendisyonan (v), binendisyonan (v), bendisyon (n))]]**
+  * **[[:ilo:obe:other:jacob]]**
+  * **[[:ilo:obe:other:isaac]]**
+  * **[[:ilo:obe:other:esau]]**
+  * **[[:ilo:obe:kt:bless]]**
+   
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **//napan ni Jacob kenni Isaac -// Iti dadduma nga sasao kasla nasaysayaat nga ibaga, "ni Jacob ket napan kenni Isaac" // // **
-  * **//ipagarup na nga isu ni Esau//**- //Ipagarup na nga ti ig'iggaman na ken ang'anguten ket ni Esau.//
+  * **napan ni Jacob kenni Isaac** - Iti dadduma nga sasao kasla nasaysayaat nga ibaga, "ni Jacob ket napan kenni Isaac" 
+  * **ipagarup na nga isu ni Esau**- Ipagarup na nga ti ig'iggaman na ken ang'anguten ket ni Esau.
+
 **[[:ilo:obs:notes:frames:07-03|<<]] | [[:ilo:obs:notes:07|Up]] | [[:ilo:obs:notes:frames:07-05|>>]]**
