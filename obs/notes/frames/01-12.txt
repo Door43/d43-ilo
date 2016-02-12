@@ -6,9 +6,9 @@ Ita kinuna ti Dios, “Saan a nasayaat nga agmaymaysa iti tao.” Ngem awan kada
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:tl:obe:kt:god|God]]**
-  * **[[:tl:obe:kt:good|good, goodness]]**
-  * **[[:tl:obe:other:adam|Adam]]**
+  * **[[:tl:obe:kt:god]]**
+  * **[[:tl:obe:kt:good]]**
+  * **[[:tl:obe:other:adam]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita: ====
 
   * **saan a nasayaat**  - daytoy iti umuna a gundaway a ti nakaiparsuan ket saan a nasayaat. Kayat na a saritaen ket, “saan pay a nasayaat” gapu ta saan pay a nalpas ti Dios iti panangparsua na iti tao.
