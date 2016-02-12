@@ -6,10 +6,10 @@ Saan latta a pinalubusan ti Pharaoh dagiti Israelita isu a nangyeg ti Dios idiay
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:egypt|Egypt, Egyptian]]**
-  * **[[:ilo:obe:kt:falsegod|false god, foreign god, god, goddess]]**
+  * **[[:ilo:obe:other:pharaoh]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:egypt]]**
+  * **[[:ilo:obe:kt:falsegod]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **the people**- This refers to the people of Israel, also called, "the Israelites."
