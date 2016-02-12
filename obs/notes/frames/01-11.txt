@@ -6,12 +6,12 @@ Nagmula ti Dios iti duwa a naidumduma a kayo iti tingnga ti minuyungan. Ti kayo 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:life|life, live, living, alive]]**
-  * **[[:ilo:obe:kt:good|good, goodness]]**
-  * **[[:ilo:obe:kt:evil|evil, wicked, wickedness]]**
-  * **[[:ilo:obe:other:adam|Adam]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:life]]**
+  * **[[:ilo:obe:kt:good]]**
+  * **[[:ilo:obe:kt:evil]]**
+  * **[[:ilo:obe:other:adam]]**
+  * **[[:ilo:obe:kt:death]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita: ====
 
   * **iti tengnga**  - ti nagtengngaan a paset ket ipakita na iti kinapateg ti dua a kayo.
