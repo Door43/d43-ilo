@@ -6,10 +6,10 @@ Sanga gasut a tawen iti napalpalabas ket nagsao ti Dios iti tao nga agnagan ti A
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:god|God (Dios)]]**
-  * **[[:ilo:obe:other:abraham|Abraham, Abram (Abraham, Abram)]]**
-  * **[[:ilo:obe:kt:bless|bless, blessed, blessing (bendisyonan (v), binendisyonan (v), bendisyon (n))]]**
-  * **[[:ilo:obe:kt:curse|curse, cursed]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:abraham]]**
+  * **[[:ilo:obe:kt:bless]]**
+  * **[[:ilo:obe:kt:curse]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **kalpasan iti ginasut a tawtawen ** - daytoy ket mabalin nga ipakaawat a kas, “adu a kaputotan kalpasan a dagiti tattao ket nagsisina da iti nadumaduma a bunggoy iti pagsasao idiay Babel ."
