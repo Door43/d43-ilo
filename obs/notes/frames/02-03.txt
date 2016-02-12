@@ -6,10 +6,10 @@ Simmungbat iti babai a kunana, “Imbaga ti Dios a mabalin mi kanen ti bunga ti 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:good|good, goodness]]**
-  * **[[:ilo:obe:kt:evil|evil, wicked, wickedness]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:good]]**
+  * **[[:ilo:obe:kt:evil]]**
+  * **[[:ilo:obe:kt:death]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita: ====
 
   * **bunga**  - saan tayo nga ammu nu anya nga bunga iti kayo daytoy. Ti ammu tayo laeng ket dimmakkel iti daytoy a kayo. Nu mabalbalin ket agusar tayo iti pangkaaduan a sao para iti daytoy a bunga, ket saan a diay sao a mangted iti umiso a nagan ti bunga.
