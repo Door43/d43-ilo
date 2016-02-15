@@ -2,17 +2,12 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-10.jpg?nolink&}}
 
-Kalpasan manen ti uppat apulo nga aldaw ket nagpatayab ti maysa nga uwak ni Noah tapno maammuan na no nagmagan ti daga. Nagtayab ti uwak ngem awan ti makita na a namaga a daga.
+kalpasan manen ti uppat pay a pulo nga aldaw nagpatayab ni Noah ti maysa nga uwak tapno maammuan na no nagmagan ti daga. Nag-tayab ti uwak ngem awan ti makita na a namaga a daga.
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
+  * **[[:ilo:obe:other:noah|Noah]]**
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **[[:ilo:obe:other:noah]]**
-
-
-===== Translation Notes: =====
-
-
-  * **raven** - A black bird that flies and eats a variety of plant and animal foods, including the rotting flesh of dead animals.
-
+  * **uwak **– Maysa a nangisit a billit a mangmangan iti maysa a klase ti mula ken dagiti kanen ti dengen minayon dagiti naduted wenno nalungsut a lames ken dengwen/ay-ayup.
 **[[:ilo:obs:notes:frames:03-09|<<]] | [[:ilo:obs:notes:03|Up]] | [[:ilo:obs:notes:frames:03-11|>>]]**
