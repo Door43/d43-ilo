@@ -1,21 +1,20 @@
-===== Impabarun Ti Dios Ti Katulagan [05-03] =====
+===== Impabaron Ti Dios Ti Katulagan [05-03] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-03.jpg?nolink&}}
 
-Kinuna ti Dios, “Siak ti Mannakabalin a Dios. Makitulagak kenka.” Ket nagdumog ni Abram iti daga. Imbaga met laeng ti Dios kenni Abram, “Sika ket agbalin nga Ama iti adu a nasyon. Ited konto kenka ken iti kapututam iti daga ti Canaan kas sanikua da. Ken Siak ti Dios da iti awan inggana. Kasapulan a makugit iti tunggal lalaki iti pamiliam.”
+Kinuna ti Dios, “Siak ti Mannakabalin a Dios. Makitulagak kenka.” Ket nagdumog ni Abram iti daga. Imbaga met lang ti Dios kenni Abram, “Sika ket agbalin nga Ama iti adu a nasyon. Ikkan ka ken iti kapututam iti daga ti Canaan kas sanikua da. Ken Siak ti Dios da iti awan inggana. Kasapulan a makugit iti tunggal lalaki iti pamiliam.”
 
 ===== Dagiti Napapateg Nga Balikas: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:covenant]]**
-  * **[[:ilo:obe:other:abraham]]**
-  * **[[:ilo:obe:other:descendant]]**
-  * **[[:ilo:obe:other:canaan]]**
-  * **[[:ilo:obe:kt:circumcise]]**
-
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:kt:covenant|covenant]]**
+  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ilo:obe:other:descendant|descendant]]**
+  * **[[:ilo:obe:other:canaan|Canaan, Canaanite]]**
+  * **[[:ilo:obe:kt:circumcise|circumcise, circumcision]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **ama ti adu a nasyon - **  adun tu ti kapututan ni Abram ken maaddaan idan tu ti bukod da a daga ken bukod da nga agituray kanya da. Dagitoy a kapututanan tu ken daduma pay ket malagip da ni Abram a kas ninuno da ket dayawen da isuna.
-  * **agbalinak a Dios da - **  Iti sabali nga pagBalikas **“**Agbalinak Dios da a dayawen da”.
-  * **maysa ken maysa a lalaki iti pamilya - **  Daytoy ket mabalin mabilikas a, “kada maysa nga lalaki iti pamilya, ubing man onu nataengan”.
+  * **ama ti adu a nasyon - **  adunto ti kaputotan ni Abram ken maaddaan idanto ti bukod da a daga ken bukod da nga agituray kanya da. Dagitoy a kapututanan tu ken daduma pay ket malagip da ni Abram a kas ninuno da ket dayawen da isuna.
+  * **siak ti Dios da - **  Iti sabali a pagBalikas **“**Agbalinak Dios da a dayawen da”.
+  * **maysa ken maysa a lalaki iti pamilya - **  Daytoy ket mabalin mabilikas a, “kada maysa a lalaki iti pamilya, ubing man onu nataengan”.
 **[[:ilo:obs:notes:frames:05-02|<<]] | [[:ilo:obs:notes:05|Up]] | [[:ilo:obs:notes:frames:05-04|>>]]**
