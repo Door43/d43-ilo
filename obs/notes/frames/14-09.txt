@@ -6,10 +6,10 @@ Idi nangngeg dagiti tattao daytuy ket nagbabawi da iti nagbasolan da. Innala da 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:ilo:obe:other:canaan|Canaan, Canaanite]]**
-  * **[[:ilo:obe:other:moses|Moses]]**
-  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:other:canaan]]**
+  * **[[:ilo:obe:other:moses]]**
+  * **[[:ilo:obe:kt:god]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **nagbasolan da**  – Mabalin a kasapulan a mainayon daytoy, “nagbasol da iti panaglabsing iti mandar ti Dios parukmaen da dagiti taga Canaan."
