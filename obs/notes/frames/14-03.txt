@@ -6,14 +6,14 @@ Kinuna ti Dios kadagiti Israelita, “Masapul a papanawen yo dagiti amin a Canaa
 
 ===== Dagiti Importante a Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelita, nation of Israel]]**
-  * **[[:ilo:obe:other:canaan|Canaan, Canaanite]]**
-  * **[[:ilo:obe:kt:promisedland|Promice land]]**
-  * **[[:ilo:obe:other:peace|peace, peaceful]]**
-  * **[[:ilo:obe:other:idol|idol, idolatrous]]**
-  * **[[:ilo:obe:other:obey|obey, obidient, obidience]]**
-  * **[[:ilo:obe:kt:worship|worship]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:other:canaan]]**
+  * **[[:ilo:obe:kt:promisedland]]**
+  * **[[:ilo:obe:other:peace]]**
+  * **[[:ilo:obe:other:idol]]**
+  * **[[:ilo:obe:other:obey]]**
+  * **[[:ilo:obe:kt:worship]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **liklikan ti-**  Daytoy ket mabalin nga ibalikas nga, "paruaren yu isuda iti daga, wenno, "ikkaten yu isuda iti daga."
