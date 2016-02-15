@@ -2,20 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?nolink&}}
 
-Kalpasan ti duwa bulan ket kinuna ti Dios kenni Noah, "Mabalin mettenen a rumuar kayo kadagiti pamilyam ken pati dagiti ayayup. Maaddaan kayo ti aannak ken aapo ket punnuen yu iti lubong. Isua rinummuar da Noah ken ti pamilya na iti daong.
+Kalpasan ti dua a bulan ket kinuna ti Dios ken Noah, “Mabalin kayon a rummuar dita daong. Paruarem metten ti pamilyam ken amin nga ayup. Aganak kayo ti adu ken maaddaan kayo iti adu nga apo ken punnuen yo ti tao ti daga. Isua rimmuar ngarud da Noah ken ti pamilya na manipud iti daong.
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:noah|Noah]]**
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:noah]]**
-
-
-===== Translation Notes: =====
-
-
-  * **Two months later** - This means two months after Noah released the dove from the ark. It may be necessary to say this explicitly if it is not clear.
-  * **Have many children** – To make sure it is clear that this was God's command and desire, you could say, "You must have many children." or, "I want you to have many children."
-  * **fill the earth** - If this is not clear, it may be necessary to say, "and fill the earth with people" or, "so that there will be many people living on the earth."
-
+  * **Kalpasan ti dua a bulan**  - Ti kayat a saoen daytoy ket kalpasan ti dua a bulan kalpasan nga imbulos diay kalapati manipud iti daong. Mabalin a kasapulan nga igunamgunam daytoy iti nalawag no saan a nalawag.
+  * **Kalpasan ti dua a bulan**  - Tapno nalawag a daytoy ket tarigagay ken mandar ti Dios ket mabalin a kuna. “Kasapulan nga maaddaan kayo iti adu nga aannak.” Wenno, “Kayat ko nga maaddaan kayo iti adu nga aannak."
+  * **punnuen yo ti tao ti daga**  – No saan a nalawag daytoy ket kasapulan a kuna, “tapno maaddanto iti nagad-adu a tattao nga agnanaed iti lubong."
 **[[:ilo:obs:notes:frames:03-12|<<]] | [[:ilo:obs:notes:03|Up]] | [[:ilo:obs:notes:frames:03-14|>>]]**
