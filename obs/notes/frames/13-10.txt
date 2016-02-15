@@ -6,11 +6,11 @@ Nagnunumuan dagiti tattao a tungpalen da dagiti bilin nga inted ti Dios kadakuad
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:obey|obey, obedient, obedience ]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:worship|worship]]**
-  * **[[:ilo:obe:kt:promise|promise]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning ]]**
+  * **[[:ilo:obe:other:obey]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:worship]]**
+  * **[[:ilo:obe:kt:promise]]**
+  * **[[:ilo:obe:kt:sin]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
   * **nga inted ti Dios kadakuada**  - Mabalin a maibalikas daytoy kas, “imbaga ti Dios a pagtulnogan da."
