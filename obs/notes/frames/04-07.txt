@@ -2,18 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-07.jpg?nolink&}}
 
-Iti maysa nga aldaw ket nagsabat da Abram ken Melchizedek a padi ti Kangatuan a Dios. Binendisyunan ni Melchizedek ni Abram a kinuna na, “Ti Dios ko a kangatuan a makinbagi ti langit ken daga ket bendisyunan naka Abram.” Ket inikan ni Abram ni Melchizedek ti apagkapullo ti amin a sanikuana.
+Iti maysa nga aldaw ket nagsabat da Abram ken Melchizedek a padi ti kangatoan a Dios. Binendisyonan ni Melchizedek ni Abram a kinuna na, “Bendisyonan naka koma ti Dios ko a kangatoan ken makinbagi ti langit ken daga.” Ket inted ni Abram kenni Melchizedek ti apagkapullo ti amin a sanikuana.
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:abraham]]**
-  * **[[:ilo:obe:kt:priest]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:bless]]**
-  * **[[:ilo:obe:kt:heaven]]**
+  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ilo:obe:kt:priest|priest, priesthood]]**
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:kt:bless|bless, blessed, blessing]]**
+  * **[[:ilo:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **Melchizedek ** - ni Melchizedek ket mabigbigbig a kas relihiyoso nga agturay idiay Canaan nga isu iti immawat ket mangiparang kadagiti datun iti Dios.
-  * **kangatuan a Dios ** - dagiti tattao idiay Canaan ket agrukrukbab da kadagiti adu a didiosen. Ti “Dios a kangatuan” ket ipalpalawag na a ti Dios a pagrukrukbaban ni Melchizedek ket adayu nga isu iti kangatuan a Dios kadakuada amin, ket isu met laeng ti Dios a pagrukrukbaban ni Abram .
-
+  * **Melchizedek **  - ni Melchizedek ket mabigbigbig a kas relihiyoso nga agturay idiay Canaan nga isu iti immawat ket mangiparang kadagiti datun iti Dios.
+  * **kangatoan a Dios **  - dagiti tattao idiay Canaan ket agrukrukbab da kadagiti adu a didiosen. Ti “Dios a kangatuan” ket ipalpalawag na a ti Dios a pagrukrukbaban ni Melchizedek ket adayu nga isu iti kangatoan a Dios kadakuada amin, ket isu met laeng ti Dios a pagrukrukbaban ni Abram .
 **[[:ilo:obs:notes:frames:04-06|<<]] | [[:ilo:obs:notes:04|Up]] | [[:ilo:obs:notes:frames:04-08|>>]]**
