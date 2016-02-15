@@ -2,13 +2,14 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-03.jpg?nolink&}}
 
-Kinuna ti Dios ken Noah, “Ti sukat ti daong nga aramidem, maysa a gasut ken uppat a metro ti kaatigdog, duapulo ket tallo metro ti akabana, ken sangapulo ket tallo ti kagudwa iti kangato na. Kayo a bangka iti aramidem. Aramidem a tallo a palapag adu a kuarto maysa ti bubong na. Dayta ti inted ti Dios ken Noah a plano. Isua babaen ti dakkel a daong maisalakan iti pamilya ni Noah ken amin a klase iti ayup.”
+Kinuna ti Dios ken Noah nga agaramid iti daong a ti kadakkel na ket a maysa a gasut ken uppat a pulo metro ti kaatiddogna ken duapulo ket tallo metro ti akabana ken sangapolo ket tallo ken kagudwa iti kangato na. Kayo iti aramiden na a daong. Ken aramiden na a tallo a palapag daytoy nga addaan iti adu a kuarto ken addaan iti atep ken maysa a tawaa. Ti daong ti mangisalakan iti pamilya ni Noah ken kadagiti amin a klase iti ayup kabayatan iti layus..”
 
 ===== Dagiti Napapateg A Balikas: =====
 
   * **[[:ilo:obe:kt:god|God]]**
   * **[[:ilo:obe:other:noah|Noah]]**
-===== Translation Notes: =====
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **the boat**  - The boat was big enough to carry eight people, two of every kind of animal, and their provisions for almost a year.
+  * **iti daong ** – Naananay ti kinadakkel ti daong a mangkarga iti walo a tattao ken tagdudua nga degwen/ay-ayup ken dagiti kasapulan iti umabut a maysa a tawen .
+
 **[[:ilo:obs:notes:frames:03-02|<<]] | [[:ilo:obs:notes:03|Up]] | [[:ilo:obs:notes:frames:03-04|>>]]**
