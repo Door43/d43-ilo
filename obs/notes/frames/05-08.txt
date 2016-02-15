@@ -1,22 +1,21 @@
-===== Ti Datun [05-08] =====
+===== Ti Daton [05-08] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-08.jpg?nolink&}}
 
-Idi nakadanun dan iti lugar ti pagidatonan ket binalud ni Abraham iti anak na a ni Isaac ket impaidda na iti pagdatonan nga altar. Papatayen na kuman iti putot na idi kinuna ti Dios, “Isardeng mo! Saan mo a dangran ta ubing. Ita naamuakon nga adda buteng mo kanyak gapu ta saan mo nga inpaidam ta putot mo kanyak.”
+Idi nakadanun dan iti lugar ti pagidatonan ket ginalutan ni Abraham iti anak na a ni Isaac ket impaidda na iti pagdatonan. Papatayen na kuman ti putot na idi kinuna ti Dios, “Isardeng mo! Saan mo a dangran ta ubing. Tattan naamuakon nga adda buteng mo kanyak gapo ta saan mo nga inpaidam ta bugtong a putot mo kanyak.”
 
-===== Dagiti Napapateg Nga Balikas: =====
+===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:sacrifice]]**
-  * **[[:ilo:obe:other:abraham]]**
-  * **[[:ilo:obe:kt:son]]**
-  * **[[:ilo:obe:other:isaac]]**
-  * **[[:ilo:obe:other:altar]]**
-  * **[[:ilo:obe:kt:god]]**
-
+  * **[[:ilo:obe:other:sacrifice|sacrifice, offering]]**
+  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ilo:obe:kt:son|son]]**
+  * **[[:ilo:obe:other:isaac|Isaac]]**
+  * **[[:ilo:obe:other:altar|altar]]**
+  * **[[:ilo:obe:kt:god|God]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **patayenna ti putot/anak na:**  Di kayat ti Dios ti datun a tao. Kayat laing ti Dios a makita kenni Abraham nga napatpateg ti panagayat na kanyana (ti Dios) ngem iti panag’ayatna iti putot/anak na. Ket tungpalen na ti ipa’aramid ti Dios ket isubli na ti putot/anak na iti Dios kas datun.
-  * **ustun! Saan mo saktan ta baro:**  Sinalakniban ti Dios ni Isaac ken nailisina ni Abraham a makapatay ti putot/anak na.
-  * **mabuting a kanyak:**  Managbuting ni Abraham iti Dios. Daytoy a klase ng panagbuting ket nilaomna ti respeto, buting ken pannangingato ti Dios (wenno tao). Gapu kadagitoy ket nagturnog ken inaramid na ti imbagan ti Dios.
-  * **bugtong a putot/anak mo:**  Ni Ismael ket maysa kadagiti putot ni Abraham, ngem ni Isaac laing ti putot na kenni Sarah. Ti katulagan ti Dios ket adda kenni Isaac ken matungpal ti katulagan babaen kenni Isaac.
+  * **patayenna ti putot na -** Di kayat ti Dios ti daton a tao. Kayat laeng ti Dios a makita kenni Abraham a napatpateg ti panagayat na kanyana (ti Dios) ngem iti panag’ayatna iti putot/anak na. Ken tungpalen na ti ipa’aramid ti Dios ket isubli na ti putot/anak na iti Dios kas daton.
+  * **Isardeng mo! Saan mo dangran ta ubing -** Sinalakniban ti Dios ni Isaac ken nailisina ni Abraham a makapatay ti putot/anak na.
+  * **adda buting mo kanyak -** Managbuting ni Abraham iti Dios. Daytoy a klase ng panagbuting ket nilaomna ti respeto, buting ken pannangingato ti Dios (wenno tao). Gapu kadagitoy ket nagturnog ken inaramid na ti imbagan ti Dios.
+  * **bugtong a putot mo -** Ni Ismael ket maysa kadagiti putot ni Abraham, ngem ni Isaac laing ti putot na kenni Sarah. Ti katulagan ti Dios ket adda kenni Isaac ken matungpal ti katulagan babaen kenni Isaac.
 **[[:ilo:obs:notes:frames:05-07|<<]] | [[:ilo:obs:notes:05|Up]] | [[:ilo:obs:notes:frames:05-09|>>]]**
