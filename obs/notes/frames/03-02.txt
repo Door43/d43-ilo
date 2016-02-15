@@ -2,21 +2,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-02.jpg?nolink&}}
 
-Ngem nakakita ti Dios iti kinasayaat kenni Noah laing. Isuna laing iti mayna a naturnog kadagiti dakes a tattao. Impakaammon ti Dios iti plano na a panaglayos iti daga. Isu a pinagaramid na ni Noah iti dakkel a daong.”
+Ngem ni Noah laeng ti naay-ayo iti imatang ti Dios. Isuna laeng ti natulnog a makipagnanaed kadagiti dakes a tattao. Impakaammon ti Dios iti panggep na a pananglayos iti daga. Isua pinagaramid na ni Noah iti dakkel a daong..”
 
-===== Important Terms: =====
+===== Dagiti Napapateg A Balikas: =====
 
+  * **[[:ilo:obe:other:noah|Noah]] **
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:kt:righteous|righteous, righteousness]]**
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **[[:ilo:obe:other:noah]] **
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:righteous]]**
-
-
-===== Translation Notes: =====
-
-
-  * **found favor** - God was pleased with Noah because he feared and obeyed God. So even though Noah was not sinless, God was gracious to him and made a plan to rescue his family from the devastating flood. Make sure this doesn't sound like Noah was lucky or that he just happened to escape. Rather, it was God's choice.
-  * **the flood** - See how you translated this in **[[:ilo:obs:notes:frames:03-01|[03-01]]]**.
-  * **planning to send** - God planned to cause deep water to cover the earth by sending a lot of rain. That is, he planned to cause the flood by causing a lot of rain to fall.
-
+  * **naay-ayo**  - Naayatan ti Dios kenni Naoh gapo ta managdayaw ken natulnog iti Dios. Urayno adda basol ni Noah, napaboran ti Dios isuna ken pinanggep na nga isalakan ti paliyana iti layus. Siguraduen a saan a gasanggasat wenno tsamba laeng a nakalasat ni Naoh ngem gagara ti pannakaisalakan ti Dios kanyada.
+  * **pananglayus **- Kitaen no kasano ti panagbalikas yo iti daytoy idiay **[[:ilo:obs:notes:frames:03-01|[03-01]]]**.
+  * **panggep **- Pinanggep ti Dios kalban ti daga iti naineg a danum babaen iti napigsa a panagtudo. Dayta ket panngep na ipalayus ti dga babaen panagtinnag na iti napigsa a tudo.
 **[[:ilo:obs:notes:frames:03-01|<<]] | [[:ilo:obs:notes:03|Up]] | [[:ilo:obs:notes:frames:03-03|>>]]**
