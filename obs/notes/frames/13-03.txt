@@ -6,9 +6,9 @@ Kalpasan iti tallo nga aldaw kalpasan a nagsagana dagiti tattao iti naispirituan
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God ]]**
-  * **[[:ilo:obe:other:sinai|Sinai, Mount Sinai]]**
-  * **[[:ilo:obe:other:moses|Moses ]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:sinai]]**
+  * **[[:ilo:obe:other:moses]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * **tallu aldaw **– Ti kayat na a saoen ket kalpasan a simmanpet da idiay Batay Sanai ken iti umunna nga agsao ti Dios kanyada.
