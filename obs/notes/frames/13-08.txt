@@ -6,10 +6,10 @@ Nangted pay ti Dios kadagiti Israelita iti nalawag a pannakailadawan ti ipaarami
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel ]]**
-  * **[[:ilo:obe:other:tentofmeeting|tent of meeting]]**
-  * **[[:ilo:obe:kt:highpriest|high priest]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:other:tentofmeeting]]**
+  * **[[:ilo:obe:kt:highpriest]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
   * **nalatak**  - Mabalin a maibalikas daytoy kas, “Dinetalyado ti Dios…” wenno, “Imbaga ti Dios ti naan-anay no kasano ti panagtungpal da."
