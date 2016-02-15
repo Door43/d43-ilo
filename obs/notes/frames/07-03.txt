@@ -2,21 +2,20 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-03.jpg?nolink&}}
 
-Kayat ni Isaac nga ited kenni Esau ti pamendisyon na. Ngem sakbay nga ited na ket inallilaw da Rebekah ken Jacob ni Isaac babaen ti panagpammarang ni Jacob nga isu ni Esau. Lakayen ni Isaac ket saanen a makakita. Isu nga inkawes ni Jacob dagiti badbado ni Esau ken nangikabel iti lalat ti kalding iti tingnged ken ima na.
+Kayat ni Isaac nga ited kenni Esau ti pamendisyon na. Ngem sakbay nga ited na ket inallilaw da Rebekah ken Jacob ni Isaac babaen ti panagpammarang ni Jacob nga isu ni Esau. Lakayen ni Isaac ket saanen a makakita. Isunga inkawes ni Jacob dagiti badbado ni Esau ken nangikael iti lalat ti kalding iti tingnged ken ima na.
 
-===== Dagiti Importante Nga Balikas: =====
+===== Dagiti Importante A Balikas: =====
 
-  * **[[:ilo:obe:other:isaac]]**
-  * **[[:ilo:obe:kt:bless]]**
-  * **[[:ilo:obe:other:esau]]**
-  * **[[:ilo:obe:other:rebekah]]**
-  * **[[:ilo:obe:other:jacob]]**
+  * **[[:ilo:obe:other:isaac|Isaac]]**
+  * **[[:ilo:obe:kt:bless|bless, blessed, blessing]]**
+  * **[[:ilo:obe:other:esau|Esau]]**
+  * **[[:ilo:obe:other:rebekah|Rebekah]]**
+  * **[[:ilo:obe:other:jacob|Jacob, Israel]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **ited na ti pamendisyona**  - Kustombren dagiti tatang nga opisyal nga ipakaammoda ti tarigagay da nga naiimbag nga banag nga kayat da nga mapasamak iti an'annak da. Kadawyan ket jay inauna nga nak ti umawat iti kapipintasan nga kari. Kayat ni Isaac nga ti sobra nga kinabaknang ket mapasamak kenni Esau.
-  * **inallilaw isuna**  -Ti balikas nga "inallilaw" ket kayat na nga sawen nga inggagara nga mangaramid ti maysa nga banag tapno allilawen ti maysa nga tao. Ni rebekah ket nagaramid ti maysa nga plano tapno allilawena ni Isaac ta maitedna kenni Jacob jay naisangsangayan nga bendisyon imbes nga ni Esau.
-  * **agpammarang **  - Ti sarita nga "agpammarang" ket ipakita na nu kasano nga ni Jacob ket maallilaw na ni tatang na (nga nakapuy unay ti pangkita na gapu iti kinalakay na).
-  * **lalat ti kalding** - Ti mabarbon nga lalat ti kalding ti namagbalin kenni Jacob nga kasla ni Esau.
-
-
+  * **ited... ti pamendisyona**  - Kustombren dagiti tatang nga opisyal nga ipakaammoda ti tarigagay da a naiimbag a banag a kayat da a mapasamak kadagiti an'annak da. Kadawyan ket diay inauna nga anak ti umawat iti kapipintasan a kari. Kayat ni Isaac a ti sobra a kinabaknang ket mapasamak kenni Esau.
+  * **inallilaw**
+ -Ti balikas nga "inallilaw" ket kayat na a sawen nga inggagara a mangaramid ti maysa a banag tapno allilawen ti maysa a tao. Ni rebekah ket nagaramid ti maysa a plano tapno allilawena ni Isaac ta maitedna kenni Jacob diay naisangsangayan a bendisyon imbes a mapan kenni Esau.
+  * **panagpammarang **  - Ti sarita nga "agpammarang" ket ipakita na nu kasano a ni Jacob ket maallilaw na ni tatang na (a nakapuy unay ti pangkita na gapo iti kinalakay na).
+  * **lalat ti kalding**  - Ti mabarbon a lalat ti kalding ti namagbalin kenni Jacob a kasla ni Esau.
 **[[:ilo:obs:notes:frames:07-02|<<]] | [[:ilo:obs:notes:07|Up]] | [[:ilo:obs:notes:frames:07-04|>>]]**
