@@ -2,20 +2,20 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-07.jpg?nolink&}}
 
-Idi naipasngay dagiti annak ni Rebekah ket nalabbaga ken barbonan ti immuna a rimuar ket ninaganan da isuna ti Esau. Rinomuar met ti ub'ubing nga ig'iggemanna ti mukod ni Esau ket ninaganan da isuna ti Jacob.
+Idi naipasngay dagiti annak ni Rebekah ket nalabbaga ken barbonan ti immuna a rimuar ket ninaganan da isuna ti Esau. Rinomuar met ti ub-ubing nga ig-iggemanna ti mukod ni Esau ket ninaganan da isuna ti Jacob.
 
-===== Dagiti Napapateg Nga Balikas: =====
+===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:rebekah]]**
-  * **[[:ilo:obe:kt:son]]**
-  * **[[:ilo:obe:other:esau]]**
-  * **[[:ilo:obe:other:jacob]]**
-
+  * **[[:ilo:obe:other:rebekah|Rebekah]]**
+  * **[[:ilo:obe:kt:son|son]]**
+  * **[[:ilo:obe:other:esau|Esau]]**
+  * **[[:ilo:obe:other:jacob|Jacob, Israel]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **naiyanak dagiti annak ni Rebekah**  - Adda da dagiti panagsasao nga adda saan a diretso ti wagas ti panangibaga da iti daytoy kas koma, "idi nakita Rebekah ket inala ida" wenno, "idi inruar ni Rebekah ida iti lawag."
-  * **ti inauna nga anak a lalaki**  - Mabalin a kastoy ti balikas na, "ti umna nga anak a lalaki a rumuar…ti maikadwa nga anak a lalaki a rumuar." Siguraduen a ti wagas ti pannakaibalikas ti "inauna" ken "ub'ubing" ket ipakaammona a singin dagitoy a duwwa.
+  * **naipasngay dagiti annak ni Rebekah**  - Adda da dagiti panagsasao nga adda saan a diretso ti wagas ti panangibaga da iti daytoy kas koma, "idi nakita Rebekah ket inala ida" wenno, "idi inruar ni Rebekah ida iti lawag."
+  * **imuna a rinumuar**
+ - Mabalin a kastoy ti balikas na, "ti umna nga anak a lalaki a rumuar…ti maikadwa nga anak a lalaki a rumuar." Siguraduen a ti wagas ti pannakaibalikas ti "inauna" ken "ub'ubing" ket ipakaammona a singin dagitoy a duwwa.
   * **nalabbaga**  - Mabalin a ti kudil na ket primi a nakalablabbaga wenno dagiti barbon iti bagi na ket nalabbaga.
   * **barbonan**  - Ni Esau ket nakaadadu ti barbon iti bagi na. Mabalin met nga ibagam a, "ti inauna nga anak a lalaki ket nalabbaga ti bagi na ken adu ti barbon na."
-  * **//Istorya a nagapu iti Biblia//**. Mabalin nga adda nagdumaan dagitoy iti dadduma a Balikas.
+  * //Maysa nga istorya a naggapu//  – Mabalin a naiduma bassit dagiti nasarita manipud kadagiti dadduma a pannakaibalikas ti Biblia.
 **[[:ilo:obs:notes:frames:06-06|<<]] | [[:ilo:obs:notes:06|Up]] | [[:ilo:obs:notes:frames:07-01|>>]]**
