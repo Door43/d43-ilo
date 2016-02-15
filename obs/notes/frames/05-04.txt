@@ -2,24 +2,26 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-04.jpg?nolink&}}
 
-“Ti asawam a ni Sarai ket maaddaan iti anak. Isu iti naikari nga anak. Panaganam isuna iti Isaac. Makitulagak kenkuana ket agbalin isuna a natan-ok a nasyon. Pagbalinek met ni Ishmael a natan-ok a nasyon ngem ti tulag ko ket para ken Isaac.” Ket ti Dios binaliwan na ti nagan nga Abram iti Abraham a ti kayat na a saoen ket “Ama iti adu”. Binaliwan met ti Dios ti nagan ni Sarai iti Sarah a ti kayat na a saoen ket, “prinsesa.”
+|  \\ “Ti asawam a ni Sarai ket maaddaan iti anak. Isu iti naikari nga anak. Panaganam isuna iti Isaac. Makitulagak kenkuana ket agbalin isuna a katan-okan a nasyon. Pagbalinek met ni Ishmael a katan-okan a nasyon ngem ti tulag ko ket adda ken Isaac.” Ket ti Dios binaliwan na ti nagan nga Abram iti Abraham a ti kayat na a saoen ket “Ama iti adu”. Binaliwan met ti Dios ti nagan ni Sarai iti Sarah a ti kayat na a saoen ket, “prinsesa.” \\  |
 
 ===== Dagiti Napapateg Nga Balikas: =====
 
-  * **[[:ilo:obe:other:sarah]]**
-  * **[[:ilo:obe:kt:son]]**
-  * **[[:ilo:obe:kt:promise]]**
-  * **[[:ilo:obe:other:isaac]]**
-  * **[[:ilo:obe:kt:covenant]]**
-  * **[[:ilo:obe:other:ishmael]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:abraham]]**
-
+  * **[[:ilo:obe:other:sarah|Sarah, Sarai]]**
+  * **[[:ilo:obe:kt:son|son]]**
+  * **[[:ilo:obe:kt:promise|promise]]**
+  * **[[:ilo:obe:other:isaac|Isaac]]**
+  * **[[:ilo:obe:kt:covenant|covenant]]**
+  * **[[:ilo:obe:other:ishmael|Ishmael]]**
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * (nagtultuloy a nagsao ti Dios kenni Abram.)
-  * **naikari a putot/anak**  – Ti “nainkari nga anak” wenno "naikari aputot" nga ited ti Dios kenni Sarai ken Abram maysa a lalaki. Ni Isaac met laing ti nikari nga anak nga usaren ti Dios a mangted kenni Abram ti adu a kaputotan.
-  * **agaramid nak iti katulagan kenkuana: **  Daytoy met laing ti katulangan nga imbagan ti Dios kenni Abram.
-  * **ama ti adu: **  Kas inkarin ti Dios ket agbalin ni Abraham a ninuno ti nagad’adu a tattao a mabalin nga agbalin nga adu a nasyon.
-  * **princesa: **  Ti princesa ket maysa nga anak ti ari. Ti nagan a Sarai ken Sarah ket ti kayat na a saoen siguro ket princesa. Ngem sinukatan ti Dios ti nagan a Sarai ti Sarai ta mangipaammo nga isuna ket agbalin a ina iti adu a nasyon ket agbalin nga ari ti dadduma a kaputotan na.
+  * **naikari a anak**
+ - Ti “nainkari nga anak” wenno "naikari aputot" nga ited ti Dios kenni Sarai ken Abram maysa a lalaki. Ni Isaac met laeng ti nikari nga anak nga usaren ti Dios a mangted kenni Abram ti adu a kaputotan.
+  * **makitulagak kenkuana - **Daytoy met laing ti katulangan nga imbagan ti Dios kenni Abram.
+  * **ama iti adu - ** Kas inkarin ti Dios ket agbalin ni Abraham a ninuno ti nagad’adu a tattao a mabalin nga agbalin nga adu a nasyon.
+  * **princesa - ** Ti princesa ket maysa nga anak ti ari. Ti nagan a Sarai ken Sarah ket ti kayat na a saoen siguro ket princesa. Ngem sinukatan ti Dios ti nagan a Sarai ti Sarah ta mangipaammo nga isuna ket agbalin a ina iti adu a nasyon ket agbalin nga ari ti dadduma a kaputotan na.
 **[[:ilo:obs:notes:frames:05-03|<<]] | [[:ilo:obs:notes:05|Up]] | [[:ilo:obs:notes:frames:05-05|>>]]**
+
+\\
