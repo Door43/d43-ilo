@@ -6,8 +6,8 @@ Ket iti maikapito nga aldaw nagmartsa manen dagiti Israelita iti aglawlaw ti siu
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:ilo:obe:kt:priest|priest, priesthood]]**
+  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:kt:priest]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
   * **Bayat ti panagmartsa da nga agpalawlaw iti siudad… iti maudi a daras **- Mabalin nga ibalikas daytoy nga, "bayat iti maudi nga panagnartsa da nga agpalawla iti siyudad."
