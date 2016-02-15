@@ -2,16 +2,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-09.jpg?nolink&}}
 
-Ket nakita ni Abraham iti bulog a karnero iti saan nga adayo a naisalat iti maysa a kayo. Nangisabet ti Dios iti daton a bulog a karnero imbes a ni Isaac. Siraragsak ni Abraham a nangidaton iti bulog a karnero.
+Ket nakita ni Abraham iti bulog a karnero iti saan nga adayu a naisabit iti maysa a kayo. Nangisabet ti Dios iti datom a bulog a karnero imbes a ni Isaac. Naragsakan ni Abraham a nangidaton iti bulog a karnero.
 
-===== Dagiti Napapateg Nga Balikas: =====
-  * **[[:ilo:obe:other:abraham]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:sacrifice]]**
-  * **[[:ilo:obe:other:isaac]]**
+===== Dagiti Napapateg A Balikas: =====
 
+  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:sacrifice|sacrifice, offering]]**
+  * **[[:ilo:obe:other:isaac|Isaac]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **bulog a kalding**: Kalding ti maysa kadagiti ayup a mabalin a maidatun iti Dios.
-  * **nangted ti Dios ti bulog a kalding:**  Iti naananay a kanito ket pinasabit ti Dios ti maysa a bulog a kalding iti ayan ti babassit a kayo.
+  * **bulog a karnero -** Kalding ti maysa kadagiti ayup a mabalin a maidatun iti Dios.
+  * **nangisabet ti Dios... a bulog a karnero -** Iti naananay a kanito ket pinasabit ti Dios ti maysa a bulog a karnero iti ayan ti babassit a kayo.
 **[[:ilo:obs:notes:frames:05-08|<<]] | [[:ilo:obs:notes:05|Up]] | [[:ilo:obs:notes:frames:05-10|>>]]**
