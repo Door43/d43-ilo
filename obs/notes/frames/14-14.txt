@@ -6,14 +6,14 @@ Kalpasan ti panagalla-alla dagiti Israelita idiay kabakbakiran iti las-ud ti upp
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel ]]**
-  * **[[:ilo:obe:other:rebel|rebel, rebellious]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:promisedland|Promised Land]]**
-  * **[[:ilo:obe:other:moses|Moses]]**
-  * **[[:ilo:obe:other:joshua|Joshua]]**
-  * **[[:ilo:obe:kt:promise|promise]]**
-  * **[[:ilo:obe:kt:prophet|prophet, prophecy, prophesy, seer ]]**
+  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:other:rebel]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:promisedland]]**
+  * **[[:ilo:obe:other:moses]]**
+  * **[[:ilo:obe:other:joshua]]**
+  * **[[:ilo:obe:kt:promise]]**
+  * **[[:ilo:obe:kt:prophet]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **a nagrebelde iti Dios**  - Mabalin a maibalikas daytoy kas, “a madi agtungpal iti Dios idi imbaga na kadakuada nga apan da idiay Naikari a Daga."
