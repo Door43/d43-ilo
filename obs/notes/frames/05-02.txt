@@ -2,18 +2,19 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-02.jpg?nolink&}}
 
-Isunga inasawa ni Abram ni Hagar. Naaddaan ni Hagar iti anak a lalaki ket pinanaganan ni Abram iti Ishmael. Ngem pinagimunan ni Sarai ni Hagar. Idi agtawen ti sanga pulo ket tallo ni Ishmael ket nagsao manen ti Dios kenni Abram.
+Isua pinakasaran ni Abram ni Hagar. Naaddaan ni Hagar iti anak a lalaki ket pinanaganan ni Abram iti Ishmael. Ngem pinagimunan ni Sarai ni Hagar. Idi agtawen ti sanga pulo ken tallo ni Ishmael ket nagsao manen ti Dios kenni Abram.
 
-===== Dagiti Napapateg Nga Balikas: =====
+===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:abraham]]**
-  * **[[:ilo:obe:other:hagar]]**
-  * **[[:ilo:obe:other:ishmael]]**
-  * **[[:ilo:obe:other:sarah]]**
-  * **[[:ilo:obe:kt:god]]**
-
+  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ilo:obe:other:hagar|Hagar]]**
+  * **[[:ilo:obe:other:ishmael|Ishmael]]**
+  * **[[:ilo:obe:other:sarah|Sarah, Sarai]]**
+  * **[[:ilo:obe:kt:god|God]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **pinagbalin nga asawa - **  Nagbalin a maysa a kabit ni Abram ni Hagar, wenno maysa nga asawa nga awan kalebbengana iti inya man.
-  * **panagimunan ni Sarah**  - Nagimun ni Sarah kenni Hagar gapu ta mabalin a maaddaan ti anak ni Hagar ngem madi maaddaan ti anak ni Sarah.
+  * **pinakasaran - **  Nagbalin a maysa a kabit ni Abram ni Hagar, wenno maysa nga asawa nga awan kalebbengana iti inya man.
+  * **panagimunan ni Sarai**
+ - Nagimun ni Sarai kenni Hagar gapo ta mabalin a maaddaan ti anak ni Hagar ngem madi maaddaan ti anak ni Sarai.
+
 **[[:ilo:obs:notes:frames:05-01|<<]] | [[:ilo:obs:notes:05|Up]] | [[:ilo:obs:notes:frames:05-03|>>]]**
