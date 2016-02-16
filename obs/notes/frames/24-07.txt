@@ -6,10 +6,10 @@ Kinuna ni John kenni Jesus, “Saanak maikari a mangbautisar kenka. Siak ketdi k
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:johnthebaptist|John (the Baptist)]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:baptize|baptize, baptism]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ilo:obe:other:johnthebaptist]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:baptize]]**
+  * **[[:ilo:obe:kt:sin]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * **Saan nak a maikari a mangbautisar kenka **– Daytoy ket mabalin met nga ipakaawat a kas, “saanank unay a nasayaat a mangbautisar kenka” weenu, “managbasulak, isunga saanka bautisaran.”
