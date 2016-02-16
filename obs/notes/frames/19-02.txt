@@ -9,7 +9,7 @@ Ni Elijah ket maysa a mammadto idi a ni Ahab ti ari ti pagarian ti Israel. Manag
   * **[[:ilo:obe:other:elijah]]**
   * **[[:ilo:obe:kt:prophet]]**
   * **[[:ilo:obe:other:king]]**
-  * **[[:ilo:obe:other:kingdonofisrael]]**
+  * **[[:ilo:obe:other:kingdomofisrael]]**
   * **[[:ilo:obe:kt:evil]]**
   * **[[:ilo:obe:kt:worship]]**
   * **[[:ilo:obe:kt:falsegod]]**
