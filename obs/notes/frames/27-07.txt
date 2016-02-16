@@ -6,9 +6,9 @@ Saan a mabayag kalpasan dayta ket simmalog met ti maysa a levita. (Dagiti levita
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:jew|Jew, Jewish]]**
-  * **[[:ilo:obe:kt:priest|priest, priesthood]]**
-  * **[[:ilo:obe:kt:temple|temple]]**
+  * **[[:ilo:obe:other:jew]]**
+  * **[[:ilo:obe:kt:priest]]**
+  * **[[:ilo:obe:kt:temple]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * (intuloy ni Jesus nga inbaga iti istorya)
