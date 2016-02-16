@@ -6,14 +6,14 @@ Imbaga idi ti Dios kenni John, “Bumabanto ti Espiritu Santo ken agtalinaed iti
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:god|God (Dios)]]**
-  * **[[:ilo:obe:other:johnthebaptist|John (the Baptist)]]**
-  * **[[:ilo:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]**
-  * **[[:ilo:obe:kt:baptize|baptize, baptism]]**
-  * **[[:ilo:obe:kt:sonofgod|Son of God, the Son]]**
-  * **[[:ilo:obe:kt:godthefather|God the Father, Heavenly Father]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:sonofgod|Son of God, the Son]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:johnthebaptist]]**
+  * **[[:ilo:obe:kt:holyspirit]]**
+  * **[[:ilo:obe:kt:baptize]]**
+  * **[[:ilo:obe:kt:sonofgod]]**
+  * **[[:ilo:obe:kt:godthefather]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:sonofgod]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * **Inmbaga idi ti Dios kenni John**– Dayta ket, “ Sakbay iti daytoy, Inbaga ti Dios kenni John“ wennu, “ Sakbay nga immay ni Jesus tapnun mabautisaran, Inbaga ti Dios kenni Juan.”
