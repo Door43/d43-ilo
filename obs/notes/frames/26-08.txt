@@ -6,9 +6,9 @@ Kalpasan daytoy ket napan ni Jesus iti entero a sakup ti ili a Galilee ket adu a
 
 ===== Dagiti Importante a Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:other:galilee|Galilee, Galilean]]**
-  * **[[:ilo:obe:other:heal|heal, cure]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:other:galilee]]**
+  * **[[:ilo:obe:other:heal]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **Rimuar iti amin nga lugar iti pagilyan ti Galilea **– Dayta ket, “ amin nga aglaw law idiay galilea” wenno, “ manipud idiay nga lugar aginggana iti lugar idiay Galilea.”
