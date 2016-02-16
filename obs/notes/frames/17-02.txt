@@ -6,18 +6,18 @@ Pinili ti Dios ti maysa a bumaro nga Israelita nga agnagan ti David a kasukat ni
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel ]]**
-  * **[[:ilo:obe:other:david|David]]**
-  * **[[:ilo:obe:other:king|king (ari)]]**
-  * **[[:ilo:obe:other:saul|Saul (OT)]]**
-  * **[[:ilo:obe:other:shepherd|shepherd, to shepherd]]**
-  * **[[:ilo:obe:other:bethlehem|Bethlehem, Ephrathah]]**
-  * **[[:ilo:obe:other:sheep|sheep, ram, ewe ]]**
-  * **[[:ilo:obe:other:humble|humble, humility]]**
-  * **[[:ilo:obe:kt:righteous|righteous, righteousness]]**
-  * **[[:ilo:obe:kt:trust|trust, trustworthy, trustworthiness]]**
-  * **[[:ilo:obe:other:obey|obey, obedient, obedience]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:other:david]]**
+  * **[[:ilo:obe:other:king]]**
+  * **[[:ilo:obe:other:saul]]**
+  * **[[:ilo:obe:other:shepherd]]**
+  * **[[:ilo:obe:other:bethlehem]]**
+  * **[[:ilo:obe:other:sheep]]**
+  * **[[:ilo:obe:other:humble]]**
+  * **[[:ilo:obe:kt:righteous]]**
+  * **[[:ilo:obe:kt:trust]]**
+  * **[[:ilo:obe:other:obey]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
   * **Panagbantay- **  dayta ket, “panangipateg ti” wennu, “panagsalaknib” wennu, “panangaywan iti.”
