@@ -6,12 +6,12 @@ Kalpasan ti tallo ket kagudwa a tawen ket imbaga ti Dios kenni Elijah nga agsubl
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:elijah|Elijah]]**
-  * **[[:ilo:obe:other:ahab|Ahab]]**
-  * **[[:ilo:obe:kt:yahweh|Yahweh]]**
-  * **[[:ilo:obe:kt:worship|worship]]**
-  * **[[:ilo:obe:other:baal|Baal]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:elijah]]**
+  * **[[:ilo:obe:other:ahab]]**
+  * **[[:ilo:obe:kt:yahweh]]**
+  * **[[:ilo:obe:kt:worship]]**
+  * **[[:ilo:obe:other:baal]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
   * **Makisaonto kenni Ahab agsipud ta inyeg manen **– Daytoy ket mabalin nga ipakaawat a kas, “Ia kenni Ahab nga ti Dios ket mangibaun.”
