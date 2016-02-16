@@ -6,16 +6,16 @@ Agpada a ti pagarian ti Israel ken ti pagarian ti Judah ket nagbasul iti Dios. L
 
 ===== Dagiti napapateg a balikas: =====
 
-  * **​[[:ilo:obe:kt:god|kingdom of Israel]]**
-  * **[[:ilo:obe:kt:god|kingdom of Judah]]**
-  * **[[:ilo:obe:kt:god|sin, sinning, sinful, sinner]]**
-  * **[[:ilo:obe:kt:god|Dios]]**
-  * **[[:ilo:obe:kt:covenant|covenant]]**
-  * **[[:ilo:obe:kt:covenant|Sinai]]**
-  * **[[:ilo:obe:kt:prophet|prophet, prophesy, prophecy, seer]]**
-  * **[[:ilo:obe:kt:repent|repent, repentance]]**
-  * **[[:ilo:obe:kt:worship|worship]]**
-  * **[[:ilo:obe:other:obey|obey, obedient, obedience]]**
+  * **​[[:ilo:obe:other:kingdomofisrael]]**
+  * **[[:ilo:obe:other:kingdomofJudah]]**
+  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:covenant]]**
+  * **[[:ilo:obe:other:Sinai]]**
+  * **[[:ilo:obe:kt:prophet]]**
+  * **[[:ilo:obe:kt:repent]]**
+  * **[[:ilo:obe:kt:worship]]**
+  * **[[:ilo:obe:other:obey]]**
 ==== Pannakipakaawat kadagiti sarsarita : ====
 
   * **naglabsing ti katulagan- **  Dayta ket, “Saan a nagtulnog iti bilbilin iti Dios a naited kadakuada iti tulag a kadakuada idiay Bantay Sinai.”
