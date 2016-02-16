@@ -6,11 +6,11 @@ Iti sumaruno nga aldaw ket immay ni Jesus tapno agpabautisar kenni John. Kinuna 
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:baptize|baptize, baptism]]**
-  * **[[:ilo:obe:other:johnthebaptist|John (the Baptist)]]**
-  * **[[:ilo:obe:kt:lamb|lamb, Lamb of God]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:baptize]]**
+  * **[[:ilo:obe:other:johnthebaptist]]**
+  * **[[:ilo:obe:kt:lamb]]**
+  * **[[:ilo:obe:kt:sin]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * **Adda iti **– Iti dadduma nga pagsasao  daytoy ket mabalin nga ,” Daytoy ti” wennu, “ Dayta nga tao ket.”
