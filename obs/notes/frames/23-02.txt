@@ -6,15 +6,15 @@ Kinuna ti anghel kenkuana, “Joseph ket saan ka nga agbuteng a mangasawa kenni 
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:angel|angel, archangel]]**
-  * **[[:ilo:obe:other:josephnt|Joseph (NT)]]**
-  * **[[:ilo:obe:other:mary|Mary]]**
-  * **[[:ilo:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]**
-  * **[[:ilo:obe:kt:son|son]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:yahweh|Yahweh]]**
-  * **[[:ilo:obe:kt:save|save, safe]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ilo:obe:kt:angel]]**
+  * **[[:ilo:obe:other:josephnt]]**
+  * **[[:ilo:obe:other:mary]]**
+  * **[[:ilo:obe:kt:holyspirit]]**
+  * **[[:ilo:obe:kt:son]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:yahweh]]**
+  * **[[:ilo:obe:kt:save]]**
+  * **[[:ilo:obe:kt:sin]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * **Saan ka nga agbuteng a mangasawa kenni Mary- ** daytoy ket mabalin nga ipakaawat a kas, “isardeng mo iti agpanunot a saan mo pakasaran ni Mary” wennu, “saanka nga agduadua a makiasawa kenni Mary.”
