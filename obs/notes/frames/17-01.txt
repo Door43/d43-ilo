@@ -6,11 +6,11 @@ Ni Saul ti immuna nga ari iti Israel. Isuna ket natayag ken nataraki a kas isu t
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:saul|Saul (OT)]]**
-  * **[[:ilo:obe:other:king|king]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:ilo:obe:other:obey|obey, obedient, obedience]]**
-  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:saul]]**
+  * **[[:ilo:obe:other:king]]**
+  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:other:obey]]**
+  * **[[:ilo:obe:kt:god]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
   * **Immuna nga ari iti Israel **– Daytoy ket mabalin nga ipakaawat a kas, “Umuna nga Ari nga mangituray iti Israel.”
