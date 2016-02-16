@@ -6,13 +6,13 @@ Dagus kalpasan ti pannakabautisar ni Jesus ket indalan isuna ti Espiritu Santo a
 
 ===== Dagiti Importante a Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:baptize|baptize, baptism]]**
-  * **[[:ilo:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]**
-  * **[[:ilo:obe:other:fast|fast]]**
-  * **[[:ilo:obe:kt:satan|Satan, devil, evil one]]**
-  * **[[:ilo:obe:kt:tempt|tempt, temptation]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:baptize]]**
+  * **[[:ilo:obe:kt:holyspirit]]**
+  * **[[:ilo:obe:other:fast]]**
+  * **[[:ilo:obe:kt:satan]]**
+  * **[[:ilo:obe:kt:tempt]]**
+  * **[[:ilo:obe:kt:sin]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **Inturong isuna ti Spiritu Santo**- Dayta ket,”Tartarabayan isuna iti Spiritu Santo” wenno, “ Idursurun isuna iti Spiritu Santo nga mapan.”
