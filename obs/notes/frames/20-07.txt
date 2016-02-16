@@ -6,10 +6,10 @@ Ngem kalpasan ti sumagmamano a tawen ket nagrebelde ti ari ti Judah maibusor iti
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * ****[[:ilo:obe:other:rebel|rebel, rebellious]]** **
-  * **[[:ilo:obe:other:babylon|Babylon, Babylonian]]**
-  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
-  * **[[:ilo:obe:kt:temple|temple]]**
+  * **[[:ilo:obe:other:rebel]]** 
+  * **[[:ilo:obe:other:babylon]]**
+  * **[[:ilo:obe:other:jerusalem]**
+  * **[[:ilo:obe:kt:temple]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
   * **nagsubli manen**  – Daytoy ket mabalin nga ipakaawat a kas, “nagsubli” wennu, “immay idiay Judah manen.”
