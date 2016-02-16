@@ -6,9 +6,9 @@ Kalpasan dayta ket adda maysa a padi a Judio a sumalsalog iti dayta a dalan. Idi
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:jew|Jew, Jewish]]**
-  * **[[:ilo:obe:kt:priest|priest, priesthood]]**
-  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ilo:obe:other:jew]]**
+  * **[[:ilo:obe:kt:priest]]**
+  * **[[:ilo:obe:other:jewishleaders]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * (intuloy ni Jesus nga imbaga ti istorya.)
