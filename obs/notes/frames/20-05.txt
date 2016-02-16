@@ -6,17 +6,17 @@ Nakita dagiti tattao iti pagarian ti Judah no kasatno a dinusa ti Dios dagiti ta
 
 ====== Dagiti Napapateg A Balikas: ======
 
-  * **[[:ilo:obe:other:kingdomofjudah|Judah, kingdom of Judah]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:punish|punish, punishment]]**
-  * **[[:ilo:obe:other:kingdomofisrael|kingdom of Israel]]**
-  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
-  * **[[:ilo:obe:other:obey|obey, obedient, obedience]]**
-  * **[[:ilo:obe:kt:worship|worship]]**
-  * **[[:ilo:obe:other:idol|idol, idolatrous]]**
-  * **[[:ilo:obe:kt:falsegod|false god, foreign god, god, goddess]]**
-  * **[[:ilo:obe:other:canaan|Canaan, Canaanite]]**
-  * **[[:ilo:obe:kt:prophet|prophet, prophecy, prophesy, seer ]]**
+  * **[[:ilo:obe:other:kingdomofjudah]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:punish]]**
+  * **[[:ilo:obe:other:kingdomofisrael]]**
+  * **[[:ilo:obe:kt:believe]]**
+  * **[[:ilo:obe:other:obey]]**
+  * **[[:ilo:obe:kt:worship]]**
+  * **[[:ilo:obe:other:idol]]**
+  * **[[:ilo:obe:kt:falsegod]]**
+  * **[[:ilo:obe:other:canaan]]**
+  * **[[:ilo:obe:kt:prophet]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * **iti saan nga panagpammati ken panagtulnog kenkuana **– Iti sabali a wagas a panangipakaawat iti daytoy ket mabalin nga, “Gapu ta saan da a namati wennu tinulnog isuna.”
