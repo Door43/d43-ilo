@@ -6,18 +6,18 @@ Ngem imbaon ti Dios ti Mammadtu a Nathan kenni David keta awitawit na iti daytoy
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
-  * **[[:ilo:obe:other:nathan|Nathan]]**
-  * **[[:ilo:obe:other:david|David]]**
-  * **[[:ilo:obe:kt:temple|temple]]**
-  * **[[:ilo:obe:kt:son|son]]**
-  * **[[:ilo:obe:kt:bless|bless, blessed, blessing]]**
-  * **[[:ilo:obe:other:king|king]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
-  * **[[:ilo:obe:other:descendant|descendant]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:prophet]]**
+  * **[[:ilo:obe:other:nathan]]**
+  * **[[:ilo:obe:other:david]]**
+  * **[[:ilo:obe:kt:temple]]**
+  * **[[:ilo:obe:kt:son]]**
+  * **[[:ilo:obe:kt:bless]]**
+  * **[[:ilo:obe:other:king]]**
+  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:kt:christ]]**
+  * **[[:ilo:obe:other:descendant]]**
+  * **[[:ilo:obe:kt:sin]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
   * **Ti Mammadto a Nathan **– maymayat nu iti gagangay a pagsasao ket ibaga nga, “ti mammadto a managan Nathan.”
