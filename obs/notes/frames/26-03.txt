@@ -6,10 +6,10 @@ Daytoy ti binasa ni Jesus, “Inted ti Dios ti Espiritu na kaniak tapno maikasab
 
 ===== Dagiti Importante Nga Balikas: =====
 
-  * **[[:ilo:obe:kt:god|Go]]d**
-  * **[[:ilo:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]**
-  * **[[:ilo:obe:kt:goodnews|good news, gospel]]**
-  * **L[[:ilo:obe:kt:lord|ord, master, sir]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:holyspirit]]**
+  * **[[:ilo:obe:kt:goodnews]]**
+  * **L[[:ilo:obe:kt:lord]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **Iwaragawag iti naimbag a damage kadagiti marigrigat **– Dayta ket, tapnu ibaga a marigrigat ken agkasapulan nga tattao iti naimbag a mensahe tapnu matulungan ti Dios isuda.”
