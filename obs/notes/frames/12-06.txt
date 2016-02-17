@@ -2,15 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-06.jpg?nolink&}}
 
-Ket inkabil ti Dios diay munmun nga ulep iti nagbaetan dagiti Israelita ken dagiti taga Egypt tapno saan a makita dagiti taga Egypt dagiti Israelita.
+Ket inyakar ti Dios diay munmun nga ulep ket ingkabil na iti nagbaetan dagiti Israelita ken dagiti taga Egypt tapno saan a makita dagiti taga Egypt dagiti Israelita.
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:israel]]**
-  * **[[:ilo:obe:other:egypt]]**
+  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ilo:obe:other:egypt|Egypt, Egyptian]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * **munmun nga ulep**  - kitaem nu kasanom nga ipakaawat daytoy a paset idiay **[[:ilo:obs:notes:frames:12-02|[12-02]]]**
-  * **saan  makakita **- ti ulep a munmun ket nalawa ken napuskol nga dagiti Egyptians ket awanen ti makitada uray maysa kadagiti Israelita.
+  * **saan makakita **- ti ulep a munmun ket nalawa ken napuskol nga dagiti Egyptians ket awanen ti makitada uray maysa kadagiti Israelita.
 **[[:ilo:obs:notes:frames:12-05|<<]] | [[:ilo:obs:notes:12|Up]] | [[:ilo:obs:notes:frames:12-07|>>]]**
