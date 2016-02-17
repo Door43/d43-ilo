@@ -1,15 +1,14 @@
-===== Patayen yu Dagiti Maladdaga A Lallaki [09-04] =====
+===== Patayen yo Dagiti Maladdaga A Lallaki [09-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-04.jpg?nolink&}}
 
 Naamuan ni Pharaoh nga umadadu dagiti annak dagiti Israelita. Isanga imbaun na dagiti tauhan na a mangpatay kadagiti amin nga ubbing a lallaki babaen ti panangibilling da idiay karayan a Nile.
 
 ===== Dagiti Napapateg Nga Balikas: =====
 
-  * **[[:ilo:obe:other:pharaoh]]**
-  * **[[:ilo:obe:other:israel]]**
-  * **[[:ilo:obe:other:nileriver]]**
-
+  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt ]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel ]]**
+  * **[[:ilo:obe:other:nileriver|Nile River, River of Egypt]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **Pharaoh**- Ti "Pharaoh” ket maysa a sao ti Egypt a maipapan iti ari da. Daytoy a Pharaoh ket mabalin nga anak ti dati a Pharaoh a natayin.
