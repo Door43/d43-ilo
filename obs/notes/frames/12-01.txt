@@ -2,17 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-01.jpg?nolink&}}
 
-Naragsak la unay dagiti Israelita a pimmanaw idiay Egypt. Saanda metten a tagabo ken mapandan iti Naikari a Daga. Inted dagiti taga Egypt ti anyaman a dinawat dagiti Israelita uray pay dagiti pirak, balitok ken napapateg a banbanag. Adda pay dagiti dadduma a tattao manipud kadagiti sabali a nasyon ti namati iti Dios ket simmurot kadagiti Israelita idi pimmanaw da idiay Egypt.
+Naragsak dagiti Israelita a pimmanaw idiay Egypt. Saan da mettenen a tagabo ket mapandan iti Naikari a Daga. Inted ngarud dagiti taga Egypt iti anyaman a dawaten dagiti Israelita pati pirak ken balituk ken napapateg pay a banbanag. Adda pay sabli a tattao a naggapu iti dadduma a nasyon a mamati ti Dios ket kimmuyog da kadagiti Israelita idi pimmanaw da idiay Egypt.
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:israel]]**
-  * **[[:ilo:obe:other:egypt]]**
-  * **[[:ilo:obe:other:servant]]**
-  * **[[:ilo:obe:kt:promisedland]]**
-  * **[[:ilo:obe:other:egypt]]**
-  * **[[:ilo:obe:kt:believe]]**
-  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:ilo:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
+  * **[[:ilo:obe:kt:promisedland|Promised Land]]**
+  * **[[:ilo:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:ilo:obe:kt:god|God]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
   * **Saan da mettenen a tagabo **- daytoy ket mabalin nga ipakaawat a kas, “pulos a saan da a tagabo."
