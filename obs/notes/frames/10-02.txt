@@ -2,21 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-02.jpg?nolink&}}
 
-Saan latta a pinalubusan ti Pharaoh dagiti Israelita isu a nangyeg ti Dios idiay Egypt iti sangapulo a nakabutbuteng a didigra. Babaen kadagitoy nakaru a didigra ket impakita ti Dios nabilbileg isuna ngem ti Pharaoh ken kadagiti amin a didiosen idiay Egypt.
+Ket saan latta a pinalubusan ti Pharaoh dagiti Israelita isu a nangted ti Dios ti sangapulo a nakabutbuteng a didigra idiay Egypt. Babaen kadagitoy a didigra ket inpakita ti Dios iti Pharaoh a napigpigsa isuna ngem ti Pharaoh ken amin a dididiosen idiay Egypt.
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:pharaoh]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:egypt]]**
-  * **[[:ilo:obe:kt:falsegod]]**
+  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt ]]**
+  * **[[:ilo:obe:kt:god|God ]]**
+  * **[[:ilo:obe:other:egypt|Egypt, Egyptian ]]**
+  * **[[:ilo:obe:kt:falsegod|false god, foreign god, god, goddess ]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **the people**- This refers to the people of Israel, also called, "the Israelites."
-  * **dagiti tattao -** Ti ibagbaga na ditoy ket dagidiay tattao ti Israel a maawagan a "Israelita."
+  * **dagiti tattao -**  Ti ibagbaga na ditoy ket dagidiay tattao ti Israel a maawagan a "Israelita."
   * **ten terrible plagues**  - A plague is something very bad or terrible that happens to someone or something. A plague usually refers to something that affects many people or happens over a large geographic area. Another word for "plague" would be "disaster."
-  * **kadagitoy nakaru a didigra -** Ti didigra ket maysa saan launay a nasayaat a pasamak iti tao wenno ti anyaman. Iti kadarasan, ti didigra ket anyaman nga mangted iti saan a nasayaat iti adu a tattao wenno pasamak iti nalawa a lugar. "Unos" iti maysa a sarita iti "didigra".
-  * **all of Egypt's gods**  - It may be more clear to say, "all the gods that the Egyptian people worshiped." The people of Egypt worshiped many different false gods. These false gods were either spirit beings that the God of Israel created, or they did not actually exist.
-  * ** amin a didiosen idiay Egypt  ** - Mabalin a mas nalatak nga ibaga kas, "amin didiosen a daydayawen dagiti tattao ti Egypt."
-
+  * **nabutbuteng a sangapulo a didigra -**  Ti didigra ket maysa saan launay a nasayaat a pasamak iti tao wenno ti anyaman. Iti kadarasan, ti didigra ket anyaman nga mangted iti saan a nasayaat iti adu a tattao wenno pasamak iti nalawa a lugar. "Unos" iti maysa a sarita iti "didigra".
+  * **amin a didiosen idiay Egypt **  - Mabalin a mas nalatak nga ibaga kas, "amin didiosen a daydayawen dagiti tattao ti Egypt."
 **[[:ilo:obs:notes:frames:10-01|<<]] | [[:ilo:obs:notes:10|Up]] | [[:ilo:obs:notes:frames:10-03|>>]]**
