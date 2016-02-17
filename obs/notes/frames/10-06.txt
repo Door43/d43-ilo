@@ -1,17 +1,17 @@
-===== Natay Dagiti Ayayup [10-06] =====
+===== Natay Dagiti Ay-ayup [10-06] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-06.jpg?nolink&}}
 
-Ti simmaruno ket pinagsakit ti Dios dagiti amin a dingwen dagiti taga Egypt ket natay da. Ngem pinatangken pay ti Pharaoh ti puso na ket saan na a pinalubusan dagiti Israelita.
+Ti simmaruno ket pinagsakit ti Dios amin dagiti dengdengwen dagiti taga Egypt ket natay da. Ngem pinatangken pay ti Pharaoh ti puso na ket saan na pinalubusan dagiti Israelita.
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:egypt]]**
-  * **[[:ilo:obe:other:pharaoh]]**
-  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:kt:god|God ]]**
+  * **[[:ilo:obe:other:egypt|Egypt, Egyptian ]]**
+  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt ]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel ]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **dingwen**  - Daytoy ket mipapan iti dadakkel nga ay-ayup nga usaren dagiti tagan Egypt iti trabaho agraman dagiti kabayo, donkey, camelyo, baka, karnero ken kalding.
+  * **dingdingwen**  - Daytoy ket mipapan iti dadakkel nga ay-ayup nga usaren dagiti tagan Egypt iti trabaho agraman dagiti kabayo, donkey, camelyo, baka, karnero ken kalding.
   * **pinatangken…ti puso na **- Kitaen idiay **[[:ilo:obs:notes:frames:10-04|[10-04]]]**.
 **[[:ilo:obs:notes:frames:10-05|<<]] | [[:ilo:obs:notes:10|Up]] | [[:ilo:obs:notes:frames:10-07|>>]]**
