@@ -2,19 +2,19 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?nolink&}}
 
-Binilin ti Dios dagiti Israelita a tinawen a rambakan da ti panaglabas ti patay wenno “Passover" kas pananglagip da no kasatnu nga inted ti Dios ti balligi da maibusor kadagiti taga Egypt ken no kasatnu na nga insalakan ida manipud iti pannakatagabo. Nagrambak da babaen iti panagparti da iti awan pakapilawan na nga urbon a karnero ken pannangan iti tinapay nga awan lebadura na.
+Imbilin ti Dios kadagiti Israelita a rambakan da iti panaglabas ti patay “Passover’ iti kada tawen kas pananglaglagip da nu kasatnu a inikkan ti Dios iti balligi kadagiti taga Egypt ken insalakan na ida manipud iti pannakatagabo. Nagrambak da babaen iti panagparti da awan pakapilawan na nga urbon a karnero ken ti pannangan da ti tinapay nga awan ti lebadura na.
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:israel]]**
-  * **[[:ilo:obe:kt:passover]]**
-  * **[[:ilo:obe:other:egypt]]**
-  * **[[:ilo:obe:other:servant]]**
-  * **[[:ilo:obe:kt:lamb]]**
+  * **[[:ilo:obe:kt:god|God ]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel ]]**
+  * **[[:ilo:obe:kt:passover|Passover ]]**
+  * **[[:ilo:obe:other:egypt|Egypt, Egyptian ]]**
+  * **[[:ilo:obe:other:servant|servant, slave, slavery ]]**
+  * **[[:ilo:obe:kt:lamb|lamb, Lamb of God ]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **Panaglabas ti Patay **– Mabalin met a maibalikas daytoy kas, “dagiti aramid maipapan iti Panaglabas (ti patay)” wenno, “panagrambak ti Panaglabas ti patay."
+  * **panaglabas ti Patay **– Mabalin met a maibalikas daytoy kas, “dagiti aramid maipapan iti Panaglabas (ti patay)” wenno, “panagrambak ti Panaglabas ti patay."
   * **pananglaglagip da nu kasanno a inikkan ti Dios iti balligi**  – Mabalin a maibalikas daytoy kas, “panangpalpalagip kanyada no kasano nga inabak ti Dios…” wenno, “panangiruknoy iti Dios ti inaramid na.
   * **awan pakapelawan na nga urbon a karnero**  – Ti kayat ti sarita a “aririten” (perfect) “wenno awan pakapelawan na” kat maipapan iti karnero a ti kayat na ibaga keta wan saksakitna wenno pelaw na."
   * **tinapay nga awan ti lebadura na**  – Kitaen no kasano a nibalikas daytoy idiay **[[:ilo:obs:notes:frames:11-03|[11-03]]]**.
