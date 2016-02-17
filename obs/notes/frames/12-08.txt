@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-08.jpg?nolink&}}
 
-Nagda dagiti Israelita iti namaga a daga idiay tingngan ti nalabbaga a baybay nga adda iti pader a danum ti nagsinnumbangeran na.
+Nagda dagiti Israelita iti namaga a daga idiay tingngan ti nalabbaga a baybay nga adda ti pader a danum iti nagsinnumbangeran.
 
 ===== Dagiti Napapateg A Balikas: =====
 
@@ -10,5 +10,5 @@ Nagda dagiti Israelita iti namaga a daga idiay tingngan ti nalabbaga a baybay ng
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * **nagmartsa **- daytoy ket mabalin nga ipakaawat a kas, “nagna” wenno, “napan."
-  * **addaan iti pader a danum iti nagsinumbangir **- daytoy ket mabalin nga ipakaawat a kas, “ken ti danum iti masikigan da ket timmakder a natayag ken diretso a kasla pader."
+  * **adda ti pader a danum iti nagsinumbangir **- daytoy ket mabalin nga ipakaawat a kas, “ken ti danum iti masikigan da ket timmakder a natayag ken diretso a kasla pader."
 **[[:ilo:obs:notes:frames:12-07|<<]] | [[:ilo:obs:notes:12|Up]] | [[:ilo:obs:notes:frames:12-09|>>]]**
