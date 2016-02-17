@@ -1,4 +1,4 @@
-===== Ni Moses iday kabakiran [09-11] =====
+===== Ni Moses Iday kabakiran [09-11] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-11.jpg?nolink&}}
 
@@ -6,9 +6,9 @@ Nagbalin a tagapastor dagiti karnero ni Moses idiay kabakbakiran nga adayu manip
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:moses]]**
-  * **[[:ilo:obe:other:shepherd]]**
-  * **[[:ilo:obe:other:egypt]]**
+  * **[[:ilo:obe:other:moses|Moses ]]**
+  * **[[:ilo:obe:other:shepherd|shepherd, to shepherd]]**
+  * **[[:ilo:obe:other:egypt|Egypt, Egyptian ]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita: ====
 
   * **kabakbakiran, bakir - **  kitaen ti pannaibalikas iti daytoy idiay **[[:ilo:obs:notes:frames:09-10|[09-10]]]**.
