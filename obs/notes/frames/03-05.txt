@@ -6,8 +6,8 @@ Binilin manen ti Dios ni Noah ken ti pamilyana “Agurnong kayo iti umdas a maka
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:noah|Noah]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:noah]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
 //(Awan ti naisurat iti daytoy a daytoy a paset.)//
