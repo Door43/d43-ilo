@@ -2,17 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-08.jpg?nolink&}}
 
-Nay’ayo ni Pharaoh kenni Joseph isu a dinotokan na isuna a maikadua a mannakabalin a katuturayan a tao iddiay Egypt.
+Nay-ayo ni Pharaoh kenni Joseph isu a dinotokan na isuna a maikadua a mannakabalin a katuturayan a tao iddiay Egypt.
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:pharaoh]]**
-  * **[[:ilo:obe:other:josephot]]**
-  * **[[:ilo:obe:other:egypt]]**
-
-
+  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt ]]**
+  * **[[:ilo:obe:other:josephot|Joseph (OT) ]]**
+  * **[[:ilo:obe:other:egypt|Egypt, Egyptian ]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **impressed with**  - Pharaoh was amazed by Joseph's wisdom and felt respect for him; he trusted Joseph to make wise decisions that would benefit the people. It may be clearer to say, "impressed with Joseph's wisdom."
-  * **second most powerful man**  - Pharaoh made Joseph a very powerful and important ruler over all of Egypt. Only Pharaoh was more powerful and important than Joseph.
+  * **may-ayu iti **- nasdaaw ni Pharaoh gapo iti kinasirib ni Joseph ket nakarikna iti panagdayaw kenkuana; pinagtalkan na ni Joseph nga agaramid kadagiti nainsiriban a panagdesisyon a mangted iti pagsayaatan dagiti tattao. Nalawlawag nga ibaga, “nay-ayu iti kinasirib ni Joseph."
+  * **ti maikadua nga kabilegan a tao **- inaramid ni Pharaoh a ni Joseph iti maysa a kabilegan ken kapatgan a mangituray iti sibubukel nga Egypt. Ni Pharaoh iti kabilgen ket kapatgan ngem ni Joseph.
 **[[:ilo:obs:notes:frames:08-07|<<]] | [[:ilo:obs:notes:08|Up]] | [[:ilo:obs:notes:frames:08-09|>>]]**
