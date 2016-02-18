@@ -6,13 +6,13 @@ Ket imbaga ti Dios,”Itatta a nagbalinen a kas kadatayo dagiti tattao babaen it
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God (Dios)]]**
-  * **[[:ilo:obe:kt:good|good, goodness (nasayaat/naimbag, kinasayaat/kinaimbag)]]**
-  * **[[:ilo:obe:kt:evil|evil, wicked, wickedness (dakes (v), dakes (n), kinadakes)]]**
-  * **[[:ilo:obe:kt:life|life, live, living, alive]]**
-  * **[[:ilo:obe:other:adam|Adam]]**
-  * **[[:ilo:obe:other:eve|Eve]]**
-  * **[[:ilo:obe:kt:angel|angel, archangel]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:good]]**
+  * **[[:ilo:obe:kt:evil]]**
+  * **[[:ilo:obe:kt:life]]**
+  * **[[:ilo:obe:other:adam]]**
+  * **[[:ilo:obe:other:eve]]**
+  * **[[:ilo:obe:kt:angel]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **a kas kadatayo dagiti tattao babaen iti pannakaamu iti nasayaat ken iti dakes**  - iti daytoy a paset ket iturong na iti baru a wagas a ni Adam kenni Eve ket kasla iti Dios. Gapo ta nagbasol da, makita da iti dakes ket mabalin da a padasen daytoy.mabalin nga ibagam, “gapo ta tatta ket naammuan da iti nasayaat ken iti dakes.”
