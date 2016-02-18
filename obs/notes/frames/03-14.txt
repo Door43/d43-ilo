@@ -6,11 +6,11 @@ Kalpasan a rimmuar da Noah ti daong ket nagaramid ti maysa nga altar ket nagidat
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:noah|Noah]]**
-  * **[[:ilo:obe:other:altar|altar]]**
-  * **[[:ilo:obe:other:sacrifice|sacrifice, offering]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:bless|bless, blessed, blessing]]**
+  * **[[:ilo:obe:other:noah]]**
+  * **[[:ilo:obe:other:altar]]**
+  * **[[:ilo:obe:other:sacrifice]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:bless]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **dengwen a mabalin nga idaton - **  Mabalin a maysa a panagbalikas iti daytoy ket, “ti mabalin nga usaren ti tattao kas daton iti Dios."
