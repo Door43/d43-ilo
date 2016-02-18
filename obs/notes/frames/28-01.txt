@@ -6,13 +6,13 @@ Iti maysa nga aldaw ket adda agkabanwag a nabaknang a panguloen ti napan ken nag
 
 ===== Dagiti Importante a Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:good|good, goodness]]**
-  * **[[:ilo:obe:kt:teacher|teacher, Teacher]]**
-  * **[[:ilo:obe:kt:eternity|everlasting, eternal, eternity]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:obey|obey, obidient, obidience]]**
-  * **[[:ilo:obe:kt:lawofmoses|law, law of Moses, God's law, law of Yahweh]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:good]]**
+  * **[[:ilo:obe:kt:teacher]]**
+  * **[[:ilo:obe:kt:eternity]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:obey]]**
+  * **[[:ilo:obe:kt:lawofmoses]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **Maysa nga aldaw**-daytoy nga balikas ipakaammu na dagiti pasamak nga naar’aramid iti napalabas, ngem saan na nga iparang iti kusto a panawen. Adu a pagsasao nga agpapada nga isu ti wagas nga mangibaga iti pudno nga istorya.
