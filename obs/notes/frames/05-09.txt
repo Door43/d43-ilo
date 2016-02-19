@@ -6,10 +6,10 @@ Ket nakita ni Abraham iti bulog a karnero iti saan nga adayu a naisabit iti mays
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:sacrifice|sacrifice, offering]]**
-  * **[[:ilo:obe:other:isaac|Isaac]]**
+  * **[[:ilo:obe:other:abraham]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:sacrifice]]**
+  * **[[:ilo:obe:other:isaac]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **bulog a karnero -** Kalding ti maysa kadagiti ayup a mabalin a maidatun iti Dios.
