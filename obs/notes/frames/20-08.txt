@@ -1,4 +1,4 @@
-===== Ti pannakadusa ti dagiti taga Judah [20-08] =====
+===== Ti Pannakadusa Kadagiti Taga Judah [20-08] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-08.jpg?nolink&}}
 
@@ -6,12 +6,12 @@ Tapno madusa ti ari ti Judah iti panagrebelde na ket pinatay dagiti suldado ni N
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:punish]]**
-  * **[[:ilo:obe:other:king]]**
-  * **[[:ilo:obe:other:kingdomofJudah]]**
-  * **[[:ilo:obe:other:nebuchadnezzar]]**
-  * **[[:ilo:obe:kt:son]]**
-  * **[[:ilo:obe:other:babylon]]**
+  * **[[:ilo:obe:other:punish|punish, punishment]]**
+  * **[[:ilo:obe:other:king|king ]]**
+  * **[[:ilo:obe:other:kingdomofjudah|Judah, kingdom of Judah]]**
+  * **[[:ilo:obe:other:nebuchadnezzar|Nebuchadnezzar]]**
+  * **[[:ilo:obe:kt:son|son ]]**
+  * **[[:ilo:obe:other:babylon|Babylon, Babylonian]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
   * **tapno madusa **– Dinusa ni Nebuchadnezzar diay Ari ti Judah babaen iti panagibaga na kadagiti suldado na tapnun aramiden na dagitoy a banbanag.
