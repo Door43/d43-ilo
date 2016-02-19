@@ -6,11 +6,11 @@ Kadayta met laeng a rabii ket pinaayaban ti Pharaoh da Moses ken Aaron ket kinun
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt]]**
-  * **[[:ilo:obe:other:moses|Moses]]**
-  * **[[:ilo:obe:other:aaron|Aaron]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:ilo:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ilo:obe:other:pharaoh]]**
+  * **[[:ilo:obe:other:moses]]**
+  * **[[:ilo:obe:other:aaron]]**
+  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:other:egypt]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **pinaayaban **- ti kaipapanan na ket inbaga ni Pharaoh iti adipen na nga ibagana kada Moses kenni Aaron a mapan da kenkuana.
