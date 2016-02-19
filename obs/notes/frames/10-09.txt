@@ -6,9 +6,9 @@ Ngem nagbasol manen ni Pharaoh ket pinatangken na ti puso na. Saan na manen a pi
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt ]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning ]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel ]]**
+  * **[[:ilo:obe:other:pharaoh]]**
+  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:other:israel]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **pinatangken na ti puso na**  - Kitaen iti naisurat idiay **[[:ilo:obs:notes:frames:10-04|[10-04]]]**.
