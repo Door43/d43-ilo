@@ -6,9 +6,9 @@ Imbaga ti Dios kenni Rebekah, "Dua a nasion ti maadda manipud kadagiti dua nga a
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:rebekah|Rebekah]]**
-  * **[[:ilo:obe:kt:son|son]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:rebekah]]**
+  * **[[:ilo:obe:kt:son]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **manipud kadagiti dua nga annak mo a lallaki**  - Kayat na a sawen, "manipud kadagiti kaputotan daytoy dua nga aannak da a lallaki."
