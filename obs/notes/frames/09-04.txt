@@ -6,9 +6,9 @@ Naamuan ni Pharaoh nga umadadu dagiti annak dagiti Israelita. Isanga imbaun na d
 
 ===== Dagiti Napapateg Nga Balikas: =====
 
-  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt ]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel ]]**
-  * **[[:ilo:obe:other:nileriver|Nile River, River of Egypt]]**
+  * **[[:ilo:obe:other:pharaoh]]**
+  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:other:nileriver]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **nikita**  – Ti dadduma a pagsasao ket mabalin ti, "naammua" wenno "natakwatan."
