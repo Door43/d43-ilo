@@ -6,9 +6,9 @@ Isunga imbaon ni Jacob dagiti inauna nga natataengan nga annak na idiay Egypt ta
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:jacob|Jacob, Israel ]]**
-  * **[[:ilo:obe:other:egypt|Egypt, Egyptian ]]**
-  * **[[:ilo:obe:other:josephot|Joseph (OT) ]]**
+  * **[[:ilo:obe:other:jacob]]**
+  * **[[:ilo:obe:other:egypt]]**
+  * **[[:ilo:obe:other:josephot]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **dagiti inauna nga anak na a lalaki **- isuda dagiti inauna a kakabsat ni Joseph a nangilako kenkuana iti pannakatagabo.
