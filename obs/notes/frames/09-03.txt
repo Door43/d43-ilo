@@ -6,10 +6,10 @@ Pinuwersan dagiti taga Egyp dagiti Israelita nga agaramid ti adu a balbaly ken s
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:egypt|Egypt, Egyptian ]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel ]]**
-  * **[[:ilo:obe:kt:god|God ]]**
-  * **[[:ilo:obe:kt:bless|bless, blessed, blessing ]]**
+  * **[[:ilo:obe:other:egypt]]**
+  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:bless]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **naupay**  - Ti kayat a saoen ket nagsagaba iti nakaro gapo iti nadagsen a panagtrato da kanyada ken gapo iti naririgat a pinatrbaho da iti kapilitan. Narikna da a naupay iti nakaro.
