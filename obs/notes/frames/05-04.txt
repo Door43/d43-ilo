@@ -1,19 +1,18 @@
 ===== Inkari Ti Dios Ti Pannakaiyanak Ni Isaac [05-04] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-04.jpg?nolink&}}
-
-|   \\ “Ti asawam a ni Sarai ket maaddaan iti anak. Isu iti naikari nga anak. Panaganam isuna iti Isaac. Makitulagak kenkuana ket agbalin isuna a katan-okan a nasyon. Pagbalinek met ni Ishmael a katan-okan a nasyon ngem ti tulag ko ket adda ken Isaac.” Ket ti Dios binaliwan na ti nagan nga Abram iti Abraham a ti kayat na a saoen ket “Ama iti adu”. Binaliwan met ti Dios ti nagan ni Sarai iti Sarah a ti kayat na a saoen ket, “prinsesa.” |
+ “Ti asawam a ni Sarai ket maaddaan iti anak. Isu iti naikari nga anak. Panaganam isuna iti Isaac. Makitulagak kenkuana ket agbalin isuna a katan-okan a nasyon. Pagbalinek met ni Ishmael a katan-okan a nasyon ngem ti tulag ko ket adda ken Isaac.” Ket ti Dios binaliwan na ti nagan nga Abram iti Abraham a ti kayat na a saoen ket “Ama iti adu”. Binaliwan met ti Dios ti nagan ni Sarai iti Sarah a ti kayat na a saoen ket, “prinsesa.” 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:sarah|Sarah, Sarai]]**
-  * **[[:ilo:obe:kt:son|son]]**
-  * **[[:ilo:obe:kt:promise|promise]]**
-  * **[[:ilo:obe:other:isaac|Isaac]]**
-  * **[[:ilo:obe:kt:covenant|covenant]]**
-  * **[[:ilo:obe:other:ishmael|Ishmael]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ilo:obe:other:sarah]]**
+  * **[[:ilo:obe:kt:son]]**
+  * **[[:ilo:obe:kt:promise]]**
+  * **[[:ilo:obe:other:isaac]]**
+  * **[[:ilo:obe:kt:covenant]]**
+  * **[[:ilo:obe:other:ishmael]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:abraham]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * (nagtultuloy a nagsao ti Dios kenni Abram.)
