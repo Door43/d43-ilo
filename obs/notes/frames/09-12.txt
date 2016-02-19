@@ -6,10 +6,10 @@ Iti maysa nga aldaw kabayatan nga ipaspastor ni Moses dagiti karnero ket nakakit
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:moses|Moses ]]**
-  * **[[:ilo:obe:other:sheep|sheep, ram, ewe ]]**
-  * **[[:ilo:obe:kt:god|God ]]**
-  * **[[:ilo:obe:kt:holy|holy, holiness ]]**
+  * **[[:ilo:obe:other:moses]]**
+  * **[[:ilo:obe:other:sheep]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:holy]]**
 ===== Dagiti Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **ipaspastor… dagiti karnero **  - Ti kayatna ng ibaga ket ar-aramiden na dagiti trabaho ti maysa a pastor nga agikuyog kadagiti karnero iti panganan da ken paginuman da, ken agbanbantay kadagiti karnero wenno, "agtalipato kadagiti karnero."
