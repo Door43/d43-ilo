@@ -6,12 +6,12 @@ Naulit-ulit a napasamak ti kastoy iti namin-adu a daras. Agbasul dagiti Israelit
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel ]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning ]]**
-  * **[[:ilo:obe:other:punish|punish, punishment]]**
-  * **[[:ilo:obe:kt:repent|repent, repentance]]**
-  * **[[:ilo:obe:kt:deliverer|deliver, deliverer]]**
-  * **[[:ilo:obe:kt:save|save, safe]]**
+  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:other:punish]]**
+  * **[[:ilo:obe:kt:repent]]**
+  * **[[:ilo:obe:kt:deliverer]]**
+  * **[[:ilo:obe:kt:save]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
   * **Naulit-ulit a napasamak ti kastoy iti namin-adu a daras - **  daytoy ket mabalin nga ipakaawat a kas, “dagitoy a banbanag ket maulit’ulit manen a mapaspasamak” wenno, “dagitoy a banbanag ket napasamak iti adu a tiempo.”
