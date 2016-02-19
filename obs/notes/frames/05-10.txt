@@ -6,13 +6,13 @@ Ket kinuna ti Dios ken Abraham, “Gapo ta nakasagana ka a mangted kaniak iti am
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
-  * **[[:ilo:obe:kt:son|son]]**
-  * **[[:ilo:obe:kt:promise|promise]]**
-  * **[[:ilo:obe:kt:bless|bless, blessed, blessing]]**
-  * **[[:ilo:obe:other:descendant|descendant]]**
-  * **[[:ilo:obe:other:obey|obey, obedient, obedience]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:abraham]]**
+  * **[[:ilo:obe:kt:son]]**
+  * **[[:ilo:obe:kt:promise]]**
+  * **[[:ilo:obe:kt:bless]]**
+  * **[[:ilo:obe:other:descendant]]**
+  * **[[:ilo:obe:other:obey]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **bugtong a putot mo - ** Ni Ismael ket maysa kadagiti putot ni Abraham, ngem ni Isaac laing ti putot na kenni Sarah. Ti katulagan ti Dios ket adda kenni Isaac ken matungpal ti katulagan babaen kenni Isaac. (masarakan met ti pannakailawag idiay **[[:ilo:obs:notes:frames:05-08|[05-08]]]**.
