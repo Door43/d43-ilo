@@ -6,11 +6,11 @@ Isunga imbaga ti Dios kenni Moses a mangipurwak iti dapo iti angin iti sanguanan
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God ]]**
-  * **[[:ilo:obe:other:moses|Moses ]]**
-  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt ]]**
-  * **[[:ilo:obe:other:egypt|Egypt, Egyptian ]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel ]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:moses]]**
+  * **[[:ilo:obe:other:pharaoh]]**
+  * **[[:ilo:obe:other:egypt]]**
+  * **[[:ilo:obe:other:israel]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **Pinatangken ti Dios ti puso ni Pharaoh **  - Ti Dios mismo ti gapuna nu apay ta patuloy a nasukir (nasubeg) ni Pharaoh. Kitaen pay daytoy a sarita idiay **[[:ilo:obs:notes:frames:10-04|[10-04]]]**.
