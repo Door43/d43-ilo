@@ -6,10 +6,10 @@ Kalpasan ti adayu unay a panagdaldalyasat dagiti kabagiyan ni Abraham iti daga a
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
-  * **[[:ilo:obe:other:rebekah|Rebekah]]**
+  * **[[:ilo:obe:other:abraham]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:servant]]**
+  * **[[:ilo:obe:other:rebekah]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **apoko ti kabsat ni Abraham**  - nalatak nga isuna ket anak ti putot ti kabsat ni Abraham.
