@@ -6,12 +6,12 @@
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:idol|idol, idolatrous]]**
-  * **[[:ilo:obe:kt:worship|worship]]**
-  * **[[:ilo:obe:kt:yahweh|Yahweh ]]**
-  * **[[:ilo:obe:kt:god|God ]]**
-  * **[[:ilo:obe:kt:sabbath|Sabbath]]**
-  * **[[:ilo:obe:kt:holy|holy, holiness ]]**
+  * **[[:ilo:obe:other:idol]]**
+  * **[[:ilo:obe:kt:worship]]**
+  * **[[:ilo:obe:kt:yahweh]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:sabbath]]**
+  * **[[:ilo:obe:kt:holy]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
   * (Intuloy ti Dios nga agsao kenni Moses.)
