@@ -2,16 +2,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?nolink&}}
 
-Inkari ti Dios kenni Ari a David a maysa kadagiti kaputotan na ti agbalin nga ari nga agnanayon a mangidalan kadagiti tattao ti Dios. Ti kayat na a saoen daytoy ket agtaudto ti Messiah iti kaputotan ni David.
+nkari ti Dios kenni Ari a David a maysa kadagiti kaputotan na ti agbalin nga ari nga agnanayon a mangidalan kadagiti tattao ti Dios. Ti kayat na a saoen daytoy ket agtaudto ti Messiah iti kaputotan ni David.
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:promise]]**
-  * **[[:ilo:obe:other:david]]**
-  * **[[:ilo:obe:kt:christ]]**
-  * **[[:ilo:obe:other:descendant]]**
+  * **[[:ilo:obe:kt:god|God ]]**
+  * **[[:ilo:obe:kt:promise|promise ]]**
+  * **[[:ilo:obe:other:david|David]]**
+  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
+  * **[[:ilo:obe:other:descendant|descendant ]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **Dagiti kaputotan ni David **– Iti sabali nga wagas a ti panangibaga iti daytoy ket ,“ti bukod a kaputotan ni David.”
+  * **dagiti kaputotan na **– Iti sabali a wagas a ti panangibaga iti daytoy ket ,“ti bukod a kaputotan ni David.”
 **[[:ilo:obs:notes:frames:21-03|<<]] | [[:ilo:obs:notes:21|Up]] | [[:ilo:obs:notes:frames:21-05|>>]]**
