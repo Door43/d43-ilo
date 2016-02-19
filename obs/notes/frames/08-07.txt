@@ -6,10 +6,10 @@ Inikkan ti Dios ni Joseph iti kabaelan na a mangipatarus iti tagtagainep isunga 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:josephot|Joseph (OT)]]**
-  * **[[:ilo:obe:other:dream|dream]]**
-  * **[[:ilo:obe:other:pharaoh|Pharaoh, king of Egypt]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:josephot]]**
+  * **[[:ilo:obe:other:dream]]**
+  * **[[:ilo:obe:other:pharaoh]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **mangipatarus iti tagtagainep **  – Ti “mangipatarus” ket ti pangibagaan iti kayat a saoen. Isua kinaya ni Joseph a nangibaga kadagiti tattao iti kaipapanan dagiti dua a tagtagainep .
