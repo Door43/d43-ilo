@@ -6,12 +6,12 @@ Iti dayta nga aldaw kinugit ni Abraham amin a lallaki iti pagtaengan na. Kalpasa
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
-  * **[[:ilo:obe:kt:circumcise|circumcise, circumcision]]**
-  * **[[:ilo:obe:other:sarah|Sarah, Sarai]]**
-  * **[[:ilo:obe:kt:son|son]]**
-  * **[[:ilo:obe:other:isaac|Isaac]]**
-  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:abraham]]**
+  * **[[:ilo:obe:kt:circumcise]]**
+  * **[[:ilo:obe:other:sarah]]**
+  * **[[:ilo:obe:kt:son]]**
+  * **[[:ilo:obe:other:isaac]]**
+  * **[[:ilo:obe:kt:god]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **amin a lallaki iti pagtaengan na**: [an idiom] amin a lallaki, nataengan man wenno ubing agraman dagiti tagabo a sakop ti talipatoen ni Abram/Abraham.
