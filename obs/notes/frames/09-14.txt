@@ -6,12 +6,12 @@ Sinaludsod ni Moses, “Kasano ngay no damagen dagiti tattao kanyak nu sino iti 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:moses|Moses ]]**
-  * **[[:ilo:obe:kt:god|God ]]**
-  * **[[:ilo:obe:kt:yahweh|Yahweh ]]**
-  * **[[:ilo:obe:other:abraham|Abraham, Abram ]]**
-  * **[[:ilo:obe:other:isaac|Isaac ]]**
-  * **[[:ilo:obe:other:jacob|Jacob, Israel ]]**
+  * **[[:ilo:obe:other:moses]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:yahweh]]**
+  * **[[:ilo:obe:other:abraham]]**
+  * **[[:ilo:obe:other:isaac]]**
+  * **[[:ilo:obe:other:jacob]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **dagiti tattao - **  Kitaen ti "tattaok" idiay **[[:ilo:obs:notes:frames:09-13|[09-13]]]**.
