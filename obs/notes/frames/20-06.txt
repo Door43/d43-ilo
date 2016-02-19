@@ -1,4 +1,4 @@
-===== Pinagserbian dagiti taga Judah kadagiti taga Babylon [20-06] =====
+===== Pinagserbian Dagiti Taga Judah Kadagiti Taga Babylon [20-06] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-06.jpg?nolink&}}
 
@@ -6,15 +6,15 @@ Agarup sanga gasut a tawen kalpasan a dinadael dagiti taga Assyria ti pagarian t
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:assyria]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:nebuchadnezzar]]**
-  * **[[:ilo:obe:other:king]]**
-  * **[[:ilo:obe:other:babylon]]**
-  * **[[:ilo:obe:other:servant]]**
+  * **[[:ilo:obe:other:assyria|Assyria, Assyrian, Assyrian Empire, Asshur]]**
+  * **[[:ilo:obe:kt:god|God ]]**
+  * **[[:ilo:obe:other:nebuchadnezzar|Nebuchadnezzar]]**
+  * **[[:ilo:obe:other:king|king ]]**
+  * **[[:ilo:obe:other:babylon|Babylon, Babylonian]]**
+  * **[[:ilo:obe:other:servant|servant, slave, slavery ]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
-  * **pagarian **- Kitaen nu kasatnum nga impakaawat daytoy daytoy idiay **[[:ilo:obs:notes:frames:20-02|[20-02]]]**.
-  * **immanogot nga- **  napilitan ti ari iti Judah nga agserbi ti ari iti Babylonian wennu madadael.
-  * **tapno agbalin nga Adipen ni Nebuchadnezzar **- Daytoy ket mabalin nga ipakaawat a kas, “tapnun iturayan na iti Judah babaen iti bilbilin ni Nebuchadnezzar.”
+  * **pagarian **- Kitaen nu kasatnom nga impakaawat daytoy daytoy idiay **[[:ilo:obs:notes:frames:20-02|[20-02]]]**.
+  * **immanogot nga - **  napilitan ti ari iti Judah nga agserbi ti ari iti Babylonian wenno madadael.
+  * **tagbalin nga Adipen ni Nebuchadnezzar **- Daytoy ket mabalin nga ipakaawat a kas, “tapno iturayan na iti Judah babaen iti bilbilin ni Nebuchadnezzar.”
 **[[:ilo:obs:notes:frames:20-05|<<]] | [[:ilo:obs:notes:20|Up]] | [[:ilo:obs:notes:frames:20-07|>>]]**
