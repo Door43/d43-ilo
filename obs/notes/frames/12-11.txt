@@ -6,10 +6,10 @@ Kalpasan a nakaballasiw dagiti Isarelita idiay baybay ket imbaga ti Dios kenni M
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:moses|Moses]]**
-  * **[[:ilo:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:moses]]**
+  * **[[:ilo:obe:other:egypt]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **nakaballasiw **– Mabalin a maibalikas daytoy kas, “nagna da iti nasayaat ag-ingga iti bangir” weeno, “nakasangpet da iti ballasiw a nasayaat” wenno, “nakaballasiw da nga awan napasamak a madi manipud kadagiti taga Egypt ken ti baybay."
