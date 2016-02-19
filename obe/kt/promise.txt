@@ -1,4 +1,4 @@
-====== promise (kari (n), inkari (v))======
+====== promise ======
 
 ===== Definition: =====
 
