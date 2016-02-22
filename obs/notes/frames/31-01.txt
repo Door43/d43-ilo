@@ -6,9 +6,9 @@ Kinuna ni Jesus kadagiti adalan na nga aglugan da iti bangka ket mapan da iti ba
 
 ===== Dagiti Importante a Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:disciple|disciple]]**
-  * **[[:ilo:obe:other:pray|pray, prayer]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:disciple]]**
+  * **[[:ilo:obe:other:pray]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **napaawid... dagiti adu a tattao**- daytoy ket sabali a panangibaga, “imbagana kadagiti tattao nga agrubwat mettenen”, wenno, “imbaga na kadagiti tattao nga agawid dan kadagiti balbalay da”.
