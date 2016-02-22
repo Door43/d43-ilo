@@ -6,9 +6,9 @@ Imbaon ni Jesus dagiti apostol na tapno kasabaan ken suroan da dagiti tattao kad
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:apostle|apostle, apostleship]]**
-  * **[[:ilo:obe:other:preach|preach]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:apostle]]**
+  * **[[:ilo:obe:other:preach]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **naulimek a lugar **- daytoy ket maipapan iti lugar a bassit iti tattao a mabalin nga is’isuda laeng sadiay.
