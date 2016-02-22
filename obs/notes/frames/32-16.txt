@@ -1,15 +1,15 @@
 ===== Naagasan Gapo Iti Pammati [32-16] =====
 
-i{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink&}}
 
 Napan nagparintumeng nga agtigtigerger ken permi a mabutbuteng ti babai iti sangoanan ni Jesus. Imbaga na kenkuana ti inaramid na ken ti pannakaagas na babaen iti daytoy. Kinuna ni Jesus kenkuana, “Inagasan naka ti pammatim. Agawid ka nga addaan kappia.”
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:faith|faith]]**
-  * **[[:ilo:obe:other:heal|heal, cure]]**
-  * **[[:ilo:obe:other:peace|peace, peaceful]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:faith]]**
+  * **[[:ilo:obe:other:heal]]**
+  * **[[:ilo:obe:other:peace]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * **nagparintumeng **- dayta ket, “dagus a nagparintumeng."
