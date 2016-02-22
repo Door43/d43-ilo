@@ -6,9 +6,9 @@ Nagpakaasi ti demonyo kenni Jesus, “Pangaasim ta saan na kami nga ibaon iti ru
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:demon|demon, evil spirit, unclean spirit]]**
-  * **[[:ilo:obe:other:beg|beg, beggar ]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:demon]]**
+  * **[[:ilo:obe:other:beg]]**
+  * **[[:ilo:obe:kt:jesus]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * **saan na kami nga ibaun **- dayta ket,”saan mo nga aramiden a pumanaw kami."
