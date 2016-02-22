@@ -6,9 +6,9 @@
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:good|good, goodness]]**
-  * **[[:ilo:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]**
-  * **[[:ilo:obe:kt:believe|believe, believe in, belief ]]**
+  * **[[:ilo:obe:kt:good]]**
+  * **[[:ilo:obe:kt:wordofgod]]**
+  * **[[:ilo:obe:kt:believe]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * (intuloy ni Jesus nga ipaliwanag ti istorya.)
