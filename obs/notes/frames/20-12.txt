@@ -6,10 +6,10 @@ Nabileg ti pagarian a Persia ngem mannangaasi daytoy kadagiti tattao a sinakup d
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:mercy|mercy, merciful]]**
-  * **[[:ilo:obe:other:jew|Jew, Jewish]]**
-  * **[[:ilo:obe:kt:temple|temple]]**
-  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
+  * **[[:ilo:obe:kt:mercy]]**
+  * **[[:ilo:obe:other:jew]]**
+  * **[[:ilo:obe:kt:temple]]**
+  * **[[:ilo:obe:other:jerusalem]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
   * **pagarian a Persia **- kitaen nu kasanom nga impakaawat daytoy a balikas idiay **[[:ilo:obs:notes:frames:20-11|[20-11]]]**.
