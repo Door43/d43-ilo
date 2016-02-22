@@ -6,10 +6,10 @@ Ngem kinuna ti baru, “Tinongpal ko amin dagita a bibilin manipud pay idi ubing
 
 ===== Dagiti Importante a Balikas: =====
 
-  * **[[:ilo:obe:other:obey|obey, obedient, obedience]]**
-  * **[[:ilo:obe:kt:lawofmoses|law, law of Moses, God's law, law of Yahweh]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:love|love]]**
+  * **[[:ilo:obe:other:obey]]**
+  * **[[:ilo:obe:kt:lawofmoses]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:love]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **Nanipuden iti kina ubing ko**- ti sabali pay nga pannaka ibaga na daytoy ket, “nanipud idi bassitak nga ubing aginggana tattan ta dakkelakon”.
