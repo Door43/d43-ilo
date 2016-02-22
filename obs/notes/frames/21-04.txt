@@ -6,11 +6,11 @@ nkari ti Dios kenni Ari a David a maysa kadagiti kaputotan na ti agbalin nga ari
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God ]]**
-  * **[[:ilo:obe:kt:promise|promise ]]**
-  * **[[:ilo:obe:other:david|David]]**
-  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
-  * **[[:ilo:obe:other:descendant|descendant ]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:promise]]**
+  * **[[:ilo:obe:other:david]]**
+  * **[[:ilo:obe:kt:christ]]**
+  * **[[:ilo:obe:other:descendant]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
   * **dagiti kaputotan na **– Iti sabali a wagas a ti panangibaga iti daytoy ket ,“ti bukod a kaputotan ni David.”
