@@ -6,8 +6,8 @@ Nagsubli ni Jesus iti ballasiw ti baybay. Kalpasan a nakadanon isuna sadiay ket 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:other:heal|heal, cure]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:other:heal]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * **inaribungbungan dagiti **- dayta ket, “indurun da” wenno, “pinalawlawan da a nasayaat isuna."
