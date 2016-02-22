@@ -6,9 +6,9 @@ Ngem kinuna ni Jesus kenkuana, “Saan. Kayat ko nga agawid ka ket ibagam kadagi
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:mercy|mercy, merciful]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:mercy]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * **no kasa **** no a kinaasian naka **  - dsytoy ket mabalin nga ipakaawat a kas, “kasano nga impakita na iti asi na kenka” wenno, “ket nagbalin a mannangaasi kenka."
