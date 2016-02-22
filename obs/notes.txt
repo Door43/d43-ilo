@@ -1,7 +1,7 @@
 ====== Translation & Checking Notes ======
 
 //In order to help translators of [[:en:obs|Open Bible Stories]] to do the best translation work possible, exegetical notes and resources for each frame (text + image) of each story are available here. These are the stories that have complete notes://
-  - [[:ilo:obs:notes:01|The Creation]]
+  - [[:ilo:obs:notes:01|Ti Panagparsua]]
   - [[:ilo:obs:notes:02|Sin Enters the World]]
   - [[:ilo:obs:notes:03|The Flood]]
   - [[:ilo:obs:notes:04|God's Covenant with Abraham]]
