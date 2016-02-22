@@ -1,12 +1,15 @@
 ===== Binilin Ni Jesus Dagiti Demonyo [32-05] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-05.jpg?nolink}}
+
+
 Idi napan ti lalaki kenni Jesus nagparintumeng daytoy iti sangoanan na. Kinuna ni Jesus iti demonyo, “Rumuar ka iti daytoy a lalaki!”
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:demon|demon, evil spirit, unclean spirit]]**
-===== Pannakaipakaawat Kadagiti Sarsarita : =====
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:demon]]**
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **nagparintumeng **- dayta ket, “dagus a nagparintumeng iti daga."
 **[[:ilo:obs:notes:frames:32-04|<<]] | [[:ilo:obs:notes:32|Up]] | [[:ilo:obs:notes:frames:32-06|>>]]**
