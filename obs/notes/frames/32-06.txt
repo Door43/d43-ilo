@@ -1,13 +1,15 @@
 ===== Ti Nagan Ko Ket Rinibu [32-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-06.jpg?nolink}}
+
 Nagpukkaw iti napigsa ti nalungogan a lalaki ket kinunana, “Jesus nga Anak ti kangatoan a Dios! Anya ti kayat mo kaniak? Pangaasim kadi ta saan nak a parigaten!” Ket dinamag ni Jesus iti demonyo “Ania ti nagan mo?” Simmungbat daytoy ket kunana, “Ti nagan ko ket Rinibu gapo ta adu kami gamin”. (Ti “Rinibu” ket bunggoy iti rinib-ribo a suldado ti Roma.)
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:demonpossessed|demon-possessed]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:sonofgod|Son of God, the Son]]**
-  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:kt:demonpossessed]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:sonofgod]]**
+  * **[[:ilo:obe:kt:god]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * **nagpukkaw **- dayta ket, “nagsangit” wenno, “nagriyaw."
