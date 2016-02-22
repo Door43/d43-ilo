@@ -6,14 +6,14 @@ Imbaga met dagiti mammadto a naan-anay nga awan basol ti Messiah. Matayto isuna 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:prophet|prophet, prophecy, prophesy, seer ]]**
-  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning ]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
-  * **[[:ilo:obe:kt:receive|receive]]**
-  * **[[:ilo:obe:other:punish|punish, punishment]]**
-  * **[[:ilo:obe:other:peace|peace, peaceful]]**
-  * **[[:ilo:obe:kt:god|God ]]**
+  * **[[:ilo:obe:kt:prophet]]**
+  * **[[:ilo:obe:kt:christ]]**
+  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:kt:death]]**
+  * **[[:ilo:obe:kt:receive]]**
+  * **[[:ilo:obe:other:punish]]**
+  * **[[:ilo:obe:other:peace]]**
+  * **[[:ilo:obe:kt:god]]**
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
   * **awan iti basol - **  daytoy ket mabalin nga ipakaawat a kas, “saan a pulos a nagbasol.”
