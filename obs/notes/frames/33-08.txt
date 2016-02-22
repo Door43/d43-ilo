@@ -6,9 +6,9 @@
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]**
-  * **[[:ilo:obe:kt:love|love]]**
-  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:kt:wordofgod]]**
+  * **[[:ilo:obe:kt:love]]**
+  * **[[:ilo:obe:kt:god]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * (Intuloy ni Jesus nga ilawlawag ti istorya .)
