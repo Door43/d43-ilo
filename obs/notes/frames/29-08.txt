@@ -6,11 +6,11 @@
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:king|king]]**
-  * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
-  * **[[:ilo:obe:kt:forgive|forgive, forgiveness]]**
-  * **[[:ilo:obe:other:beg|beg, beggar ]]**
-  * **[[:ilo:obe:kt:evil|evil, wicked, wickedness]]**
+  * **[[:ilo:obe:other:king]]**
+  * **[[:ilo:obe:other:servant]]**
+  * **[[:ilo:obe:kt:forgive]]**
+  * **[[:ilo:obe:other:beg]]**
+  * **[[:ilo:obe:kt:evil]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * (intuloy ni Jesus iti istorya.)
