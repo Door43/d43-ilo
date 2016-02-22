@@ -6,9 +6,9 @@ Kalpasan na kinuna ni Hesus, “Kastoy met laeng ti aramiden ti Amak a nainlangi
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:godthefather|God the Father, Heavenly Father]]**
-  * **[[:ilo:obe:kt:forgive|forgive, forgiveness]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:godthefather]]**
+  * **[[:ilo:obe:kt:forgive]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * **kinuna ni Jesus **- daaduma nga padsasao ket mabalin a mainayun, “kadagiti adalan na."
