@@ -6,11 +6,11 @@ Nagbuteng ni Peter ket nangrugi a limned iti danom. Nagpukkaw isuna, “Apo ket 
 
 ===== Dagiti Importante a Balikas: =====
 
-  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
-  * **[[:ilo:obe:kt:lord|Lord, master, sir]]**
-  * **[[:ilo:obe:kt:save|save, safe]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:faith|faith]]**
+  * **[[:ilo:obe:other:peter]]**
+  * **[[:ilo:obe:kt:lord]]**
+  * **[[:ilo:obe:kt:save]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:faith]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * ** Nagbassit laketdin ti pammatim ** - daytoy ket mabalin nga ipakaawat a kas, “nagbassit iti pammatim kanyak”, wenno , “saannak a mapagtalkan launay”.
