@@ -6,9 +6,9 @@
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
-  * **[[:ilo:obe:other:king|king ]]**
-  * **[[:ilo:obe:other:servant|servant, slave, slavery ]]**
+  * **[[:ilo:obe:other:servant]]**
+  * **[[:ilo:obe:other:king]]**
+  * **[[:ilo:obe:other:servant]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * (intuloy ni Jesus diay istorya.)
