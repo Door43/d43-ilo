@@ -6,9 +6,9 @@ Innala ni Jesus ti lima a tinapay ken dua a nga ikan ket kimmita iti langit ken 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
-  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:heaven]]**
+  * **[[:ilo:obe:kt:god]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * //(Awan ti naisurat iti daytoy a paset.)//
