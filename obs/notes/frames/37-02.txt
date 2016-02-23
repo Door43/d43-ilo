@@ -6,10 +6,10 @@ Kalpasan a naglabas ti dua nga aldaw ket kinuna ni Jesus kadagiti adalan na, “
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:disciple|disciple]]**
-  * **[[:ilo:obe:kt:teacher|teacher, Teacher]]**
-  * **[[:ilo:obe:other:lazarus|Lazarus]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:disciple]]**
+  * **[[:ilo:obe:kt:teacher]]**
+  * **[[:ilo:obe:other:lazarus]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **Judea**- daytoy ket maipapan iti abagatan a paset iti Israel, nga naited iti tribu ti Judah. Iti dadduma a pagsasao ket ma maipapan dayoty iti, “pagilian ti Judah”.
