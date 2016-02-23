@@ -6,11 +6,11 @@ Kalpasan daytoy simmangpet ni Mary ket nagparintumeng isuna iti sangoanan ni Jes
 
 ===== Dagiti Importante Nga Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:lord|lord, master, sir]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
-  * **[[:ilo:obe:other:lazarus|Lazarus]]**
-  * **[[:ilo:obe:other:tomb|tomb, grave, burial place]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:lord]]**
+  * **[[:ilo:obe:kt:death]]**
+  * **[[:ilo:obe:other:lazarus]]**
+  * **[[:ilo:obe:other:tomb]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **Mary**- isu met laeng dayoty a babae iti, saan nga ti ina ni Jesus.
