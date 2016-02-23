@@ -6,9 +6,9 @@ Ti nakaitaneman na ket maysa a kuweba nga addaan iti bato a maitulid kas kalub t
 
 ===== Dagiti Importante Nga Balikas: =====
 
-  * **[[:ilo:obe:other:tomb|tomb, grave, burial place]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
+  * **[[:ilo:obe:other:tomb]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:death]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **Inbaga na kadakuada**- dayta ket, “imbaga na kadagiti lallake idiay” Mabalin nga ibagbaga na nga saan a ni Mary kenni Martha ti mangitulid diay batu a paadayu.
