@@ -6,10 +6,10 @@ Ngem nagimon dagiti panguloen ti relihiyon isua nagguummong da tapno planoen da 
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
-  * **[[:ilo:obe:other:jew|Jew, Jewish]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:other:lazarus|Lazarus]]**
+  * **[[:ilo:obe:other:jewishleaders]]**
+  * **[[:ilo:obe:other:jew]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:other:lazarus]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **nagimon**- dayta ket, “nagimon gapu iti pannakabalin ken kinalatak ni Jesus” wenno, “nagimon ta adu nga Judio iti namati ken Jesus”.
