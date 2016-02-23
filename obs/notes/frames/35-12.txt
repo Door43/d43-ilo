@@ -6,9 +6,9 @@
 
 ===== Dagiti Importante a Balikas: =====
 
-  * **[[:ilo:obe:kt:faithful|faithful, faithfulness ]]**
-  * **[[:ilo:obe:other:disobey|disobey, disobedient, disobedience]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning ]]**
+  * **[[:ilo:obe:kt:faithful]]**
+  * **[[:ilo:obe:other:disobey]]**
+  * **[[:ilo:obe:kt:sin]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * (intuloy ni Jesus iti istorya)
