@@ -1,18 +1,17 @@
 ====== Mary ======
 
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-Mary was the mother of Jesus and the wife of Joseph.
+Ni Mary ket isu ti ina ni Jesus nga asawa ni Joseph.
 
-  * The Holy Spirit miraculously caused Mary to become pregnant while she was a virgin. The baby in her was the Son of God. 
-  * Joseph took Mary as his wife, but Mary remained a virgin until after the baby was born.
-  * When the baby was born, Mary and Joseph named him Jesus.
+  * Babaen ti pannakabalin iti Ispiritu Santo ket nagsikog ni Mary uray isuna ket birhen. Anak ti Diyos ti sikug na.
+  * Inasawa ni Joseph ni Mary, ngem nagtalinaed a birhen ni Mary inggana naiyanak dijay ubing.
+  * Idi naiyanak dijay ubing ket pinanaganan da Mary ken Joseph iti Jesus. When the baby was born, Mary and Joseph named him Jesus.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
+(Translation suggestions: [[:ilo:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[ilo:obe:kt:jesus]], [[josephnt]], [[ilo:obe:kt:sonofgod]], [[virgin]])
-
+(See also: [[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:ilo:obe:other:josephnt|Joseph (NT)]], [[:ilo:obe:kt:sonofgod|Son of God, the Son]], [[:ilo:obe:other:virgin|virgin]])
 
 ===== Bible References: =====
 
