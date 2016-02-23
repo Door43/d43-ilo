@@ -6,10 +6,10 @@ Nagsubli da Jesus ken dagiti tallo nga adalan manipud iti bantay. Kinuna ni Jesu
 
 ===== Dagiti Importante a Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:disciple|disciple]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
-  * **[[:ilo:obe:kt:life|life, live, living, alive]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:disciple]]**
+  * **[[:ilo:obe:kt:death]]**
+  * **[[:ilo:obe:kt:life]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * //Maysa nga istorya manipud iti bibliya a naggapu //- dagitoy a pangkitaan ket mabalin nga adda iti bassit a nagdumaan na  kadagiti dadduma a pannakaibalikas iti biblia.
