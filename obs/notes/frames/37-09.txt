@@ -6,11 +6,11 @@ Kimmita ni Jesus iti langit ket kinunana, “Ama, agyamanak ta dumdumggeg ka kan
 
 ===== Dagiti Importante Nga Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
-  * **[[:ilo:obe:kt:godthefather|God the Father, Heavenly Father]]**
-  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
-  * **[[:ilo:obe:other:lazarus|Lazarus]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:heaven]]**
+  * **[[:ilo:obe:kt:godthefather]]**
+  * **[[:ilo:obe:kt:believe]]**
+  * **[[:ilo:obe:other:lazarus]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **dengdenggennak**- dayta ket, “panagdengngeg kanyak”. Maktulong nu inayun iti, “kas panangikararag ko kanyam”wenno, “idi nagsao ak kenka”.
