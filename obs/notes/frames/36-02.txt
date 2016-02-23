@@ -6,8 +6,8 @@ Idi agkarkararag ni Jesus ket nagraniag ti rupa na iti kas karaniag ti init ken 
 
 ===== Dagiti Importante A Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:other:pray|pray, prayer]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:other:pray]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **permi a pimmuraw **- ti kayatna a saoen, "nakarakaru a puraw"
