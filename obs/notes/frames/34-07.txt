@@ -6,11 +6,11 @@
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
-  * **[[:ilo:obe:kt:god|God ]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:ilo:obe:kt:adultery|adultery, adulterous, adulterer, adulteress]]**
-  * **[[:ilo:obe:other:taxcollector|tax collector]]**
+  * **[[:ilo:obe:other:jewishleaders]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:kt:adultery]]**
+  * **[[:ilo:obe:other:taxcollector]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * (intuloy ni Jesus ti istorya)
