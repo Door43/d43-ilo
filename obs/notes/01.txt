@@ -14,7 +14,7 @@ Pindutin kadagiti ladawan ditoy baba tapno ipataros iti tunggal paset iti istory
 Ti Panagparsua [01-01]\\
 \\
 [[:ilo:obs:notes:frames:01-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?nolink&200}}]]\\
-Pinarsuan Ti Dios ti Lawag  [01-02]\\
+Pinarsuan Ti Dios ti Lawag [01-02]\\
 \\
 [[:ilo:obs:notes:frames:01-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?nolink&200}}]]\\
 Pinarsuan Ti Dios Ti Tangatang [01-03]\\
@@ -35,7 +35,7 @@ Ti Panagparsua Ti Dios Kadagiti Billit Ken Dagiti Lames [01-07]\\
 Pinarsua Ti Dios Dagiti Ayayup [01-08]\\
 \\
 [[:ilo:obs:notes:frames:01-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-09.jpg?nolink&200}}]]\\
-Inaramid Ti Dios Ti Tao Iti Kaasasping Na [01-09]\\
+Inaramid Ti Dios Ti Tao Nga Kaasasping Na [01-09]\\
 \\
 [[:ilo:obs:notes:frames:01-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg?nolink&200}}]]\\
 Inaramid Ti Dios Ni Adam [01-10]\\
