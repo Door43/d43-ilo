@@ -6,12 +6,12 @@ Idi nakadanun ni Jesus iti ili da Lazarus ket uppaten nga aldaw ti napalabas man
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:other:lazarus|Lazarus]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
-  * **[[:ilo:obe:kt:lord|lord, master, sir]]**
-  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
-  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:other:lazarus]]**
+  * **[[:ilo:obe:kt:death]]**
+  * **[[:ilo:obe:kt:lord]]**
+  * **[[:ilo:obe:kt:believe]]**
+  * **[[:ilo:obe:kt:god]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **Martha**- ni Martha ket kabsat ni Lazarus kenni Mary
