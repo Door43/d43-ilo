@@ -6,9 +6,9 @@
 
 ===== Dagiti Importante a Balikas: =====
 
-  * **[[:ilo:obe:kt:son|son]]**
-  * **[[:ilo:obe:kt:sin|sin, sinning, sinner]]**
-  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:kt:son]]**
+  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:kt:god]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * (intuloy ni Jesus iti istorya)
