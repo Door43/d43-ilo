@@ -6,9 +6,9 @@
 
 ===== Dagiti Importante a Balikas: =====
 
-  * **[[:ilo:obe:kt:son|son ]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
-  * **[[:ilo:obe:kt:life|life, live, living, alive]]**
+  * **[[:ilo:obe:kt:son ]]**
+  * **[[:ilo:obe:kt:death]]**
+  * **[[:ilo:obe:kt:life]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * (intuloy ni Jesus iti istorya)
