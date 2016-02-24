@@ -6,12 +6,12 @@ Kalpasan a nagsubli ni Jesus idiay langit ket nagtalinaed dagiti adalan idiay Je
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
-  * **[[:ilo:obe:kt:disciple|disciple]]**
-  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
-  * **[[:ilo:obe:kt:believer|believer]]**
-  * **[[:ilo:obe:other:pray|pray, prayer]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:heaven]]**
+  * **[[:ilo:obe:kt:disciple]]**
+  * **[[:ilo:obe:other:jerusalem]]**
+  * **[[:ilo:obe:kt:believer]]**
+  * **[[:ilo:obe:other:pray]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **nagsubli…idiay langit**  - dayta ket, “nagsublin idiay langit."
