@@ -6,9 +6,9 @@ Napan da ngarud iti ayan ti danum ket binautisaran ni Philip diay taga Ethiopia.
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:baptize|baptize, baptism]]**
-  * **[[:ilo:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:baptize]]**
+  * **[[:ilo:obe:kt:holyspirit]]**
+  * **[[:ilo:obe:kt:jesus]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **impanaw ti ... ni Philip ket inpanna **- dayta ket, “innala da ni Philip nga in'adayu” wenno, “dagus nga in'adayu da ni Philip."
