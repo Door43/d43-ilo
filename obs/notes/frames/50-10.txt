@@ -2,18 +2,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-10.jpg?nolink&}}
 
-“
-
 “Inton aggibus ti lubong, ummungento dagiti anghel dagiti amin a tattao a kukua ti diablo ket ibillengdanto ida iti gumilgil-ayab nga apuy. Agsasangit danto ken agngangaretnget dagiti ngipenda gapo iti nakaru a panagsagaba da. Agranyagto dagiti nalinteg a kas iti ranyag ti init idiay pagarian ti Dios nga Ama da.”
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:angel|angel, archangel]]**
-  * **[[:ilo:obe:kt:satan|Satan, devil, evil one]]**
-  * **[[:ilo:obe:kt:suffer|suffer, suffering]]**
-  * **[[:ilo:obe:kt:righteous|righteous, righteousness]]**
-  * **[[:ilo:obe:other:kingdom-of-god|kingdom-of-god]]**
-  * **[[:ilo:obe:kt:godthefather|God the Father, Heavenly Father]]**
+  * **[[:ilo:obe:kt:angel]]**
+  * **[[:ilo:obe:kt:satan]]**
+  * **[[:ilo:obe:kt:suffer]]**
+  * **[[:ilo:obe:kt:righteous]]**
+  * **[[:ilo:obe:other:kingdomofgod]]**
+  * **[[:ilo:obe:kt:godthefather]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **dagiti maibilang a diyablo**  - daytoy ket mabalin met nga ipakaawat a kas, “dagiti agtulnog iti diyablo” wenno, “dagiti iturayan iti diybalo.
