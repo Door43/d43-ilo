@@ -6,12 +6,12 @@ Iti sumaruno nga aldaw, pinalubusan dagiti panguloen ti siudad da Paul ken Silas
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:paul|Paul, Saul]]**
-  * **[[:ilo:obe:other:silas|Silas, Silvanus]]**
-  * **[[:ilo:obe:other:philippi|Philippi]]**
-  * **[[:ilo:obe:kt:goodnews|good news, gospel]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:church|church, Church]]**
+  * **[[:ilo:obe:other:paul]]**
+  * **[[:ilo:obe:other:silas]]**
+  * **[[:ilo:obe:other:philippi]]**
+  * **[[:ilo:obe:kt:goodnews]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:church]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **dagiti pangpangulo iti siudad**  - daytoy ket maipapan iti, “dagiti opisyal iti siudad” wenno, “dagiti agtuturay iti siudad."
