@@ -6,10 +6,10 @@ Kinuna ni Jesus a napatpateg ti pagarian ti Dios ngem iti uray aniaman pay a ban
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven]]**
-  * **[[:ilo:obe:kt:save|save, safe]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:kingdomofgod]]**
+  * **[[:ilo:obe:kt:save]]**
+  * **[[:ilo:obe:kt:sin]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **ti pannakaisalakan manipud iti basol mo**  - dayta ket, “ti pannakaisalakan manipud iti pannakadusa gapo ti basol mo” wenno, “tapno ti Dios islakan naka manipud iti basol mo” wenno, “ti panangawat mo iti pannakaisalakan manipud iti basol mo."
