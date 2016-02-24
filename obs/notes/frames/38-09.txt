@@ -6,11 +6,11 @@ Simmungbat ni Peter ket kinunana, “Urayno tumallikud dagiti dadduma, saankanto
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:satan|Satan, devil, evil one]]**
-  * **[[:ilo:obe:other:pray|pray, prayer]]**
-  * **[[:ilo:obe:kt:faith|faith]]**
+  * **[[:ilo:obe:other:peter]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:satan]]**
+  * **[[:ilo:obe:other:pray]]**
+  * **[[:ilo:obe:kt:faith]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **tinallikudan naka-**  kitaen nu kasano iti pannaka ipakaawat yu iti.
