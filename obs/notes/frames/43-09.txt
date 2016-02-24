@@ -6,11 +6,11 @@
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:crucify|crucify]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:lord|lord, master, sir]]**
-  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
+  * **[[:ilo:obe:kt:crucify]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:lord]]**
+  * **[[:ilo:obe:kt:christ]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * (Intuloy ni Peter ti panagkaskasaba na kadigiti bunggoy ti tattao.)
