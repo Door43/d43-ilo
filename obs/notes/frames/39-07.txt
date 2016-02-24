@@ -6,10 +6,10 @@ Nagsapata ni Peter ket kinunana, “Uray dusaen nak ti Dios no pudno nga am-ammu
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:curse|curse, cursed]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:other:peter]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:curse]]**
+  * **[[:ilo:obe:kt:jesus]]**
 ===== Translation Notes: =====
 
   * **vowed**  - That is, "said emphatically" or, "said very strongly."
