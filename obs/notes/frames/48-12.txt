@@ -6,11 +6,11 @@ Natan-ok ni Moses a mammadtu a nangiwaragawag iti sao ti Dios. Ngem ni Jesus ti 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:moses|Moses]]**
-  * **[[:ilo:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
-  * **[[:ilo:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:moses]]**
+  * **[[:ilo:obe:kt:prophet]]**
+  * **[[:ilo:obe:kt:wordofgod]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:god]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **natan-ok a mammadto -**  Ti kayatna a saoen ditoy ket, "maysa a napateg a mammadto."
