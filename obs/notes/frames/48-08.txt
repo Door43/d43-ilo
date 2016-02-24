@@ -6,16 +6,16 @@ Idi imbaga ti Dios kenni Abraham nga idaton na ti anak na a ni Isaac, impaay ti 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God ]]**
-  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
-  * **[[:ilo:obe:kt:son|son]]**
-  * **[[:ilo:obe:other:isaac|Isaac]]**
-  * **[[:ilo:obe:other:sacrifice|sacrifice, offering]]**
-  * **[[:ilo:obe:kt:lamb|lamb, Lamb of God]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:lamb|lamb, Lamb of God]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:abraham]]**
+  * **[[:ilo:obe:kt:son]]**
+  * **[[:ilo:obe:other:isaac]]**
+  * **[[:ilo:obe:other:sacrifice]]**
+  * **[[:ilo:obe:kt:lamb]]**
+  * **[[:ilo:obe:kt:death]]**
+  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:lamb]]**
 ===== Dagiti Napapateg A Balikas: =====
 
   * **imbes a ni Isaac nga anak na**  - daytoy ket mabalin met a maipakaawat a kas, “iti biangen ti anak na a ni Isaac” wenno, “tapno saan a nti anak na a ni Isaac iti idaton na."
