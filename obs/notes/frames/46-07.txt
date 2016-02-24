@@ -6,10 +6,10 @@ Kalpasan iti adu nga aldaw, pinanggep dagiti Judio a papatayen ni Saul. Nangibau
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:jew|Jew, Jewish]]**
-  * **[[:ilo:obe:other:paul|Paul, Saul]]**
-  * **[[:ilo:obe:other:preach|preach]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:other:jew]]**
+  * **[[:ilo:obe:other:paul]]**
+  * **[[:ilo:obe:other:preach]]**
+  * **[[:ilo:obe:kt:jesus]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **ti ruangan iti siudad **- ti ruangan ket isu laeng iti dalan a sumrek  ken rumuar kadagiti siudad nga addaan iti pader.
