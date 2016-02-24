@@ -6,8 +6,8 @@ Kinuna ni Pilato, “Mangala kayo ngarud iti sumagmamano a suldado ket siguradoe
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:pilate|Pilate]]**
-  * **[[:ilo:obe:other:tomb|tomb, grave, burial place]]**
+  * **[[:ilo:obe:other:pilate]]**
+  * **[[:ilo:obe:other:tomb]]**
 ===== Translation Notes: =====
 
   * **they placed**  - That is, "the religious leaders and the soldiers placed."
