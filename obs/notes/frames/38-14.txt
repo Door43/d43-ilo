@@ -6,11 +6,11 @@ Simmangpet ni Judas a kadua na dagiti panguloen a Judio ken dagiti soldado ken d
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:judasiscariot|Judas Iscariot]]**
-  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:teacher|teacher, Teacher]]**
-  * **[[:ilo:obe:kt:betray|betray, betrayer]]**
+  * **[[:ilo:obe:other:judasiscariot]]**
+  * **[[:ilo:obe:other:jewishleaders]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:teacher]]**
+  * **[[:ilo:obe:kt:betray]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **immay iti**- daddum a pagsasao ket ipakaawat na a kas, “napan iti”
