@@ -6,16 +6,16 @@ Simmungbat ni Peter kadakuada ket kinunana, “Naagasan babaen iti pannakabalin 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
-  * **[[:ilo:obe:other:heal|heal, cure]]**
-  * **[[:ilo:obe:kt:power|power]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
-  * **[[:ilo:obe:kt:crucify|crucify]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:raise|raise, rise, risen, arise, arose]]**
-  * **[[:ilo:obe:kt:life|life, live, living, alive]]**
-  * **[[:ilo:obe:kt:save|save, safe]]**
+  * **[[:ilo:obe:other:peter]]**
+  * **[[:ilo:obe:other:heal]]**
+  * **[[:ilo:obe:kt:power]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:christ]]**
+  * **[[:ilo:obe:kt:crucify]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:raise]]**
+  * **[[:ilo:obe:kt:life]]**
+  * **[[:ilo:obe:kt:save]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **naagasan**  - dayta ket, “simmayaat” wenno, “amin” wenno, “napigsa."
