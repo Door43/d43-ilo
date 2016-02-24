@@ -6,16 +6,16 @@ Aw-awisen naka ni Jesus a mamati kenkuana ken mabautisaran. Mamati ka kadi a ni 
 
 ===== Dagiti Napapateg a Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
-  * **[[:ilo:obe:kt:baptize|baptize, baptism]]**
-  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
-  * **[[:ilo:obe:kt:sonofgod|Son of God, the Son]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:punish|punish, punishment]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
-  * **[[:ilo:obe:kt:cross|cross]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:believe]]**
+  * **[[:ilo:obe:kt:baptize]]**
+  * **[[:ilo:obe:kt:christ]]**
+  * **[[:ilo:obe:kt:sonofgod]]**
+  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:punish]]**
+  * **[[:ilo:obe:kt:death]]**
+  * **[[:ilo:obe:kt:cross]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **mamati ka kenkuana**  - daytoy ket mabalin met nga ipakaawat a kas, “agtalek ka kenkuana” wenno, “agtalek ka kenkuana tapno isalakan naka” wenno, “italek mo iti amin a biag mo kenkuana."
