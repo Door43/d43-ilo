@@ -8,10 +8,10 @@
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:evil|evil, wicked, wickedness]]**
-  * **[[:ilo:obe:kt:satan|Satan, devil, evil one]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:angel|angel, archangel]]**
+  * **[[:ilo:obe:kt:evil]]**
+  * **[[:ilo:obe:kt:satan]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:angel]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **dagiti maibilang iti managdakdakes**  - dayta ket, “dagiti agtulnog iti managdakdakes” wenno, “dagiti iturayan iti managdakdakes."
