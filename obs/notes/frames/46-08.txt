@@ -6,13 +6,13 @@ Napan ni Saul idiay Jerusalem tapno kitaen na dagiti adalan sadiay ngem nagbuten
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:paul|Paul, Saul]]**
-  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
-  * **[[:ilo:obe:kt:disciple|disciple]]**
-  * **[[:ilo:obe:kt:believer|believer]]**
-  * **[[:ilo:obe:other:barnabas|Barnabas]]**
-  * **[[:ilo:obe:kt:apostle|apostle, apostleship]]**
-  * **[[:ilo:obe:other:preach|preach]]**
+  * **[[:ilo:obe:other:paul]]**
+  * **[[:ilo:obe:other:jerusalem]]**
+  * **[[:ilo:obe:kt:disciple]]**
+  * **[[:ilo:obe:kt:believer]]**
+  * **[[:ilo:obe:other:barnabas]]**
+  * **[[:ilo:obe:kt:apostle]]**
+  * **[[:ilo:obe:other:preach]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **inawat da ni Saul**  - dayta ket, “namati da ni Saul ket maysa a namati kenni Jesus."
