@@ -6,16 +6,16 @@ Saan naka a maisalakan dagiti naimbag nga araramid. Awan ti maaramidam tapno maa
 
 ===== Dagiti Napapateg a Balikas: =====
 
-  * **[[:ilo:obe:kt:save|save, safe]]**
-  * **[[:ilo:obe:kt:god|God ]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
-  * **[[:ilo:obe:kt:sonofgod|Son of God, the Son]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
-  * **[[:ilo:obe:kt:cross|cross]]**
-  * **[[:ilo:obe:kt:raise|raise, rise, risen, arise, arose]]**
-  * **[[:ilo:obe:kt:life|life, live, living, alive]]**
+  * **[[:ilo:obe:kt:save]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:kt:believe]]**
+  * **[[:ilo:obe:kt:sonofgod]]**
+  * **[[:ilo:obe:kt:death]]**
+  * **[[:ilo:obe:kt:cross]]**
+  * **[[:ilo:obe:kt:raise]]**
+  * **[[:ilo:obe:kt:life]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **saanna tayo a maisalakan kadagiti naimbag nga ar'aramid tayo**  - dayta ket, “ti panagaramid kadagiti nasayaat a banbanag ket saan naka maisalakan manipud kadagiti basbasol mo” wenno, “saan ka a makaaramid iti nasayaat a banag a makaanay a mangisalakan iti bagim manipud iti supapak dagiti basbasol mo."
