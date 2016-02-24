@@ -6,10 +6,10 @@ Kabayatan nga agtutungtung dagiti adalan ket bigla a nagparang ni Jesus kadakuad
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:disciple|disciple]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:other:peace|peace, peaceful]]**
-  * **[[:ilo:obe:kt:disciple|disciple]]**
+  * **[[:ilo:obe:kt:disciple]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:other:peace]]**
+  * **[[:ilo:obe:kt:disciple]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **kappia kadakayo**  - daytoy ket mabalin met nga ipakaawat a kas, “maaddaan kayo kuma iti kapya” wenno, “kapya iti umay kenka."
