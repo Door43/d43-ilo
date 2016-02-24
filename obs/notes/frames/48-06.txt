@@ -6,13 +6,13 @@ Iti uneg ti ginasgasut a tawtawen, nagtultuloy a nagidaton dagiti papadi iti Dio
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:priest|priest, priesthood]]**
-  * **[[:ilo:obe:other:sacrifice|sacrifice, offering]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:highpriest|high priest]]**
-  * **[[:ilo:obe:other:punish|punish, punishment]]**
+  * **[[:ilo:obe:kt:priest]]**
+  * **[[:ilo:obe:other:sacrifice]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:highpriest]]**
+  * **[[:ilo:obe:other:punish]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **indaton na iti bagi na**  - daytoy ket mabalin met nga ipakaawat a kas, “impalubos ni Jesus  a mapapatay iti bagi na."
