@@ -6,15 +6,15 @@
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]**
-  * **[[:ilo:obe:kt:disciple|disciple]]**
-  * **[[:ilo:obe:kt:repent|repent, repentance]]**
-  * **[[:ilo:obe:kt:receive|receive]]**
-  * **[[:ilo:obe:kt:forgive|forgive, forgiveness]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
-  * **[[:ilo:obe:other:peoplegroup|people group, people]]**
-  * **[[:ilo:obe:kt:witness|witness, eyewitness]]**
+  * **[[:ilo:obe:kt:wordofgod]]**
+  * **[[:ilo:obe:kt:disciple]]**
+  * **[[:ilo:obe:kt:repent]]**
+  * **[[:ilo:obe:kt:receive]]**
+  * **[[:ilo:obe:kt:forgive]]**
+  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:other:jerusalem]]**
+  * **[[:ilo:obe:other:peoplegroup]]**
+  * **[[:ilo:obe:kt:witness]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **iwaragawagto**  - dayta ket, “ipakaammu” wenno, “ikasaba."
