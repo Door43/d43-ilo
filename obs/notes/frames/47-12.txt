@@ -6,12 +6,12 @@ Namati ti guwardia ken ti entero a pamilya na kenni Jesus ken nabautisaran da. N
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:baptize|baptize, baptism]]**
-  * **[[:ilo:obe:other:paul|Paul, Saul]]**
-  * **[[:ilo:obe:other:silas|Silas, Silvanus]]**
-  * **[[:ilo:obe:kt:joy|joy, joyful]]**
+  * **[[:ilo:obe:kt:believe]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:baptize]]**
+  * **[[:ilo:obe:other:paul]]**
+  * **[[:ilo:obe:other:silas]]**
+  * **[[:ilo:obe:kt:joy]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * //(Awan iti naisurat iti daytoy a paset.)//
