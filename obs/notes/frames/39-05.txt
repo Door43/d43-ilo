@@ -6,11 +6,11 @@ Simmungbat dagiti amin a panguloen a Judio iti kangatoan a padi ket kinunada, â€
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
-  * **[[:ilo:obe:kt:highpriest|high priest]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:other:mock|mock, ridicule, scoff at]]**
+  * **[[:ilo:obe:other:jewishleaders]]**
+  * **[[:ilo:obe:kt:highpriest]]**
+  * **[[:ilo:obe:kt:death]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:other:mock]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **they blindfolded Jesus**  - That is. "they covered Jesus' eyes so that he could not see."
