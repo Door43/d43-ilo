@@ -6,14 +6,14 @@ Iti maysa nga aldaw idi nga agisursuro ni Stephen iti maipanggep kenni Jesus ket
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:other:jew|Jew, Jewish]]**
-  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
-  * **[[:ilo:obe:kt:evil|evil, wicked, wickedness]]**
-  * **[[:ilo:obe:other:moses|Moses]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:highpriest|high priest]]**
-  * **[[:ilo:obe:kt:witness|witness, eyewitness]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:other:jew]]**
+  * **[[:ilo:obe:other:jewishleaders]]**
+  * **[[:ilo:obe:kt:evil]]**
+  * **[[:ilo:obe:other:moses]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:highpriest]]**
+  * **[[:ilo:obe:kt:witness]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **maysa nga aldaw**  - daytoy a paset ket ipakita na iti napasamak iti napalabas, ngem saan na iparang iti umiso a panawen. Adu iti pagsasao nga addaan iti agpada a wagas iti panangibaga pudno nga istorya. .
