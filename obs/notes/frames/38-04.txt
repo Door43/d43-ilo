@@ -7,10 +7,10 @@ Rinambakan ni Jesus ken dagiti adalan ti Ilalabas ti Patay idiay Jerusalem. Kaba
 ===== Important Terms: =====
 
   * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:passover|Passover]]**
-  * **[[:ilo:obe:kt:disciple|disciple]]**
-  * **[[:ilo:obe:other:sacrifice|sacrifice, offering]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:passover]]**
+  * **[[:ilo:obe:kt:disciple]]**
+  * **[[:ilo:obe:other:sacrifice]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **rinambakan -**  ti kayatna a saoen, "nagramrambak."
