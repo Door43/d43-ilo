@@ -6,13 +6,13 @@ Ni Saul ti lalaki a nangbantay kadigiti pagan-anay dagiti lallaki a nangpatay ke
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:paul|Paul, Saul]]**
-  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:other:persecute|persecute, persecution]]**
-  * **[[:ilo:obe:kt:believer|believer]]**
-  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
-  * **[[:ilo:obe:kt:highpriest|high priest]]**
+  * **[[:ilo:obe:other:paul]]**
+  * **[[:ilo:obe:kt:believe]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:other:persecute]]**
+  * **[[:ilo:obe:kt:believer]]**
+  * **[[:ilo:obe:other:jerusalem]]**
+  * **[[:ilo:obe:kt:highpriest]]**
 ===== Dagiti Napapateg A Balikas: =====
 
   * **nangbantay kadagiti pagan-anay dagiti lallaki a nangpatay kenni Stephen**  – Kitaen idiay **[[:ilo:obs:notes:frames:45-06|[45-06]]]**.
