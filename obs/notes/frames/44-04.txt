@@ -6,11 +6,11 @@ Dagus nga immay dagiti tattao tapno kitaen da nu siasino diay tao a naagasan. Ki
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:heal|heal, cure]]**
-  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
-  * **[[:ilo:obe:kt:power|power]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:faith|faith]]**
+  * **[[:ilo:obe:other:heal]]**
+  * **[[:ilo:obe:other:peter]]**
+  * **[[:ilo:obe:kt:power]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:faith]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * //(Awan ti sarita iti daytoy a paset.)//
