@@ -6,12 +6,12 @@ Iti aldaw a panagungar ni Jesus manipud iti patay ket adda dua nga adalan ni Jes
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:raise|raise, rise, risen, arise, arose]]**
-  * **[[:ilo:obe:kt:disciple|disciple]]**
-  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
-  * **[[:ilo:obe:kt:life|life, live, living, alive]]**
-  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:raise]]**
+  * **[[:ilo:obe:kt:disciple]]**
+  * **[[:ilo:obe:kt:christ]]**
+  * **[[:ilo:obe:kt:life]]**
+  * **[[:ilo:obe:kt:believe]]**
 ===== Translation Notes: =====
 
   * //(There are no notes for this frame.)//
