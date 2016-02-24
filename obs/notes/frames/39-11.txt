@@ -6,11 +6,11 @@ Kalpasan a nakisarita kenni Jesus ket rimmuar ni Pilato ket napan kadagiti adu a
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:other:pilate|Pilate]]**
-  * **[[:ilo:obe:kt:guilt|guilt, guilty]]**
-  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
-  * **[[:ilo:obe:kt:crucify|crucify]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:other:pilate]]**
+  * **[[:ilo:obe:kt:guilt]]**
+  * **[[:ilo:obe:other:jewishleaders]]**
+  * **[[:ilo:obe:kt:crucify]]**
 ===== Translation Notes: =====
 
   * **I find no guilt in this man**  - That is, "I do not find this man to be guilty" or, "I have examined this man, and I do not see that he has done anything wrong."
