@@ -6,11 +6,11 @@ Inakusar dagiti dadduma a tattao a nabartek dagiti adalan. Ngem timmakder ni Pet
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:disciple|disciple]]**
-  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
-  * **[[:ilo:obe:kt:fulfill|fulfill]]**
-  * **[[:ilo:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
-  * **[[:ilo:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]**
+  * **[[:ilo:obe:kt:disciple]]**
+  * **[[:ilo:obe:other:peter]]**
+  * **[[:ilo:obe:kt:fulfill]]**
+  * **[[:ilo:obe:kt:prophet]]**
+  * **[[:ilo:obe:kt:holyspirit]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **Inakusar… a nabartek dagiti adalan**  -  daytoy ket mabalin met nga ipakaawat a kas, “imbaga da nga nabartek dagiti adalan."
