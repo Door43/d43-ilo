@@ -6,13 +6,13 @@ Saan a pulos a nagbasol ni Jesus ngem pinili na ti madusa ken matay kas naan-ana
 
 ===== Dagiti Napapateg a Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:ilo:obe:other:punish|punish, punishment]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
-  * **[[:ilo:obe:other:sacrifice|sacrifice, offering]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:forgive|forgive, forgiveness]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:other:punish]]**
+  * **[[:ilo:obe:kt:death]]**
+  * **[[:ilo:obe:other:sacrifice]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:forgive]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **a mangala - ** dayta ket, “inikkat na iti supapak ti” wenno, “inikkat na iti pannakadusa para iti”. Ti pannakaidaton ni Jesus inaramid na nga ti Dios ket kinita na iti basol tayo a kasla awan kadatayo.
