@@ -6,10 +6,10 @@ Imbaga met ni Jesus nga agsublinto isuna ditoy daga sakbay ti panagpatengga ti l
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:christian|Christian]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
-  * **[[:ilo:obe:kt:raise|raise, rise, risen, arise, arose]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:christian]]**
+  * **[[:ilo:obe:kt:death]]**
+  * **[[:ilo:obe:kt:raise]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **pimmanaw**  - daytoy ket mabalin met nga ipakaawat a kass, “pinanawan na ti daga” wenno, “pimmanaw tapno agsubli idiay langit."
