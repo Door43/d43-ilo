@@ -6,10 +6,10 @@ Napan ngarud ni Ananias iti ayan ni Saul, inpatay na dagiti ima na kenkuana ken 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:paul|Paul, Saul]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]**
-  * **[[:ilo:obe:kt:baptize|baptize, baptism]]**
+  * **[[:ilo:obe:other:paul]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:holyspirit]]**
+  * **[[:ilo:obe:kt:baptize]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **ditoy**  - dayta ket, "iti Damascus."
