@@ -6,14 +6,14 @@ Gapo iti basol mo ket maikari ka a matay. Agunget koma ti Dios kenka ngem imbuya
 
 ===== Dagiti Napapateg a Balikas: =====
 
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:ilo:obe:kt:guilt|guilt, guilty]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
-  * **[[:ilo:obe:kt:god|God ]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:cross|cross]]**
-  * **[[:ilo:obe:kt:receive|receive]]**
-  * **[[:ilo:obe:other:punish|punish, punishment]]**
+  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:kt:guilt]]**
+  * **[[:ilo:obe:kt:death]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:cross]]**
+  * **[[:ilo:obe:kt:receive]]**
+  * **[[:ilo:obe:other:punish]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **gapu iti basol mo**  - daytoy ket mabalin met nga ipakaawat a kas, “gapu ta nagbasol ka”. Tapno nalawag a daytoy ket ibagbaga na nga amin atao, para iti dadduma a pagsasao ket agbalin a nalawlawag nga ipakaawat daytoy a kas, “gapu ta amin a tao ket nagbasol, ngarud maikari da a matay."
