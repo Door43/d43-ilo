@@ -17,15 +17,14 @@ Ti Biblia kunaen na a ti Dios ket agnanayun a managanan "Yaweh", a nangparsua ti
   * "God" could be translated with a word or phrase that means, "Deity" or "Creator" or "Supreme Being."
   * "Dios" mabalin a ipataros babaen ti sao or balikas nga kayatna a sawen, "Kinadios" wenno "Namarsua" wenno "Kangangatuan a Nabbiag(Sibibiag)."
   * Other ways to translate "God" might include, "Supreme Creator" or "Infinite Sovereign Lord" or "Eternal Supreme Being."
-  * Iti sabali a panagpataros ti "Dios" mabalin nga ,"Kangatuan a Namarsua" wenno "Awan Pagpatinggaan na a Kangatuan nga Apo" wenno "Awan inggana nga Kangatuan a Nabbiag."
-  * Consider how God is referred to in a local or national language. There may also already be a word for "God" in the language being translated. If so, it is important to make sure that this word fits the characteristics of the one true God as described above.
-  *
-  * English translations refer to a false god using a small "g" and write God with a large "G" when referring to the one true God. Other languages may also choose to do that. Another way to distinguish them would be to use two different terms for "God" and "god."
-  * The phrase, "I will be their God and they will be my people" could also be translated as, "I, God, will rule over these people; they will belong to me and worship me."
+  * Iti sabali a panagpataros ti "Dios" mabalin nga ,"Kangatoan a Namarsua" wenno "Kangatoan nga Apo a Awan Pagpatinggaan na" wenno "Kangatoan a Nabbiag nga awan Pagpatinggaan na."
+  * Adalen met nu kasatno ti pannakaawat ti sabali a pagsasao.  Mabalin nga addan ti sao a "Dios" iti sabali a sao. Nu saan, napateg nga suguraduen a ti  kagagalad ti pudno a Dios ket agtalinaed a kas nailawlawag toy ngato.
+  * Ti panagpataros iti Ingles ti bassit a "g" ket maararamat para iti didiosen ken ti dakkel nga "G" maararamat para iti pudno a Dios. Dagiti sabali a pagsasao ket mabalin da nga padasen dijay. Panangbigbig ti nagdumaan t i sabali a wagas  babaen ti panagaramat ti agduma nga sao para ti "Dios" ken "dios"
+  * Ti sao nga, " Agbalin da nga tattaok ken agbalin dak nga Dios" ket mabalin nga ipataros a kas," Siak ti Dios a mangituray kadagitoy a tattao: Kukwak ida ket idaydayaw dak."
 
-(Translation suggestions: [[:ilo:ta:vol1:translate:translate_names|How to Translate Names]])
+(Singasing kadagiti Panagpataros: [[:ilo:ta:vol1:translate:translate_names|Kasatno ti Agpataros ti Nagan]])
 
-(See also: [[:ilo:obe:kt:yahweh|Yahweh]], [[:ilo:obe:kt:godthefather|God the Father, Heavenly Father]], [[:ilo:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]], [[:ilo:obe:kt:sonofgod|Son of God, the Son]], [[:ilo:obe:kt:falsegod|false god, god]], [[:ilo:obe:other:creation|create, creation, Creator]], [[:ilo:obe:other:idol|idol]])
+(Kitaen met: [[:ilo:obe:kt:yahweh|Yahweh]], [[:ilo:obe:kt:godthefather|Dios Ama, Ama A Nailangitan]], [[:ilo:obe:kt:holyspirit|Ispiritu Santo, Ispiritu ti Dios, Ispiritu ti Apo]], [[:ilo:obe:kt:sonofgod|Anak ti Dios, ti Anak]], [[:ilo:obe:kt:falsegod|didiosen]], [[:ilo:obe:other:creation|parsua, pinarsua, Namarsua]],)
 
 ===== Bible References: =====
 
