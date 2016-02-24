@@ -6,12 +6,12 @@ Idi pinarsua ti Dios ti lubong ket nasayaat dagiti amin a banag. Awan idi ti bas
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:ilo:obe:other:adam|Adam]]**
-  * **[[:ilo:obe:other:eve|Eve]]**
-  * **[[:ilo:obe:kt:love|love]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:other:adam]]**
+  * **[[:ilo:obe:other:eve]]**
+  * **[[:ilo:obe:kt:love]]**
+  * **[[:ilo:obe:kt:death]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **pinarsua iti Dios ti lubong**  - dayta ket, “ti Dios inaramid na iti lubogn manipud iti awan."
