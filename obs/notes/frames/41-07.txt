@@ -6,8 +6,8 @@ Nalaus ti buteng ken rag-o dagiti babbae. Nagtaray da a napan nangibaga kadagiti
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:joy|joy, joyful]]**
-  * **[[:ilo:obe:kt:disciple|disciple]]**
+  * **[[:ilo:obe:kt:joy]]**
+  * **[[:ilo:obe:kt:disciple]]**
 ===== Translation Notes: =====
 
   * **full of fear and great joy**  - That is, "experiencing emotions of fear and also great joy."
