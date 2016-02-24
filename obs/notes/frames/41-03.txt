@@ -6,11 +6,11 @@ Aldaw ti panaginana ti sumaruno nga aldaw kalpasan ti pannakaipunpon ni Jesus. S
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:sabbath|Sabbath]]**
-  * **[[:ilo:obe:other:jew|Jew, Jewish]]**
-  * **[[:ilo:obe:other:tomb|tomb, grave, burial place]]**
-  * **[[:ilo:obe:other:tomb|tomb, grave, burial place]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:sabbath]]**
+  * **[[:ilo:obe:other:jew]]**
+  * **[[:ilo:obe:other:tomb]]**
+  
 ===== Translation Notes: =====
 
   * **the Jews were not permitted**  - The Sabbath day rules did not permit a Jew to walk very far or to do any other kind of work.
