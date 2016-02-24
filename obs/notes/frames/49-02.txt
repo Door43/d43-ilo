@@ -6,13 +6,13 @@ Nagaramid ni Jesus kadagiti adu a milagro a mangpaneknek nga isuna ket ti Dios. 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:miracle|miracle, wonder, sign]]**
-  * **[[:ilo:obe:kt:god|God ]]**
-  * **[[:ilo:obe:other:heal|heal, cure]]**
-  * **[[:ilo:obe:kt:demon|demon, evil spirit, unclean spirit]]**
-  * **[[:ilo:obe:kt:raise|raise, rise, risen, arise, arose]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:miracle]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:heal]]**
+  * **[[:ilo:obe:kt:demon]]**
+  * **[[:ilo:obe:kt:raise]]**
+  * **[[:ilo:obe:kt:death]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **pinaruar na dagiti demonyo**  - dayta ket, “inaramid na a pinaruar dagiti demonyo kadagiti tattao."
