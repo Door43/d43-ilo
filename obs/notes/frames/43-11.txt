@@ -6,14 +6,14 @@ Simmungbat ni Peter kadakuada ket kinunana, “Masapul nga agbabawi ti tunggal m
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
-  * **[[:ilo:obe:kt:repent|repent, repentance]]**
-  * **[[:ilo:obe:kt:baptize|baptize, baptism]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:forgive|forgive, forgiveness]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:ilo:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]**
+  * **[[:ilo:obe:other:peter]]**
+  * **[[:ilo:obe:kt:repent]]**
+  * **[[:ilo:obe:kt:baptize]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:forgive]]**
+  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:kt:holyspirit]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **iti nagan ni**  - daytoy a paset ket, “babaen ti kabalinan iti” ken, “iti babaean ti kabalinan”. Ipakaawat daytoy a sao, “nagan” iti nalaka a maawatan iti wagas iti pagsasao yo.
