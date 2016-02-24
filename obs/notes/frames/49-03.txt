@@ -6,9 +6,9 @@ Nalaing pay a manursuro ni Jesus ken nagsao isuna nga addaan iti turay agsipud t
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:sonofgod|Son of God, the Son]]**
-  * **[[:ilo:obe:kt:love|love]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:sonofgod]]**
+  * **[[:ilo:obe:kt:love]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **ti naindaklan a manursuro**  - dayta ket, “ti kapapatgan a manursuro” wenno, “ti kalaingan amanursuro."
