@@ -6,15 +6,15 @@ Idi tiliwenen dagiti suldado ni Jesus ket inruar ni Peter ti kampilan na ket tin
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
-  * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
-  * **[[:ilo:obe:kt:highpriest|high priest]]**
-  * **[[:ilo:obe:kt:godthefather|God the Father, Heavenly Father]]**
-  * **[[:ilo:obe:kt:angel|angel, archangel]]**
-  * **[[:ilo:obe:other:obey|obey, obedient, obedience]]**
-  * **[[:ilo:obe:other:heal|heal, cure]]**
-  * **[[:ilo:obe:kt:disciple|disciple]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:other:peter]]**
+  * **[[:ilo:obe:other:servant]]**
+  * **[[:ilo:obe:kt:highpriest]]**
+  * **[[:ilo:obe:kt:godthefather]]**
+  * **[[:ilo:obe:kt:angel]]**
+  * **[[:ilo:obe:other:obey]]**
+  * **[[:ilo:obe:other:heal]]**
+  * **[[:ilo:obe:kt:disciple]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **kas tiniliw ti suldado ni Jesus**- dayta ket, “kabayatn a ni Jesus ket tiltiliwen isuna dagiti suldado”
