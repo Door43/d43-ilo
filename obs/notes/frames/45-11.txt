@@ -6,8 +6,8 @@ Iti panagdalyasat ni Philip ken ti taga Ethiopia, limmabas da iti maysa a karaya
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:baptize|baptize, baptism]]**
-  * **[[:ilo:obe:other:chariot|chariot]]**
+  * **[[:ilo:obe:kt:baptize]]**
+  * **[[:ilo:obe:other:chariot]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **Adda ti danum **- mangusar iti balikas a ti saritaen na ket nalawa a paset iti danum a kasla tanggal, karayan wenno  pagayusan iti danum.
