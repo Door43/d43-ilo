@@ -6,12 +6,12 @@ Nangaramid ti Dios iti tulag kadagiti Israelita nga isu dagiti pinili na a tatta
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:covenant|covenant]]**
-  * **[[:ilo:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:ilo:obe:kt:newcovenant|New Covenant]]**
-  * **[[:ilo:obe:other:peoplegroup|people group, people]]**
-  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:covenant]]**
+  * **[[:ilo:obe:other:israel]]**
+  * **[[:ilo:obe:kt:newcovenant]]**
+  * **[[:ilo:obe:other:peoplegroup]]**
+  * **[[:ilo:obe:kt:believe]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **dagiti Israelita nga isu ti pinili na a tattao na - **  Ti kayatna a saoen ditoy ket, "pinili ti Dios dagiti Israelita" wenno, "dagiti Israelita a napilina a tattao na,"
