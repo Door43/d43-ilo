@@ -6,12 +6,12 @@ Linukatan ti Dios ti puso ni Lydia tapno patien na ti mensahe a maipapan kenni J
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:baptize|baptize, baptism]]**
-  * **[[:ilo:obe:other:paul|Paul, Saul]]**
-  * **[[:ilo:obe:other:silas|Silas, Silvanus]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:believe]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:baptize]]**
+  * **[[:ilo:obe:other:paul]]**
+  * **[[:ilo:obe:other:silas]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **naluktan ti puso ni Lydia**  - dayta ket, “nabalinan ni Lydia."
