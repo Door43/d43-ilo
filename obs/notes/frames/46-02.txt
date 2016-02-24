@@ -6,9 +6,9 @@ Idi agdaldaliasat ni Saul nga agturung idiay Damascus ket bigla nga adda lawag a
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:paul|Paul, Saul]]**
-  * **[[:ilo:obe:other:persecute|persecute, persecution]]**
-  * **[[:ilo:obe:kt:lord|lord, master, sir]]**
+  * **[[:ilo:obe:other:paul]]**
+  * **[[:ilo:obe:other:persecute]]**
+  * **[[:ilo:obe:kt:lord]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **agturung -** Dayta ket, "magmagna nga apan."
