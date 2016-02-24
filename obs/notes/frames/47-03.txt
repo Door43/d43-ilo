@@ -6,13 +6,13 @@ Kankanayon a makisinsinnarak ni Paul ken ni Silas kadagiti tattao iti lugar a pa
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:paul|Paul, Saul]]**
-  * **[[:ilo:obe:other:silas|Silas, Silvanus]]**
-  * **[[:ilo:obe:other:pray|pray, prayer]]**
-  * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
-  * **[[:ilo:obe:kt:demonpossessed|demon-possessed]]**
-  * **[[:ilo:obe:kt:demon|demon, evil spirit, unclean spirit]]**
-  * **[[:ilo:obe:kt:lord|lord, master, sir]]**
+  * **[[:ilo:obe:other:paul]]**
+  * **[[:ilo:obe:other:silas]]**
+  * **[[:ilo:obe:other:pray]]**
+  * **[[:ilo:obe:other:servant]]**
+  * **[[:ilo:obe:kt:demonpossessed]]**
+  * **[[:ilo:obe:kt:demon]]**
+  * **[[:ilo:obe:kt:lord]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **ti apo na**  - iti daytoy a sitawsyon, daytoy ket mabalin met nga ipakaawat a kas, “dagiti akinbagi kenkuana."
