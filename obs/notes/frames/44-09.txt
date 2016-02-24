@@ -6,10 +6,10 @@ Nasdaaw dagiti panguloen ken ni Peter ken John agsipud ta nagsao a situtured. Am
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
-  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
-  * **[[:ilo:obe:other:johntheapostle|John (the apostle)]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:other:jewishleaders]]**
+  * **[[:ilo:obe:other:peter]]**
+  * **[[:ilo:obe:other:johntheapostle]]**
+  * **[[:ilo:obe:kt:jesus]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **nakigtut**  - dayta ket, “nasurpresa launay” wenno, “nasdaaw."
