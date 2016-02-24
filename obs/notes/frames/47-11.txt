@@ -6,16 +6,14 @@ Agtigtigerger ti guwardia a napan iti ayan da Paul ken Silas ket sinaludsod na, 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:paul|Paul, Saul]]**
-  * **[[:ilo:obe:other:silas|Silas, Silvanus]]**
-  * **[[:ilo:obe:kt:save|save, safe]]**
-  * **[[:ilo:obe:other:paul|Paul, Saul]]**
-  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:lord|lord, master, sir]]**
-  * **[[:ilo:obe:kt:save|save, safe]]**
-  * **[[:ilo:obe:other:preach|preach]]**
-  * **[[:ilo:obe:kt:goodnews|good news, gospel]]**
+  * **[[:ilo:obe:other:paul]]**
+  * **[[:ilo:obe:other:silas]]**
+  * **[[:ilo:obe:kt:save]]**
+  * **[[:ilo:obe:kt:believe]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:lord]]**
+  * **[[:ilo:obe:other:preach]]**
+  * **[[:ilo:obe:kt:goodnews]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **tapno maisalakan**  - daytoy ket mabalin met nga ipakaawat a kas, “tapno maisalakan manipud kadagiti basbasol ko” wenno, “tapno ti Dios ket isalakan nak manipud kadagiti basbasol ko”. Ti saludsod ket maipapan iti pannakaisalakan manipud iti pannakadusa nga agtaud iti Dios a nangaramid iti gingined.
