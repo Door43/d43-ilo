@@ -6,10 +6,10 @@ Kamauddianan na, iti maysa nga aldaw idi ruggian ti tagabo a babae ti agpukkapuk
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
-  * **[[:ilo:obe:other:paul|Paul, Saul]]**
-  * **[[:ilo:obe:kt:demon|demon, evil spirit, unclean spirit]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:other:servant]]**
+  * **[[:ilo:obe:other:paul]]**
+  * **[[:ilo:obe:kt:demon]]**
+  * **[[:ilo:obe:kt:jesus]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **maysa nga aldaw**  - daytoy a paaset ket ipakita na ti napasamak iti napalabas, ngem saan na iparang iti umiso a panawen. Adu dagiti pagsasao nga addaan iti agpada a panangibaga iti pudno nga istorya.
