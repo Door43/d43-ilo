@@ -8,9 +8,9 @@
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
-  * **[[:ilo:obe:kt:lord|lord, master, sir]]**
-  * **[[:ilo:obe:kt:good|good, goodness]]**
+  * **[[:ilo:obe:other:servant]]**
+  * **[[:ilo:obe:kt:lord]]**
+  * **[[:ilo:obe:kt:good]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * (Intuloy ni Jesus nga agistorya.)
