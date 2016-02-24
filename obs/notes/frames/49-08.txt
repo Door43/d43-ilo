@@ -6,13 +6,13 @@ Imbaga pay ni Jesus a kabusor ti Dios ti basol. Idi nagbasol da Adam ken Eve ket
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:ilo:obe:other:adam|Adam]]**
-  * **[[:ilo:obe:other:eve|Eve]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:ilo:obe:other:descendant|descendant]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:other:adam]]**
+  * **[[:ilo:obe:other:eve]]**
+  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:other:descendant]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **naisina iti Dios**  - daytoy ket mabalin met nga ipakaawat a kas, “saan nga agbiag nu awan ti Dios” wenno, “saan a makaasideg iti Dios” wenno, “saan a maaddaan iti pannakainaig iti Dios."
