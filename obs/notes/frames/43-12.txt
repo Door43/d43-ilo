@@ -6,13 +6,13 @@ Agarup tallo ribu a tattao ti namati iti imbaga ni Peter ket nagbalin da nga ada
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
-  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
-  * **[[:ilo:obe:kt:disciple|disciple]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:baptize|baptize, baptism]]**
-  * **[[:ilo:obe:kt:church|church, Church]]**
-  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
+  * **[[:ilo:obe:kt:believe]]**
+  * **[[:ilo:obe:other:peter]]**
+  * **[[:ilo:obe:kt:disciple]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:baptize]]**
+  * **[[:ilo:obe:kt:church]]**
+  * **[[:ilo:obe:other:jerusalem]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * //(Awan ti naisurat iti daytoy a paset.)//
