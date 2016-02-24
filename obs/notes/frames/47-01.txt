@@ -6,15 +6,15 @@ Iti panagdalyasat ni Saul iti iti pagarian ti Roman ket rinugian na nga inusar t
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:rome|Rome, Roman]]**
-  * **[[:ilo:obe:other:paul|Paul, Saul]]**
-  * **[[:ilo:obe:other:silas|Silas, Silvanus]]**
-  * **[[:ilo:obe:other:philippi|Philippi]]**
-  * **[[:ilo:obe:kt:goodnews|good news, gospel]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:love|love]]**
-  * **[[:ilo:obe:kt:worship|worship]]**
-  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:other:rome]]**
+  * **[[:ilo:obe:other:paul]]**
+  * **[[:ilo:obe:other:silas]]**
+  * **[[:ilo:obe:other:philippi]]**
+  * **[[:ilo:obe:kt:goodnews]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:love]]**
+  * **[[:ilo:obe:kt:worship]]**
+  * **[[:ilo:obe:kt:god]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **panangiwaragawag**  - dayta ket, “panangisuro” wenno, “panangasaba."
