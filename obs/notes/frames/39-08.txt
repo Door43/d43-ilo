@@ -6,11 +6,11 @@ Immadayo ni Peter ken nagsangsangit iti napalalo. Kabayatan na nakita ni Judas a
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
-  * **[[:ilo:obe:other:judasiscariot|Judas Iscariot]]**
-  * **[[:ilo:obe:kt:betray|betray, betrayer]]**
-  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:other:peter]]**
+  * **[[:ilo:obe:other:judasiscariot]]**
+  * **[[:ilo:obe:kt:betray]]**
+  * **[[:ilo:obe:other:jewishleaders]]**
+  * **[[:ilo:obe:kt:jesus]]**
 ===== Translation Notes: =====
 
   * **cried bitterly**  - That is, "cried, feeling deep sorrow" or, "cried, feeling deep regret."
