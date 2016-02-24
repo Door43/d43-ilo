@@ -6,12 +6,12 @@ Idi matmatayen ni Stephen ket nagpukkaw a kinunana, “Jesus, awatemon daytoy Es
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:receive|receive]]**
-  * **[[:ilo:obe:kt:spirit|spirit, spiritual]]**
-  * **[[:ilo:obe:kt:lord|lord, master, sir]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:receive]]**
+  * **[[:ilo:obe:kt:spirit]]**
+  * **[[:ilo:obe:kt:lord]]**
+  * **[[:ilo:obe:kt:sin]]**
+  * **[[:ilo:obe:kt:death]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **idi matmatayen ni Stephen**  - dayta “sakbay a natay ni Stephen."
