@@ -6,18 +6,18 @@
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:rome|Rome, Roman]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:life|life, live, living, alive]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:raise|raise, rise, risen, arise, arose]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
-  * **[[:ilo:obe:kt:fulfill|fulfill]]**
-  * **[[:ilo:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
-  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
-  * **[[:ilo:obe:kt:suffer|suffer, suffering]]**
-  * **[[:ilo:obe:kt:repent|repent, repentance]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ilo:obe:other:rome]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:life]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:raise]]**
+  * **[[:ilo:obe:kt:death]]**
+  * **[[:ilo:obe:kt:fulfill]]**
+  * **[[:ilo:obe:kt:prophet]]**
+  * **[[:ilo:obe:kt:christ]]**
+  * **[[:ilo:obe:kt:suffer]]**
+  * **[[:ilo:obe:kt:repent]]**
+  * **[[:ilo:obe:kt:sin]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * (Intuloy ni Peter ti panagkaskasaba na kadagiti bunggoy ti tatao.)
