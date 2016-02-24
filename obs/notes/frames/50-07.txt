@@ -2,14 +2,12 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink&}}
 
-“
-
 “Simmungbat dagiti adipen iti apo da, ‘Kayatyo kadi ta paruten mi dagiti ruot?’ Kinuna ti apo, ‘Saan ta nu aramidenyo dayta, maparut met dagiti dadduma a pagay. Aguray kayo inggana ti panagaapit sayonto ummungen dagiti ruot tapno mapuoran, ngem ikabilyonto dagiti pagay iti kamalig.”’
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
-  * **[[:ilo:obe:kt:lord|lord, master, sir]]**
+  * **[[:ilo:obe:other:servant]]**
+  * **[[:ilo:obe:kt:lord]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * (Intuloy ni Jesus nga agistorya.)
