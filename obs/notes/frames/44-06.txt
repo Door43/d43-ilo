@@ -6,10 +6,10 @@ Permi a makaunget dagiti panguloen ti templo iti imbaga da Peter ken John isua t
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:temple|temple]]**
-  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
-  * **[[:ilo:obe:other:johntheapostle|John (the apostle)]]**
-  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:ilo:obe:kt:temple]]**
+  * **[[:ilo:obe:other:peter]]**
+  * **[[:ilo:obe:other:johntheapostle]]**
+  * **[[:ilo:obe:kt:believe]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **mensahe ni Peter **- - dayta ket, “ti mensahe nga ingkasaba ni Peter kadakuada."
