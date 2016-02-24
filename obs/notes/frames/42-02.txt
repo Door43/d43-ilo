@@ -6,8 +6,8 @@ Immasideg ni Jesus kadakuada ket rinuggian na ti nakipagpagna kadakuada ngem saa
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:other:jerusalem]]**
 ===== Translation Notes: =====
 
   * **did not recognize him**  - That is, "did not know that it was Jesus."
