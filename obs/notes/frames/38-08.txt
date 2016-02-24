@@ -6,10 +6,10 @@ Kalpasan ti pannangan, napan ni Jesus ken dagiti adalan na idiay bantay Olibo. K
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:disciple|disciple]]**
-  * **[[:ilo:obe:other:shepherd|shepherd, to shepherd]]**
-  * **[[:ilo:obe:other:sheep|sheep, ram, ewe]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:disciple]]**
+  * **[[:ilo:obe:other:shepherd]]**
+  * **[[:ilo:obe:other:sheep]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **Bantay Olibo-**  dayoty iti nagan iti turod a napalawlawan iti kayo nga olive, iti ruar laeng iti siudad ti Jerusalem. Mabalin nga ipakaawat a kas, “kayo ti olive idiay turod”.
