@@ -6,15 +6,15 @@ Kinuna ti Dios ken ni Abraham, “Amin a bunggoy dagiti tattao ditoy lubong ket 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
-  * **[[:ilo:obe:other:peoplegroup|people group, people]]**
-  * **[[:ilo:obe:kt:bless|bless, blessed, blessing]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:other:descendant|descendant]]**
-  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
-  * **[[:ilo:obe:kt:save|save, safe]]**
-  * **[[:ilo:obe:kt:spirit|spirit, spiritual]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:abraham]]**
+  * **[[:ilo:obe:other:peoplegroup]]**
+  * **[[:ilo:obe:kt:bless]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:other:descendant]]**
+  * **[[:ilo:obe:kt:believe]]**
+  * **[[:ilo:obe:kt:save]]**
+  * **[[:ilo:obe:kt:spirit]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **amin a bunggoy dagiti tattao ditoy lubong**  - daytoy ket mabalin met nga ipakaawat a kas, “amin a tattao iti nadumaduma a paset ti lubong."
