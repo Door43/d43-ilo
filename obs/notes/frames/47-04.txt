@@ -6,11 +6,10 @@ Kankanayon nga ipukpukkaw ti babae a tagabo iti tunggal ilalabas da nga, “Adip
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
-  * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:save|save, safe]]**
-  * **[[:ilo:obe:other:paul|Paul, Saul]]**
+  * **[[:ilo:obe:other:servant]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:save]]**
+  * **[[:ilo:obe:other:paul]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **wagas iti pannakaisalakan**  - dayta ket, “kasano ka a maisalakan” wenno, “kasano nga isalakan ti Dios dagiti tao” wenno, “ti plano ti Dios a mangisalakan kadagiti tattao."
