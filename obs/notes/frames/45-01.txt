@@ -6,12 +6,12 @@ Maysa kadagiti panguloen ti immuna nga Iglesia ket ti lalaki nga agnagan iti Ste
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:church|church, Church]]**
-  * **[[:ilo:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]**
-  * **[[:ilo:obe:kt:wise|wise, wisdom]]**
-  * **[[:ilo:obe:kt:miracle|miracle, wonder, sign]]**
-  * **[[:ilo:obe:kt:believe|believe, believe in, belief]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:church]]**
+  * **[[:ilo:obe:kt:holyspirit]]**
+  * **[[:ilo:obe:kt:wise]]**
+  * **[[:ilo:obe:kt:miracle]]**
+  * **[[:ilo:obe:kt:believe]]**
+  * **[[:ilo:obe:kt:jesus]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **ti immuna nga Iglesia**  - dayta ket, “ti nangrugian iti iglesia."
