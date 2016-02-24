@@ -12,15 +12,18 @@ Ti Biblia kunaen na a ti Dios ket agnanayun a managanan "Yaweh", a nangparsua ti
   * Inpaltiing ti Dios ti nagan na a "Yahweh: kayatna a sawen, " Isu na" wenno "Siak" wenno " ti Maysa nga agnanayon."
   * Ti Bibliya isuro na ti maipapan kadagiti paltos a "didiosen" nga awanan biag a daydayawen dagiti tattao.
 
-===== Translation Suggestions: =====
+===== Singasing kadagiti Panagpataros: =====
 
   * "God" could be translated with a word or phrase that means, "Deity" or "Creator" or "Supreme Being."
+  * "Dios" mabalin a ipataros babaen ti sao or balikas nga kayatna a sawen, "Kinadios" wenno "Namarsua" wenno "Kangangatuan a Nabbiag(Sibibiag)."
   * Other ways to translate "God" might include, "Supreme Creator" or "Infinite Sovereign Lord" or "Eternal Supreme Being."
+  * Iti sabali a panagpataros ti "Dios" mabalin nga ,"Kangatuan a Namarsua" wenno "Awan Pagpatinggaan na a Kangatuan nga Apo" wenno "Awan inggana nga Kangatuan a Nabbiag."
   * Consider how God is referred to in a local or national language. There may also already be a word for "God" in the language being translated. If so, it is important to make sure that this word fits the characteristics of the one true God as described above.
+  *
   * English translations refer to a false god using a small "g" and write God with a large "G" when referring to the one true God. Other languages may also choose to do that. Another way to distinguish them would be to use two different terms for "God" and "god."
   * The phrase, "I will be their God and they will be my people" could also be translated as, "I, God, will rule over these people; they will belong to me and worship me."
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions: [[:ilo:ta:vol1:translate:translate_names|How to Translate Names]])
 
 (See also: [[:ilo:obe:kt:yahweh|Yahweh]], [[:ilo:obe:kt:godthefather|God the Father, Heavenly Father]], [[:ilo:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]], [[:ilo:obe:kt:sonofgod|Son of God, the Son]], [[:ilo:obe:kt:falsegod|false god, god]], [[:ilo:obe:other:creation|create, creation, Creator]], [[:ilo:obe:other:idol|idol]])
 
