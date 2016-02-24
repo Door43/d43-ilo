@@ -6,11 +6,11 @@ Nangala met ni Jesus iti kopa ket kinunana, “Inumen yo daytoy. Daytoy ti darak
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:blood|blood]]**
-  * **[[:ilo:obe:kt:newcovenant|New Covenant]]**
-  * **[[:ilo:obe:kt:forgive|forgive, forgiveness]]**
-  * **[[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:blood]]**
+  * **[[:ilo:obe:kt:newcovenant]]**
+  * **[[:ilo:obe:kt:forgive]]**
+  * **[[:ilo:obe:kt:sin]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **ti kopa-**  dayta ket, “ti kopa iti arak” wenno, “kopa a napnu iti mainom manipud iti ubas”.
