@@ -6,12 +6,12 @@ Adda idi ti maysa nga adalan idiay Damascus nga agnagan iti Ananias. Imbagan ti 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:disciple|disciple]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:other:paul|Paul, Saul]]**
-  * **[[:ilo:obe:kt:lord|lord, master, sir]]**
-  * **[[:ilo:obe:other:persecute|persecute, persecution]]**
-  * **[[:ilo:obe:kt:suffer|suffer, suffering]]**
+  * **[[:ilo:obe:kt:disciple]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:other:paul]]**
+  * **[[:ilo:obe:kt:lord]]**
+  * **[[:ilo:obe:other:persecute]]**
+  * **[[:ilo:obe:kt:suffer]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **ngem kinuna ni Ananias**  - ngem nu saan a nalawag apay nga ti sao “ngem nausar iti daytoy, daytoy ket mabalin nga ipakaawat a kas, “nagbuteng ni Ananias,isu nga inbaga na."
