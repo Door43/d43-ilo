@@ -8,32 +8,33 @@ Ti padi a managan Zechariah ket lakayen nga awan pay putot na. Nagparang ti mays
 
 ====== Translate the Story ======
 
+Ipatarus ti Isturya
 
 Click on the links below to translate each frame of the story.
 
+Pinduten ti links iti babana tapno maipatarus ti naguneg ti isturya.
 
-[[:ilo:obs:notes:frames:22-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-01.jpg?200|Frame 22-01}}]]\\ 
-God Spoke to Zechariah [22-01]\\ 
+[[:ilo:obs:notes:frames:22-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-01.jpg?nolink&200}}]]\\
+Ti Dios nakisao ken Zechariah [22-01]
 
-[[:ilo:obs:notes:frames:22-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?200|Frame 22-02}}]]\\ 
-You Will Have a Son [22-02]\\ 
+[[:ilo:obs:notes:frames:22-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?nolink&200}}]]\\
+Maadaan ka ti anak a lalaki [22-02]
 
-[[:ilo:obs:notes:frames:22-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?200|Frame 22-03}}]]\\ 
-Unable to Speak [22-03]\\ 
+[[:ilo:obs:notes:frames:22-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?nolink&200}}]]\\
+nagumel [22-03]
 
-[[:ilo:obs:notes:frames:22-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-04.jpg?200|Frame 22-04}}]]\\ 
-An Angel Spoke to Mary [22-04]\\ 
+[[:ilo:obs:notes:frames:22-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-04.jpg?nolink&200}}]]\\
+Ti anghel nakisao ken Mary [22-04]
 
-[[:ilo:obs:notes:frames:22-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-05.jpg?200|Frame 22-05}}]]\\ 
-The Mother of the Messiah [22-05]\\ 
+[[:ilo:obs:notes:frames:22-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-05.jpg?nolink&200}}]]\\
+Ina ti  Messiah [22-05]
 
-[[:ilo:obs:notes:frames:22-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-06.jpg?200|Frame 22-06}}]]\\ 
-Mary and Elizabeth [22-06]\\ 
+[[:ilo:obs:notes:frames:22-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-06.jpg?nolink&200}}]]\\
+Mary kenni Elizabeth [22-06]
 
-[[:ilo:obs:notes:frames:22-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-07.jpg?200|Frame 22-07}}]]\\ 
-The Birth of John [22-07]\\ 
+[[:ilo:obs:notes:frames:22-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-07.jpg?nolink&200}}]]\\
+Ti pannakaiyanak ni John [22-07]
 
+//Isturya nga aggapu iti Biblia: Luke 1//
 
-//A Bible story from: Luke 1//
-
-**[[:ilo:obs:notes:21|<< Previous]] | [[:ilo:obs:notes:23|Next >>]]**
+**[[:ilo:obs:notes:21|<< Napalabas]] | [[:ilo:obs:notes:23|Sumaruno >>]]**
