@@ -6,13 +6,13 @@ Nagdalyasat da Paul ken dagiti dadduma a panguloen a Kristiano kadagiti adu a si
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:paul|Paul, Saul]]**
-  * **[[:ilo:obe:kt:christian|Christian]]**
-  * **[[:ilo:obe:other:preach|preach]]**
-  * **[[:ilo:obe:kt:goodnews|good news, gospel]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:believer|believer]]**
-  * **[[:ilo:obe:kt:church|church, Church]]**
+  * **[[:ilo:obe:other:paul]]**
+  * **[[:ilo:obe:kt:christian]]**
+  * **[[:ilo:obe:other:preach]]**
+  * **[[:ilo:obe:kt:goodnews]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:believer]]**
+  * **[[:ilo:obe:kt:church]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
