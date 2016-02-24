@@ -6,10 +6,10 @@ Inyapan da ni Paul ken Silas iti katatalgedan a paset ti pagbaludan ken inkawar 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:paul|Paul, Saul]]**
-  * **[[:ilo:obe:other:silas|Silas, Silvanus]]**
-  * **[[:ilo:obe:other:praise|praise]]**
-  * **[[:ilo:obe:kt:god|God ]]**
+  * **[[:ilo:obe:other:paul]]**
+  * **[[:ilo:obe:other:silas]]**
+  * **[[:ilo:obe:other:praise]]**
+  * **[[:ilo:obe:kt:god]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **iti tengngan ti rabii**  - daytoy ket mabalin met nga ipakaawat a kas, “naladaw unay a rabii” wenno, “nasapa unay nga bigat”. Daytoy ket diay nasipnget unayen iti ruar, dagiti tattao ket nakaturog gagangayen a nakaturog dan.
