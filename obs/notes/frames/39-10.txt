@@ -6,14 +6,14 @@ Simmungbat ni Jesus ket kinunana, “Naibagamon, ngem ti pagariak ket saan a nai
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven]]**
-  * **[[:ilo:obe:other:kingdom|kingdom]]**
-  * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
-  * **[[:ilo:obe:kt:true|true, truth]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:love|love]]**
-  * **[[:ilo:obe:other:pilate|Pilate]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:kingdomofgod]]**
+  * **[[:ilo:obe:other:kingdom]]**
+  * **[[:ilo:obe:other:servant]]**
+  * **[[:ilo:obe:kt:true]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:love]]**
+  * **[[:ilo:obe:other:pilate]]**
 ===== Translation Notes: =====
 
   * **You have said so**  - That is, "You have spoken correctly."
