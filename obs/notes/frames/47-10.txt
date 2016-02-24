@@ -6,8 +6,8 @@ Idi nakariing ti guwardia ket nakita na dagiti silulukat a ruangan dagiti pagbal
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:rome|Rome, Roman]]**
-  * **[[:ilo:obe:other:paul|Paul, Saul]]**
+  * **[[:ilo:obe:other:rome]]**
+  * **[[:ilo:obe:other:paul]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **ti guardiya ti pagbaludan**  - dayta ket, “ti panguluen iti pagbaludan."
