@@ -6,13 +6,13 @@ Inkari ti Dios ken ni Ari a David a maysa kadagiti kaputotan na ti agnanayon a m
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:promise|promise]]**
-  * **[[:ilo:obe:other:david|David]]**
-  * **[[:ilo:obe:kt:sonofgod|Son of God, the Son]]**
-  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
-  * **[[:ilo:obe:other:descendant|descendant]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:promise]]**
+  * **[[:ilo:obe:other:david]]**
+  * **[[:ilo:obe:kt:sonofgod]]**
+  * **[[:ilo:obe:kt:christ]]**
+  * **[[:ilo:obe:other:descendant]]**
+  * **[[:ilo:obe:kt:jesus]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * //(awan ti naisurat iti daytoy a paset.)//
