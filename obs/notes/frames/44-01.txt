@@ -6,10 +6,10 @@ Iti maysa nga aldaw, magmagna ni Peter kenni John nga agturung idiay templo. Idi
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
-  * **[[:ilo:obe:other:johntheapostle|John (the apostle)]]**
-  * **[[:ilo:obe:kt:temple|temple]]**
-  * **[[:ilo:obe:other:beg|beg, beggar]]**
+  * **[[:ilo:obe:other:peter]]**
+  * **[[:ilo:obe:other:johntheapostle]]**
+  * **[[:ilo:obe:kt:temple]]**
+  * **[[:ilo:obe:other:beg]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **Iti maysa nga aldaw**  - daytoy a paset ket ipakita na dagiti pasamak a naaramid iti napalabas, ngem saan na nga iparang iti umisu a panawen. Adu a pagsasao iti addaan ti agpada a wagas ti panangrugi a mangibaga iti pudno nga istorya.
