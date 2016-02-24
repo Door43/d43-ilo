@@ -6,11 +6,11 @@ Iti agsapa ti sumaruno a bigat, inyapan dagiti panguloen a Judio ni Jesus kenni 
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:other:pilate|Pilate]]**
-  * **[[:ilo:obe:other:rome|Rome, Roman]]**
-  * **[[:ilo:obe:kt:kingofthejews|King of the Jews]]**
+  * **[[:ilo:obe:other:jewishleaders]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:other:pilate]]**
+  * **[[:ilo:obe:other:rome]]**
+  * **[[:ilo:obe:kt:kingofthejews]]**
 ===== Translation Notes: =====
 
   * **Roman governor**  - That is, "Roman government official." The Roman government had appointed Pilate to govern the region of Judea in Israel.
