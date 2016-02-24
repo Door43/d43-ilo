@@ -6,11 +6,11 @@ Idin nakadanunen dagiti babbai iti tanem ket kinuna ti anghel kadakuada, “Saan
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:angel|angel, archangel]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:raise|raise, rise, risen, arise, arose]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
-  * **[[:ilo:obe:other:tomb|tomb, grave, burial place]]**
+  * **[[:ilo:obe:kt:angel]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:raise]]**
+  * **[[:ilo:obe:kt:death]]**
+  * **[[:ilo:obe:other:tomb]]**
 ===== Translation Notes: =====
 
   * **Do not be afraid**  - That is, "Stop being afraid." An angel shining like lightning was a frightening sight!
