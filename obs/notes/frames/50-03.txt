@@ -6,12 +6,12 @@ Adu pay laeng a tribu kadagiti tattao ti saan pay a nakangngeg iti maipanggep ke
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:peoplegroup|people group, people]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
-  * **[[:ilo:obe:kt:christian|Christian]]**
-  * **[[:ilo:obe:kt:goodnews|good news, gospel]]**
-  * **[[:ilo:obe:kt:disciple|disciple]]**
+  * **[[:ilo:obe:other:peoplegroup]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:heaven]]**
+  * **[[:ilo:obe:kt:christian]]**
+  * **[[:ilo:obe:kt:goodnews]]**
+  * **[[:ilo:obe:kt:disciple]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **pagbalinen nga iti adalan**  - ti kayat na a saritaen daytoy, “tulungan yu dagiti tattao nga agbalin nga adalak."
