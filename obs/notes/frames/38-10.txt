@@ -6,10 +6,10 @@ Simmungbat ni Peter ket kunana kenni Jesus, “Uray pay no matayak, saankanto pu
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
-  * **[[:ilo:obe:kt:disciple|disciple]]**
+  * **[[:ilo:obe:other:peter]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:death]]**
+  * **[[:ilo:obe:kt:disciple]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **saan kanto pulos nga ilibak-**  dayta ket, “inlibak ko nga am'ammu daka kanyak” wenno, “inlibak ko nga adalan nak” wenno, “inbabain ka”.
