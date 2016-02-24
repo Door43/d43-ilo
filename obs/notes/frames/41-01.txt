@@ -6,14 +6,14 @@ Kalpasan nga inlansa dagiti suldado ni Jesus, imbaga dagiti saan a namati a pang
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:crucify|crucify]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
-  * **[[:ilo:obe:other:pilate|Pilate]]**
-  * **[[:ilo:obe:kt:raise|raise, rise, risen, arise, arose]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
-  * **[[:ilo:obe:other:tomb|tomb, grave, burial place]]**
-  * **[[:ilo:obe:kt:disciple|disciple]]**
+  * **[[:ilo:obe:kt:crucify]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:other:jewishleaders]]**
+  * **[[:ilo:obe:other:pilate]]**
+  * **[[:ilo:obe:kt:raise]]**
+  * **[[:ilo:obe:kt:death]]**
+  * **[[:ilo:obe:other:tomb]]**
+  * **[[:ilo:obe:kt:disciple]]**
 ===== Translation Notes: =====
 
   * **the unbelieving Jewish leaders**  - That is, "the Jewish leaders who did not believe in Jesus."
