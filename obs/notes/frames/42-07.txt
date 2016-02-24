@@ -6,13 +6,13 @@ Kinuna ni Jesus kadakuada, “Kinunak kadakayo a masapul a matungpal dagiti amin
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]**
-  * **[[:ilo:obe:kt:fulfill|fulfill]]**
-  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
-  * **[[:ilo:obe:kt:suffer|suffer, suffering]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
-  * **[[:ilo:obe:kt:raise|raise, rise, risen, arise, arose]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:wordofgod]]**
+  * **[[:ilo:obe:kt:fulfill]]**
+  * **[[:ilo:obe:kt:christ]]**
+  * **[[:ilo:obe:kt:suffer]]**
+  * **[[:ilo:obe:kt:death]]**
+  * **[[:ilo:obe:kt:raise]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **masapul a matungpal**  - mabalin nga ipakaawat a kas, “masapul a maaramid."
