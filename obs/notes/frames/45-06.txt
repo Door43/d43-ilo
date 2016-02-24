@@ -6,12 +6,12 @@ Adda maysa a lalaki nga agnagan iti Saul ti immanamong kadagiti tattao a nangpap
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:paul|Paul, Saul]]**
-  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
-  * **[[:ilo:obe:other:persecute|persecute, persecution]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:believer|believer]]**
-  * **[[:ilo:obe:other:preach|preach]]**
+  * **[[:ilo:obe:other:paul]]**
+  * **[[:ilo:obe:other:jerusalem]]**
+  * **[[:ilo:obe:other:persecute]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:believer]]**
+  * **[[:ilo:obe:other:preach]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **Binantayan na dagiti pagan-anayda**  - mabalin met nga ipakaawat daytoy a kas, “binantayan da dagiti kagkagay da”. Mabalin a sigsiguraduen na a saan a matakaw ken madadael.
