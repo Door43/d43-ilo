@@ -6,12 +6,12 @@ Nagdanag ni Pilato nga amangan no aggulo dagiti tattao isu nga immanamongen nga 
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:pilate|Pilate]]**
-  * **[[:ilo:obe:kt:crucify|crucify]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:other:rome|Rome, Roman]]**
-  * **[[:ilo:obe:other:mock|mock, ridicule, scoff at]]**
-  * **[[:ilo:obe:kt:kingofthejews|King of the Jews]]**
+  * **[[:ilo:obe:other:pilate]]**
+  * **[[:ilo:obe:kt:crucify]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:other:rome]]**
+  * **[[:ilo:obe:other:mock]]**
+  * **[[:ilo:obe:kt:kingofthejews]]**
 ===== Translation Notes: =====
 
   * **riot**  - That is, "start doing violent things in their anger."
