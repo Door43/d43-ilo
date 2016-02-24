@@ -6,11 +6,11 @@ Kalpasan daytoy, maipangatunto iti tangatang dagiti Kristiano a sibibiag ket mak
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:christian|Christian]]**
-  * **[[:ilo:obe:kt:life|life, live, living, alive]]**
-  * **[[:ilo:obe:kt:raise|raise, rise, risen, arise, arose]]**
-  * **[[:ilo:obe:kt:death|death, die, dead]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:christian]]**
+  * **[[:ilo:obe:kt:life]]**
+  * **[[:ilo:obe:kt:raise]]**
+  * **[[:ilo:obe:kt:death]]**
+  * **[[:ilo:obe:kt:jesus]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **sibibiag pay**  - dayta ket, “sibibiag pay nu agsubli ni Jesus."
