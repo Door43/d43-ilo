@@ -6,13 +6,13 @@ Kinuna pay ni Jesus, “Saan a nangatngato ti adipen ngem ti apo na. Kas ginuran
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:other:servant|servant, slave, slavery]]**
-  * **[[:ilo:obe:kt:lord|lord, master, sir]]**
-  * **[[:ilo:obe:kt:suffer|suffer, suffering]]**
-  * **[[:ilo:obe:kt:satan|Satan, devil, evil one]]**
-  * **[[:ilo:obe:kt:faithful|faithful, faithfulness]]**
-  * **[[:ilo:obe:kt:save|save, safe]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:other:servant]]**
+  * **[[:ilo:obe:kt:lord]]**
+  * **[[:ilo:obe:kt:suffer]]**
+  * **[[:ilo:obe:kt:satan]]**
+  * **[[:ilo:obe:kt:faithful]]**
+  * **[[:ilo:obe:kt:save]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **awan iti kadakkelan ngem**  - dayta ket, “saan a napatpateg ngem iti” wenno,iti daytoy nga sitwasyon, “saan nga maitrato nga nalablabes ngem iti."
