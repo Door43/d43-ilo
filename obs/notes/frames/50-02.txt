@@ -8,13 +8,13 @@ Kas agur-uray tayo iti panagsubli ni Jesus ket kayat ti Dios nga agbiag tayo iti
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:god|God]]**
-  * **[[:ilo:obe:kt:holy|holy, holiness]]**
-  * **[[:ilo:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven]]**
-  * **[[:ilo:obe:kt:disciple|disciple]]**
-  * **[[:ilo:obe:other:preach|preach]]**
-  * **[[:ilo:obe:kt:goodnews|good news, gospel]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:god]]**
+  * **[[:ilo:obe:kt:holy]]**
+  * **[[:ilo:obe:kt:kingdomofgod]]**
+  * **[[:ilo:obe:kt:disciple]]**
+  * **[[:ilo:obe:other:preach]]**
+  * **[[:ilo:obe:kt:goodnews]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **umay ti panungpalan**  - dayoty ket mabalin met nga ipakaawat a kas, “umay iti panungpalan ti lubong” wenno, “ti panungpakan iti lubong ket mapasamak” wenno, “daytoy madama a lubong ket adda panungpalan na."
