@@ -6,14 +6,14 @@ Kalpasan ti uppat a pulo nga aldaw manipud idi nagungar ni Jesus manipud kadagit
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:disciple|disciple]]**
-  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
-  * **[[:ilo:obe:kt:godthefather|God the Father, Heavenly Father]]**
-  * **[[:ilo:obe:kt:power|power]]**
-  * **[[:ilo:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]**
-  * **[[:ilo:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
-  * **[[:ilo:obe:kt:god|God]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:disciple]]**
+  * **[[:ilo:obe:other:jerusalem]]**
+  * **[[:ilo:obe:kt:godthefather]]**
+  * **[[:ilo:obe:kt:power]]**
+  * **[[:ilo:obe:kt:holyspirit]]**
+  * **[[:ilo:obe:kt:heaven]]**
+  * **[[:ilo:obe:kt:god]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **umay kadakayo**  - dayta ket, “umay a bumaba kadakayo” wenno, “umay kanyayo."
