@@ -6,10 +6,10 @@ Kalpasan daytoy ket imbaga ni Jesus kadagiti adalan na, “Maysa kadakayo ti man
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:disciple|disciple]]**
-  * **[[:ilo:obe:kt:betray|betray, betrayer]]**
-  * **[[:ilo:obe:other:judasiscariot|Judas Iscariot]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:disciple]]**
+  * **[[:ilo:obe:kt:betray]]**
+  * **[[:ilo:obe:other:judasiscariot]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **ited yo daytoy a bassit a tinapay-**  dayta ket, “iyawat yu iti bassit a tinapay”.
