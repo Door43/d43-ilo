@@ -6,10 +6,10 @@
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:godthefather|God the Father, Heavenly Father]]**
-  * **[[:ilo:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]**
-  * **[[:ilo:obe:kt:promise|promise]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:godthefather]]**
+  * **[[:ilo:obe:kt:holyspirit]]**
+  * **[[:ilo:obe:kt:promise]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * (Intuloy ni Peter ti panagkaskasaba na kadagiti bunggoy ti tattao.)
