@@ -6,13 +6,13 @@ Iti dayta met laeng a gundaway nangrugi ni Saul a makiinnadal kadagiti Judio idi
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:paul|Paul, Saul]]**
-  * **[[:ilo:obe:other:preach|preach]]**
-  * **[[:ilo:obe:other:jew|Jew, Jewish]]**
-  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:ilo:obe:kt:sonofgod|Son of God, the Son]]**
-  * **[[:ilo:obe:kt:believer|believer]]**
-  * **[[:ilo:obe:kt:christ|Christ, Messiah]]**
+  * **[[:ilo:obe:other:paul]]**
+  * **[[:ilo:obe:other:preach]]**
+  * **[[:ilo:obe:other:jew]]**
+  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:kt:sonofgod]]**
+  * **[[:ilo:obe:kt:believer]]**
+  * **[[:ilo:obe:kt:christ]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **iti dayta met laeng a gundaway**  - daytoy ket mabalin met nga ipakaawat a kas, “dagus” wenno, “itan."
