@@ -6,11 +6,11 @@ Iti sumaruno nga aldaw, impan dagiti panguloen dagiti Judio da Peter kenni John 
 
 ===== Dagiti Napapateg A Balikas: =====
 
-  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
-  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
-  * **[[:ilo:obe:other:johntheapostle|John (the apostle)]]**
-  * **[[:ilo:obe:kt:highpriest|high priest]]**
-  * **[[:ilo:obe:kt:power|power]]**
+  * **[[:ilo:obe:other:jewishleaders]]**
+  * **[[:ilo:obe:other:peter]]**
+  * **[[:ilo:obe:other:johntheapostle]]**
+  * **[[:ilo:obe:kt:highpriest]]**
+  * **[[:ilo:obe:kt:power]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * //(Awan ti sarita iti daytoy a paset.)//
