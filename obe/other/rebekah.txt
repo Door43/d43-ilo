@@ -21,13 +21,9 @@ Rebekah was a daughter of one of Abraham's nephews. Her grandfather was Abraham'
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:06-02| [06-02]]]** After a very long journey to the land where Abraham's relatives lived, God led the servant to **Rebekah**. She was the granddaughter of Abraham's brother.
-  ***[[:ilo:obs:notes:frames:06-06| [06-06]]]** God told **Rebekah**, "There are two nations inside of you."
-  ***[[:ilo:obs:notes:frames:07-01| [07-01]]]** As the boys grew up, **Rebekah** loved Jacob, but Isaac loved Esau.
-  ***[[:ilo:obs:notes:frames:07-03| [07-03]]]** Isaac wanted to give his blessing to Esau. But before he did, **Rebekah** and Jacob tricked him by having Jacob pretend to be Esau.
-  ***[[:ilo:obs:notes:frames:07-06| [07-06]]]** But **Rebekah** heard of Esau's plan. So she sent Jacob far away to live with her relatives.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:06-02|[06-02]]]** Kalpasan ti adayu unay a panagdaldalyasat dagiti kabagiyan ni Abraham iti daga a pagpagiyanan da ket inturong ni Apo Dios ti adipen kenni **Rebekah**. Isuna ket apoko ti kabsat ni Abraham
+  * **[[:ilo:obs:notes:frames:06-06|[06-06]]]** Imbaga ti Dios kenni **Rebekah**, “Dua a nasion ti maadda manipud kadagiti dua nga annak mo a lallaki nga adda dita buksit mo."
+  * **[[:ilo:obs:notes:frames:07-01|[07-01]]]** Kas dumadakkel dagiti ubbing a lallaki ket inay-ayat ni Jacob nga agtalinaed iti balay ngem ni Esau ket inay ayat na nga apan agan-anop. Kaykayat ni **Rebekah**  ni Jacob ngem ni Isaac ket ni Esau ti kaykayat na.
+  * **[[:ilo:obs:notes:frames:07-03|[07-03]]]** Kayat ni Isaac nga ited kenni Esau ti pamendisyon na. Ngem sakbay nga ited na ket inallilaw da **Rebekah**  ken Jacob ni Isaac babaen ti panagpammarang ni Jacob nga isu ni Esau.
+  * **[[:ilo:obs:notes:frames:07-06|[07-06]]]** Ngem nangngeg ni Rebekah ti panggep ni Esau. Isua pinaapan da **Rebekah**  ken Isaac ni Jacob iti adayo a lugar tapno agnaed kadagiti kabagian da.
+~~DISCUSSION~~{{tag>publish ktobs}}
