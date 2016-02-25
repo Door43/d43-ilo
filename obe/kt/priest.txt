@@ -30,9 +30,8 @@ In the Bible, a priest was someone who was chosen to pray and offer sacrifices t
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:04-07|[04-07]]]** "Melchizedek, the **priest** of God Most High"
-  ***[[:ilo:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed God's law could bring an animal to the altar in front of the Tent of Meeting as a sacrifice to God. A **priest** would kill the animal and burn it on the altar. The blood of the animal that was sacrificed covered the person's sin and made that person clean in God's sight. God chose Moses' brother, Aaron, and Aaron's descendants to be his **priests**.
-  ***[[:ilo:obs:notes:frames:19-07|[19-07]]]** So the **priests** of Baal prepared a sacrifice but did not light the fire.
-  ***[[:ilo:obs:notes:frames:21-07|[21-07]]]** An Israelite **priest** was someone who made sacrifices to God on behalf of the people as a substitute for the punishment of their sins. **Priests** also prayed to God for the people. 
-
+  * **[[:ilo:obs:notes:frames:04-07|[04-07]]]**..Melchizedek a **padi**  ti kangatoan a Dios.
+  * **[[:ilo:obs:notes:frames:13-09|[13-09]]]** Siasinoman a manglabsing kadagiti bilin ti Dios ket mabalin a mangipan iti ayup kas daton na iti Dios idiay dissu a pagdatonan iti sango ti Tolda a Paguummungan. Alaento ti **padi ** diay ayup ken partien ken puuran na idiay dissu a pagidatonan. Kaluban ti dara ti ayup a naidaton dagiti basol diay nangidatag ken daytoy ti mangdalus kenkuana iti imatang ti Dios. Pinili ti Dios ni Aaron a kabsat ni Moses ken dagiti kaputotan na nga isuda ti agbalin a **papadi ** na.
+  * **[[:ilo:obs:notes:frames:19-07|[19-07]]]** Isua nangisagana dagiti **papadi**  ni Baal iti daton ngem madi da nagpasged iti apuy. .
+  * **[[:ilo:obs:notes:frames:21-07|[21-07]]]** Dagiti **papadi**  nga Israelita ti mangisagsagana kadagiti daton iti Dios ai biangen ti tattao kas kasukat dagiti dusa dagiti basbasol da. Agkarkararag met dagiti **papadi**  a para kadagiti tattao..
 ~~DISCUSSION~~{{tag>publish ktobs}}
