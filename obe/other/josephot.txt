@@ -20,16 +20,12 @@ Joseph was the eleventh son of Jacob and the first son of his mother Rachel.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:08-02|[08-02]]]** **Joseph's** brothers hated him because their father loved him most and because Joseph had dreamed that he would be their ruler.
-  ***[[:ilo:obs:notes:frames:08-04|[08-04]]]** The slave traders took **Joseph** to Egypt.
-  ***[[:ilo:obs:notes:frames:08-05|[08-05]]]** Even in prison, **Joseph** remained faithful to God, and God blessed him.
-  ***[[:ilo:obs:notes:frames:08-07|[08-07]]]** God had given **Joseph** the ability to interpret dreams, so Pharaoh had Joseph brought to him from the prison.
-  ***[[:ilo:obs:notes:frames:08-09|[08-09]]]** **Joseph** told the people to store up large amounts of food during the seven years of good harvests.
-  ***[[:ilo:obs:notes:frames:09-02|[09-02]]]** The Egyptians no longer remembered **Joseph** and all he had done to help them.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:08-02|[08-02]]]** Kagurgura dagiti kakabsat ni **Joseph**  isuna gapo ta nakaro ti panagayat ti Ama da kenkuana ken maysa pay ket natagtagainep ni Joseph nga isuna iti mangidaulo kadakuada.
+  * **[[:ilo:obs:notes:frames:08-04|[08-04]]]** Impan ngarud dagidiay dagiti agtagtagilako ti tagabo ni **Joseph**  idiay Egypt.
+  * **[[:ilo:obs:notes:frames:08-05|[08-05]]]** Uray idiay pagbaludan ket nagtalinaed a matalek iti Dios ni **Joseph**  ket binendisyonan ti Dios isuna.
+  * **[[:ilo:obs:notes:frames:08-07|[08-07]]]** Inikkan ti Dios ni **Joseph**  iti kabaelan na a mangipatarus iti tagtagainep isunga pinaayaban ni Pharaoh ni **Joseph**  idiay kulungan.
+  * **[[:ilo:obs:notes:frames:08-09|[08-09]]]** Ket binilin ni **Joseph**  dagiti tattao nga agidulin da iti ad adu ita ta nabuslon iti apit.
+  * **[[:ilo:obs:notes:frames:09-02|[09-02]]]** Dagiti taga Egypt ket saan da metten malagip ni **Joseph**  ken dagiti inararamid na ket nagbuteng da iti kinaadun ti Israelita.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
