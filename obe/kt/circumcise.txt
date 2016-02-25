@@ -27,8 +27,8 @@ The term "circumcise" means to cut off the foreskin of a man or male child. A ci
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:05-03|[05-03]]]**"You must **circumcise**  every male in your family."
-  * **[[:ilo:obs:notes:frames:05-05|[05-05]]]** That day Abraham **circumcised**  all the males in his household.
+  * **[[:ilo:obs:notes:frames:05-03|[05-03]]]**"Kasapulan a **makugit**  iti tunggal lalaki iti pamiliam."
+  * **[[:ilo:obs:notes:frames:05-05|[05-05]]]** Iti dayta nga aldaw **kinugit**  ni Abraham amin a lallaki iti pagtaengan na.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
