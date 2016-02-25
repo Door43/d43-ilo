@@ -26,9 +26,9 @@ The term "curse" means to cause negative things to happen to the person or thing
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:02-09|[02-09]]]** God said to the snake, "You are **cursed**!"
-  * **[[:ilo:obs:notes:frames:02-11|[02-11]]]**"Now the ground is **cursed**, and you will need to work hard to grow food."
-  * **[[:ilo:obs:notes:frames:04-04|[04-04]]]**"I will bless those who bless you and **curse**  those who **curse**  you."
-  * **[[:ilo:obs:notes:frames:39-07|[39-07]]]** Then Peter vowed, saying, "May God **curse**  me if I know this man!"
-  * **[[:ilo:obs:notes:frames:50-16|[50-16]]]** Because Adam and Eve disobeyed God and brought sin into this world, God **cursed**  it and decided to destroy it.
+  * **[[:ilo:obs:notes:frames:02-09|[02-09]]]** Kinuna ti Dios iti uleg, “**Mailunod**  ka!"
+  * **[[:ilo:obs:notes:frames:02-11|[02-11]]]**"Tatta **mailunod**  iti daga ket kasapulamon ti agtrabaho ti kasta unay tapno adda kanem."
+  * **[[:ilo:obs:notes:frames:04-04|[04-04]]]**"Bendisyonak dagiti mangbendisyon kenka ken **ilunod**  ko dagiti **agilunod**  kenka."
+  * **[[:ilo:obs:notes:frames:39-07|[39-07]]]** Nagsapata ni Peter ket kinunana, “Uray **dusaen**  nak ti Dios no pudno nga am-ammuk dayta a tao!"
+  * **[[:ilo:obs:notes:frames:50-16|[50-16]]]** Gapo ta nagsukir ni Adam ken Eve iti Dios ken inyeg da ti basol iti daytoy a lubong ket **inlunod**  ti Dios ti lubong ken inkeddeng na a dadaelen na daytoy.
 ~~DISCUSSION~~{{tag>publish ktobs}}
