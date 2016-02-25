@@ -24,16 +24,11 @@ Jacob was the second of the twin sons that were born to Isaac and Rebekah. The f
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:07-01|[07-01]]]** As the boys grew up, Rebekah loved **Jacob**, but Isaac loved Esau. **Jacob** loved to stay at home, but Esau loved to hunt.
-  ***[[:ilo:obs:notes:frames:07-07|[07-07]]]**  **Jacob** lived there for many years, and during that time he married and had twelve sons and a daughter. God made him very wealthy.
-  ***[[:ilo:obs:notes:frames:07-08|[07-08]]]** After twenty years away from his home in Canaan, **Jacob** returned there with his family, his servants, and all his herds of animals.
-  ***[[:ilo:obs:notes:frames:07-10|[07-10]]]** The covenant promises God had promised to Abraham and then to Isaac now passed on to **Jacob**.
-  ***[[:ilo:obs:notes:frames:08-01|[08-01]]]** Many years later, when **Jacob** was an old man, he sent his favorite son, Joseph, to check on his brothers who were taking care of the herds.
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:07-01|[07-01]]]** Kas dumadakkel dagiti ubbing a lallaki ket inay-ayat ni **Jacob**  nga agtalinaed iti balay ngem ni Esau ket inay ayat na nga apan agan-anop.
+  * **[[:ilo:obs:notes:frames:07-07|[07-07]]]** Nakipagnaed ngarud ni **Jacob**  kadagiti kabagian ni Rebekah iti adu a tawen. Kadagidiay a tiempo ket nagasawa isuna ket naaddaan ti sangapulo ket dua a putot a lallaki ken maysa a babai. Pinabaknang ti Dios isuna iti kasta launay.
+  * **[[:ilo:obs:notes:frames:07-08|[07-08]]]** Kalpasan ti duapulo a tawen a naiyadayu ti pagtaengana idiay Canaan ket nagsubli ni **Jacob**  idiay karaman ti pamilya na ken dagiti ad-adipenna ken amin dagiti tarakenna nga ay-ayup.
+  * **[[:ilo:obs:notes:frames:07-10|[07-10]]]** Itatta naipasa kenni **Jacob**  dagiti kari nga inted ti Dios kenni Abraham babaen kenni Isaac.
+  * **[[:ilo:obs:notes:frames:08-01|[08-01]]]** Idi naglabas ti adun a tawen ket lakayen ni **Jacob**, imbaun na ti paborito na a putot a ni Joseph tapno apan na sarungkaran dagiti kakabsat na nga agayaywan kadagiti ay-ayup.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
