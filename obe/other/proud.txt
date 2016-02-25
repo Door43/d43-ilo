@@ -23,12 +23,8 @@ The terms "proud" and "prideful" refer to a person thinking too highly of himsel
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:04-02|[04-02]]]** They were very **proud**, and they did not care about what God said.
-  ***[[:ilo:obs:notes:frames:34-10|[34-10]]]** Then Jesus said, "I tell you the truth, God heard the tax collector's prayer and declared him to be righteous. But he did not like the prayer of the religious leader. God will humble everyone who is **proud**, and he will lift up whoever humbles himself."
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:04-02|[04-02]]]****Nakapalpalangguad**  da ken madi da inkaskaso ti imbagan ti Dios.
+  * **[[:ilo:obs:notes:frames:34-10|[34-10]]]** Kalpasan daytoy kinuna ni Jesus, “Ibagak kadakayo ti kinapudno ket dinengngeg ti Dios ti kararag ti agsingsingir iti buwis ken imbilang na nga isu ti nalinteg. Saan nga inawat ti Dios ti kararag ti panguloen ti relihiyon. Ibabanto ti Dios dagiti amin a** napalangguad**  ket ken itag-ay nanto ti siasinoman nga agpakumbaba.."
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
