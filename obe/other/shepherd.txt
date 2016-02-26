@@ -25,9 +25,9 @@ A shepherd is a person who takes care of sheep. The verb "to shepherd" means to 
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:09-11|[09-11]]]** Moses became a **shepherd**  in the wilderness far away from Egypt.
-  * **[[:ilo:obs:notes:frames:17-02|[17-02]]]** David was a **shepherd**  from the town of Bethlehem. At different times while he was watching his father's sheep, David had killed both a lion and a bear that had attacked the sheep.
-  * **[[:ilo:obs:notes:frames:23-06|[23-06]]]** That night, there were some **shepherds**  in a nearby field guarding their flocks.
-  * **[[:ilo:obs:notes:frames:23-08|[23-08]]]** The **shepherds**  soon arrived at the place where Jesus was and they found him lying in a feeding trough, just as the angel had told them.
-  * **[[:ilo:obs:notes:frames:30-03|[30-03]]]** To Jesus, these people were like sheep without a **shepherd**.
+  * **[[:ilo:obs:notes:frames:09-11|[09-11]]]** Nagbalin a **tagapastor ** dagiti karnero ni Moses idiay kabakbakiran nga adayu manipud idiay Egypt ket nakaasawa isuna iti dayta a lugar ken naaddaan ti dua a putot a lallaki.
+  * **[[:ilo:obs:notes:frames:17-02|[17-02]]]** Ni David ket maysa nga **agipaspastor**  ti karnero a taga Bethlehem. Iti nagdumaduma a tiempo bayat iti panagbanbantay na kadagiti karnero ti ama na ket nakapatay ni David ti maysa a leon ken maysa nga oso a simmugud kadagiti karnero.
+  * **[[:ilo:obs:notes:frames:23-06|[23-06]]]** Iti dayta a rabii iti saan nga adayo manipud iti ayan da ket adda sumagmamano a **pastor**  nga agbanbantay kadagiti bunggoy ti karnero da.
+  * **[[:ilo:obs:notes:frames:23-08|[23-08]]]** Iti saan a mabayag ket nakadanon dagiti **pastor**  iti ayan ni Jesus ken nasarakan da isuna a nakaidda iti maysa a kulluong ket kas iti imbaga ti anghel kadakuada.
+  * **[[:ilo:obs:notes:frames:30-03|[30-03]]]** Para kenni Jesus ket kasla karnero nga awan **pastor**  na dagitoy a tattao.
 ~~DISCUSSION~~{{tag>publish ktobs }}
