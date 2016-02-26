@@ -17,8 +17,8 @@ A sheep is a medium-sized animal with four legs that has wool all over its body.
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:09-12|[09-12]]]** One day while Moses was taking care of his **sheep**, he saw a bush that was on fire.
-  * **[[:ilo:obs:notes:frames:17-02|[17-02]]]** David was a shepherd from the town of Bethlehem. At different times while he was watching his father's **sheep**, David had killed both a lion and a bear that had attacked the **sheep**.
-  * **[[:ilo:obs:notes:frames:30-03|[30-03]]]** To Jesus, these people were like **sheep**  without a shepherd.
-  * **[[:ilo:obs:notes:frames:38-08|[38-08]]]** Jesus said, "All of you will all abandon me tonight. It is written, 'I will strike the shepherd and all the **sheep**  will be scattered.'"
+  * **[[:ilo:obs:notes:frames:09-12|[09-12]]]** Iti maysa nga aldaw kabayatan nga ipaspastor ni Moses dagiti **karnero**  ket nakakita iti maysa a mapupuuran a kayo ngem ti kinagpaysuanan na ket saan met talaga a maur-uram diay kayo.
+  * **[[:ilo:obs:notes:frames:17-02|[17-02]]]** Ni David ket maysa nga agipaspastor ti **karnero**  a taga Bethlehem. Iti nagdumaduma a tiempo bayat iti panagbanbantay na kadagiti **karnero**  ti ama na ket nakapatay ni David ti maysa a leon ken maysa nga oso a simmugud kadagiti **karnero**.
+  * **[[:ilo:obs:notes:frames:30-03|[30-03]]]** Para kenni Jesus ket kasla **karnero**  nga awan pastor na dagitoy a tattao.
+  * **[[:ilo:obs:notes:frames:38-08|[38-08]]]** Kinuna ni Jesus, “Tallikudan dak iti daytoy a rabii. Kas naisurat, ‘Duprakekto ti pastor ket mawarawaranto dagiti amin a **karnero**.'"
 ~~DISCUSSION~~{{tag>publish ktobs}}
