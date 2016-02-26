@@ -20,13 +20,10 @@ When God gave his laws at Mount Sinai, he told the Israelites to make the tent o
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:13-08|[13-08]]]** God gave the Israelites a detailed description of a tent he wanted them to make. It was called the **Tent of Meeting**, and it had two rooms, separated by a large curtain. 
-  ***[[:ilo:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed God's law could bring an animal to the altar in front of the **Tent of Meeting** as a sacrifice to God. 
-  ***[[:ilo:obs:notes:frames:14-08|[14-08]]]** God was very angry and came to the **Tent of Meeting**. 
-  ***[[:ilo:obs:notes:frames:18-02|[18-02]]]** Instead of at the **Tent of Meeting**, people now worshiped God and offered sacrifices to him at the Temple. 
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:13-08|[13-08]]]** Nangted pay ti Dios kadagiti Israelita iti nalawag a pannakailadawan ti ipaaramid na kadakuada a tolda. Maaw-awagan daytoy a **Tolda a Paguummungan**. Addaan iti dua a kwarto a pinagsina iti dakkel a kurtina.
+  * **[[:ilo:obs:notes:frames:13-09|[13-09]]]** Siasinoman a manglabsing kadagiti bilin ti Dios ket mabalin a mangipan iti ayup kas daton na iti Dios idiay dissu a pagdatonan iti sango ti **Tolda a Paguummungan**.
+  * **[[:ilo:obs:notes:frames:14-08|[14-08]]]** Kasta launay ti unget ti Dios ket immay isuna idiay **Tolda a Paguummungan**.
+  * **[[:ilo:obs:notes:frames:18-02|[18-02]]]** Ditoyen templo a dinaydayaw dagiti tattao ti Dios. Ditoy metten ti nagidatdatonan da kadagiti daton a para iti Dios imbes nga iti **Tulda a Pagguummungan**.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
