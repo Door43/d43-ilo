@@ -19,12 +19,11 @@ An idol is an object that people make so they can worship it. Something is descr
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:13-05|[13-05]]]** "Do not make **idols** or worship them, because I, Yahweh, am a jealous God."
-  ***[[:ilo:obs:notes:frames:13-12|[13-12]]]** Aaron made a golden **idol** in the shape of a calf. The people began to wildly worship the **idol** and make sacrifices to it!
-  ***[[:ilo:obs:notes:frames:14-03|[14-03]]]** "You must completely destroy all of their **idols**. If you do not obey me, you will worship their **idols** instead of me."
-  ***[[:ilo:obs:notes:frames:18-12|[18-12]]]** All of the kings and most of the people of the kingdom of Israel worshiped **idols**. This kind of worship often included sexual immorality and sometimes even child sacrifice.
-  ***[[:ilo:obs:notes:frames:19-16|[19-16]]]** They (the prophets) all told the people to stop worshiping **idols** and to start showing justice and mercy to others.
-
+  * **[[:ilo:obs:notes:frames:13-05|[13-05]]]**"Saan kayo nga agaramid kadagiti **didiosen**  ken saan yo a dayawen dagitoy gapu ta siak ni Yahweh a managimon a Dios."
+  * **[[:ilo:obs:notes:frames:13-12|[13-12]]]** Nagaramid ni Aaron iti a sinanbaka a nabalitukan a **didiosen**. Ket nangrugi dagiti tattao a nangidaydayaw iti nakagulgulo ti **didiosen**  ken nagidatdatun da pay iti daytoy!
+  * **[[:ilo:obs:notes:frames:14-03|[14-03]]]**"Masapul a dadaelen yo amin dagiti **didiosen**  da. No saan dak a tungpalen ket dayawen yonto dagiti **didiosen**  da imbes a siak."
+  * **[[:ilo:obs:notes:frames:18-12|[18-12]]]** Nagdaydayaw kadagiti **diddiosen**  dagiti amin nga ari ken kaaduan kadagiti tattao idiay pagarian ti Israel. Ti panagdayaw da kadagiti **didiosen**  ket masansan a pakairamanan pannakikamalala ken uray pay panagidatun kadagiti ubing no maminsan.
+  * **[[:ilo:obs:notes:frames:19-16|[19-16]]]** Amin da imbaga da nga isardeng dagiti tattao ti panagdaydayaw da kadagiti **didiosen**  ken rugian da nga ipakita ti hustisia ken kaasi kadagiti dadduma.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
