@@ -18,12 +18,9 @@ The job of tax collectors was to receive the money that people owed the governme
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:34-06|[34-06]]]** He said, "Two men went to the Temple to pray. One of them was a **tax collector**, and the other was a religious leader."
-  ***[[:ilo:obs:notes:frames:34-07|[34-07]]]** "The religious leader prayed like this, 'Thank you, God, that I am not a sinner like other men—such as robbers, unjust men, adulterers, or even like that **tax collector**.'"
-  ***[[:ilo:obs:notes:frames:34-09|[34-09]]]** "But the **tax collector** stood far away from the religious ruler, did not even look up to heaven. Instead, he pounded on his chest and prayed, 'God, please be merciful to me because I am a sinner.'"
-  ***[[:ilo:obs:notes:frames:34-10|[34-10]]]** Then Jesus said, "I tell you the truth, God heard the **tax collector's** prayer and declared him to be righteous."
-  ***[[:ilo:obs:notes:frames:35-01|[35-01]]]** One day, Jesus was teaching many **tax collectors** and other sinners who had gathered to hear him. 
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:34-06|[34-06]]]** Kinuna na ket “Adda dua a lallaki a napan nagkararag idiay templo. Ti maysa kadakuada ket **agsingsingir iti buwis**  ket ken diay maysa ket panguloen iti relihiyon.."
+  * **[[:ilo:obs:notes:frames:34-07|[34-07]]]**"Kastoy ti panagkararag ti panguloen ti relihiyon ket ‘Agyamanak Apo Dios ket ta saanak a managbasol a kas kadagiti dadduma a tattao - kas kadagiti agtatakaw ket wenno dagiti saan a nalinteg a tattao ket dagiti mannakikamalala ket wenno kas iti dayta nga **agsingsingir iti buwis**.'"
+  * **[[:ilo:obs:notes:frames:34-09|[34-09]]]**"Ngem immadayo ti **agsingsingir iti buwis**  manipud iti panguloen iti relihyon ket dina pay intangad idiay langit. Dinandanog na ketdi ti barukong na ket nagkararag, ‘Apo ket pangaasim ta maasian ka koma kaniak agsipud ta managbasolak.'"
+  * **[[:ilo:obs:notes:frames:34-10|[34-10]]]** Kalpasan daytoy kinuna ni Jesus, “Ibagak kadakayo ti kinapudno ket dinengngeg ti Dios ti kararag ti **agsingsingir iti buwis**  ken imbilang na nga isu ti nalinteg. Saan nga inawat ti Dios ti kararag ti panguloen ti relihiyon."
+  * **[[:ilo:obs:notes:frames:35-01|[35-01]]]** Maysa nga aldaw agisursuro ni Jesus kadagiti adu nga **agsingsingir iti buwis**  ken dadduma pay a managbasol nga immay tapno dumngeg kenkuana.
+~~DISCUSSION~~{{tag>publish ktobs}}
