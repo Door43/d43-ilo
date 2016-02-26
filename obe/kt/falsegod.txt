@@ -27,11 +27,11 @@ A false god is something that people worship instead of the one true God. The te
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:10-02|[10-02]]]** Through these plagues, God showed Pharaoh that he is more powerful than Pharaoh and all of Egypt's **gods**.
-  * **[[:ilo:obs:notes:frames:13-04|[13-04]]]** Then God gave them the covenant and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not worship other **gods**."
-  * **[[:ilo:obs:notes:frames:14-02|[14-02]]]** They (Canaanites) worshiped false **gods**  and did many evil things.
-  * **[[:ilo:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite **gods**  instead of Yahweh, the true God.
-  * **[[:ilo:obs:notes:frames:18-13|[18-13]]]** But most of Judah's kings were evil, corrupt, and they worshiped idols. Some of the kings even sacrificed their children to false **gods**.
+  * **[[:ilo:obs:notes:frames:10-02|[10-02]]]** Babaen kadagitoy a didigra ket inpakita ti Dios iti Pharaoh a napigpigsa isuna ngem ti Pharaoh ken amin a **dididiosen**  idiay Egypt.
+  * **[[:ilo:obs:notes:frames:13-04|[13-04]]]** Inted ti Dios kadakuada ti katulagan ken kinunana, “Siak ni Yahweh a Dios yo, ti nangisalakan kadakayo manipud iti pannakatagabo yo idiay Egypt. Saan kayo nga agdayaw kadagiti dadduma a **dios**."
+  * **[[:ilo:obs:notes:frames:14-02|[14-02]]]** Agdaydayaw da kadagiti **didiosen**  ken agararamid da ti adu a nagdadakes a banag.
+  * **[[:ilo:obs:notes:frames:16-01|[16-01]]]** Rinugian dagiti Israelita ti nagdaydayaw kadagiti **didiosen**  dagiti taga Canaan imbes a ni Yahweh, ti pudno a Dios.
+  * **[[:ilo:obs:notes:frames:18-13|[18-13]]]** Ngem managdakdakes ket panag-agum ken agdaydayaw kadagiti **didiosen**  ti kaaduan kadagiti ari ti Judah.
 ~~DISCUSSION~~{{tag>publish knobs}}
 
 ~~NOCACHE~~
