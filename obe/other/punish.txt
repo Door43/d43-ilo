@@ -17,17 +17,13 @@ The term "punish" means to cause someone to suffer a negative consequence for do
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:13-07|[13-07]]]** God also gave many other laws and rules to follow. If the people obeyed these laws, God promised that he would bless and protect them. If they disobeyed them, God would **punish** them. 
-  ***[[:ilo:obs:notes:frames:16-02|[16-02]]]** Because the Israelites kept disobeying God, he **punished** them by allowing their enemies to defeat them. 
-  ***[[:ilo:obs:notes:frames:19-16|[19-16]]]** The prophets warned the people that if they did not stop doing evil and start obeying God, then God would judge them as guilty, and he would **punish** them. 
-  ***[[:ilo:obs:notes:frames:48-06|[48-06]]]** Jesus was the perfect high priest because he took the **punishment** for every sin that anyone has ever committed.
-  ***[[:ilo:obs:notes:frames:48-10|[48-10]]]** When anyone believes in Jesus, the blood of Jesus takes away that person's sin, and God's **punishment** passes over him.
-  ***[[:ilo:obs:notes:frames:49-09|[49-09]]]** But God loved everyone in the world so much that he gave his only Son so that whoever believes in Jesus will not be **punished** for his sins, but will live with God forever.
-  ***[[:ilo:obs:notes:frames:49-11|[49-11]]]** Jesus never sinned, but he chose to be **punished** and die as the perfect sacrifice to take away your sins and the sins of every person in the world. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:13-07|[13-07]]]** Nangted pay ti Dios kadagiti adu a linlinteg ken pagannurutan a suruten da. Nu agtulnog dagiti tattao kadagitoy a bilbilin, inkari ti Dios a bendisyonan ken tarabayen na ida. Ngem nu dida tungpalen dagitoy ket **dusaento**  ti Dios ida.
+  * **[[:ilo:obs:notes:frames:16-02|[16-02]]]** Gapo ta nagtultuloy dagiti Israelita a nanglablabsing iti Dios ket **dinusa**  na ida babaen iti panangipalubos na a parmeken dagiti kalaban ida.
+  * **[[:ilo:obs:notes:frames:19-16|[19-16]]]** Binallaagan dagiti mammadto dagiti tattao a no madi da nga isardeng ti dakes nga aramid da ken rugian ti agtulnog iti Dios ket ukomento ida ti Dios kas nagbasol ken **dusaen**  nanto ida.
+  * **[[:ilo:obs:notes:frames:48-06|[48-06]]]** Ni Jesus ti naan-anay a kangatoan a padi gapo ta inaklunna ti **dusa**  para iti tunggal basol nga inaramid ti tunggal maysa.
+  * **[[:ilo:obs:notes:frames:48-10|[48-10]]]** Nu adda ti siasinno man a mamati ken Jesus ket bayadan ti dara ni Jesus dagiti nagbasolan dayta a tao ken labsan ti **dusa ** ti Dios dayta a tao.
+  * **[[:ilo:obs:notes:frames:49-09|[49-09]]]** Ngem ay-ayaten ti Dios ti tunggal maysa ditoy lubong isunga inted na ti kakaisuna nga Anakna tapno ti siasinoman a mamati kenni Jesus ket saanto a **madusa**  gapo kadagiti basbasolna ngem agnanayon nga agbiagto isuna iti denna ti Dios.
+  * **[[:ilo:obs:notes:frames:49-11|[49-11]]]** Saan a pulos a nagbasol ni Jesus ngem pinili na ti **madusa**  ken matay kas naan-anay a daton a mangala iti basol mo ken iti basol ti tunggal maysa a tao ditoy lubong.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
