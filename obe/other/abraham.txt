@@ -1,20 +1,21 @@
 ====== Abraham, Abram ======
 
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-Abraham was the person that God chose to start the family that would grow into the people known as the Israelites. 
+Ni Abraham pinili ti Dios nga pagtaudan ti kapututan a maawagan Israelita.
 
-    * God promised Abraham that he would have many descendants and that they would become a great nation.
-    * God made his covenant with Abraham and promised to uphold it with his descendants forever.
-    * Abraham believed God and obeyed him. 
-    * Abraham's name was originally "Abram," but God changed it to Abraham.
-    * Abram means, "exalted father," and Abraham means, "father of many."
+  * Ti Dios nagkari ken Abraham nga maaddaan ti adu a kapututan ken agbalin a dakkel a pagilyan.
+  * Ti Dios nangaramid ti tulag kenni Abraham ken nagkari nga pagtalinaeden na iti agnanayon.
+  * Ni Abraham namati ti Dios ken nagtulnog kenkuana
+  * Abraham's name was originally "Abram," but God changed it to Abraham.
+  * Ti dati a nagan ni Abraham ket ''Abram" ngem sinkatan ti Dios ti Abraham.
+  * Abram means, "exalted father," and Abraham means, "father of many."
+  * Ti kayat a saritaen ti Abram ket ''naitag ay nga ama'' ken ti kayat a saritaen ti Abraham ket ''ama dagiti adu''
 
-(Translation suggestions: [[:ilo:ta:vol1:translate:translate_names]]) 
+(Singasing kadagiti Panagpatarus: [[:ilo:ta:vol1:translate:translate_names|Ipatarus ti Nagan]])
 
-(See also: [[sarah]], [[isaac]])
-
+(Kitaen met: [[:ilo:obe:other:sarah|Sarah, Sarai]], [[:ilo:obe:other:isaac|Isaac]])
 
 ===== Bible References: =====
  
