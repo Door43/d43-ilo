@@ -20,14 +20,11 @@ To praise someone is to express admiration and honor for that person.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:12-13|[12-13]]]** The Israelites sang many songs to celebrate their new freedom and to **praise** God because he saved them from the Egyptian army.
-  ***[[:ilo:obs:notes:frames:17-08|[17-08]]]** When David heard these words, he immediately thanked and **praised** God because he had promised David this great honor and many blessings. 
-  ***[[:ilo:obs:notes:frames:22-07|[22-07]]]** Zechariah said, "**Praise** God, because he has remembered his people!
-  ***[[:ilo:obs:notes:frames:43-13|[43-13]]]** They (disciples) enjoyed **praising** God together and they shared everything they had with each other.
-  ***[[:ilo:obs:notes:frames:47-08|[47-08]]]** They put Paul and Silas in the most secure part of the prison and even locked up their feet. Yet in the middle of the night, they were singing songs of **praise** to God.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:12-13|[12-13]]]** Nagrag-o dagiti Israelita ti kasta launay gapo ta insalakan isuda ti Dios iti pannakatay ken pannakataguboen da! Ita ket nawaya dan a **dayawen**  ti Dios. **Nagdayaw**  dagiti Israelita iti kankanta tapno agrambak da iti baro a pannakawayawaya ken tapno **dayawen**  da ti Dios ngamin insalakan na isuda manipud kadagiti suldado ti Egypt.
+  * **[[:ilo:obs:notes:frames:17-08|[17-08]]]** Idi nangngeg ni David dagitoy a sasao ket dagus a nagyaman ken **nagdayaw**  iti Dios gapu kadagiti dakkel a dayaw ken adu a bendisyon nga inkari ti Dios kenkuana.
+  * **[[:ilo:obs:notes:frames:22-07|[22-07]]]** Kinuna ni Zachariah, “**Madaydayaw**  ti Dios ta nalagip na dagiti tattao na!
+  * **[[:ilo:obs:notes:frames:43-13|[43-13]]]** Rinagrag-o da ti panagkakadua da a **nagdaydayaw**  iti Dios ken imbingay da kadagiti kakadua da dagiti amin a sanikua da.
+  * **[[:ilo:obs:notes:frames:47-08|[47-08] ]]** Inyapan da ni Paul ken Silas iti katatalgedan a paset ti pagbaludan ken inkawar da pay dagiti saksaka da. Ngem idi katengngaanen ti rabii ket nagkakanta da kadagiti **pammadayaw**  iti Dios.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
