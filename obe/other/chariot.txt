@@ -17,12 +17,8 @@ In ancient times, chariots were lightweight carts with two wheels that were pull
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:12-10|[12-10]]]** So they followed the Israelites onto the path through the sea, but God caused the Egyptians to panic and caused their **chariots** to get stuck. 
-  ***[[:ilo:obs:notes:frames:45-07|[45-07]]]** As he walked along the road, Philip saw an important official from Ethiopia riding in his **chariot**. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:12-10|[12-10]]]** Isua sinurot da dagiti Israelita iti dalan idiay baybay, ngem inaramid ti Dios dagiti taga Egypt a mataranta da ken pinailumlom na dagiti **karwahe**  da.
+  * **[[:ilo:obs:notes:frames:45-07|[45-07]]]** Bayat ti pannagna na ket nakita ni Philip ti maysa a nangato nga opisyal manipud idiay Ethiopia a nakalugan iti maysa a **karwahe**.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
