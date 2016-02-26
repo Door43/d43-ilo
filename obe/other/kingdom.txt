@@ -25,11 +25,11 @@ A kingdom is a group of people ruled by a king. It also refers to the realm or p
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:13-02|[13-02]]]** God said to Moses and the people of Israel, "If you will obey me and keep my covenant, you will be my prized possession, a **kingdom**  of priests, and a holy nation."
-  * **[[:ilo:obs:notes:frames:18-04|[18-04]]]** God was angry with Solomon and, as a punishment for Solomon's unfaithfulness, he promised to divide the nation of Israel in two **kingdoms**  after Solomon's death.
-  * **[[:ilo:obs:notes:frames:18-07|[18-07]]]** Ten of the tribes of the nation of Israel rebelled against Rehoboam. Only two tribes remained faithful to him. These two tribes became the **kingdom**  of Judah.
-  * **[[:ilo:obs:notes:frames:18-08|[18-08]]]** The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named Jeroboam to be their king. They set up their **kingdom**  in the northern part of the land and were called the **kingdom**  of Israel.
-  * **[[:ilo:obs:notes:frames:21-08|[21-08]]]** A king is someone who rules over a **kingdom**  and judges the people.
+  * **[[:ilo:obs:notes:frames:13-02|[13-02]]]** Kinuna ti Dios kenni Moses ken kadagiti tattao ti Israel, “No suruten ken tungpalen yo ti tulag ko kadakayo ket dakayonto ti agbalin a nabalor a sanikuak. Agbalin kayonto a **pagarian**  dagiti papadi ken maysa a nasantoan a nasyon."
+  * **[[:ilo:obs:notes:frames:18-04|[18-04]]]** Nakaunget ti Dios kenni Solomon ket kas dusa ti saan na a panagmatalek ket inkari ti Dios a bingayen na ti nasyon ti Isarel iti dua a **pagarian**  kalpasan ti pannakatay ni Solomon.
+  * **[[:ilo:obs:notes:frames:18-07|[18-07]]]** Isua kimmalas ti sangapulo a tribu kenni Rehoboam iti nasyon ti Israel. Dua laeng a tribu iti nagtalinaed a nagtalek kenkuana. Nagbalin a **pagarian**  a Judah dagitoy dua a tribu.
+  * **[[:ilo:obs:notes:frames:18-08|[18-08]]]** Dinutokan dagiti sangapulo a tribu ti Israel a nagrebelde kenni Rehoboam ti maysa a lalaki nga agnagan iti Jeroboam nga isu ti agbalin nga ari da. Impasdek da ti pagarian da iti amianan a paset ti daga ket naawagan daytoy a **pagarian**  ti Israel.
+  * **[[:ilo:obs:notes:frames:21-08|[21-08]]]** Ti ari ket maysa a mangituray iti **pagarian**  ken mangukom kadagiti tattao.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
