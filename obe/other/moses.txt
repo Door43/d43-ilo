@@ -20,19 +20,11 @@ Moses was a prophet and leader of the Israelite people for over 40 years.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:09-12|[09-12]]]** One day while **Moses** was taking care of his sheep, he saw a bush that was on fire.
-  ***[[:ilo:obs:notes:frames:12-05|[12-05]]]** **Moses** told the Israelites, "Stop being afraid! God will fight for you today and save you."
-  ***[[:ilo:obs:notes:frames:12-07|[12-07]]]** God told **Moses** to raise his hand over the sea and divide the waters.
-  ***[[:ilo:obs:notes:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they trusted in God and believed that Moses was a prophet of God.
-  ***[[:ilo:obs:notes:frames:13-07|[13-07]]]** Then God wrote these Ten Commandments on two stone tablets and gave them to **Moses**.
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:09-12|[09-12]]]** Iti maysa nga aldaw kabayatan nga ipaspastor ni **Moses**  dagiti karnero ket nakakita na iti maysa a mapupuuran a kayo ngem ti kinagpaysuanan na ket saan met talaga a maur-uram diay kayo.
+  * **[[:ilo:obs:notes:frames:12-05|[12-05]]]** Kinuna ni **Moses**  kadagiti Israelita, “Dikay agbuteng! Ti Dios isu ti makilaban kadakayo tatta ken salakniban na kayo."
+  * **[[:ilo:obs:notes:frames:12-07|[12-07]]]** Imbaga ti Dios kenni **Moses**  nga ingatu na iti ima na agpaturong diay banda iti baybay tapno agbisngay ti danom.
+  * **[[:ilo:obs:notes:frames:12-12|[12-12]]]** Idi nakita dagiti Israelita dagiti taga Egypt a natay ket nagtalek dan ti Dios. Ken mamati da a mammadto ti Dios ni **Moses**.
+  * **[[:ilo:obs:notes:frames:13-07|[13-07]]]** Santo insurat ti Dios dagitoy a sangapulo a bilin iti dua a pisi ti bato ken inted na daytoy kenni **Moses**.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
-
-\\
-
