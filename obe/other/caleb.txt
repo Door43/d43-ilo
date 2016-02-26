@@ -18,13 +18,9 @@ Caleb was one of the twelve Israelite spies whom Moses sent to explore the land 
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:14-04|[14-04]]]** When the Israelites reached the edge of Canaan, Moses chose twelve men, one from each tribe of Israel. He gave the men instructions to go and spy on the land to see what it was like. 
-  ***[[:ilo:obs:notes:frames:14-06|[14-06]]]** Immediately **Caleb** and Joshua, the other two spies, said, "It is true that the people of Canaan are tall and strong, but we can certainly defeat them! God will fight for us!"
-  ***[[:ilo:obs:notes:frames:14-08|[14-08]]]** "Except for Joshua and **Caleb**, everyone who is twenty years old or older will die there and never enter the Promised Land."
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:14-04|[14-04]]]** Idi nakadanunen dagiti Israelita iti beddeng ti Canaan ket nangpili ni Moses iti sangapulo ket dua a lallaki, maysa iti tunggal tribu ti Israel. Binilin ni Moses ida a mapan da siimen ti lugar tapno makita da no anya ti itsura na.
+  * **[[:ilo:obs:notes:frames:14-06|[14-06]]]** Dagus a kinuna ni **Caleb**  ken ni Joshua a dua kadagiti espiya, “Agpaysu a dadakkel ken napipigsa dagiti tattao idiay Canaan ngem sigurado a mabalin tayo nga abaken ida! Ti Dios ti makilaban para kadatayo!"
+  * **[[:ilo:obs:notes:frames:14-08|[14-08]]]**"Malaksid kenni Joshua ken **Caleb**, matayto ken saan a pulos a makastrek iti Naikari a Daga dagiti amin nga agtawen iti dua a pulo wenno natataengan pay."
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
