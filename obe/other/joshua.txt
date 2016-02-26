@@ -24,17 +24,12 @@ There were several Israelite men named Joshua in the Bible. The most well-known 
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:14-04|[14-04]]]** When the Israelites reached the edge of Canaan, Moses chose twelve men, one from each tribe of Israel. He gave the men instructions to go and spy on the land to see what it was like.
-  ***[[:ilo:obs:notes:frames:14-06|[14-06]]]**  Immediately Caleb and **Joshua**, the other two spies, said, "It is true that the people of Canaan are tall and strong, but we can certainly defeat them!"
-  ***[[:ilo:obs:notes:frames:14-08|[14-08]]]** Except for **Joshua** and Caleb, everyone who is twenty years old or older will die there and never enter the Promised Land."
-  ***[[:ilo:obs:notes:frames:14-14|[14-14]]]** Moses was now very old, so God chose **Joshua** to help him lead the people.  
-  ***[[:ilo:obs:notes:frames:14-15|[14-15]]]** **Joshua** was a good leader because he trusted and obeyed God. 
-  ***[[:ilo:obs:notes:frames:15-03|[15-03]]]** After the people crossed the Jordan River, God told **Joshua** how to attack the powerful city of Jericho. 
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:14-04|[14-04]]]** Idi nakadanunen dagiti Israelita iti beddeng ti Canaan ket nangpili ni Moses iti sangapulo ket dua a lallaki, maysa iti tunggal tribu ti Israel. Binilin ni Moses ida a mapan da siimen ti lugar tapno makita da no anya ti itsura na.
+  * **[[:ilo:obs:notes:frames:14-06|[14-06]]]** Dagus a kinuna ni Caleb ken ni **Joshua**  a dua kadagiti espiya, “Agpaysu a dadakkel ken napipigsa dagiti tattao idiay Canaan ngem sigurado a mabalin tayo nga abaken ida!"
+  * **[[:ilo:obs:notes:frames:14-08|[14-08]]]** Malaksid kenni **Joshua**  ken Caleb, matayto ken saan a pulos a makastrek iti Naikari a Daga dagiti amin nga agtawen iti dua a pulo wenno natataengan pay.” ."
+  * **[[:ilo:obs:notes:frames:14-14|[14-14]]]** Lakay unayen ni Moses isua pinili ti Dios ni **Joshua**  tapno tumulung kenkuana a mangidalan kadagiti tattao.
+  * **[[:ilo:obs:notes:frames:14-15|[14-15]]]** Nasayaat a pangulo ni **Joshua ** agsipud ta nagtalek ken nagtulnog isuna iti Dios.
+  * **[[:ilo:obs:notes:frames:15-03|[15-03]]]** Kalpasan a binallasiw dagiti tattao ti karayan Jordan ket imbaga ti Dios kenni **Joshua ** no kasano ti panagdarup da iti nabileg a siudad ti Jerico.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
