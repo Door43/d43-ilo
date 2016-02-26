@@ -19,11 +19,7 @@ The Red Sea is a body of water that separates northern Africa from the Arabian P
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:12-04|[12-04]]]**  When the Israelites saw the Egyptian army coming, they realized they were trapped between Pharaoh's army and the **Red Sea**.
-  ***[[:ilo:obs:notes:frames:12-05|[12-05]]]**  Then God told Moses, "Tell the people to move toward the **Red Sea**."
-  ***[[:ilo:obs:notes:frames:13-01|[13-01]]]**  After God led the Israelites through the **Red Sea**, he led them through the wilderness to a mountain called Sinai.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
-
+  * **[[:ilo:obs:notes:frames:12-04|[12-04]]]** Idi nakitan dagiti Israelita dagiti suldado ti Egypt a paumay ket naamiris da a nakubong da kadagiti suldado ni Pharaoh ken iti **Nalabbaga a Baybay**.
+  * **[[:ilo:obs:notes:frames:12-05|[12-05]]]** Ket kinuna ti Dios kenni Moses, “Ibagam kadagiti tattao nga umasideg da idiay **Nalabbaga a Baybay**."
+  * **[[:ilo:obs:notes:frames:13-01|[13-01]]]** Kalpasan iti panangiballasiw ti Dios dagiti Israelita manipud iti **Nalabbaga a Bayba**y ket inturong na ida idiay kabakbakiran agingga iti bantay a maaw-awagan a Sinaii.
+~~DISCUSSION~~{{tag>publish ktobs}}
