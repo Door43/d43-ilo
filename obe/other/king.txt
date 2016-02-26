@@ -19,17 +19,12 @@ A king is the ruler of an independent city, state, or country.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:08-06|[08-06]]]**  One night, the Pharaoh, which is what the Egyptians called their kings, had two dreams that disturbed him greatly.
-  ***[[:ilo:obs:notes:frames:16-01|[16-01]]]**  The Israelites had no **king**, so everyone did what they thought was right for them.
-  ***[[:ilo:obs:notes:frames:16-18|[16-18]]]**  Finally, the people asked God for a **king** like all the other nations had.
-  ***[[:ilo:obs:notes:frames:17-05|[17-05]]]**  Eventually, Saul died in battle, and David became **king** of Israel. He was a good **king**, and the people loved him.
-  ***[[:ilo:obs:notes:frames:21-06|[21-06]]]**  God's prophets also said that the Messiah would be a prophet, a priest, and a **king**.
-  ***[[:ilo:obs:notes:frames:48-14|[48-14]]]**  David was the **king** of Israel, but Jesus is the **king** of the entire universe! 
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:08-06|[08-06]]]** Iti maysa a rabii ket namindua a nagtagtagainep ti Pharaoh (nga isu ti awawagan dagiti taga Egypt nga **ari**) a nangteg iti permi a riribuk kanyana.
+  * **[[:ilo:obs:notes:frames:16-01|[16-01]]]** Awan idi ti** ari**  dagiti Israelita isunga inaramid ti tunggal maysa ti ipagarup da a nasayaat para kadakuada.
+  * **[[:ilo:obs:notes:frames:16-18|[16-18]]]** Awan idi ti **ari**  dagiti Israelita isunga inaramid ti tunggal maysa ti ipagarup da a nasayaat para kadakuada.
+  * **[[:ilo:obs:notes:frames:17-05|[17-05]]]** Dimteng ti ipapatay ni Saul iti gubatan ket nagbalin nga **ari**  ni David ti Israel. Nasayaat nga **ari**  ni David ken ayayaten dagiti tattao.
+  * **[[:ilo:obs:notes:frames:21-06|[21-06]]]** Imbaga met dagiti mammadto ti Dios a ti Messiah ket maysanto a mammadto ken padi ken **ari**.
+  * **[[:ilo:obs:notes:frames:48-14|[48-14]]]** Ni David ket **ari**  ti Israel ngem ni Jesus ket **Ari ** iti intero a sangaparsuaan!
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
