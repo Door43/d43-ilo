@@ -1,18 +1,17 @@
 ====== Moses======
 
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-Moses was a prophet and leader of the Israelite people for over 40 years.  
+Ni Moses ket maysa a mammadtu ken panguloen dagiti Israelita ti agarup uppat-apulo a tawen.
 
-    * God chose Moses to free the Israelites from slavery in Egypt and lead them to the Promised Land.
-    * God gave Moses the stone tablets with his commandments for the Israelite people.
-    * Near the end of his life, Moses disobeyed God so he didn't get to live in the Promised Land of Canaan.
+  * Pinili ti Dios ni Moses tapno mayawayaan dagiti Israelita manipud panangtagabo idiay Egypt nga agturong idiay Daga a Naikari.
+  * Innikan ti Dios ni Moses ti dua a bato nga nakaikabilan ti bilbilin para kadagiti Israelita.
+  * Sinukir ni Moses ti Dios idi adanin ti ipapatay na isu nga saan na a nadanon ti Daga a Naikari.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
+(Singasing kadagiti Panagpataros:: [[:ilo:ta:vol1:translate:translate_names|Ipataros ti Nagnagan]])
 
-(See also: [[egypt]], [[ilo:obe:kt:promisedland]])
-
+(Kitaen met: [[:ilo:obe:other:egypt|Egypt, Taga-Egypt]], [[:ilo:obe:kt:promisedland|Daga a Naikari]])
 
 ===== Bible References: =====
 
