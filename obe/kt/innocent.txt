@@ -24,9 +24,9 @@ The term "innocent" means to not be guilty of a crime or other wrongdoing that a
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:08-06|[08-06]]]** After two years, Joseph was still in prison, even though he was **innocent**.
-  * **[[:ilo:obs:notes:frames:40-04|[40-04]]]** One of them mocked Jesus, but the other said, "Do you have no fear of God? We are guilty, but this man is **innocent**."
-  * **[[:ilo:obs:notes:frames:40-08|[40-08]]]** When the soldier guarding Jesus saw everything that happened, he said, "Certainly, this man was **innocent**. He was the Son of God."
+  * **[[:ilo:obs:notes:frames:08-06|[08-06]]]** Kalpasan iti dua a tawen ket adda latta idiay pagbaludan ni Joseph uray nu **awan basol na**.
+  * **[[:ilo:obs:notes:frames:40-04|[40-04]]]** Inuyaw isuna ti maysa kadagiti agtatakaw ngem kinuna diay maysa, “Awan kadi ti panagbuteng mo iti Dios? Adda nagbasolan ta ngem **inosente**  daytoy a tao."
+  * **[[:ilo:obs:notes:frames:40-08|[40-08]]]** Idi nakita ti suldado nga agbanbantay kenni Jesus dagiti amin a napasamak ket kinunana, “Pudno nga daytoy a tao ket** inosente**."
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
