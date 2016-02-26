@@ -21,5 +21,5 @@ The Red Sea is a body of water that separates northern Africa from the Arabian P
 
   * **[[:ilo:obs:notes:frames:12-04|[12-04]]]** Idi nakitan dagiti Israelita dagiti suldado ti Egypt a paumay ket naamiris da a nakubong da kadagiti suldado ni Pharaoh ken iti **Nalabbaga a Baybay**.
   * **[[:ilo:obs:notes:frames:12-05|[12-05]]]** Ket kinuna ti Dios kenni Moses, “Ibagam kadagiti tattao nga umasideg da idiay **Nalabbaga a Baybay**."
-  * **[[:ilo:obs:notes:frames:13-01|[13-01]]]** Kalpasan iti panangiballasiw ti Dios dagiti Israelita manipud iti **Nalabbaga a Bayba**y ket inturong na ida idiay kabakbakiran agingga iti bantay a maaw-awagan a Sinaii.
+  * **[[:ilo:obs:notes:frames:13-01|[13-01]]]** Kalpasan iti panangiballasiw ti Dios dagiti Israelita manipud iti **Nalabbaga a Bayba**y ket inturong na ida idiay kabakbakiran agingga iti bantay a maaw-awagan a Sinai.
 ~~DISCUSSION~~{{tag>publish ktobs}}
