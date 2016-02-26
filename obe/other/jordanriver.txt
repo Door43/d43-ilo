@@ -20,13 +20,9 @@ The Jordan River is a river that flows from north to south, and forms the easter
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:15-02|[15-02]]]** The Israelites had to cross the **Jordan River** to enter into the Promised Land. 
-  ***[[:ilo:obs:notes:frames:15-03|[15-03]]]** After the people crossed the **Jordan River**, God told Joshua how to attack the powerful city of Jericho. 
-  ***[[:ilo:obs:notes:frames:19-14|[19-14]]]** Elisha told him (Naaman) to dip himself seven times in the **Jordan River**. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:15-02|[15-02]]]** Masapul a ballasiwen dagiti Israelita ti **karayan Jordan**  tapno makastrek da iti Naikari a Daga.
+  * **[[:ilo:obs:notes:frames:15-03|[15-03]]]** Kalpasan a binallasiw dagiti tattao ti** karayan Jordan**  ket imbaga ti Dios kenni Joshua no kasano ti panagdarup da iti nabileg a siudad ti Jerico.
+  * **[[:ilo:obs:notes:frames:19-14|[19-14]]]** Binilin ni Elisha ni Naaman nga apan na itapug ti bagi na idiay **karayan ti Jordan**  iti mamin pitu a daras. .
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
