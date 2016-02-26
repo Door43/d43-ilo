@@ -17,13 +17,9 @@ Gibeon was a city and a region in the land of Canaan where the Gibeonites lived.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:15-06|[15-06]]]** But one of the Canaanite people groups, called the **Gibeonites**, lied to Joshua and said they were from a place far from Canaan.  
-  ***[[:ilo:obs:notes:frames:15-07|[15-07]]]** Sometime later, the kings of another people group in Canaan, the Amorites, heard that the **Gibeonites** had made a peace treaty with the Israelites, so they combined their armies into one large army and attacked **Gibeon**.  
-  ***[[:ilo:obs:notes:frames:15-08|[15-08]]]** So Joshua gathered the Israelite army and they marched all night to reach the **Gibeonites**. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:15-06|[15-06]]]** Ngem nagulbod kenni Joshua ti maysa a tribu ti Canaan a maaw-awagan a **Gibeonita**. Imbaga da a naggapu da iti lugar nga adayu manipud idiay Canaan.
+  * **[[:ilo:obs:notes:frames:15-07|[15-07]]]** Kalpasan ti sumagmamano a tiempo ket nadamag dagiti ari dagiti dadduma a tribu ti Canaan kas iti Amorita a nangaramid dagiti Gibeonita iti katulagan a pannakikapya kadagiti Israelita. Isua pinagmaymaysa da dagiti suldado da tapno darupen da dagiti Gibeonita. Ngem nangipatulod dagiti Gibeonita iti mensahe kenni Joshua tapno dumawat da iti tulong.
+  * **[[:ilo:obs:notes:frames:15-08|[15-08]]]** Isunga inurnung ni Joshua dagiti suldado ti Israel ket nagmartsa da iti nagpatnag tapno madanun da dagiti **Gibeonita**.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
