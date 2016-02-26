@@ -18,12 +18,9 @@ God told Moses many commands that He wanted the Israelites to obey. He wrote ten
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:13-07|[13-07]]]**  Then God wrote these **Ten Commandments** on two stone tablets and gave them to Moses.
-  ***[[:ilo:obs:notes:frames:13-13|[13-13]]]**  When Moses came down the mountain and saw the idol, he was so angry that he smashed the stones on which God had written the **Ten Commandments**. 
-  ***[[:ilo:obs:notes:frames:13-15|[13-15]]]**  Moses wrote the **Ten Commandments** on new stone tablets to replace the ones he had broken.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:13-07|[13-07]]]** Santo insurat ti Dios dagitoy a **Sangapulo a Bilin**  iti dua a pisi ti bato ken inted na daytoy kenni Moses.
+  * **[[:ilo:obs:notes:frames:13-13|[13-13]]]** Idi bimmaba ni Moses manipud idiay bantay ket nakita na diay didiosen ket nakaunget isuna ket binurak na dagiti bato a nangisuratan ti Dios kadagiti **Sangapulo a Bilin**.
+  * **[[:ilo:obs:notes:frames:13-15|[13-15]]]** Nagaramid manen ni Moses iti baru a pisi ti bato a pangisuratan na kadagiti Sangapulo a Bilin kas sukat diay binurak na.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
