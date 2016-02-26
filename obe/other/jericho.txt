@@ -17,13 +17,9 @@ Jericho was a powerful city in the Promised Land of Canaan.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:15-01|[15-01]]]** Joshua sent two spies to the Canaanite city of **Jericho**.
-  ***[[:ilo:obs:notes:frames:15-03|[15-03]]]** After the people crossed the Jordan River, God told Joshua how to attack the powerful city of **Jericho**.
-  ***[[:ilo:obs:notes:frames:15-05|[15-05]]]** Then the walls around **Jericho** fell down! The Israelites destroyed everything in the city as God had commanded.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:15-01|[15-01]]]** Nangibaon ni Joshua iti dua nga espiya idiay **Jerico ** a siudad ti Canaan a nalikmutan iti natibker a pader.
+  * **[[:ilo:obs:notes:frames:15-03|[15-03]]]** Kalpasan a binallasiw dagiti tattao ti karayan Jordan ket imbaga ti Dios kenni Joshua no kasano ti panagdarup da iti nabileg a siudad ti **Jerico**.
+  * **[[:ilo:obs:notes:frames:15-05|[15-05]]]** Natibbag dagiti pader a nakapalawlaw iti **Jerico**. Dinadael dagiti Israelita dagiti amin nga adda iti siudad kas imbilin ti Dios.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
