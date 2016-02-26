@@ -17,17 +17,13 @@ To pray is to talk to God.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:06-05|[06-05]]]**  Isaac **prayed** for Rebekah, and God allowed her to get pregnant with twins.
-  ***[[:ilo:obs:notes:frames:13-12|[13-12]]]**  But Moses **prayed** for them, and God listened to his **prayer** and did not destroy them.
-  ***[[:ilo:obs:notes:frames:19-08|[19-08]]]**  Then the prophets of Baal **prayed** to Baal, "Hear us, O Baal!"
-  ***[[:ilo:obs:notes:frames:21-07|[21-07]]]**  Priests also **prayed** to God for the people.
-  ***[[:ilo:obs:notes:frames:38-11|[38-11]]]**  Jesus told his disciples to **pray** that they would not enter into temptation.
-  ***[[:ilo:obs:notes:frames:43-13|[43-13]]]** The disciples continually listened to the teaching of the apostles, spent time together, ate together, and **prayed** with each other.
-  ***[[:ilo:obs:notes:frames:49-18|[49-18]]]**  God tells you to **pray**, to study his word, to worship him with other Christians, and to tell others what he has done for you. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:06-05|[06-05]]]****Inkararagan**  ni Isaac ni Rebekah ken pinalubusan ti Dios a nagsikog iti singin.
+  * **[[:ilo:obs:notes:frames:13-12|[13-12]]]** Ngem **nagkararag**  ni Moses para kadakuada ket dinengngeg ti Dios ti **kararag**  na ket saan na a dadaelen dagitoy..
+  * **[[:ilo:obs:notes:frames:19-08|[19-08]]]** Idin **nagkararag**  dagiti mammadto kenni Baal a kinunada, “Dinggen na kami Baal!"
+  * **[[:ilo:obs:notes:frames:21-07|[21-07]]]****Agkarkararag**  met dagiti papadi a para kadagiti tattao.
+  * **[[:ilo:obs:notes:frames:38-11|[38-11]]]** Imbaga ni Jesus kadagiti adalan na nga **agkararag**  da tapno saan da a masulisog.  .
+  * **[[:ilo:obs:notes:frames:43-13|[43-13]]]** Nagtultuloy dagiti adalan a dimdimngeg kadagiti sursuro dagiti apostol, inusar da ti tiempo da makapagtitipon da. Agkakadua da met a nangnangan ken **nagkarkararag**.
+  * **[[:ilo:obs:notes:frames:49-18|[49-18]]]** Imbaga ti Dios nga **agkararag**  ka ken adalem ti sao na ken dayawen isuna a kadwam dagiti dadduma a Kristiano. Imbaga na pay nga ibingay mo kadagiti sabali a tattao ti inaramid na kenka.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
