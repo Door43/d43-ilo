@@ -25,19 +25,15 @@ The high priest was the leader over all of Israel's priests.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:13-08|[13-08]]]** No one could enter the room behind the curtain except the **high priest**, because God lived there.
-  ***[[:ilo:obs:notes:frames:21-07|[21-07]]]** The Messiah who would come would be the perfect **high priest** who would offer himself as a perfect sacrifice to God.
-  ***[[:ilo:obs:notes:frames:38-03|[38-03]]]** The Jewish leaders, led by the **high priest**, paid Judas thirty silver coins to betray Jesus.
-  ***[[:ilo:obs:notes:frames:39-01|[39-01]]]** The soldiers led Jesus to the house of the **high priest** in order for the **high priest** to question him. 
-  ***[[:ilo:obs:notes:frames:39-03|[39-03]]]** Finally, the **high priest** looked directly at Jesus and said, "Tell us, are you the Messiah, the Son of the living God?"
-  ***[[:ilo:obs:notes:frames:44-07|[44-07]]]** The next day, the Jewish leaders brought Peter and John to the **high priest** and the other religious leaders.
-  ***[[:ilo:obs:notes:frames:45-02|[45-02]]]** So the religious leaders arrested Stephen and brought him to the **high priest** and the other leaders of the Jews, where more false witnesses lied about Stephen.
-  ***[[:ilo:obs:notes:frames:46-01|[46-01]]]** The **high priest** gave Saul permission to go to the city of Damascus to arrest Christians there and bring them back to Jerusalem.
-  ***[[:ilo:obs:notes:frames:48-06|[48-06]]]** Jesus is the Great **High Priest**. Unlike other priests, he offered himself as the only sacrifice that could to take away the sin of all the people in the world. Jesus was the perfect **high priest** because he took the punishment for every sin that anyone has ever committed.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:13-08|[13-08]]]** Ti laeng **nangato a padi**  ti mabalin a sumrek idiay kwarto nga adda iti likodan ti kurtina agsipud ta daytoy ti ayan ti presensya ti Dios.
+  * **[[:ilo:obs:notes:frames:21-07|[21-07]]]** Ti Messiah ti agbalinto a naan-anay a **kangatoan a padi**  a mangidaton iti bukod na a bagi kas naan-anay a daton iti Dios.
+  * **[[:ilo:obs:notes:frames:38-03|[38-03]]]** Iti panangidaulo ti **kangatoan a padi**  ket binayadan dagiti panguloen a Judio ni Judas iti tallo pulo a pirak tapno liputan na ni Jesus
+  * **[[:ilo:obs:notes:frames:39-01|[39-01]]]** Katengngaanen ti rabii idi inyapan dagiti suldado ni Jesus idiay balay ti **kangatoan a padi**  tapno mausig isuna.
+  * **[[:ilo:obs:notes:frames:39-03|[39-03]]]** Kamauddianan na, diretso a kimmita ti **kangatoan a padi**  kenni Jesus ket kinunana, “Ibagam man nu siasinoka? Sika kadi ti Messiah nga Anak ti sibibiag a Dios?"
+  * **[[:ilo:obs:notes:frames:44-07|[44-07]]]** Iti sumaruno nga aldaw, impan dagiti panguloen dagiti Judio da Peter kenni John iti **kangatoan a padi**  ken kadagiti panguloen ti relihiyon.
+  * **[[:ilo:obs:notes:frames:45-02|[45-02]]]** Daytoy ti rason nu apay a tiniliw da ni Stephen ket inyapanda iti **kangangatoan a padi**  ken kadagiti dadduma pay a panguloen dagiti Judio. Sadiay manen dagiti ad-adu palso a saksi a nagulbod maipapan kenni Stephen.
+  * **[[:ilo:obs:notes:frames:46-01|[46-01]]]** Inikkan isuna ti **kangatoan a padi**  iti pammalubos a mapan idiay Damascus tapno tiliwenna dagiti amin a kristiano sadiay ken isubli na ida idiay Jerusalem..
+  * **[[:ilo:obs:notes:frames:48-06|[48-06]]]** Ni Jesus ti Natan-ok a **Kangatoan a Padi**. Saan isuna a kas kadagiti dadduma a papadi agsipud ta indaton na ti bukod na a bagi kas kakaisuna a daton a mangikkat kadagiti basbasol dagiti amin a tattao ditoy lubong. Ni Jesus ti naan-anay a **kangatoan a padi**  gapo ta inaklunna ti dusa para iti tunggal basol nga inaramid ti tunggal maysa. .
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
