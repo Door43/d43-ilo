@@ -11,15 +11,14 @@ Ti didiosen ket banag nga daydayawen dagiti tattao imbes nga ti pudno a Dios.
   * Ni Baal,Dagon, kenni Molech ket tallo kadagiti didiosen nga pagrukrukbaban dagiti tattao idi.
   * Mainayon kadagiti pagrukrukbaban dagiti tattao idi panawen ti Bibliya da Asherah ken Artemis (wenno Diana)
 
-===== Translation Suggestions: =====
+===== Singasing kadagiti Panagpataros: =====
 
-  * There may already be a word for "god" or "false god" in the language or in a nearby language.
-  * The term "idol" could be used to refer to false gods.
-  * In English, a small “g” is used to refer to false gods and large “G” is used to refer to the one true God. Other languages also do that.
-  * Another option would be to use a different word to refer to the false gods.
-  * Some languages may add a word to specify whether the false god is described as male or female.
+  * Mabalin nga addan ti sabali a sao para ti "didiosen" iti sabali pay a pagsasao.
+  * Ti "rebulto" ket mabalin nga aramatin para ti didiosen.
+  * Iti Ilocano, ti bassit nga "d" maaramat nu didiosen ken ti dakkel a "D" para ti pudno a Dios. Ti sabali a pagsasao ket kasjay da met.
+  * Iti sabali a pagsasao agnayon da ti sabali a pagsasao tapno mabigbig ti didiosen nu lalaki wenno babai.
 
-(See also: [[:ilo:obe:kt:god]], [[:En:obe:other:asherah]], [[:ilo:obe:other:baal]], [[:En:obe:other:molech]], [[:ilo:obe:other:idol]], [[:ilo:obe:kt:demon]], [[:En:obe:other:image]])
+(Kitaen met: [[:ilo:obe:kt:god|Dios]], [[:ilo:obe:other:baal|Asheraha, Baal]], [[:en:obe:other:molech|Molech, Molech]], [[:ilo:obe:other:idol|rebulto, panagrukbab kadagiti rebulto]], [[:ilo:obe:kt:demon|demonyo, dakes nga ispiritu, narugit nga ispiritu]], [[:en:obe:other:image|ladawan]])
 
 ===== Bible References: =====
 
