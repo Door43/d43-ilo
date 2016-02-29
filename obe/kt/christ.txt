@@ -22,6 +22,8 @@ Ti sao "Messiah" naggapu iti sao a Hebrew ken nausar iti Daan a Tulag.Ti sao "Ch
 
 (Kitaen pay: [[:ilo:obe:kt:sonofgod|Anak ti Dios,  ti Anak]], [[:ilo:obe:other:david|David]], [[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:en:obe:kt:anoint|napulutan]])
 
+~~COMPLEX_TABLES~~
+
 ===== Bible References: =====
 
 {{topic>:en:bible?christ&nocomments}}
