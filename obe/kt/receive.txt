@@ -22,9 +22,9 @@ The term "receive" generally means to accept something that is given, offered, o
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:21-13|[21-13]]]** The prophets also said that the Messiah would be perfect, having no sin. He would die to **receive**  the punishment for other people's sin. His punishment would bring peace between God and people.
-  * **[[:ilo:obs:notes:frames:45-05|[45-05]]]** As Stephen was dying, he cried out, "Jesus, **receive**  my spirit."
-  * **[[:ilo:obs:notes:frames:49-06|[49-06]]]** He (Jesus) taught that some people will receive him and be saved, but other will not.
-  * **[[:ilo:obs:notes:frames:49-10|[49-10]]]** When Jesus died on the cross, he **received**  your punishment.
-  * **[[:ilo:obs:notes:frames:49-13|[49-13]]]** God will save everyone who believes in Jesus and **receives**  him as their Master.
+  * **[[:ilo:obs:notes:frames:21-13|[21-13]]]** Imbaga met dagiti mammadto a naan-anay nga awan basol ti Messiah. Matayto isuna tapno **awaten**  na ti dusa dagiti basbasol dagiti tattao. Ti pannakadusa na ti mangyeg iti kapya iti nagbaetan ti Dios ken dagiti tattao.
+  * **[[:ilo:obs:notes:frames:45-05|[45-05]]]** Idi matmatayen ni Stephen ket nagpukkaw a kinunana, “Jesus, **awatemon**  daytoy Espirituk."
+  * **[[:ilo:obs:notes:frames:49-06|[49-06]]]** Insuro ni Jesus a maisalakanto dagiti dadduma a **mangawat ** wenno mamati a tattao kenkuana ngem dagiti madi ket saan.
+  * **[[:ilo:obs:notes:frames:49-10|[49-10]]]****Inawat**  ni Jesus ti dusam idi natay isuna idiay krus.
+  * **[[:ilo:obs:notes:frames:49-13|[49-13]]]** Isalakan ti Dios ti siasinoman a mamati ken **mangawat ** kenni Jesus kas Apo na.
 ~~DISCUSSION~~{{tag>publish ktobs}}
