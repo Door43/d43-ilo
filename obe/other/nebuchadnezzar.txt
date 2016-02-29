@@ -20,15 +20,10 @@ Nebuchadnezzar was a king of the Babylonian Empire. This was a powerful empire d
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:20-06|[20-06]]]** About 100 years after the Assyrians destroyed the kingdom of Israel, God sent **Nebuchadnezzar**, king of the Babylonians, to attack the kingdom of Judah.
-  ***[[:ilo:obs:notes:frames:20-06|[20-06]]]** The king of Judah agreed to be **Nebuchadnezzar's** servant and pay him a lot of money every year.
-  ***[[:ilo:obs:notes:frames:20-08|[20-08]]]**  To punish the king of Judah for rebelling, **Nebuchadnezzar's** soldiers killed the king's sons in front of him and then made him blind.
-  ***[[:ilo:obs:notes:frames:20-09|[20-09]]]** **Nebuchadnezzar** and his army took almost all of the people of the kingdom of Judah to Babylon, leaving only the poorest people behind to plant the fields.
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:20-06|[20-06]]]** Agarup sanga gasut a tawen kalpasan a dinadael dagiti taga Assyria ti pagarian ti Israel ket imbaun ti Dios ni **Nebuchadnezzar ** nga ari dagiti taga Babylonia tapno rauten da ti pagarian ti Judah.
+  * **[[:ilo:obs:notes:frames:20-06|[20-06]]]** Immanogot ti ari ti Judah nga agbalin nga adipen ni **Nebuchadnezzar**  ken tinawen nagbaybayad kenkuana iti adu a kuwarta.
+  * **[[:ilo:obs:notes:frames:20-08|[20-08]]]** Tapno madusa ti ari ti Judah iti panagrebelde na ket pinatay dagiti suldado ni** Nebuchadnezzar**  dagiti anak ti ari iti sanguanan na ken binolsek da isuna.
+  * **[[:ilo:obs:notes:frames:20-09|[20-09]]]** Nganngani inala ni Nebuchadnezzar dagiti amin a tattao ti pagarian ti Judah idiay Babylon. Imbati da laeng dagiti napapanglaw a tattao tapno agmula da kadagiti taltalun.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
