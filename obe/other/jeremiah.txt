@@ -1,17 +1,16 @@
 ====== Jeremiah ======
 
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-Jeremiah was a prophet of God in the kingdom of Judah.
+Jeremiah ket mammadto ti Dios iddiay pagaryan ti Judah.
 
-  * Like most of the prophets, Jeremiah often had to warn the people that God was going to punish them for their sins.
-  * Jeremiah prophesied that the Babylonians would capture Jerusalem, which made some of the people of Judah angry. So they put him in a dry well and left him there to die. But the king of Judah ordered his servants to rescue Jeremiah from the well.
+  * Kasla kadagiti mammadto,ni Jeremiah ti masansan a mangbalballaag kadagiti tattao a dusaen ida ti Dios gapu kadagiti basbasolda.
+  * Ni Jeremiah ti nangipadto a kasakupen ti Jerusalem ti Babylonians, a isu ti nangigapuan dagiti tattao ti Judah nga agpungtot. Isu a impisuk da iti namaga a bubun ta didiay a matay. Ngem ti ari ti Judah binagaanna dagiti agserserbi kenkuana  a iyaun da ni Jeremiah manipud bubun.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
+(Singasing Kadagiti Panagpataros: [[:ilo:ta:vol1:translate:translate_names|Ipataros dagiti nagnagan]])
 
-(See also: [[ilo:obe:kt:prophet]], [[kingdomofjudah]], [[babylon]])
-
+(See also: [[:ilo:obe:kt:prophet|mammadto, padto]], [[:ilo:obe:other:kingdomofjudah|Judah,pagaryan ti Judah]], [[:ilo:obe:other:babylon|Babylon, Babylonian]])
 
 ===== Bible References: =====
 
