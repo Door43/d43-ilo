@@ -18,9 +18,8 @@ Bethlehem was a small city in the land of Israel, near the city of Jerusalem. It
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:17-02|[17-02]]]** David was a shepherd from the town of **Bethlehem**.
-  ***[[:ilo:obs:notes:frames:21-09|[21-09]]]** The prophet Isaiah prophesied that the Messiah would be born from a virgin. The prophet Micah said that he would be born in the town of **Bethlehem**.
-  ***[[:ilo:obs:notes:frames:23-04|[23-04]]]** Joseph and Mary had to make a long journey from where they lived in Nazareth to **Bethlehem** because their ancestor was David whose hometown was **Bethlehem**.
-  ***[[:ilo:obs:notes:frames:23-06|[23-06]]]** "The Messiah, the Master, has been born in **Bethlehem**!"
-
+  * **[[:ilo:obs:notes:frames:17-02|[17-02]]]** Ni David ket maysa nga agipaspastor ti karnero a taga **Bethlehem**.
+  * **[[:ilo:obs:notes:frames:21-09|[21-09]]]** Impadto met ni mammadto nga Isaiah a maiyanakto ti Messiah babaen iti maysa a birhen. Imbaga met ni mammadto a Micah a maiyanakto ti Messiah iti ili ti **Bethlehem**.
+  * **[[:ilo:obs:notes:frames:23-04|[23-04]]]** Nagdalyasat ngarud da Joseph ken Maria manipud iti pagnanaedan da idiay Nazareth a napan idiay **Bethlehem**  agsipud ta ditoy ti ili ni David a kapuonan da.
+  * **[[:ilo:obs:notes:frames:23-06|[23-06]]]**" Ti Messiah ket ti Apu ket naipasngayen idiay **Betlehem**!"
 ~~DISCUSSION~~{{tag>publish ktobs}}
