@@ -11,16 +11,16 @@ Ti sao "Messiah" naggapu iti sao a Hebrew ken nausar iti Daan a Tulag.Ti sao "Ch
   * Ti "Christ" ket nu maminsan maaramat a kas titulo kas koma "ni Christ"ken "Christ Jesus"
   * Ti "Christ" nu maminsan ket maaramat a kas nagan,kas koma "Jesus Christ".
 
-===== Translation Suggestions: =====
+===== Singasing Kadagiti Panagpatarus: =====
 
-  * This term could be translated using its meaning, "the Anointed One" or "God's Anointed Savior."
-  * Or a borrowed word that looks or sounds like "Christ" or "Messiah" could be used. (See: tA How to Translate Unknowns)
-  * The borrowed word could be followed by the definition of the term as in, "Christ, 'the Anointed One'.".
-  * Be consistent in how this is translated throughout the Bible so that it is clear that the same term is being referred to.
+  * Daytoy a sao ket mbalin nga maipatarus babaen ti panangusar ti kayat na saoen,"ti Napulutan"wennu,"ti pinulutan ti Dios"
+  * Wennu ti nabulod a sao nga kasla koma,"Christ",wennu ,"Messiah"ket mabalin nga usaren.
+  * Ti nabulod a sao ket mabalin a sarunwen ti kayat na a saoen ti sao kas ,"Christ",ti Napulutan".
+  * Pagtalinaed nu kasanu nga naipatarus babaen ti sasao ti Dios tapnu nalawag dagiti balikas a kayat nga iparang.
 
-(See: [[ilo:ta:vol1:translate:translate_names|How to Translate Names]])
+(Kitaen: [[:ilo:ta:vol1:translate:translate_names|kasanu nga ipatarus ti nagan]])
 
-(See also: [[:ilo:obe:kt:sonofgod]], [[:ilo:obe:other:david]], [[:ilo:obe:kt:jesus]], [[:En:obe:kt:anoint]])
+(Kitaen pay: [[:ilo:obe:kt:sonofgod|Anak ti Dios,  ti Anak]], [[:ilo:obe:other:david|David]], [[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:en:obe:kt:anoint|napulutan]])
 
 ===== Bible References: =====
 
