@@ -22,13 +22,10 @@ Zechariah was a Jewish priest who became the father of John the Baptist.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:22-01|[22-01]]]** Suddenly an angel came with a message from God to an old priest named **Zechariah**. **Zechariah** and his wife, Elizabeth, were godly people, but she had not been able to have any children.
-  ***[[:ilo:obs:notes:frames:22-02|[22-02]]]** The angel said to **Zechariah**, "Your wife will have a son. You will name him John."
-  ***[[:ilo:obs:notes:frames:22-03|[22-03]]]** Immediately, **Zechariah** was unable to speak.
-  ***[[:ilo:obs:notes:frames:22-07|[22-07]]]** Then God allowed **Zechariah** to speak again.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:22-01|[22-01]]]** Nomampay kasta ket adda anghel a napan nangited iti mensahe a naggapo iti Dios iti maysa a lumakay a padi nga agnagan iti **Zechariah**. Nadiosan da **Zechariah**  ken ti asawa na a ni Elizabeth ngem awanan da iti anak.
+  * **[[:ilo:obs:notes:frames:22-02|[22-02]]]** Kinuna ti anghel kenni **Zechariah**, “Maaddaanto ti asawam iti anak a lalaki ket panaganamto daytoy iti Juan."
+  * **[[:ilo:obs:notes:frames:22-03|[22-03]]]** Ket kellaat a saan metten a makasao ni **Zechariah**  ken pinanawanen ti anghel isuna.
+  * **[[:ilo:obs:notes:frames:22-07|[22-07]]]** Kalpasan daytoy pinalubusan ti Dios ni** Zechariah**  a makasao manen.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
