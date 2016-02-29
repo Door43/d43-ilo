@@ -20,11 +20,8 @@ Uriah was a righteous man and one of King David's best soldiers.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:17-12|[17-12]]]** Bathsheba's husband, a man named **Uriah**, was one of David's best soldiers. David called **Uriah** back from the battle and told him to go be with his wife. But **Uriah** refused to go home while the rest of the soldiers were in battle. So David sent **Uriah** back to the battle and told the general to place him where the enemy was strongest so that he would be killed.
-  ***[[:ilo:obs:notes:frames:17-13|[17-13]]]** After **Uriah** was killed, David married Bathsheba.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:17-12|[17-12]]]** Agnagan ti **Uriah**  ti asawa ni Bathsheba. Isu ti maysa a kalaingan kadagiti suldado ni David. Pinaayab ni David ni Uriah manipud paggubatan ket imbaga na nga agawid tapno kaeddaen na ti asawa na. Ngem saan a kayat ni **Uriah**  nga agawid kabayatana a dagiti kakadwa na a suldado ket makigubgubat. Isua pinagsubli ni David ni **Uriah**  iti paggugubatan ket imbilin na iti heneral nga ipwesto na isuna idiay sangwanan iti kapigpigsaan kadagiti kabusor tapnon mapapatay isuna.
+  * **[[:ilo:obs:notes:frames:17-13|[17-13]]]** Kalpasan ti ipapatay ni **Uriah**  ket inasawa ni David ni Bathsheba.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
