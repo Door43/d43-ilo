@@ -21,18 +21,14 @@ To heal is to cause a person's wounds, disease, or disability (such as blindness
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:19-14|[19-14]]]** One of the miracles happened to Naaman, an enemy commander, who had a horrible skin disease. He had heard of Elisha so he went and asked Elisha to **heal** him.
-  ***[[:ilo:obs:notes:frames:21-10|[21-10]]]** He (Isaiah) also predicted that the Messiah would **heal** sick people and those who could not hear, see, speak, or walk.
-  ***[[:ilo:obs:notes:frames:26-06|[26-06]]]** Jesus continued saying, "And during the time of the prophet Elisha, there were many people in Israel with skin diseases. But Elisha did not **heal** any of them. He only **healed** the skin disease of Naaman, a commander of Israel's enemies."
-  ***[[:ilo:obs:notes:frames:26-08|[26-08]]]** They brought many people who were sick or handicapped, including those who could not see, walk, hear, or speak, and Jesus **healed** them.
-  ***[[:ilo:obs:notes:frames:32-14|[32-14]]]** She had heard that Jesus had **healed** many sick people and thought, "I'm sure that if I can just touch Jesus' clothes, then I will be **healed**, too!"
-  ***[[:ilo:obs:notes:frames:44-03|[44-03]]]** Immediately, God **healed** the lame man, and he began to walk and jump around, and to praise God.
-  ***[[:ilo:obs:notes:frames:44-08|[44-08]]]** Peter answered them, "This man stands before you **healed** by the power of Jesus the Messiah."
-  ***[[:ilo:obs:notes:frames:49-02|[49-02]]]** ] Jesus did many miracles that prove he is God. He walked on water, calmed storms, **healed** many sick people, drove out demons, raised the dead to life, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:19-14|[19-14]]]** Maysa kadagitoy a milagro ket napasamak kenni Naaman a panguloen dagiti kabusor da. Addaan isuna iti nakaro a sakit iti kudil. Nadamag na ti maipapan ken ni Elisha isua napan tapno kiddawen na nga **agasan**  isuna ni Elisha.
+  * **[[:ilo:obs:notes:frames:21-10|[21-10]]]** Impadto na met nga **agasanto**  ti Messiah dagiti masakit ken dagiti saan a makangngeg, makakita, makasao wenno makapagna..
+  * **[[:ilo:obs:notes:frames:26-06|[26-06]]]** Intuloy ni Jesus ti nagsao ket kinunana, “Kabayatan pay ti panawen ni propeta nga Elisha ket nagadu idi dagiti Israelita nga adda sakit ti kudil na. Ngem awan ti **inagasan**  ni Elisha kadakuada. Ti laeng sakit ti kudil ni Naaman a panguloen dagiti kabusor ti Israel ti **inagasan ** na."
+  * **[[:ilo:obs:notes:frames:26-08|[26-08]]]** Inyeg da dagiti tattao a masakit wenno dagiti addaan iti an-annayen na karamanen dagiti bulsek ket pilay ket tuleng ken umel ket **inagasan**  amin ni Jesus ida
+  * **[[:ilo:obs:notes:frames:32-14|[32-14]]]** She had heard that Jesus had **healed**  many sick people and thought, "I'm sure that if I can just touch Jesus' clothes, then I will be **healed**, too!"
+  * **[[:ilo:obs:notes:frames:44-03|[44-03]]]** Immediately, God **healed**  the lame man, and he began to walk and jump around, and to praise God.
+  * **[[:ilo:obs:notes:frames:44-08|[44-08]]]** Peter answered them, "This man stands before you **healed**  by the power of Jesus the Messiah."
+  * **[[:ilo:obs:notes:frames:49-02|[49-02]]]**] Jesus did many miracles that prove he is God. He walked on water, calmed storms, **healed**  many sick people, drove out demons, raised the dead to life, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
