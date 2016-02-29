@@ -21,12 +21,8 @@ Jeroboam was the first king of the northern kingdom of Israel. He ruled over the
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:18-08|[18-08]]]** The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named **Jeroboam** to be their king.
-  ***[[:ilo:obs:notes:frames:18-09|[18-09]]]** **Jeroboam** rebelled against God and caused the people to sin. He built two idols for his people to worship instead of worshiping God at the Temple in the kingdom of Judah.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:18-08|[18-08]]]** TDinutokan dagiti sangapulo a tribu ti Israel a nagrebelde kenni Rehoboam ti maysa a lalaki nga agnagan iti **Jeroboam**  nga isu ti agbalin nga ari da
+  * **[[:ilo:obs:notes:frames:18-09|[18-09]]]** Nagrebelde ni **Jeroboam**  maibusor iti Dios ken inturong na iti panagbasol dagiti tattao. Nangipatakder isuna iti dua a didiosen tapno daydayawen dagiti tattao imbes a ti Dios koma ti dayawen da idiay templo iti pagarian ti Judah.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
