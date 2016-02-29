@@ -21,11 +21,7 @@ Rehoboam was one of the sons of King Solomon, and became the king of the nation 
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:18-05|[18-05]]]** After Solomon died, his son, **Rehoboam**, became king. **Rehoboam** was a foolish man.
-  ***[[:ilo:obs:notes:frames:18-06|[18-06]]]** **Rehoboam** answered foolishly and told them, "You thought my father Solomon made you work hard, but I will make you work harder than he did, and I will punish you more harshly than he did."
-  ***[[:ilo:obs:notes:frames:18-07|[18-07]]]** Ten of the tribes of the nation of Israel rebelled against **Rehoboam**. Only two tribes remained faithful to him.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
-
+  * **[[:ilo:obs:notes:frames:18-05|[18-05]]]** Kalpasan a natay ni Solomon ket nabalin nga ari ti anak na a ni **Rehoboam**. Ngem maag a tao ni **Rehoboam**.
+  * **[[:ilo:obs:notes:frames:18-06|[18-06]]]** Minamaag a simmungbat ni** Rehoboam**  ket kinuna, “Impagarup yo a pinagtrabaho na kayo ni Solomon nga amak iti naririgat a trabaho ngem pagtrabahuen kayo iti narigrigat pay ngem iti inaramid na ken dusaen kayo iti nakarkaro pay ngem kadagiti inaramid na. "
+  * **[[:ilo:obs:notes:frames:18-07|[18-07]]]** Isua kimmalas ti sangapulo a tribu kenni **Rehoboam**  iti nasyon ti Israel. Dua laeng a tribu iti nagtalinaed a nagtalek kenkuana.
+~~DISCUSSION~~{{tag>publish ktobs}}
