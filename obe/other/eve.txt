@@ -1,18 +1,17 @@
 ====== Eve ======
 
 
-===== Facts: =====
+===== kinapudno: =====
 
-This was the name of the first woman. Her name means "life" or "living."
+Daytoy iti nagan ti imuna a babae.Ti nagan na ket addaan kaipapanan "biag"wennu "panagbiag"
 
-    * God personally formed Eve from a rib that he took out of Adam.
-    * Eve was created to be Adam's "helper." She came alongside Adam to assist him in the work that God gave him to do.
-    * Eve was tempted by the snake (Satan) and was the first to sin by eating the fruit that God said not to eat.
+  * Ti Dios pinorma na ni Eve manipud iti paragpag ni Adam.
+  * Ni Eve naaramid tapnu agbalin a "katulungan" ni Adam.Agbalin a kadkadwa ni Adam nga mangaramid ti inpatrabaho ti Dios.
+  * Ni eve ket sinulisog ti uleg(Satan)ken nagbalin ti imuna a basol babaen ti pinangan da ti bunga nga inbilin ti Dios a saan da a kanen.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
+(Singasing Kadagiti Panagpatarus: [[:ilo:ta:vol1:translate:translate_names|Panangipatarus ti Nagan]])
 
-(See also: [[adam]])
-
+(Kitaen met: [[:ilo:obe:other:adam|Adam]])
 
 ===== Bible References: =====
 
