@@ -22,11 +22,11 @@ A teacher is a person who instructs other people. Teachers help others to obtain
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "**Teacher**, what must I do to inherit eternal life?"
-  * **[[:ilo:obs:notes:frames:28-01|[28-01]]]** One day a rich young ruler came up to Jesus and asked him, "Good **Teacher**, what must I do to have eternal life?"
-  * **[[:ilo:obs:notes:frames:37-02|[37-02]]]** After the two days had passed, Jesus said to his disciples, "Let's go back to Judea." "But **Teacher**," the disciples answered, "Just a short time ago the people there wanted to kill you!"
-  * **[[:ilo:obs:notes:frames:38-14|[38-14]]]** Judas came to Jesus and said, "Greetings, **Teacher**," and kissed him.
-  * **[[:ilo:obs:notes:frames:49-03|[49-03]]]** Jesus was also a great **teacher**, and he spoke with authority because he is the Son of God.
+  * **[[:ilo:obs:notes:frames:27-01|[27-01]]]** Iti maysa nga aldaw ket napan ti maysa a nalaing iti linteg dagiti Judio kenni Jesus tapno suoten na isuna babaen iti maysa a saludsod, “**Maestro**  ket ania ti aramidek tapno magun-od ko ti biag nga agnanayon?”
+  * **[[:ilo:obs:notes:frames:28-01|[28-01]]]** Iti maysa nga aldaw ket adda agkabanwag a nabaknang a panguloen ti napan ken nagsaludsod kenni Jesus. Kinunana, “Naimbag a **maestro**  ket anya kadi ti aramidek tapno magun-od ko ti biag nga agnanayon?"
+  * **[[:ilo:obs:notes:frames:37-02|[37-02]]]** Kalpasan a naglabas ti dua nga aldaw ket kinuna ni Jesus kadagiti adalan na, “Agsubli tayon idiay Judea.” Simmungbat dagiti adalan ket kinunada, “Ngem **Maestro**, katno laeng idi pinanggep daka a papatayen dagiti tattao iti dayta a lugar!”
+  * **[[:ilo:obs:notes:frames:38-14|[38-14]]]** Immasideg ni Judas kenni Jesus ket kinunana, “Kablaawan ka, **Maestro**”, kalpasan inungngoan na ni Jesus.
+  * **[[:ilo:obs:notes:frames:49-03|[49-03]]]** Nalaing pay a **manursuro**  ni Jesus ken nagsao isuna nga addaan iti turay agsipud ta isuna ti Anak ti Dios.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
