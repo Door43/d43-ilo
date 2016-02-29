@@ -19,7 +19,6 @@ A humble person does not think of himself as better than others. He is not proud
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:17-02|[17-02]]]** David was a **humble** and righteous man who trusted and obeyed God.
-  ***[[:ilo:obs:notes:frames:34-10|[34-10]]]** "God will **humble** everyone who is proud, and he will lift up whoever **humbles** himself."
-
+  * **[[:ilo:obs:notes:frames:17-02|[17-02]]]**** Napakumbaba**  ken nalinteg a tao ni David isua nagtalek ken nagtulnog iti Dios.
+  * **[[:ilo:obs:notes:frames:34-10|[34-10]]]**"**Ibabanto**  ti Dios dagiti amin a napalangguad ket ken itag-ay nanto ti siasinoman nga **agpakumbaba**"
 ~~DISCUSSION~~{{tag>publish ktobs}}
