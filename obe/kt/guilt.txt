@@ -20,10 +20,10 @@ The term "guilt" refers to the fact of having sinned or committed a crime.
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:39-02|[39-02]]]** They brought many witnesses who lied about him (Jesus). However, their statements did not agree with each other, so the Jewish leaders could not prove he was **guilty**  of anything.
-  * **[[:ilo:obs:notes:frames:39-11|[39-11]]]** After speaking with Jesus, Pilate went out to the crowd and said, "I find no **guilt**  in this man." But the Jewish leaders and the crowd shouted, "Crucify him!" Pilate replied, "He is not **guilty**." But they shouted even louder. Then Pilate said a third time, "He is not **guilty**!"
-  * **[[:ilo:obs:notes:frames:40-04|[40-04]]]** Jesus was crucified between two robbers. One of them mocked Jesus, but the other said, "Don't you fear God? We are **guilty**, but this man is innocent.
-  * **[[:ilo:obs:notes:frames:49-10|[49-10]]]** Because of your sin, you are **guilty**  and deserve to die.
+  * **[[:ilo:obs:notes:frames:39-02|[39-02]]]** Nangiyeg da kadagiti adu a palso a saksi a nagsao iti ulbod a maipapan kenni Jesus. Numan pay kasta saan da immanamung iti imbagbaga ti tunggal maysa isua saan a mapaneknekan dagiti panguloen a Judio ti ibagbaga da a **nagbasolan**  ni Jesus.
+  * **[[:ilo:obs:notes:frames:39-11|[39-11]]]** Kalpasan a nakisarita kenni Jesus ket rimmuar ni Pilato ket napan kadagiti adu a tattao ket kinunana, “Awan ti makitak a **basol ** daytoy a tao.” Ngem impukkaw dagiti panguloen a Judio ken dagiti tattao, “Ilansam isuna iti krus!” Simmungbat ni Pilato ket kinunana, “Saan a **nagbasol ** daytoy tao!"
+  * **[[:ilo:obs:notes:frames:40-04|[40-04]]]** Nailansa ni Jesus iti nagbaetan ti dua nga agtatakaw. Inuyaw isuna ti maysa kadagiti agtatakaw ngem kinuna diay maysa, “Awan kadi ti panagbuteng mo iti Dios? Adda **nagbasolan**  ta ngem inosente daytoy a tao.
+  * **[[:ilo:obs:notes:frames:49-10|[49-10]]]** Gapo iti basol mo ket nasken ka a matay.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
