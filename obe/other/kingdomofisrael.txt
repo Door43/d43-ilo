@@ -19,16 +19,12 @@ After King Solomon died, the Israelites split into two kingdoms. The kingdom of 
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:18-08|[18-08]]]** The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named Jeroboam to be their king. They set up their kingdom in the northern part of the land and were called the **kingdom of Israel**.
-  ***[[:ilo:obs:notes:frames:18-10|[18-10]]]** The **kingdoms of Judah and Israel** became enemies and often fought against each other.
-  ***[[:ilo:obs:notes:frames:18-11|[18-11]]]** In the new **kingdom of Israel**, all the kings were evil.
-  ***[[:ilo:obs:notes:frames:20-01|[20-01]]]** The **kingdoms of Israel** and Judah both sinned against God.
-  ***[[:ilo:obs:notes:frames:20-02|[20-02]]]** The **kingdom of Israel** was destroyed by the Assyrian Empire, a powerful, cruel nation. The Assyrians killed many people in the **kingdom of Israel**, took away everything of value, and burned much of the country.
-  ***[[:ilo:obs:notes:frames:20-04|[20-04]]]** Then the Assyrians brought foreigners to live in the land where the **kingdom of Israel** had been. The foreigners rebuilt the destroyed cities and married the Israelites who were left there. The descendants of the Israelites who married foreigners were called Samaritans.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:18-08|[18-08]]]** Dinutokan dagiti sangapulo a tribu ti Israel a nagrebelde kenni Rehoboam ti maysa a lalaki nga agnagan iti Jeroboam nga isu ti agbalin nga ari da. Impasdek da ti pagarian da iti amianan a paset ti daga ket naawagan daytoy a **pagarian ti Israel**.
+  * **[[:ilo:obs:notes:frames:18-10|[18-10]]]** Nagginnura dagiti **pagarian ti Judah ken ti Israel**  ken masansan nga aggirra dagitoy a dua.
+  * **[[:ilo:obs:notes:frames:18-11|[18-11]]]** Managdakdakes dagiti amin nga ari ti baru a **pagarian ti Israel.**
+  * **[[:ilo:obs:notes:frames:20-01|[20-01]]]** Agpada a ti **pagarian ti Israel**  ken ti pagarian ti Judah ket nagbasul iti Dios.
+  * **[[:ilo:obs:notes:frames:20-02|[20-02]]]** Ti pagarian nga Assyrian a maysa a nabileg ken narungsot a nasyon ti nangdadael iti **pagarian ti Israel**. Pinatay dagiti taga Assyria ti adu kadagi tattao iti **pagarian ti Israel.**
+  * **[[:ilo:obs:notes:frames:20-04|[20-04]]]** Nangyeg dagiti taga Assyria kadagiti gangannaet a tattao tapno isuda ti agnaed iti dati a **pagarian ti Israel**. Binangun dagitoy a ganggannaet dagiti nadadael a siudad ken inasawa da dagiti Israelita a nabati sadiay. Dagiti kaputotan dagiti Israelita a nakiasawa kadagiti ganggannaet ket naawagan a Samaritano. .
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
