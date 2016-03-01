@@ -1,21 +1,19 @@
 ====== Joseph (NT) ======
 
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-Joseph was Jesus' earthly father and raised him as his son.
+Ni Joseph ti naidagaan nga ama ken nangpadakkel kas anak na.
 
-  * Joseph was a descendant of King David.
-  * Joseph was engaged to a virgin girl named Mary, whom God had chosen to be the mother of Jesus the Messiah.
-  * An angel told Joseph that the Holy Spirit had miraculously made Mary pregnant, and that Mary's baby was the Son of God.
-  * Joseph believed the angel and obeyed God by taking Mary as his wife.
-  * Joseph kept Mary a virgin until after Jesus was born.
+  * Joseph ket kaputotan ni Ari a David.
+  * Ni Joseph naikari iti maysa a birhen managan Mary, a pinili Ti Dios nga agbalin nga ina ni Jesus a Messiah.
+  * Ti anghel inbaga na ken Joseph nga ti Ispiritu Santo nangaramid ti nakaskasdaaw, ket ni Mary agsikog to, ket ti ubing maawagan Anak Ti Dios.
+  * Ni Joseph namiti iti anghel ken nagtulnog iti, inala na ngarud ni Mary kas asawa na
+  * Pinagtalinaed ngarud ni Joseph ni Mary a birhen agingga a mayanak ni Jesus.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names|How to Translate Names]])
+(Singasing Kadagiti Panagpataros: [[:ilo:ta:vol1:translate:translate_names|Kasano ti panagpataros kadagiti nagnagan]])
 
-
-(See also: [[mary|Mary]], [[david|David]], [[ilo:obe:kt:jesus|Jesus]], [[ilo:obe:kt:christ|Christ, Messiah]], [[ilo:obe:kt:sonofgod|Son of God, the Son]], [[virgin|virgin]])
-
+(Kitaen met: [[:ilo:obe:other:mary|Mary]], [[:ilo:obe:other:david|David]], [[:ilo:obe:kt:jesus|Jesus]], [[:ilo:obe:kt:christ|Christ, Messiah]],[[:ilo:obe:kt:sonofgod|Anak ti Dios,ti Anak]],[[:ilo:obe:other:virgin|birhen]])
 
 ===== Bible References: =====
 
