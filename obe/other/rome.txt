@@ -20,12 +20,8 @@ In the current day, Rome is the capital city of the country of Italy.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:23-04|[23-04]]]** When the time was near for Mary to give birth, the **Roman** government told everyone to go for a census to the town where their ancestors had lived. 
-  ***[[:ilo:obs:notes:frames:32-06|[32-06]]]** Then Jesus asked the demon, "What is your name?" He replied, "My name is Legion, because we are many." (A "legion" was a group of several thousand soldiers in the **Roman** army.)
-  ***[[:ilo:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to the **Roman** governor, Pilate, hoping to have Jesus killed.
-  ***[[:ilo:obs:notes:frames:39-12|[39-12]]]** The **Roman** soldiers whipped Jesus and put a royal robe and a crown made of thorns on him. Then they mocked him by saying, "Look, the King of the Jews!"
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
-
+  * **[[:ilo:obs:notes:frames:23-04|[23-04]]]** Idi asidigen ti tiempo a panaganak ni Maria ket adda bilin ti gobyerno ti **Roma**  a masapul a mapan agparehistro dagiti tattao kadagiti ili a nagtaudan dagiti kapuonan da.
+  * **[[:ilo:obs:notes:frames:32-06|[32-06]]]** Ket dinamag ni Jesus iti demonyo “Ania ti nagan mo?” Simmungbat daytoy ket kunana, “Ti nagan ko ket Rinibu gapo ta adu kami gamin”. (Ti “Rinibu” ket bunggoy iti rinib-ribo a suldado ti **Roma.**)
+  * **[[:ilo:obs:notes:frames:39-09|[39-09]]]** Iti agsapa ti sumaruno a bigat, inyapan dagiti panguloen a Judio ni Jesus kenni Pilate a gobernador ti **Roman**. Ninamnama da nga ukomen ni Pilato ni Jesus kas nagbasol ken dusaen na iti patay.
+  * **[[:ilo:obs:notes:frames:39-12|[39-12]]]** Sinapsaplit dagiti suldado ti taga **Roma**  ni Jesus ken sinuotan da isuna iti kawes ti ari. Kinoronaan da pay isuna iti siit. Kalpasan na inuy-uyaw da isuna a kunkuna da, “Kitaen yo ti Ari dagiti Judio!"
+~~DISCUSSION~~{{tag>publish ktobs}}
