@@ -22,12 +22,8 @@ Samaria was the name of a city and its surrounding region in the northern part o
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:20-04|[20-04]]]** Then the Assyrians brought foreigners to live in the land where the kingdom of Israel had been. The foreigners rebuilt the destroyed cities and married the Israelites who were left there. The descendants of the Israelites who married foreigners were called **Samaritans**.
-  ***[[:ilo:obs:notes:frames:27-08|[27-08]]]** "The next person to walk down that road was a **Samaritan**. (**Samaritans** were the descendants of Jews who had married people from other nations. **Samaritans** and Jews hated each other.)"
-  ***[[:ilo:obs:notes:frames:27-09|[27-09]]]** "The **Samaritan** then lifted the man onto his own donkey and took him to a roadside inn where he took care of him."
-  ***[[:ilo:obs:notes:frames:45-07|[45-07]]]** He (Philip) went to **Samaria** where he preached about Jesus and many people were saved. 
-
-~~DISCUSSION~~
-
-{{tag>publish}}
-
+  * **[[:ilo:obs:notes:frames:20-04|[20-04]]]** Nangyeg dagiti taga Assyria kadagiti gangannaet a tattao tapno isuda ti agnaed iti dati a pagarian ti Israel. Binangun dagitoy a ganggannaet dagiti nadadael a siudad ken inasawa da dagiti Israelita a nabati sadiay. Dagiti kaputotan dagiti Israelita a nakiasawa kadagiti ganggannaet ket naawagan a **Samaritano**.
+  * **[[:ilo:obs:notes:frames:27-08|[27-08]]]**"Ti simmaruno a simmalog iti dalan ket maysa **Samaritano**. (Dagiti **taga Samaria**  ket kaputotan dagiti Judio a nakiasawa kadagiti tattao manipud iti naduma-duma a nasion. Agkagura dagiti **Samaritano**  ken Judio.)"
+  * **[[:ilo:obs:notes:frames:27-09|[27-09]]]**"Insakay ti **Samaritano**  ti lalaki iti bukod na nga asno ken inyapan na iti maysa a pagdagusan tapno maitultuloy na nga agasan."
+  * **[[:ilo:obs:notes:frames:45-07|[45-07]]]** Napan isuna idiay **Samaria ** ken inkasaba na ti maipapan kenni Jesus sadiay ket adu ti naisalakan a tattao.
+~~DISCUSSION~~{{tag>publish}}
