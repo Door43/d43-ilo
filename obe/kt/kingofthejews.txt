@@ -22,11 +22,10 @@
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:23-09|[23-09]]]** Some time later, wise men from countries far to the east saw an unusual star in the sky. They realized it meant a new **king of the Jews**  was born.
-  * **[[:ilo:obs:notes:frames:39-09|[39-09]]]** Pilate asked Jesus, "Are you the **King of the Jews**?"
-  * **[[:ilo:obs:notes:frames:39-12|[39-12]]]** The Roman soldiers whipped Jesus and put a royal robe and a crown made of thorns on him. Then they mocked him by saying, "Look, the **King of the Jews**!"
-  * **[[:ilo:obs:notes:frames:40-02|[40-02]]]** Pilate commanded that they write, "**King of the Jews**" on a sign and put it on the cross above Jesus' head.
-
+  * **[[:ilo:obs:notes:frames:23-09|[23-09]]]** Iti saan a mabayag ket nakakita dagiti mamasirib a lallaki manipud kadagiti nasion iti adayo a daya iti saan a gagangay a bituin iti tangatang. Naamiris da a ti kaipapanan ti nakita da ket ti pannakayanak ti baro nga **ari dagiti Judio**.
+  * **[[:ilo:obs:notes:frames:39-09|[39-09]]]** Ngem sinaludsod ni Pilato ni Jesus, “Sika kadi ti **Ari dagiti Judio**?"
+  * **[[:ilo:obs:notes:frames:39-12|[39-12]]]** Sinapsaplit dagiti suldado ti taga Roman ni Jesus ken sinuotan da isuna iti kawes ti ari. Kinoronaan da pay isuna iti siit. Kalpasan na inuy-uyaw da isuna a kunkuna da, “Kitaen yo ti **Ari dagiti Judio**!"
+  * **[[:ilo:obs:notes:frames:40-02|[40-02]]]** Imbilin ni Pilato nga isurat da daytoy, “**Ari ti Judio**” iti maysa a karatula ket ikabil da iti ngatoen ti ulo ni Jesus idiay krus.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
