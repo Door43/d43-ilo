@@ -22,15 +22,11 @@ John was one of Jesus' twelve apostles and one of Jesus' closest friends.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:36-01|[36-01]]]** One day, Jesus took three of his disciples, Peter, James, and **John** with him. (The disciple named **John** was not the same person who baptized Jesus.) They went up on a high mountain by themselves.
-  ***[[:ilo:obs:notes:frames:44-01|[44-01]]]** One day, Peter and **John** were going to the Temple. As they approached the Temple gate, they saw a crippled man who was begging for money. 
-  ***[[:ilo:obs:notes:frames:44-06|[44-06]]]** The leaders of the Temple were very upset by what Peter and **John** were saying. So they arrested them and put them into prison.
-  ***[[:ilo:obs:notes:frames:44-07|[44-07]]]** The next day, the Jewish leaders brought Peter and **John** to the high priest and the other religious leaders. They asked Peter and **John**, "By what power did you heal this crippled man?" 
-  ***[[:ilo:obs:notes:frames:44-09|[44-09]]]** The leaders were shocked that Peter and **John** spoke so boldly because they could see that these men were ordinary men who were uneducated. But then they remembered that these men had been with Jesus. After they threatened Peter and **John**, they let them go.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:36-01|[36-01]]]** Iti maysa nga aldaw, intugot ni Jesus ti tallo kadagiti adalan na; ni Peter, James ken **John**. (Ti adalan nga agnagan ti John ket saan nga isu ti nangbautisar kenni Jesus.) Napan da iti maysa a nangato a bantay tapno agkararag.
+  * **[[:ilo:obs:notes:frames:44-01|[44-01]]]** Iti maysa nga aldaw, magmagna ni Peter kenni **John**  nga agturung idiay templo. Idi sumungsungad da iti ruangan ti templo ket nakita da ti maysa a pilay a lalaki nga agpalpalama iti kuarta.
+  * **[[:ilo:obs:notes:frames:44-06|[44-06]]]** Permi a makaunget dagiti panguloen ti templo iti imbaga da Peter ken** John ** isua tiniliw da isuda ket impan da iti pagbaludan.
+  * **[[:ilo:obs:notes:frames:44-07|[44-07]]]** Iti sumaruno nga aldaw, impan dagiti panguloen dagiti Judio da Peter kenni **John**  iti kangatoan a padi ken kadagiti panguloen ti relihiyon. Sinaludsod da kenni Peter ken **John**, “Babaen iti anya a pannakabalin nga inagasan yo daytoy pilay a tao?"
+  * **[[:ilo:obs:notes:frames:44-09|[44-09]]]** Nasdaaw dagiti panguloen ken ni Peter ken **John**  agsipud ta nagsao a situtured. Ammo da a gagangay dagitoy a lallaki ken awan ti adal da. Ngem malagip da a nakikadkadua dagitoy a lallaki kenni Jesus. Kalpasan a binutbuteng da ni Peter ken ni **John**  ket imbulos da ida.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
