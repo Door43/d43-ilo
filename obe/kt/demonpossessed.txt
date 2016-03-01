@@ -25,15 +25,11 @@ A person who is demon-possessed has a demon or evil spirit that controls what he
 
 ===== Examples from the Bible stories: =====
 
-    * **[[:ilo:obs:notes:frames:26-09|[26-09]]]** Many people who had **demons in them**  were brought to Jesus.
-    * **[[:ilo:obs:notes:frames:32-02|[32-02]]]** When they reached the other side of the lake, a **demon-possessed**  man came running up to Jesus.
-    * **[[:ilo:obs:notes:frames:32-06|[32-06]]]** The man **with the demon**  cried out in a loud voice, "What do you want with me, Jesus, Son of the Most High God? Please do not torture me!"
-    * **[[:ilo:obs:notes:frames:32-09|[32-09]]]** The people from the town came and saw the man who used to **have the demons**.
-    * **[[:ilo:obs:notes:frames:47-03|[47-03]]]** Every day as they (Paul and Silas) walked there, a slave girl **possessed by a demon** followed them. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:26-09|[26-09]]]** Adu pay ti inyeg da kenni Jesus a linongogan **dagiti demonyo**  ket babaen iti bilin ni Jesus ket napaksiat da manipud kadagitoy a tattao.
+  * **[[:ilo:obs:notes:frames:32-02|[32-02] ]]** Idi naka danon da iti bangir nga igid ti baybay ket nagtartaray a simmabat ken ni Jesus ti maysa a lalaki a **nasaniban iti demonyo.**
+  * **[[:ilo:obs:notes:frames:32-06|[32-06]]]** Nagpukkaw iti napigsa ti **nalungogan**  a lalaki ket kinunana, “Jesus nga Anak ti kangatoan a Dios! Anya ti kayat mo kaniak? Pangaasim kadi ta saan nak a parigaten!"
+  * **[[:ilo:obs:notes:frames:32-09|[32-09]]]** Napan dagiti tattao ti ili ket nakita da ti tao a dati a **nasaniban dagiti demonyo**  a nakatugaw a sitatalna ket nakabadu ken agtigtignayen a kas maysa a gagangay a tao.
+  * **[[:ilo:obs:notes:frames:47-03|[47-03]]]** Iti inaldaw a panpannagna da iti dayta a lugar ket adda sumursurot kadakuada a maysa a tagabo a babae a **linungogan ti demonyo**.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
