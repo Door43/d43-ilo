@@ -21,12 +21,11 @@ A "believer" is a person who trusts completely in a person or an idea.
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:43-01|[43-01]]]** After Jesus returned to heaven, the disciples stayed in Jerusalem as Jesus had commanded them to do. The **believers**  there constantly gathered together to pray.
-  * **[[:ilo:obs:notes:frames:43-03|[43-03]]]** While the **believers**  were all together, suddenly the house where they were was filled with a sound like a strong wind. Then something that looked like flames of fire appeared over the heads of all the **believers**.
-  * **[[:ilo:obs:notes:frames:43-13|[43-13]]]** Every day, more people became **believers**.
+  * **[[:ilo:obs:notes:frames:43-01|[43-01]]]** Kalpasan a nagsubli ni Jesus idiay langit ket nagtalinaed dagiti adalan idiay Jerusalem kas imbilin ni Jesus nga aramidenda. Kanayon nga aguummong dagiti **namati**  kenkuana tapno agkararag.
+  * **[[:ilo:obs:notes:frames:43-03|[43-03]]]** Kabayatan a naguummong dagiti namati ket killaat a napno ti balay nga ayanda iti daranudor a kasla napigsa nga angin. Kalpasan na adda dagiti kasla dildila nga apuy ti nagparang iti ngatoen dagiti ulo dagiti tunggal **namati**.
+  * **[[:ilo:obs:notes:frames:43-13|[43-13]]]** Inaldaw nga adu ti tao a **mamati**.
   * **[[:ilo:obs:notes:frames:46-06|[45-06]]]** That day many people in Jerusalem started persecuting the followers of Jesus, so the **believers**  fled to other places. But in spite of this, they preached about Jesus everywhere they went.
-  * **[[:ilo:obs:notes:frames:46-01|[46-01]]]** Saul was the young man who guarded the robes of the men who killed Stephen. He did not believe in Jesus, so he persecuted the **believers**.
-  * **[[:ilo:obs:notes:frames:46-09|[46-09]]]** Some **believers**  who fled from the persecution in Jerusalem went far away to the city of Antioch and preached about Jesus…It was at Antioch that **believers**  in Jesus were first called "Christians."
-  * **[[:ilo:obs:notes:frames:47-14|[47-14]]]** They also wrote many letters to encourage and teach the **believers**  in the churches.
-
+  * **[[:ilo:obs:notes:frames:46-01|[46-01]]]** Ti kabanbanuagan na a ni Saul ti nangbantay kadigiti pagan-anay dagiti lallaki a nangpatay kenni Stephen. Saan a mamati isuna kenni Jesus isu nga indadanes na dagiti namati.
+  * **[[:ilo:obs:notes:frames:46-09|[46-09]]]** Nakadanon idiay siuda ti Antioch dagiti dadduma a namati a naidadanes idiay Jerusalem. Intultuloy da ti nangaskasaba iti maipapan kenni Jesus... Idiay Antioch ti damo a naawagan dagiti **namati**  kas “Kristiano."
+  * **[[:ilo:obs:notes:frames:47-14|[47-14]]]** Nagsurat da pay iti adu a sursurat tapno mapabileg ken masuroan dagiti **namati ** kadagiti luglugar. Dadduma kadagitoy a surat ket nagbalin a libro iti Biblia.
 ~~DISCUSSION~~{{tag>publish ktobs}}
