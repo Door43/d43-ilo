@@ -1,19 +1,18 @@
 ====== Isaiah ======
 
 
-===== Facts: =====
+===== **kinapudno:**  =====
 
-Isaiah was a prophet of God.
+Ni Isaiah ket maysa a propeta ti Dios.
 
-  * Isaiah wrote many prophecies about Israel that came true while he was still living.
-  * Isaiah is especially known for the prophecies he wrote about the Messiah that came true 700 years later when Jesus was living on earth.
-  * Jesus and his disciples quoted Isaiah's prophecies to teach people about the Messiah.
-  * The Book of Isaiah is one of the major books of the Bible.
+  * Ni Isaiah nagsurat kadagiti adu a padtu maipapan iti Israel ket napasamak da idi sibibiag pay.
+  * Ni Isaiah nagsurat kadagiti adu a padtu maipapan iti Israel ket napasamak da idi sibibiag pay.
+  * Ni Jesus ken dagiti adalan na inusar da dagiti padtu ni Isaiah tapnu mangisuro da kadagiti tattao maipapan ti Messiah..
+  * Ti libro ti Isaias ket maysa kadagiti napateg a libro iti Biblia.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
+(Singasing Kadagiti Panagpatarus: [[:ilo:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[ilo:obe:kt:prophet]], [[ilo:obe:kt:christ]])
-
+(Kitaen met: [[:ilo:obe:kt:prophet|mammadto, padto]], [[:ilo:obe:kt:christ|Christ, Messiah]])
 
 ===== Bible References: =====
 
