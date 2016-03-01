@@ -9,16 +9,15 @@ Ti "Yahweh" ket nagan ti Dios nga inpaltiing na kenni Moses idiay gumilgil-ayab 
   * Daytoy nga nagan ket iparang na a ti Dios ket agnanayon; isu ket sibibbiag ken agnanayon. Madi na masapul ti mangparsua kenkuana wenno mangted ti biag. Kayat na a sawen nga isuna ket adda a kankanayon.
   * Diay Baro a Tulag, iti agkakauna nga sasao ti naaramat ket, "Dios" wenno "Apo" wenno "Ama" nga mangitudo ti Dios; ti "Yahweh" ket saan nga naaramat diay Baro a Tulag.
 
-===== Translation Suggestions: =====
+===== Singasing kadagiti Panagpataros: =====
 
-  * This term could be translated by a word or phrase that means "I am" or "living one" or "the one who is" or "he who is alive."
-  * This term could also be written in a similar way to how "Yahweh" is spelled.
-  * Note that "Jehovah" is //not// a good translation of this term. In the past, the Jews said "Lord" instead of Yahweh and eventually some people took the vowels from the Hebrew word for Lord and replaced the vowels in the Hebrew word Yahweh. This resulted in the contrived spelling, "Jehovah," which is //not// an accurate way to spell God's personal name.
+  * Mabalin met nga ipataros babaen ti sao nga adda kayat na sawen "Siak" wenno "Sibibiag."
+  * Mabalin nga daytoy ket maisurat a nu kasatno a ti "Yahweh" ket maibaga dagiti letra na.
+  * Lagipen a ti "Jehovah" ket saan nga napintas a pataros ti daytoy a sao. Ti napalabas, inbaga dagiti Judio nga "Apo" imbes nga Yahweh ken pinagbalin ti sumagmamano a tattao ket innala da ti nasimple a leletra manipud sao ti Hebrew nga Apo ken sinukatan da dagiti nasimple a leletra iti sao ti Hebrew  nga Yahweh. Isu nga ti rummuar ket inbento a pannakabaga dagiti letra na, ti "Jehovah," ket saan nga apag-iso nga wagas ti pannakabaga dagiti letra iti nagan ti Dios.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
- 
+(TSingasing kadagiti Panagpataros:: [[:ilo:ta:vol1:translate:translate_names|Ipataros dagiti Nagnagan]])
 
-(See also: [[:ilo:obe:kt:god|God]], [[lord]], [[ilo:obe:other:moses]] other)
+(Kitaen met: [[:ilo:obe:kt:god|Dios]], [[:ilo:obe:kt:lord|apo, amo]], [[:ilo:obe:other:moses|maestro, Moses]] sabali pay)
 
 ===== Bible References: =====
 
