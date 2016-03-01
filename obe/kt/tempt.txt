@@ -23,9 +23,9 @@ Sulisugem ti maysa, kayat sawen gargaryem iti dakes a panggep.
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:25-01|[25-01]]]** Then Satan came to Jesus and **tempted**  him to sin.
-  * **[[:ilo:obs:notes:frames:25-08|[25-08]]]** Jesus did not give in to Satan's **temptations**, so Satan left him.
-  * **[[:ilo:obs:notes:frames:38-11|[38-11]]]** Jesus told his disciples to pray that they would not enter into **temptation**.
+  * **[[:ilo:obs:notes:frames:25-01|[25-01]]]** Napan ni Satanas iti ayan ni Jesus ket **sinolisug**  na daytoy nga agbasol.
+  * **[[:ilo:obs:notes:frames:25-08|[25-08]]]** Saan a simmuko ni Jesus kadagiti **solisug**  ni Satanas isua pinanawan isuna ni Satanas.
+  * **[[:ilo:obs:notes:frames:38-11|[38-11]]]** Imbaga ni Jesus kadagiti adalan na nga agkararag da tapno saan da a **masulisog**.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
