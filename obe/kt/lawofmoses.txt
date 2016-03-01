@@ -12,15 +12,14 @@ Ti ,"linteg" ken "linteg ni Moses" ket kanayon nga itudo na ti bilin ken sursuro
       * amin nga sursuro ken pagayatan ti Dios.
   * Nu dadduma "ti linteg ken dagiti mammadto" ket maaramat tapno itudo na ti Daan a Tulag.
 
-===== Translation Suggestions: =====
+===== Singasing kadagiti Panagpataros:: =====
 
-  * Since there are many instructions, some translations may prefer to translate this in the plural and say, "laws."
-  * The "law of Moses" could be translated as "the laws that God told Moses to give to the Israelites."
-  * Depending on the context, "the law of Moses" can also be translated as "the law that Moses wrote" or "God's laws that Moses wrote down" or "the laws that God told Moses to give to the Israelites."
-  * Ways to translate "the law" or "law of God" or "God's laws" could include: "laws from God" or "God's commands" or "laws that God gave" or "everything that God commanded" or "God's rules" or "the laws that God commanded."
-  * The phrase, "law of Yahweh" could also be translated as, "Yahweh's laws" or "laws that Yahweh said to obey" or "laws from Yahweh" or "things Yahweh commanded." (Also see translation suggestions above for "law of God" and "God's laws".)
+  * Ti "Linteg ni Moses" ket mabalin nga ipataros a kas "ti linteg nga inbaga ti Dios kenni Moses nga ited na kadagiti taga Israel."
+  * Nakadipendar nu anya linaon na, "ti linteg  ni Moses" ket mabalin met nga ipataros a "ti linteg nga insurat ni Moses"wenno "linteg ti Dios nga insurat ni Moses"wenno"ti linteg nga inbaga ti Dios kenni Moses nga ited na kadagiti taga Israel."
+  * Wagas nga panagpataros"ti linteg"wenno"linteg ti Dios" ket mabalin nga: " linteg a naggapu iti Dios" wenno "dagiti bilin ti Dios" wenno "linteg nga inted ti Dios" wenno "amin nga inbilin ti Dios."
+  * Ti "linteg ni Yahweh" ket mabalin nga ipataros a "linteg ni Yahweh" wenno "dagiti linteg nga inbaga ni Yahweh a pagtulnogan" wenno "linteg a naggapu kenni Yahweh".
 
-(See also: [[:ilo:obe:other:moses]], [[:ilo:obe:other:tencommandments]], [[:ilo:obe:other:lawful]],[[:ilo:obe:kt:yahweh]])
+(Kitaen met: [[:ilo:obe:other:moses|Moses]], [[:ilo:obe:other:tencommandments|Sangapulo a Bilin]], [[:ilo:obe:other:lawful|nalinteg]],[[:ilo:obe:kt:yahweh|Yahweh]])
 
 ===== Bible References: =====
 
