@@ -1,8 +1,10 @@
 ====== didiosen, managdaydayaw kadagiti didiosen ======
 
-===== Definition: =====
+===== Kaipapanan: =====
 
 An idol is an object that people make so they can worship it. Something is described as "idolatrous" if it involves giving honor to something other than the one true God.
+
+Ti didiosen ket banag nga inaramid dagiti tattao a pagrukbaban da.
 
   * People make idols to represent the gods that they worship.
   * These false gods do not exist; there is no God besides Yahweh.
@@ -11,7 +13,7 @@ An idol is an object that people make so they can worship it. Something is descr
   * An "idolatrous kingdom" means a "kingdom of people who worship idols" or "kingdom that worships earthly things.
   * The term "idolatrous figure" is another word for a "carved image" or an "idol."
 
-(See also: [[ilo:obe:kt:falsegod]], [[ilo:obe:kt:worship]], [[:ilo:obe:other:image]])
+(See also: [[:ilo:obe:kt:falsegod|palso a dios, dios]], [[:ilo:obe:kt:worship|panagrukbab]], [[:ilo:obe:other:image|image, carved image, carved figure, cast metal figure]])
 
 ===== Bible References: =====
 
