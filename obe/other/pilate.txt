@@ -21,15 +21,12 @@ Pilate was the Roman governor who sentenced Jesus to death.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to **Pilate**, the Roman governor. They hoped that **Pilate** would condemn Jesus as guilty and sentenced him to be killed. **Pilate** asked Jesus, "Are you the King of the Jews?"
-  ***[[:ilo:obs:notes:frames:39-10|[39-10]]]** **Pilate** said, "What is truth?"
-  ***[[:ilo:obs:notes:frames:39-11|[39-11]]]** After speaking with Jesus, **Pilate** went out to the crowd and said, "I find no guilt in this man." But the Jewish leaders and the crowd shouted, "Crucify him!" **Pilate** replied, "He is not guilty." But they shouted even louder. Then **Pilate** said a third time, "He is not guilty!"
-  ***[[:ilo:obs:notes:frames:39-12|[39-12]]]** **Pilate** became afraid that the crowd would begin to riot, so he ordered his soldiers to crucify Jesus.
-  ***[[:ilo:obs:notes:frames:40-02|[40-02]]]** **Pilate** commanded that a sign be put above Jesus' head that read, "King of the Jews."
-  ***[[:ilo:obs:notes:frames:41-02|[41-02]]]** **Pilate** said, "Take some soldiers and make the tomb as secure as you can."
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:39-09|[39-09]]]** Iti kabigatanna, inyapan dagiti panguloen a Judio ni Jesus kenni **Pilate**  a gobernador ti Roma. Ninamnama da nga ukomen ni Pilato ni Jesus kas nagbasol ken dusaen na iti patay. Ngem sinaludsod ni **Pilato**  ni Jesus, “Sika kadi ti ari dagiti Judio?"
+  * **[[:ilo:obs:notes:frames:39-10|[39-10]]]** Kinuna ni **Pilato**, “Anya aya ti kinapudno?"
+  * **[[:ilo:obs:notes:frames:39-11|[39-11]]]** Kalpasan a nakisarita kenni Jesus ket rimmuar ni **Pilato**  ket napan kadagiti adu a tattao ket kinunana, “Awan ti makitak a basol daytoy a tao.” Ngem impukkaw dagiti panguloen a Judio ken dagiti tattao, “Ilansam isuna iti krus!” Simmungbat ni **Pilato**  ket kinunana, “Saan a nagbasol daytoy tao,” Ngem pinigpigsaan da pay ti panagpukkaw da. Ket imbaga ni **Pilato ** iti maikatlo a daras, “Saan a nagbasol daytoy tao!"
+  * **[[:ilo:obs:notes:frames:39-12|[39-12]]]** Nagdanag ni **Pilato**  nga amangan no aggulo dagiti tattao isu nga immanamongen nga ipalansa na ni Jesus iti krus babaen kadagiti soldado na..
+  * **[[:ilo:obs:notes:frames:40-02|[40-02]]]** Imbilin ni **Pilato**  nga isurat da daytoy, “Ari ti Judio” iti maysa a karatula ket ikabil da iti ngatoen ti ulo ni Jesus idiay krus."
+  * **[[:ilo:obs:notes:frames:41-02|[41-02]]]** Kinuna ni **Pilato,**  “Kumuyog kayo ngarud iti sumagmamano a suldado ket siguradoen yo a natalged ti tanem."
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
