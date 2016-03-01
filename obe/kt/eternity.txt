@@ -25,9 +25,7 @@ The terms “everlasting” and “eternal” have very similar meanings and ref
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to inherit **eternal life**?"
-  * **[[:ilo:obs:notes:frames:28-01|[28-01]]]** One day, a rich young ruler came up to Jesus and asked him, "Good Teacher, what must I do to have **eternal life**?" Jesus said to him, "Why do you ask me about what is good? There is only One who is good, and that is God. But if you want to have **eternal life**, obey God's laws."
-  * **[[:ilo:obs:notes:frames:28-10|[28-10]]]** Jesus answered, "Everyone who has left houses, brothers, sisters, father, mother, children, or property for my name's sake, will receive 100 times more and will also receive **eternal life**."
-
-
+  * **[[:ilo:obs:notes:frames:27-01|[27-01]]]** Iti maysa nga aldaw ket napan ti maysa a nalaing iti linteg dagiti Judio kenni Jesus tapno suoten na isuna babaen iti maysa a saludsod, “Maestro ket ania ti aramidek tapno magun-od ko ti **biag nga agnanayon**?"
+  * **[[:ilo:obs:notes:frames:28-01|[28-01]]]** Iti maysa nga aldaw ket adda agkabanwag a nabaknang a panguloen ti napan ken nagsaludsod kenni Jesus. Kinunana, “Naimbag a maestro ket anya kadi ti aramidek tapno magun-od ko ti **biag nga agnanayon**?” Kinuna ni Jesus kenkuana, “Apay nga inawagan nak iti ‘naimbag’? Maymaysa laeng ti naimbag ken ti Dios dayta. Ngem no kayat mo a magun-od ti **biag nga agnanayon**  ket tungpalem dagiti bilbilin ti Dios."
+  * **[[:ilo:obs:notes:frames:28-10|[28-10]]]** Simmungbat ni Jesus’ “Nu siasinuman ti mangpanaw iti balay na, kakabsat na, ama, ina, anak, wenno sanikua na para kanyak ket makaawat ti maminsangagasut a balor a kinabaknang ken makaawat pay ti **biag nga agnanayon**."
 ~~DISCUSSION~~{{tag>publish ktobs}}
