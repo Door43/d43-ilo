@@ -18,12 +18,8 @@ Philippi was a city located in the northern part of ancient Greece.
 
 ===== Examples from the Bible stories: =====
 
-    * **[[:ilo:obs:notes:frames:47-01|[47-01]]]** One day, Paul and his friend Silas went to the town of **Philippi** to proclaim the good news about Jesus. 
-    * **[[:ilo:obs:notes:frames:47-13|[47-13]]]** The next day the leaders of the city released Paul and Silas from prison and asked them to leave **Philippi**. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:47-01|[47-01]]]** Maysa nga aldaw, napan ni Paul ken ti gayyem na a ni Silas idiay ili ti **Philippi**  tapno iwaragawag da ti naimbag a damag maipapan kenni Jesus.
+  * **[[:ilo:obs:notes:frames:47-13|[47-13]]]** Iti sumaruno nga aldaw, binulusan dagiti panguloen ti siudad da Paul ken Silas manipud iti pagbaludan ken kiniddaw da kadakuada a pumanaw dan idiay **Philippi**.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
