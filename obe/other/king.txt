@@ -1,15 +1,14 @@
 ====== ari ======
 
-===== Definition: =====
+===== **Dagiti Kaipapanan:**  =====
 
-A king is the ruler of an independent city, state, or country.
+Ti ari ket mangidalan iti masay a nawaya a siudad, ili, wennu nasyon.
 
-  * Sometimes someone becomes king because a group of people want him to be their king.
-  * Usually when a king dies, his first son becomes king.
-  * Sometimes someone will kill the king so that he can become king in his place.
+  * Nu maminsan maysa ti agbalin nga ari  ta ngamin  ti maysa a bassit a grupo ti tattao ket kayatda a pabalinen nga ari.
+  * Masansan a no matay ti ari, inauna nga nanakna a lalaki ti agbalin nga ari.
+  * Nu maminsan ipapatay na ti ari tapno isu’t agbalin nga ari.
 
-(See also: [[kingdom]])
-
+(Kitaen met: [[:ilo:obe:other:kingdom|pagarian]])
 
 ===== Bible References: =====
 
