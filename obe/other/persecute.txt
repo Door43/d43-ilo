@@ -20,13 +20,10 @@ To persecute someone is to repeatedly attack him or to treat him cruelly.
 
 ===== Examples from the Bible stories: =====
 
-    * **[[:ilo:obs:notes:frames:33-07|[33-07]]]** "The rocky ground is a person who hears God's word and accepts it with joy. But when he experiences hardship or **persecution**, he falls away."
-    * **[[:ilo:obs:notes:frames:45-06|[45-06]]]** That day many people in Jerusalem started **persecuting** the followers of Jesus, so the believers fled to other places. 
-    * **[[:ilo:obs:notes:frames:46-02|[46-02]]]** Saul heard someone say, "Saul! Saul! Why do you **persecute** me?" Saul asked, "Who are you, Master?" Jesus replied to him, "I am Jesus. You are **persecuting** me!"
-    * **[[:ilo:obs:notes:frames:46-04|[46-04]]]** But Ananias said, "Master, I have heard how this man has **persecuted** the believers."
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:33-07|[33-07]]]**"Ti kabatbatoan met ket ti tao a sirarag-o nakangngeg ken nangawat iti sao ti Dios ngem tinallikudan na daytoy idi naglak-am isuna ti **pammarigat wenno pannakaidadanes**."
+  * **[[:ilo:obs:notes:frames:45-06|[45-06]]]** Iti dayta nga aldaw, adu dagiti tattao idiay Jerusalem ti nangrugi a **nangidadanes**  kadagiti pasurot ni Jesus isua pimmanaw dagiti namati ket napanda kadagiti sabali a luglugar.
+  * **[[:ilo:obs:notes:frames:46-02|[46-02]]]** Natnag Saul iti daga ken adda nangngeg na a timek a nagkuna, “Saul! Saul! Apay ta idaddadanes nak?” sinaludsod ni Saul, “siasino ka kadi Apo?” Simmungbat ti timek kenkuana, “Siak ni Jesus nga idadanes mo!"
+  * **[[:ilo:obs:notes:frames:46-04|[46-04]]]** Ngem kinuna ni Ananias, “Apo, nadamag ko nu kasano ti **panangidadanes**  daytoy a lalaki kadagiti namati."
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
