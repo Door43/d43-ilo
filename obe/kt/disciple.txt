@@ -27,14 +27,10 @@ The term "disciple" refers to a person who follows a teacher and learns from him
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:ilo:obs:notes:frames:30-08|[30-08]]]** He (Jesus) gave the pieces to his **disciples** to give to the people. The **disciples** kept passing out the food, and it never ran out!
-  ***[[:ilo:obs:notes:frames:38-01|[38-01]]]** About three years after Jesus first began preaching and teaching publicly, Jesus told his **disciples** that he wanted to celebrate this Passover with them in Jerusalem, and that he would be killed there.
-  ***[[:ilo:obs:notes:frames:38-11|[38-11]]]** Then Jesus went with his **disciples** to a place called Gethsemane. Jesus told his **disciples** to pray that they would not enter into temptation.
-  ***[[:ilo:obs:notes:frames:42-10|[42-10]]]** Jesus said to his **disciples**, "All authority in heaven and on earth has been given to me. So go, make **disciples** of all people groups by baptizing them in the name of the Father, the Son, and the Holy Spirit, and by teaching them to obey everything I have commanded you."
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:ilo:obs:notes:frames:30-08|[30-08]]]** Inted na dagitoy kadagiti **adalan**  na tapno iwaras da kadagiti tattao. Saan a nagsarsardeng dagiti **adalan**  a nangiwarwaras iti makan ket saan da a naib-ibusan!
+  * **[[:ilo:obs:notes:frames:38-01|[38-01]]]** Agarup tallo a tawen kalpasan nga inrugi ni Jesus ti damo a panangasaba ken panagisuro na kadagiti tattao. Imbaga ni Jesus kadagiti **adalan**  na a kayat na a rambakan ti Ilalabas ti Patay a kadua na ida idiay Jerusalem. Imbaga na pay a mapapatay isuna sadiay.
+  * **[[:ilo:obs:notes:frames:38-11|[38-11]]]** Napan ni Jesus ken dagiti **adalan**  na iti lugar a maaw-awagan iti Gethsemane. Imbaga ni Jesus kadagiti adalan na nga agkararag da tapno saan da a masulisog.
+  * **[[:ilo:obs:notes:frames:42-10|[42-10]]]** JKinuna ni Jesus kadagiti adalan na, “amin a pannakabalin idiay langit ken ditoy daga ket naited kanyak. Isua mapan kayo, mangpataud kayo kadagiti adalak manipud kadagiti amin a tribu ti tattao babaen iti panangbautisar yo kadakuada iti nagan ti Ama ti Anak ken ti Espiritu Santo. Ken babaen iti panangisuro yo kadakuada nga agtulnog da kadagiti amin nga imbilin ko kadakayo."
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
