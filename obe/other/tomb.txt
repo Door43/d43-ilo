@@ -1,14 +1,14 @@
 ====== pantyun, kampo santo, tanem ======
 
-===== Definition: =====
+===== Dagiti Kaipapanan: =====
 
-A tomb is a place where people put the bodies of those who die.
+Ti pantyunket lugar a pakaidulinan ti bagi dagiti natay.
 
-  * The Jews sometimes used natural caves as tombs, and sometimes they dug caves out of the rock on the side of a hill.
-  * In New Testament times, it was common to roll a large, heavy, round stone in front of the opening of a tomb in order to close it.
-  * This term can also be translated as, "grave." But if your word for grave can only refer to a hole in which the body is placed below the ground, then it might be better to translate tomb as, "cave" or "hole in a hill."
+  * Dagiti Jews masansan nga agaramat kadagiti kuweba kas pantyun da wennu mangkali ti kuwea iti bakrang ti turod.
+  * Iti Baru a Tulag. ugali da a rikpan ti dakkel ken nadagsen a bato, iti ruangan ti pantyun.
+  * Maipatarus met a "tanem" ti pang naganda, nakali ti nauneg,
 
-(See also: [[:ilo:obe:kt:death]], [[:ilo:obe:other:bury]])
+(Kitaen met also:[[:ilo:obe:kt:death|patay,natay,]][[:ilo:obe:other:bury|naipunpun,naipunpunen]])
 
 ===== Bible References: =====
 
