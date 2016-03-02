@@ -1,18 +1,17 @@
 ====== John (ti apostol) ======
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-John was one of Jesus' twelve apostles and one of Jesus' closest friends. 
+Ni John maysa kadagiti sangapulo ket dua a apostol ni Jesus nga asideg a gayyemna.
 
-  * John's and his brother were the sons of Zebedee. 
-  * John was a different person than John the Baptist.
-  * After Jesus went back to heaven, John (the apostle) taught people about Jesus. 
-  * John also wrote two books and some letters about Jesus that are included in the Bible. 
+  * Ni John ken ti kabsat na ket annak ni Zebedee.
+  * Ni John ken John a mammunyag ket agsabalida.
+  * Sakbay a ni Jesus ket nagsubli sadiay langit,( ni apostol) insuro dagiti tattao iti maipanggep ken Jesus.
+  * Insurat met ni John ti dua a libro ken surat a maipapan ken Jesus a naikabil me iti Biblia.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
+( Singasing Kadagiti Panagpataros: [[:ilo:ta:vol1:translate:translate_names|Ipataros Dagiti Nagnagan]])
 
-(See also: [[johnthebaptist]], [[ilo:obe:kt:apostle]])
-
+(Kitaen met: [[:ilo:obe:other:johnthebaptist|John (a mammunyag)]], [[:ilo:obe:kt:apostle|apostol, apostole]])
 
 ===== Bible References: =====
 
