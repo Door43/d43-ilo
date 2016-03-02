@@ -1,21 +1,20 @@
 ====== Jacob, Israel  ======
 
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-Jacob was the second of the twin sons that were born to Isaac and Rebekah. The first twin born was Esau.
+Ni Jacob ket ti makadwa kadagiti kambal nga anak ni Isaac ken Rebekah. Ti inauna kadagiti kambal ket ni Esau.
 
-    * Jacob's name means "deceiver" or "trickster." 
-    * Jacob was clever and deceptive. He found ways to take both the firstborn inheritance rights and the blessing from his older brother, Esau.
-    * Esau was angry and planned to kill him, so Jacob left his homeland. But he later returned and lived peacefully with his brother.
-    * God changes Jacob's name to Israel, which means, "He struggles with God." 
-    * God kept his covenant to Abraham and his descendants through Abraham's son, Isaac, and Isaac's son, Jacob.
-    * Jacob had twelve sons. Their descendants became the twelve tribes of Israel.
+  * Ti kayat na sawen ti nagan ni Jacob ket "manangallilaw."
+  * Ni Jacob ket nalaeng ken manangallilaw. Nangbiruk isuna ti wagas tapno maala na ti karbengan ti panganay nga anak ken ti bendision manipud kenni manung na, Esau.
+  * Nakaunget ni Esau ken plinano na nga papatayen isuna, isu nga inbati na ti ili na. Ngem nagsubli ken nagnaed a nakappia nga kadwa ti kabsat na.
+  * Sinukatan ti Dios ti nagan ni Jacob ti Israel, nga kayat na sawen, "Nakilaban iti Dios."
+  * Pinagtalinaed ti Dios ti tulag na kenni Abraham ken kadagiti kaputotan na babaen ti annak ni Abraham, ni Isaac, ken ti anak ni Isaac, ni Jacob.
+  * Ni Jacod addaan sangapulo ket dua nga anak. Dagiti kaputotan da isu ti nagbalin nga sangapulo ket dua a tribu ti Israel.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
+(Singasing kadagiti Panagpataros: [[:ilo:ta:vol1:translate:translate_names|Ipataros dagiti Nagnagan]])
 
-(See also: [[isaac]], [[rebekah]], [[esau]], [[israel]])
-
+(Kitaen met: [[:ilo:obe:other:isaac|Isaac]], [[:ilo:obe:other:rebekah|Rebekah]], [[:ilo:obe:other:esau|Esau]], [[:ilo:obe:other:israel|Israel, Taga Israel, nasion ti Israel]])
 
 ===== Bible References: =====
 
