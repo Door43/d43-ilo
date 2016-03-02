@@ -1,20 +1,19 @@
 ====== Elijah ======
 
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-Elijah was one of the most important prophets of Yahweh. Elijah prophesied when Ahab was the king of the northern kingdom of Israel.
+Ni Elijah ti maysa a kapapatgan a mammadto ni Yaweh. Ni Elijah ti nangipadto idi ni a Ahab ket ari ti pagaryan ti daya a Israel.
 
-    * Elijah confronted Ahab because Ahab encouraged the people to worship false gods.
-    * God provided food and shelter for Elijah in miraculous ways.
-    * God did many miracles through Elijah and showed Israel that Yahweh is the only true God.
-    * Elijah confronted the 450 prophets of Baal and demonstrated that Baal is a false god. As a result, the people in the kingdom of Israel killed the prophets of Baal and temporarily worshiped only Yahweh.
-    * Elijah did not die--he was taken up to heaven alive. Elijah and Moses then appeared and talked with Jesus hundreds of years later when Jesus was getting ready to die in Jerusalem.
+  * Ni Elijah binagaan na ni Ahab ngamin ket allukoyenna dagiti tattao nga agdayaw kadagiti diodiosen.
+  * Insabat ti Dios ti makan ken pagyanan ni Elijah iti nakaskasdaaw a wagas.
+  * Ti dios nagaramid kadagiti milagro babaen ken Elijah a mangipakita iti Israel a ni Yaweh ti maymaysa a Dios.
+  * Tinubngar ni Elijah dagiti 450 a mammadto ni Baal a mangi parang ai Baal ti palso a dios. Kas resulta, dagiti tattao ti pagaryan ti Israel ket pinapatay da dagiti mammadto ni Baal.
+  * Ni Elijah ket saan a natay- naipanguto sadiay langit a sibibbiag. Ni Elijah ken Moses ket nagparang ken nakisaoda ken Jesus sangagasut atawenen iti napalabas idin a ni Jesus ket nakasaganan a matay iddiay Jerusalem.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
+(Translation suggestions: [[:ilo:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[ilo:obe:kt:prophet]], [[ilo:obe:kt:miracle]], [[ahab]], [[baal]], [[ilo:obe:kt:yahweh]])
-
+(See also: [[:ilo:obe:kt:prophet|mammadto, padto]], [[:ilo:obe:kt:miracle|miracle, wonder, sign]], [[:ilo:obe:other:ahab|Ahab]], [[:ilo:obe:other:baal|Baal]], [[:ilo:obe:kt:yahweh|Yahweh]])
 
 ===== Bible References: =====
 
