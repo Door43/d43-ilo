@@ -7,14 +7,15 @@ Ti sao "apo" maipapan ti maysa a tao nga addaan sanikua wenno turay kadagiti tat
   * Daytoy a balikas ket nu dadduma maipatarus kas "amo" nu ni Jesus ti pagtutungtungan wenno inton maipapan ti maysa nga addaan tagabu.
   * Dagiti dadduma nga pannakaipatarus iti Engles daytoy kas "maestro" iti sabali met ket nu ti maysa a tao ket aramaten kas pangpadaway ti maysa nga addaan nangatngato a kasasaad wenno adal.
 
-===== Translation Suggestions: =====
+===== Singasing Kadagiti Panagpatarus: =====
 
-  * This term should be translated as "master" when it refers to a person who owns slaves. It could also be used by a servant to address the person he works for.
-  * When it refers to Jesus, it could be translated as "master" if the context shows it means "religious teacher."
-  * If the person addressing Jesus does not know him, "lord" could be translated as "sir." This translation would also be used for other contexts in which a polite form of address to a man is called for.
+  * Daytoy a sao ket kasapulan a maipatarus kas "amo" no maipapan iti tao nga addaan tagabu.Mabalin met met nga usaren ti maysa nga adipen a kas pangawag iti tao nga pagtatrabahuan na.
+  * No maipapan ken Jesus,mabalin a maipatarus kas" amo"nu ti kayat na a nga iparang ket maipapan iti "manursuro iti linteg".
+  * Nu ti maysa a tao ket agsao maipanggep ken ni Jesus nga saan a makaammo kenkuana aramaten da kas"apo"ken mbalin a maipatarus kas "maestro".Daytoy a pannakaipatarus ket mabalin a mausar iti sabali a linaun nga addaan nadayaw nga panangawag iti maysa a tao.
   * When referring to God the Father or to Jesus, this term is written as "Lord" (capitalized). Make sure the translation clearly distinguishes between "lord" that just means "master" and "Lord" that refers to God.
+  * Nu maipanggep iti Dios Ama wenno ken Jesus,daytoy ket maisurat iti dadakkel a letra "Apo".Siguradwen nga ti pannakaipatarus na ket nalawag nga mailasin ti "apo"nga kayat na a saoen "Amo" ken "Apo"nga maipapan iti Dios.
 
-(See also: [[:ilo:obe:kt:lordgod|Lord]])
+(Kitaen met: [[:ilo:obe:kt:lordgod|Apo]])
 
 ===== Bible References: =====
 
