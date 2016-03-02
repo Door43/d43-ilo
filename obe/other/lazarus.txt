@@ -1,17 +1,16 @@
 ====== Lazarus ======
 
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-Lazarus was a friend of Jesus whom he raised from the dead.
+Ni Lazarus ket gayyem ni Jesus nga pinagungar na manipud ken patay.
 
-  * Lazarus had two sisters, named Mary and Martha, who also believed in Jesus.
-  * After Jesus raised Lazarus from the dead, the Jewish leaders were angry and tried to find a way to kill both of them.
+  * Ni Lazarus adda dwa a kabsat na a babae a managan Mary ken Martha a namati kenni Jesus.
+  * Kalpasan a pinagungar ni Jesus ni Lazarus,dagiti pangulo ti Judio ket nagpungtot ken nagsapul da ti pamay an tapnu mapapatay da a dwa.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
+(singasing Kadagiti panagpatarus: [[:ilo:ta:vol1:translate:translate_names|Ipatarus ti Nagan]])
 
-(See also: [[ilo:obe:kt:raise]], [[jewishleaders]])
-
+(Kitaen met: [[:ilo:obe:kt:raise|agungar, tumakder, ]][[:ilo:obe:other:jewishleaders|pangulo dagiti Judio]])
 
 ===== Bible References: =====
 
