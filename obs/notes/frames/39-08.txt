@@ -1,4 +1,4 @@
-===== Nagbakkel Ni Judas [39-08] =====
+===== Nagbekkel Ni Judas [39-08] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?nolink&}}
 
@@ -6,11 +6,11 @@ Immadayo ni Peter ken nagsangsangit iti napalalo. Kabayatan na nakita ni Judas a
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:other:peter]]**
-  * **[[:ilo:obe:other:judasiscariot]]**
-  * **[[:ilo:obe:kt:betray]]**
-  * **[[:ilo:obe:other:jewishleaders]]**
-  * **[[:ilo:obe:kt:jesus]]**
+  * **[[:ilo:obe:other:peter|Peter, Simon Peter, Cephas]]**
+  * **[[:ilo:obe:other:judasiscariot|Judas Iscariot]]**
+  * **[[:ilo:obe:kt:betray|linipot, mananglilipot]]**
+  * **[[:ilo:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
 ===== Translation Notes: =====
 
   * **cried bitterly**  - That is, "cried, feeling deep sorrow" or, "cried, feeling deep regret."
