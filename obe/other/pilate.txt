@@ -1,18 +1,17 @@
 ====== Pilate ======
 
 
-===== Facts: =====
+===== Dagiti Kinapudno : =====
 
-Pilate was the Roman governor who sentenced Jesus to death.
+Ni Pilate ket isu kangatuan a Roman a nangsentensiya agingga iti ipapatay ni Jesus.
 
-  * Because Pilate was the governor, he had the authority to put criminals to death.
-  * The Jewish religious leaders wanted Pilate to crucify Jesus, so they lied and said that Jesus was a criminal.
-  * Pilate realized that Jesus was not guilty, but he was afraid of the crowd, so he ordered his soldiers to crucify Jesus.
+  * Gapu ta ni Pilate ti kangatuan, isuna laeng ti addaan karbengan a mangpapatay dagiti kriminal.
+  * Dagiti mangidada-ulo iti linteg dagiti Jewish kayat da a ni Pilate ti mangpa-ikrus kenni Jesus, ket nagulbodda ken insao da a kriminal ni Jesus.
+  * Naamiris ni Pilate a ni Jesus ket a basolna wennu nagbiddutanna, ngem mabuteng kadagiti kaaduan, isu a inbilinna kadagiti susuldado na a ikrus da ni Jesus.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names|How to Translate Names]])
+(Singasing Kadagiti Ipataros:[[:ilo:ta:vol1:translate:translate_names|Kasanu a Ipataros Dagiti Nagnagan]])
 
-(See also: [[rome|Rome, Roman]], [[ilo:obe:kt:crucify|crucify]], [[ilo:obe:kt:guilt|guilt, guilty]], [[governor]])
-
+(See also: [[:ilo:obe:other:rome|Rome, Roman]], [[:ilo:obe:kt:crucify|crucify]], [[:ilo:obe:kt:guilt|guilt, guilty]], [[:ilo:obe:other:governor|governor, govern]])
 
 ===== Bible References: =====
 
