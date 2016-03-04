@@ -1,18 +1,16 @@
 ====== Judas Iscariot ======
 
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-Judas was one of Jesus' twelve apostles. However, he betrayed Jesus to the Jewish leaders.
+Ni Judas maysa kadagiti sangapulo ket dua nga apostoles, Uray pay kasta, isuna ti nanglipot kenni Jesus kadagiti pangulo ti Jewish.
 
-  * Judas managed the apostles' money, but he stole some of it for himself.
-  * Judas betrayed Jesus by telling the religious leaders where Jesus was so they could arrest him.
+  * Ni Judas ti nangiggem ti kuarta dagiti apostoles, ngem tinakaw (kunupit) na ti dadduma.
+  * Ni Judas ti nagliipot kenni Jesus babaen ti panangibaga na kadagiti paulo ti linteg nu adino ti ayan ni Jesus, tapno tiliwen da.
   * When the religious leaders condemned Jesus to die, Judas regretted that he had betrayed Jesus, so he killed himself.
+  * Idin dagiti paulo ti linteg binabalaw da ni Jesus a matay, ni Judas nagbabawi ti pananglipot na ken Jesus. ket pinatay nati bukod na bagi (biag).
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
-
-(See also: [[ilo:obe:kt:apostle]], [[ilo:obe:kt:betray]], [[jewishleaders]])
-
+(Kitaen met: [[:ilo:obe:kt:apostle|apostol, apostoles]], [[:ilo:obe:kt:betray|linipot, mananglilipot]], [[:ilo:obe:other:jewishleaders|pangulo dagiti Jewish , paulo dagiti linteg]])
 
 ===== Bible References: =====
 
