@@ -3,15 +3,15 @@
 
 ===== Facts: =====
 
-In the current day, Rome is the capital city of the country of Italy.
+Ti agdinama nga aldaw, Rome ti kapital ti nassion a Italy.
 
-    * During the time of Jesus and the apostles, Rome was the center of the Roman Empire.
-    * The Roman Empire ruled over all of the regions around the Mediterranean Sea, including Israel.
-    * The term, "Roman" refers to anything relating to the regions that the government in Rome controlled, including Roman citizens and Roman officials.
-    * The Apostle Paul was taken to the city of Rome as a prisoner because he preached the good news about Jesus.
+  * Idi panawen ni Jesus ken dagiti adalanna. Rome ti ili ti Roman Empire
+  * Ti Roman Empire iti mangituray dagiti amin rehiyon ti aglawlaw ti Mediterranean a Baybay, agraman Israel.
+  * The term, "Roman" refers to anything relating to the regions that the government in Rome controlled, including Roman citizens and Roman officials.
+  * Ti sao a "Roman" ket maipapan kadagiti amin a rehiyon agraman gobyerno ni Rome a mangituray agraman dagiti Roman a tatao ken adda turayna.
+  * The Apostle Paul was taken to the city of Rome as a prisoner because he preached the good news about Jesus.
 
-(See also: [[pilate]], [[paul]], [[ilo:obe:kt:goodnews]])
-
+(See also: [[:ilo:obe:other:pilate|Pilate]], [[:ilo:obe:other:paul|Paul, Saul]], [[:ilo:obe:kt:goodnews|good news, gospel]])
 
 ===== Bible References: =====
 
