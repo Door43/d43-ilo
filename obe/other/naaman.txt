@@ -1,16 +1,20 @@
 ====== Naaman ======
 
-===== Facts: =====
 
-Naaman was the commander of the army of one of Israel's enemies.
 
-  * Naaman had a terrible skin disease that no one knew how to cure.
-  * Elisha told Naaman to wash in the Jordan River. When Naaman obeyed, God healed him of his disease.
+**Dagiti Kinapudno:**
+
+NI Naaman agturay kadagiti suldado iti maysa kadagiti kalaban iti Israel.
+
+  * Ni Naaman ket naaddaan nakaro unay a sakit wenu annayen ti bagi a awan maa ammu ti agasna.
+  * Ni Elisha inbagana ken Naaman a mapan bumatok saddiay karayan Jordan. Idi a ni Naaman ket nagtulno, Ti Dios pina-imbag na ti sakit na.
   * Naaman believed in God because he had healed him of this disease.
+  * Ni Naaman namati iti Dios gupa ts pinaimbag ti Dios ti sakit na.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names|How to Translate Names]])
+(Singasing Kadagiti Ipataros:[[:ilo:ta:vol1:translate:translate_names|Kasano a iIpataros Dagiti Nagnagan]])
 
-(See also: [[jordanriver|Jordan River]])
+(Kitaen met: [[:ilo:obe:other:jordanriver|Karayan Jordan]])
+
 
 ===== Bible References: =====
 
