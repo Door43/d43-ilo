@@ -1,18 +1,17 @@
 ====== Nathan ======
 
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-Nathan was a faithful prophet of God who lived during the time when David was king over Israel.
+Ni Nathan ket maysa a napudno nga propeta ti Dios a nagbiag idi tiempo nga ni David ket ari ti buo nga Israel.
 
-  * God sent Nathan to confront David after David sinned grievously against Uriah.
-  * Nathan rebuked David, in spite of the fact that David was the king.
-  * David repented of his sin after Nathan spoke to him.
+  * Inbaon ti Dios ni Nathan tapno tubngaren na ni David kalpasan a nagbasol isuna ti napalalo maibusor kenni Uriah.
+  * Tinubngar ni Nathan ni David, nu pay ti kinapudno ket ari ni David.
+  * Nagbabawi ni David kadagiti basol na kalpasan nga kinatungtong ni Nathan.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
+(Singasing kadagiti Panagpataros: [[:ilo:ta:vol1:translate:translate_names|Ipataros dagiti Nagnagan]])
 
-(See also: [[david]], [[uriah]])
-
+(Kitaen met: [[:ilo:obe:other:david|David]], [[:ilo:obe:other:uriah|Uriah]])
 
 ===== Bible References: =====
 
