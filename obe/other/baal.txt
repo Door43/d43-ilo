@@ -1,18 +1,18 @@
 ====== Baal ======
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-Baal was the name of a false god that was worshiped by several people groups in the land of Canaan.
+Ni Baal ket isu ti palso a dios nga pinagrukbaban dagiti sumagmamano nga tattao idiay Canaan.
 
-  * The name "Baal" means "lord." The worship of Baal was therefore a direct challenge to the authority of Yahweh, who alone is the true Lord.
-  * The worship of Baal included acts of prostitution and sometimes involved burning children as a sacrifice.
-  * At different times, the Israelites sinned by also worshiping Baal.
-  * During the reign of King Ahab, there were 450 prophets of Baal in the northern kingdom of Israel. The prophet Elijah challenged these prophets to a test, which proved that Baal does not exist and Yahweh is the only true God.
-  * As a result, the people killed the prophets of Baal and turned back to worshiping Yahweh.
+  * Ti nagan a "Baal" ket adda kayat na a sawen nga "apo." Ti panagrubab kenni Baal ket maysa nga panagpadas ti turay ni Yahweh, nga isu laeng ti pudno nga Apo.
+  * Ti panagrukbab kenni Baal ramanen na ti wagas dagiti balangkantis ken nu dadduma ti panangpuor kadagiti ubbing a kas daton.
+  * Iti nadumaduma nga tiempo, nagbasol dagiti Israelita babaen ti panagrukbab kenni Baal.
+  * Idi agturturay ni Ari nga Ahab, adda ti uppat a gasut nga mammadto ni Baal iti ammianan nga paset ti pagarian ti Israel. Ni propeta nga Elijah inawis na dagiti mammadto ni Baal iti maysa a padas, nga mangpaneknek nga saan a pudno ni Baal ket ni Yahweh laeng ti pudno a Dios.
+  * Idi nalpas, pinapapatay dagiti tattao dagiti mammadto ni Baal ken nagsubli da nga nagrukbab kenni Yahweh.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]]) 
+(Singasing kadagiti Panagpataros: [[:ilo:ta:vol1:translate:translate_names|Ipataros dagiti Nagnagan]])
 
-(See also: [[:ilo:obe:other:elijah]], [[:ilo:obe:kt:yahweh]], [[:ilo:obe:other:ahab]], [[:ilo:obe:kt:falsegod]])
+(Kitaen met: [[:ilo:obe:other:elijah|Elijah]], [[:ilo:obe:kt:yahweh|Yahweh]], [[:ilo:obe:other:ahab|Ahab]], [[:ilo:obe:kt:falsegod|palso a dios, dios]])
 
 ===== Bible References: =====
 
