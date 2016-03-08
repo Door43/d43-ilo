@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?nolink&}}
 
-Kalpasan a nakisarita kenni Jesus ket rimmuar ni Pilato ket napan kadagiti adu a tattao ket kinunana, “Awan ti makitak a nagbasulan daytoy a tao.” Ngem impukkaw dagiti panguloen a Judio ken dagiti tattao, “Ilansam isuna iti krus!” Simmungbat ni Pilato ket kinunana, “Saan a nagbasol daytoy tao,” Ngem pinigpigsaan da pay ti panagpukkaw da. Ket imbaga ni Pilato iti maikatlo a daras, “Saan a nagbasol daytoy tao!”
+Kalpasan a nakisarita kenni Jesus ket rimmuar ni Pilato ket napan kadagiti adu a tattao ket kinunana, “Awan ti makitak a nagbasolan daytoy a tao.” Ngem impukkaw dagiti panguloen a Judio ken dagiti tattao, “Ilansam isuna iti krus!” Simmungbat ni Pilato ket kinunana, “Saan a nagbasol daytoy tao,” Ngem pinigpigsaan da pay ti panagpukkaw da. Ket imbaga ni Pilato iti maikatlo a daras, “Saan a nagbasol daytoy tao!”
 
 ===== Dagiti Napapateg a Balikas: =====
 
@@ -13,6 +13,8 @@ Kalpasan a nakisarita kenni Jesus ket rimmuar ni Pilato ket napan kadagiti adu a
   * **[[:ilo:obe:kt:crucify|Maikrus]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
-  * **I find no guilt in this man**  - That is, "I do not find this man to be guilty" or, "I have examined this man, and I do not see that he has done anything wrong."
-  * **He is not guilty**  - That is, "He has done nothing wrong!"
+  * **Awan ti makitak a nagbasolan daytoy a tao **- Dayta ket, "Inusig ko daytoy a tao ket awan ti pakakitaan nga adda ti inaramidna a pagbasolan."
+  * **Saan a nagbasol daytoy a tao**
+ -  Dayta ket, "Awan saan nga nasayaat nga inaramid daytoy a tao!" wenno, "Inosente daytoy a tao!"
+
 **[[:ilo:obs:notes:frames:39-10|<<]] | [[:ilo:obs:notes:39|Up]] | [[:ilo:obs:notes:frames:39-12|>>]]**
