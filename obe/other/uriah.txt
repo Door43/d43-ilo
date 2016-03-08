@@ -1,17 +1,17 @@
 ====== Uriah ======
 
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-Uriah was a righteous man and one of King David's best soldiers.
+Ni Uriah ket maysa a nalinteg nga tao ken maysa kadagiti kapapatgan a suldado ni Ari David.
 
-  * Uriah had a very beautiful wife named Bathsheba.
-  * David committed adultery with Uriah's wife, and she became pregnant with David's child.
-  * David caused Uriah to be killed in battle in order to cover up his sin. David then married Bathsheba.
+  * Addaan niUriah ti napintas nga asawa a managan Batsheba.
+  * Nakikamalala ni David ti asawa ni Uriah, ken nagsikug nga kukwa ni David.
+  * Inpapatay ni David ni Uriah iti gubat tapno mailimmeng na ti basol na. Kalpasan na, inasawa ni David ni Bathsheba.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
+(Singasing kadagiti Panagpataros: [[:ilo:ta:vol1:translate:translate_names|Ipataros dagiti Nagnagan]])
 
-(See also: [[david]], [[bathsheba]])
+(Kitaen met: [[:ilo:obe:other:david|David]], [[:ilo:obe:other:bathsheba|Bathsheba]])
 
 ===== Bible References: =====
 
