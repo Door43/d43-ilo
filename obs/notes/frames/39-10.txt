@@ -2,19 +2,19 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-10.jpg?nolink&}}
 
-Simmungbat ni Jesus ket kinunana, “Naibagamon, ngem ti pagariak ket saan a naidagaan a pagarian. Ta no kasta koma ket lumaban dagiti adipen ko a para kaniak. Immayak dituy lubong tapno iwaragawag ko ti kinapudno a maipanggep iti Dios. Dumngeg kaniak ti siasinoman a mangayat iti kinapudno.”  Kinuna ni Pilato, “Anya aya ti kinapudno?”
+Simmungbat ni Jesus ket kinunana, “Naibagamon, ngem ti pagariak ket saan a naidagaan a pagarian. Ta no kasta koma ket lumaban dagiti adipen ko a para kaniak. Immayak dituy lubong tapno iwaragawag ko ti kinapudno a maipanggep iti Dios. Dumngeg kaniak ti siasinoman a mangayat iti kinapudno.” Kinuna ni Pilato, “Anya aya ti kinapudno?”
 
-===== Important Terms: =====
+===== Dagiti Napapateg a Balikas: =====
 
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:kingdomofgod]]**
-  * **[[:ilo:obe:other:kingdom]]**
-  * **[[:ilo:obe:other:servant]]**
-  * **[[:ilo:obe:kt:true]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:love]]**
-  * **[[:ilo:obe:other:pilate]]**
-===== Translation Notes: =====
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:kt:kingdomofgod|Pagarian ti Dios,Pagarian ti Langit]]**
+  * **[[:ilo:obe:other:kingdom|pagarian]]**
+  * **[[:ilo:obe:other:servant|adipen, tagabo, panagtagabo]]**
+  * **[[:ilo:obe:kt:true|agpayso, kinaagpayso]]**
+  * **[[:ilo:obe:kt:god|Dios]]**
+  * **[[:ilo:obe:kt:love|ayat]]**
+  * **[[:ilo:obe:other:pilate|Pilate]]**
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **You have said so**  - That is, "You have spoken correctly."
   * **my kingdom is not an earthly kingdom**  - That is, "my kingdom is not like earthly kingdoms."
