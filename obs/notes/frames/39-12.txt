@@ -2,17 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-12.jpg?nolink&}}
 
-Nagdanag ni Pilato nga amangan no aggulo dagiti tattao isu nga immanamongen nga ipalansa na ni Jesus iti krus babaen kadagiti soldado na. Sinapsaplit dagiti suldado ti taga Roman ni Jesus ken sinuotan da isuna iti kawes ti ari. Kinoronaan da pay isuna iti siit. Kalpasan na  inuy-uyaw da isuna a kunkuna da, “Kitaen yo ti Ari dagiti Judio!”
+Nagdanag ni Pilato nga amangan no aggulo dagiti tattao isu nga immanamongen nga ipalansa na ni Jesus iti krus babaen kadagiti soldado na. Sinapsaplit dagiti suldado ti taga Roman ni Jesus ken sinuotan da isuna iti kawes ti ari. Kinoronaan da pay isuna iti siit. Kalpasan na inuy-uyaw da isuna a kunkuna da, “Kitaen yo ti Ari dagiti Judio!”
 
-===== Important Terms: =====
+===== Dagiti Napapateg a Balikas: =====
 
-  * **[[:ilo:obe:other:pilate]]**
-  * **[[:ilo:obe:kt:crucify]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:other:rome]]**
-  * **[[:ilo:obe:other:mock]]**
-  * **[[:ilo:obe:kt:kingofthejews]]**
-===== Translation Notes: =====
+  * **[[:ilo:obe:other:pilate|Pilate]]**
+  * **[[:ilo:obe:kt:crucify|Maikrus]]**
+  * **[[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:ilo:obe:other:rome|Rome, Roman]]**
+  * **[[:ilo:obe:other:mock|mock, ridicule, scoff at]]**
+  * **[[:ilo:obe:kt:kingofthejews|Ari Dagiti Jews]]**
+===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **riot**  - That is, "start doing violent things in their anger."
   * **he agreed to have**  - Pilate did not want to kill Jesus because he believed that Jesus was innocent. But he was forced to tell his soldiers to crucify Jesus because of his fear of the crowd. If possible, translate this phrase in a way that shows his reluctance.
