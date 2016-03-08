@@ -1,18 +1,17 @@
 ====== Rehoboam ======
 
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-Rehoboam was one of the sons of King Solomon, and became the king of the nation of Israel after Solomon died.
+Ni Rehoboam ket maysa kadagiti anak ni Ari Solomon, ken nagbalin nga ari ti nasion nga Israel kalpsan a natay ni Solomon.
 
-  * When Rehoboam spoke too severely to the people of Israel, ten of the tribes rebelled against him. Because of this, the nation of Israel became two kingdoms: the kingdom of Israel in the north and the kingdom of Judah in the south.
-  * Rehoboam continued to be the king of the kingdom of Judah, which consisted of the two tribes who remained loyal to him.
-  * Rehoboam was a wicked king who did not obey Yahweh, but served false gods.
+  * Idin nakaru ti panagsao ni Rehoboam kadagiti tattao ti Israel, sangapulo a tribo ti nagrebelde maibusor kenkuana. Gapu iti daytoy, ti nasion ti Israel ket nagbalin a dua a pagarian: ti pagarian ti Israel iti ammianan ken ti pagarian ti Judah iti abagatan.
+  * Nagtultuloy ni Rehoboam a nagbalin nga ari iti pagarian ti Judah, nga addaan ti dua a tribo nga nagtalinaed kenkuana.
+  * Ni Rehoboam ket nadakes nga ari a saan nga nagtulnog kenni Yahweh, ngem nagserbi ti palso a dios.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
+(Singasing kadagiti Panagpataros: [[:ilo:ta:vol1:translate:translate_names|Ipataros dagiti Nagnagan]])
 
-(See also: [[solomon]], [[kingdomofjudah]])
-
+(Kitaen met: [[:ilo:obe:other:solomon|Solomon]], [[:ilo:obe:other:kingdomofjudah|Judah, pagarian ti Judah]])
 
 ===== Bible References: =====
 
