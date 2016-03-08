@@ -1,19 +1,18 @@
 ====== Bathsheba ======
 
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-Bathsheba was the wife of Uriah, a soldier in King David's army. She became the wife of David, and the mother of Solomon.
+Ni Bathsheba ket ti asawa ni Uriah, maysa a suldado ti armada ni Ari David. Nagbalin isuna nga asawa ni David, ken ti ina ni Solomon.
 
-  * David committed adultery with Bathsheba while she was married to Uriah.
-  * When Bathsheba became pregnant with David's child, David caused Uriah to be killed in battle. David then married Bathsheba. 
-  * God punished David for his sin by causing the child to die several days after he was born.
-  * Later, Bathsheba gave birth to another son, Solomon, who became king after David.
+  * Nakikamalala ni David kenni Bathsheba idin tu a naikasar isuna kenni Uriah.
+  * Idi nagsikugen ni Bathsheba ti anak ni David, inpapatay ni David ni Uriah iti maysa a gubat. Kalpasan na, inasawa ni David ni Bathsheba.
+  * Dinusa ti Dios ni David gapu ti basol na isu nga ti ubing ket natay manu nga aldaw kalpasan na a naiyanak.
+  * Kalpasan na, naganak manen ni Bathsheba ti lalaki, Solomon, isu nga nagbalin nga ari simaruno kenni David.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
+(Singasing kadagiti Panagpatarus: [[:ilo:ta:vol1:translate:translate_names|Ipataros dagiti Nagnagan]])
 
-(See also: [[uriah]], [[david]], [[solomon]])
-
+(Kitaen met: [[:ilo:obe:other:uriah|Uriah]], [[:ilo:obe:other:david|David]], [[:ilo:obe:other:solomon|Solomon]])
 
 ===== Bible References: =====
 
