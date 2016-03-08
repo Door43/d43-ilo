@@ -11,12 +11,12 @@ Ti sao a "awan basolna,awan babakna,nalinteg" ket ti kayat na sawen ket awan nag
 
 ===== Translation Suggestions: =====
 
-  * The term "innocent" could also be translated as "not guilty" or "having done nothing wrong."
-  * If possible, it is best to translate "sinless" and "innocent" differently.
-  * The frequently occurring idiom, "innocent blood" could be translated as, "people who did nothing wrong to deserve being killed."
-  * Depending on the context, other ways to translate "innocent" could include, "naive" or "pure" or "unsuspecting of evil" or "not mixed up in evil."
+  * Ti sao a "awan basolna, awan babakna ,nalinteg" ket maipataros met a kas "saan a nagbiddut" wennu "saan a nagaramid ti dakes."
+  * Nu mabalin, ti kasayaatan a panangipataros ket "awanan basol" ken "awan babak, nalinteg." agsabali.
+  * Ti pagsasao a "awan darana a nakabasol" ket maipataros met a kas" tao a awan inaramidna a dakes ket mapapatay."
+  * Sigun ti linaonna, adda sabali a wagas ti panangipataros "awan basolna, awan babakna, nalinteg." ket karaman "saan a napasaw" wennu " nadalus,nalinis,natarnaw" wennu " awan laokna a dakes."
 
-(See also: [[:ilo:obe:kt:guilt|guilt, guilty]])
+(Kitaen met: [[:ilo:obe:kt:guilt|biddut, nagbiddut]])
 
 ===== Bible References: =====
 
