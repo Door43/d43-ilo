@@ -12,14 +12,16 @@ Ti sao a “Dio Ama” ket maysa wagas a ti sarsaritaenna ket ni Yahweh, ti pudn
   * Siasino man a mamati  iti Dios a  isuna a nagbalin nga Anak ti Dios Ama ken Dios Ispiritu Santu a agtalinaed iti daytaa tao. Maysa pay dayta a misteryo a saan unay amaawatan dagiti tattao.
 
 
-===== Translation Suggestions: =====
+=====   =====
 
-  * In the phrase "God the Father," it is best to translate "Father" with the same word that the language naturally uses to refer to a human father.
-  * The term "Heavenly Father" could be translated by "Father God who lives in Heaven" or "God our Father from Heaven" or "Father who lives in Heaven."
+**Singasing Kadagiti Ipataros:**
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names|How to Translate Names]])
+   * Ti ragup ti sasao a “Dios Ama” ket isu kamayatan panangipataros ti “Ama” a maymaysa a sao a pagsasao iti kas kadaywan a ar-aramaten a maiturong iti tao a ama.
+  * Ti inaganan ti “Nain-langitan a Ama” ket maipataros a kas “Ama a Dios nga adda sadi langit” wennu “Dios Ama mi sadi langit.”
 
-(See also: [[ilo:obe:kt:god]], [[:En:obe:kt:holyspirit]], [[:ilo:obe:kt:sonofgod]], [[:ilo:obe:other:father]], [[:En:obe:kt:jesus]], [[:ilo:obe:kt:heaven]])
+(Translation suggestions: [[:ilo:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:ilo:obe:kt:god|Dios]], [[:en:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]], [[:ilo:obe:kt:sonofgod|Son of God, the Son]], [[:ilo:obe:other:father|father, forefather]], [[:en:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:ilo:obe:kt:heaven|heaven, sky, heavens, heavenly]])
 
 ===== Bible References: =====
 
