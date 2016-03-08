@@ -1,20 +1,19 @@
 ====== David ======
 
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-David was the second king of Israel and he loved and served God. He was the main writer of the book of Psalms.
+Ni David ket isu ti makadua nga ari ti Israel ken inayat ken pinagserbian na ti Dios. Isuna ti kapatgan kadagiti nangisurat ti libro ti Salmo.
 
-  * When David was still a young boy caring for his family's sheep, God chose him to become the next king of Israel. 
-  * David became a great fighter and led the Israelite army in battles against their enemies. His defeat of Goliath the Philistine is well-known.
-  * Saul tried to kill David, but God protected him, and made him king after Saul's death.
-  * David sinned against God, but he repented and God forgave him.
-  * Jesus, the Messiah, is called the "Son of David" because he is a descendant of King David. 
+  * Idi ni David ket ubbing pay a mangay-aywan iti karnero ti pamilya na, pinili isuna ti Dios nga agbalin a sumaruno nga ari ti Israel.
+  * Nagbalin a nadayag a mannakigubat ken indalan na dagiti suldado nga Israelita a makiranget kadagiti kabusor da. Ti pannangabak na kenni Goliath a Filisteo ti mabigbig a pirmi.
+  * Pinadas ni Saulo nga patayen ni David, ngem ti Dios ni nangaywan kankuana, ken inaramid na nga ari kalpasan nga natay ni Saul.
+  * Nagbasol ni David iti Dios, ngem nagbabawi ket pinakawan ti Dios
+  * Ni Jesus, ti Messias, ket maawagan nga "Anak ni David" gapu ta isuna ket kaputotan ni Ari nga David.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
+(Singasing kadagiti Panagpatarus: [[:ilo:ta:vol1:translate:translate_names|Ipatarus dagiti Nagnagan]])
 
-(See also: [[:En:obe:other:goliath]], [[:En:obe:other:philistines]], [[:ilo:obe:other:saul]])
-
+(Kitaen met: [[:en:obe:other:goliath|Goliath]], [[:en:obe:other:philistines|Filisteo]], [[:ilo:obe:other:saul|Saulo (DT)]])
 
 ===== Bible References: =====
 
