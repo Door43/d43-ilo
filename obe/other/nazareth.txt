@@ -1,15 +1,18 @@
 ====== Nazareth, Nazarene ======
 
 
-===== Facts: =====
 
-Nazareth is a town in the region of Galilee in northern Israel.
 
-  * Joseph and Mary were from Nazareth, and this is where they raised Jesus.
-  * Many of the people in Nazareth did not respect the teaching of Jesus, because Jesus had grown up among them, and they thought that he was just an ordinary person.
+**Dagiti Kinapudo:**
+
+Ti Nazareth ket maysa a ili iti paset ti Galilee ti akinamianan ti Israel.
+
+  * Ni Joseph ken Mary ket naggapoda iddiay Nazareth a dimmakkelan ni Jesus.
+  * Adu dagiti tattao a saan a mamati kadagiti panursuro ni Jesus, Gapu ta ni Jesus ket dimmakkel iti dayta a lugar, ipagarup ket gagangay lang a tao.
   * The people of Nazareth tried to kill Jesus when he claimed to be the Messiah.
+  * Dagiti tattao a taga Nazareth ket ginandatda a papatayen ni Jesus idi ibaga na a isuna ti Messiah
 
-(See also: [[galilee]], [[josephnt]], [[mary]], [[ilo:obe:kt:christ]])
+(Kitaen Met: [[:ilo:obe:other:galilee|Galilee, Galilean]], [[:ilo:obe:other:josephnt|Joseph (NT)]], [[:ilo:obe:other:mary|Mary]], [[:ilo:obe:kt:christ|Christ, Messiah]])
 
 
 ===== Bible References: =====
