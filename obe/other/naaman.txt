@@ -1,9 +1,6 @@
 ====== Naaman ======
 
-
-
-**Dagiti Kinapudno:**
-
+===== **Dagiti Kinapudno:**  =====
 NI Naaman agturay kadagiti suldado iti maysa kadagiti kalaban iti Israel.
 
   * Ni Naaman ket naaddaan nakaro unay a sakit wenu annayen ti bagi a awan maa ammu ti agasna.
@@ -11,10 +8,9 @@ NI Naaman agturay kadagiti suldado iti maysa kadagiti kalaban iti Israel.
   * Naaman believed in God because he had healed him of this disease.
   * Ni Naaman namati iti Dios gupa ts pinaimbag ti Dios ti sakit na.
 
-(Singasing Kadagiti Ipataros:[[:ilo:ta:vol1:translate:translate_names|Kasano a iIpataros Dagiti Nagnagan]])
+(Singasing Kadagiti Ipataros:[[:ilo:ta:vol1:translate:translate_names|Kasano a Ipataros Dagiti Nagnagan]])
 
 (Kitaen met: [[:ilo:obe:other:jordanriver|Karayan Jordan]])
-
 
 ===== Bible References: =====
 
