@@ -9,14 +9,15 @@ Daytoy a sao ket maiturong iti demonyo, ispiritu a mangsupiayat iti pagayatan ti
   * Gapu ta dagiti demonyo agserbi iti demonyo met laeng, agaramida ti dakes a banbanag. Nu dadduma sumrekda kadagiti tattao ken tenglenna ida.
   * Dagiti demonyo ket napigpigsa da ngem tao, ngem saan a kas kabileg ken kapigsa it Dios.
 
-===== Translation Suggestions: =====
+===== Singasing Kadagiti Panagpatarus: =====
 
-  * The term "demon" could also be translated as "evil spirit."
+  * Ti sao a "demonyo" ket maipatarus met a kas "dakes a ispiritu."
   * The term "unclean spirit" could also be translated as "impure spirit" or "corrupt spirit" or "perverse spirit."
+  * Ti sao a "narugit a Ispiritu" ket maipatarus met a kas "saan a dalos a ispiritu"
   * Make sure that the word or phrase used to translate this term is different from the term used to refer to the devil.
-  * Also consider how the term "demon" is translated in a local or national language. (See: [[ilo:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Also consider how the term "demon" is translated in a local or national language. (See: [[:ilo:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(See also: [[:ilo:obe:kt:demonpossessed]], [[:ilo:obe:kt:satan]], [[:ilo:obe:other:idol]], [[:ilo:obe:kt:falsegod]], [[:ilo:obe:kt:angel]], [[:ilo:obe:kt:evil]], [[:ilo:obe:kt:unclean]])
+(See also: [[:ilo:obe:kt:demonpossessed|naluganan ti sairo, wennu demonyo]], [[:ilo:obe:kt:satan|Satanas, kadadaksan, dyablo]], [[:ilo:obe:other:idol|didiosen, panagdaydayaw kadagiti didiosen]], [[:ilo:obe:kt:falsegod|palso a dios, dios]], [[:ilo:obe:kt:angel|anghel, arkanghel]], [[:ilo:obe:kt:evil|dakes, nadangkes, kinadakes]], [[:ilo:obe:kt:unclean|unclean, uncleanness]])
 
 ===== Bible References: =====
 
