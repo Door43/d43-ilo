@@ -1,17 +1,16 @@
 ====== Nebuchadnezzar ======
 
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-Nebuchadnezzar was a king of the Babylonian Empire. This was a powerful empire during the time of the kingdom of Israel and the kingdom of Judah.
+Ni Nebuchadnezzar ket ari iti imperio ti Babylonia. Daytoy ket mannakabalin nga imperio iti panawen ti pagarian ti Israel ken ti pagarian ti Judah.
 
-  * Nebuchadnezzar had a powerful army that conquered many other people groups.
-  * Under Nebuchadnezzar's leadership, the Babylonian army attacked and conquered the kingdom of Judah, and took most of the people of Judah to Babylon as captives. This "Babylonian Exile" lasted 70 years.
+  * Addaan ti mannakabalin nga suldado ni Nebuchadnezzar nga nangparmek ti sabali a bunggoy ti tattao.
+  * Babaen ti panangidaulo ni Nebuchadnezzar, dagiti taga Babylon ket inasak ken pinarmek da ti pagarian ti Judah, ken innala da ti adu a tattao ti Judah idiay Babylon a kas balud. Iti "Ipapanaw da diay Babylon" ket bumayag ti pitopulo a tawen.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
+(Singasing kadagiti Panagpataros: [[:ilo:ta:vol1:translate:translate_names|Ipataros dagiti Nagnagan]])
 
-(See also: [[babylon]], [[kingdomofjudah]])
-
+(Kitaen met: [[:ilo:obe:other:babylon|Babylon, taga Babylon]], [[:ilo:obe:other:kingdomofjudah|Judah, pagarian ti Judah]])
 
 ===== Bible References: =====
 
