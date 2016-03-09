@@ -1,16 +1,15 @@
 ====== parigaten wennu idadanes, pannakaidadanes ======
 
-===== Definition: =====
+===== Dagiti Kaipapanan: =====
 
-To persecute someone is to repeatedly attack him or to treat him cruelly.
+Ti mangidadanes wennu mangparigat ti maysa a tao ket kanayunna a rauten wennu itrato iti naulpit.
 
-    * It is possible to persecute a single person, a small group of people, or even a large number of people.
-    * The Jewish religious leaders persecuted Jesus because they did not like what he was teaching.
-    * After Jesus went back to heaven, the Jewish religious leaders and the Roman government persecuted the Christians. However, the believers refused to stop preaching and teaching about Jesus, and the Church continued to grow.
-    * Other words for "persecution" are "mistreatment" or, "abuse" or, "oppression" or, "hostility."
+  * Mabalin ti mangparigat ti maysa a tao, bassit a bunggoy dagiti tao, wennu adu a tattao.
+  * Ti pangulwen ti linteg dagiti Jewish ket indadanesda ni Jesus gapu ta saanda a kayat ti panursurona.
+  * Sakbay a agsubli ni Jesus iddiay langit, dagiti pangulwen ti linteg iti Jewish ken gobyerno ti Roman ket indadanesda dagiti namati. Uray pay kasta, saanda latta a nagsardeng a nangasaba ken nangisursuro iti maipanggep ken ni Jesus, ken ti Iglesia ket natultuloy a dimmakkel wennu immadu.
+  * Other words for "persecution" are "mistreatment" or, "abuse" or, "oppression" or, "hostility."
 
-(See also: [[jewishleaders]], [[rome]], [[ilo:obe:kt:christian]], [[ilo:obe:kt:church]])
-
+(Kitaen met: [[:ilo:obe:other:jewishleaders|Pangulwen dagiti Judio, pangulwen ti linteg]], [[:ilo:obe:other:rome|Rome, Roman]],[[:ilo:obe:kt:church|Kristiano, Iglesia]])
 
 ===== Bible References: =====
 
