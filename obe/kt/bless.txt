@@ -24,13 +24,13 @@ Ti kayatna sawen ti"mangbendision" iti siasinoman wennu anyaman ket mangipaay ti
 
 {{topic>:en:bible?bless&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Dagiti ehemplo nga naadaw ti Biblia: =====
 
-  * **[[:ilo:obs:notes:frames:01-07|[01-07]]]** Nakitan ti Dios dagitoy ket naayatan ket **binendesiona**  na ida.
-  * **[[:ilo:obs:notes:frames:01-15|[01-15]]]** Inaramid ti Dios iti lalake ken babae a kaasping na. **Binendisyunan**  ti Dios ida ket kinunana kudakuada, “Aganak kayo ti adu agingga mapuno yo ti tao iti lubong."
-  * **[[:ilo:obs:notes:frames:01-16|[01-16]]]** Isua naginana ti Dios manipud iti panagtrahona. Ket **binendesyunan**  na ti makapito nga aldaw ken inaramid na a nasagradduan gamin ta iti dayta nga aldaw ket naginana isuna manipud iti panagtrabo.
-  * **[[:ilo:obs:notes:frames:04-04|[04-04]]]**"Aramidek a natan-ok ti nagan mo. **Bendisyonak**  dagiti **mangbendisyon**  kenka ken ilunod ko dagiti agilunod kenka. Amin a pamilya iti lubong ket **mabendisyonan**  da gapo kenka.."
-  * **[[:ilo:obs:notes:frames:04-07|[04-07]]]****Binendisyonan**  ni Melchizedek ni Abram a kinuna na, “**Bendisyonan**  naka koma ti Dios ko a kangatoan ken makinbagi ti langit ken daga."
-  * **[[:ilo:obs:notes:frames:07-03|[07-03]]]** Kayat ni Isaac nga ited kenni Esau ti **pamendisyon**  na.
-  * **[[:ilo:obs:notes:frames:08-05|[08-05]]]** Uray idiay pagbaludan ket nagtalinaed a matalek iti Dios ni Joseph ket **binendisyonan**  ti Dios isuna.
+  * **[[:ilo:obs:notes:frames:01-07|[01-07]]]** Nakitan ti Dios dagitoy ket naayatan isuna ket **binendesiona****n**  na ida.
+  * **[[:ilo:obs:notes:frames:01-15|[01-15]]]** Inaramid ti Dios iti lalake ken babae a kaasping na. **Binendisionan**  ti Dios ida ket kinunana kudakuada, “Aganak kayo ti adu agingga mapuno yo ti tao iti lubong."
+  * **[[:ilo:obs:notes:frames:01-16|[01-16]]]** Isua naginana ti Dios manipud iti panagtrahona. Ket **binendesionan**  na ti makapito nga aldaw ken inaramid na a nasagradduan gamin ta iti dayta nga aldaw ket naginana isuna manipud iti panagtrabo.
+  * **[[:ilo:obs:notes:frames:04-04|[04-04]]]**"Aramidek a natan-ok ti nagan mo. **Bendisionak**  dagiti **mangbendision**  kenka ken ilunod ko dagiti agilunod kenka. Amin a pamilya iti lubong ket **mabendisionan**  da gapo kenka.."
+  * **[[:ilo:obs:notes:frames:04-07|[04-07]]]****Binendisionan**  ni Melchizedek ni Abram a kinuna na, “**Bendisionan**  naka koma ti Dios ko a kangatoan ken makinbagi ti langit ken daga."
+  * **[[:ilo:obs:notes:frames:07-03|[07-03]]]** Kayat ni Isaac nga ited kenni Esau ti **pamendision**  na.
+  * **[[:ilo:obs:notes:frames:08-05|[08-05]]]** Uray idiay pagbaludan ket nagtalinaed a matalek iti Dios ni Joseph ket **binendisionan**  ti Dios isuna.
 ~~DISCUSSION~~{{tag>publish ktobs}}
