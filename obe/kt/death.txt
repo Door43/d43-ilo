@@ -31,7 +31,7 @@ Daytoy a balikas ket agpada a mausar maipapan ti nainlasagan ken naespirituan ng
 
 {{topic>:en:bible?death&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Dagiti ehemplo nga naadaw kadagiti istoryan ti Biblia: =====
 
   * **[[:ilo:obs:notes:frames:01-11|[01-11]]]** Ket kinuna ti Dios kenni Adam a mabalin a mangan manipud iti inyaman a kayo malaksid iti aggapo iti kayo ti pannakaamo iti nasayaat ken dakes. No mangan isuna manipud iti daytoy a kayo ket **matay**  isuna.
   * **[[:ilo:obs:notes:frames:02-11|[02-11]]]**"Ket **matay**  kanto ken agsubli ti bagim iti tapok."
@@ -39,8 +39,8 @@ Daytoy a balikas ket agpada a mausar maipapan ti nainlasagan ken naespirituan ng
   * **[[:ilo:obs:notes:frames:37-05|[37-05]]]**"Simmungbat ni Jesus, “Siak ti Panagungar ken ti Biag. Siasinoman a mamati kaniak ket agbiag, uray pay no **matay**. Amin a mamati kaniak ket saanto pulos a **matay**."
   * **[[:ilo:obs:notes:frames:40-08|[40-08]]]** Babaen ti **ipapatay**  na ket linukatan ni Jesus ti dalan dagiti tattao tapno makaasideg da iti Dios.
   * **[[:ilo:obs:notes:frames:43-07|[43-07]]]**"Numan pay **natay**  ni Jesus ket pinagungar ti Dios isuna manipud kadagiti **natay**"
-  * **[[:ilo:obs:notes:frames:48-02|[48-02]]]** Gapo ta nagbasol da ket mangrugi metten nga agsakit ken **matay ** dagiti amin nga adda ditoy lubong
-  * **[[:ilo:obs:notes:frames:50-17|[50-17]]]** Punasen nanto dagiti lua ken awanton ti panagsagaba, panagladingit, panagsangit, kinadakes, sakit, wenno **pannakatay**.
+  * **[[:ilo:obs:notes:frames:48-02|[48-02]]]** Gapo ta nagbasol da ket mangrugi metten nga agsakit ken **matay **  dagiti amin nga adda ditoy lubong
+  * **[[:ilo:obs:notes:frames:50-17|[50-17]]]** Punasen nanto dagiti lua ken awanton ti panagsagaba, panagladingit, panagsangit, kinadakes, sakit, wenno **ipapatay**.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
