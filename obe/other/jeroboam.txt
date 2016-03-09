@@ -3,20 +3,15 @@
 
 ===== Dagiti Kinapudno: =====
 
-Jeroboam was the first king of the northern kingdom of Israel. He ruled over the ten tribes of Israel that rebelled and separated from the southern tribes of Judah and Benjamin.
-
 Ni Jeroboam ket isu ti immuna nga ari ti amianan a pagarian ti Israel. Inturayan na ti sangapulo a tribu ti Israel nga nagrebelde ken summina manipud ti abagatan a tribu ti Judah ken Benjamin.
 
-  * Jeroboam had been one of king Solomon's officials and then he rebelled against the king and caused ten of the tribes of Israel to be divided from the other two tribes.
   * Ni Jeroboam ket maysa a dati nga opisyal ni ari Solomon ken kalpasan na nagrebelde maibusor iti ari ket isu ti nakagapu a sumina ti sangapulo a tribu ti Israel manipud ti dua a sabali a tribu.
-  * Jeroboam was a very wicked king. He set up idols and encouraged the people of the kingdom of Israel to worship them, instead of worshiping Yahweh at the temple in Jerusalem.
-  * Ni Jeroboam ket nadakes unay nga ari. Nangipatakder ti didiosen ken induron na dagiti tattao ti pagarian ti Israel nga agrukbab kadakuada, imbes nga ni Yahweh lang kuma ti pagrukbaban da idiay templo ti Jerusalem.
-  * Other kings of the kingdom of Israel followed Jeroboam's evil example.
-  *
+  * Ni Jeroboam ket nadakes unay nga ari. Nangipatakder ti didiosen ken induron na dagiti tattao ti pagarian iti Israel nga agrukbab kadakuada, imbes nga ni Yahweh lang kuma ti pagrukbaban da idiay templo ti Jerusalem.
+  * Dagiti sabali a ari ti pagarian ti Israel ket sinurot da ti dakes nga pagtuladan ni Jeroboam.
 
-(Translation suggestions: [[:ilo:ta:vol1:translate:translate_names|Translate Names]])
+(Singasing kadagiti Panagpataros: [[:ilo:ta:vol1:translate:translate_names|Ipataros dagiti Nagnagan]])
 
-(See also: [[:ilo:obe:other:kingdomofisrael|kingdom of Israel]], [[:ilo:obe:other:kingdomofjudah|Judah, kingdom of Judah]])
+(Kitaen met: [[:ilo:obe:other:kingdomofisrael|pagarian ti Israel]], [[:ilo:obe:other:kingdomofjudah|Judah, pagarian ti Judah]])
 
 ===== Bible References: =====
 
