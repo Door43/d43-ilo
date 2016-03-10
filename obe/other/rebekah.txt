@@ -1,18 +1,17 @@
 ====== Rebekah  ======
 
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-Rebekah was a daughter of one of Abraham's nephews. Her grandfather was Abraham's brother.
+Ni Rebekah ket anak ti kaanakan ni Abraham. Ti lolo na ket kabsat ni abraham.
 
-    * God chose Rebekah to be the wife of Abraham's son Isaac. 
-    * Rebekah left her country and went with Abraham's servant to go to Isaac's country, marry Isaac, and live there with his family.
-    * For a long time Rebekah did not have any children, but finally God blessed her with twin boys, Esau and Jacob.
+  * Pinili ti Dios ni Rebekah nga agbalin nga asawa ti anak ni Abraham a ni Isaac.
+  * Inbati ni Rebekah ti nasion na ken simmurot iti adipen ni Abraham nga mapan diay nasion ni Isaac, pakasaran na ni Isaac, ken agnaed sadiay nga kadwa ti pamilya na.
+  * Iti nabayag a tiempo madi a naadaan ti anak ni Rebekah, ngem kalpasan na binendisionan ti Dios isuna iti kambal a lallaki, ni Esau kenni Jacob.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
+(Singasing kadagiti Panagpataros: [[:ilo:ta:vol1:translate:translate_names|Ipataros dagiti Nagnagan]])
 
-(See also: [[ilo:obe:other:abraham]], [[isaac]], [[jacob]], [[esau]])
-
+(Kitaen met: [[:ilo:obe:other:abraham|Abraham, Abram]], [[:ilo:obe:other:isaac|Isaac]], [[:ilo:obe:other:jacob|Jacob, Israel]], [[:ilo:obe:other:esau|Esau]])
 
 ===== Bible References: =====
 
