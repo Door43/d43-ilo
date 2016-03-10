@@ -1,18 +1,17 @@
 ====== Esau ======
 
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-Esau was one of the twin sons of Isaac and Rebekah. He was the first baby born. His twin brother was Jacob.
+Ni Esau ket maysa kadagiti kambal nga anak ni Isaac kenni Rebekah. Isu na ti inauna nga anak. Ti kambal na ket ni Jacob.
 
-    * Esau sold his birthright to his brother Jacob in exchange for a bowl of food.
-    * Since Esau was born first, his father was supposed to give him a special blessing. But Jacob stole Esau's blessing. At first Esau was so angry that he wanted to kill Jacob, but later he forgave him.
-    * Esau had many children and grandchildren, and these descendants formed a large people group living in the land of Canaan.
+  * Inlako ni Esau ti karbengan na a kas inauna nga anak kenni Jacob a kabsat na, kasukat ti sanga manlukong a makan.
+  * Gapu ta ni Esau ti inauna, masapul nga maala na kenni tatang na ti naisangsangayan a pamindesion. Ngem tinakaw ni Jacob ti bendision ni Esau. Idi damu ket nakaru ti unget ni Esau nga ti kayat na ket mapatay na ni Jacob, ngem kalpasan na ket pinakawan na met laeng.
+  * Naaddaan ni Esau ti adu nga anak ken apuko, ket dagitoy nga kaputotan ti nangbukel ti kadakkelan a bunggoy ti tattao nga agnanaed idiay Canaan.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
+(Singasing kadagiti Panagpataros: [[:ilo:ta:vol1:translate:translate_names|Ipataros dagiti Nagnagan]])
 
-(See also: [[:ilo:obe:other:isaac]], [[:ilo:obe:other:rebekah]], [[:En:obe:other:jacob]] [[:En:obe:other:Edom]])
-
+(Kitaen met: [[:ilo:obe:other:isaac|Isaac]], [[:ilo:obe:other:rebekah|Rebekah]], [[:en:obe:other:jacob|Jacob, Israel]] [[:en:obe:other:edom|Edom, Edomita, Idumea, Seir, Teman]])
 
 ===== Bible References: =====
 
