@@ -1,16 +1,15 @@
 ====== Karayan Nilo, Karayan ti Egypt ======
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-The Nile is a very long and wide river in northeastern Africa. It is especially well-known as the main river of Egypt.
+Ti Nilo ket maysa nga kaatiddugan ken kalawaan nga karayan iti ammianan daya ti Africa. Daytoy ti mabigbig nga karayan ti Egypt.
 
-  * The Nile River flows north through Egypt and empties into the Mediterranean Sea.
-  * Crops grow well in its fertile valley.
-  * Most Egyptians live near the Nile River since it is an important source of water and food crops.
-  * As a baby, Moses was placed in a basket among the reeds of the Nile. 
+  * Ti Karayan Nilo ket agayus agturong ti Egypt ken agibos idiay Baybay ti Mediterranea.
+  * Dagiti mulmula ket napintas ti panagdakkel da kadagiti nadam-eg a kapatadan.
+  * Kaadwan kadagiti taga Egypt ket agnanaed ti asideg ti Karayan Nilo gapu ta isu ti paggapuan ti danum ken makmakan.
+  * Kas maysa nga ubing, inkabil da ni Moses ti basket kadagiti karuutan ti Nilo.
 
-(See: [[egypt]], [[moses]] other)
-
+(Kitaen: [[:ilo:obe:other:egypt|Egypt, Egipcio]], [[:ilo:obe:other:moses|Moses]] other)
 
 ===== Bible References: =====
 
