@@ -1,17 +1,17 @@
 ====== Hagar ======
 
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-Hagar was Sarai's personal slave.
+Ni Hagar ket tagabo ni Sarai a mangaywan kenkuana.
 
-  * Sarai, later named Sarah, gave Hagar to her husband, Abram, as a slave wife.
-  * Sarai wanted Hagar to bear children for her and Abram.
-  * Hagar gave birth to Abram's son, Ishmael.
+  * Ni Sarai ket napanaganan ti Sarah,inted na ni Hagar iti asawa na nga ni Abram a kas asawa a tagabo.
+  * Kinayat ni Sarai nga ni Hagar ket aganak para kadakuada kenni Abram.
+  * Inyanak ni Hagar ti putot ni Abram nga isu ni Ishmael.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
+(Singasing kadagiti panagpataros: [[:ilo:ta:vol1:translate:translate_names|Ipataros dagiti nagnagan]])
 
-(See also: [[sarah]], [[ilo:obe:other:abraham]], [[servant]])
+(Kitaen met: [[:ilo:obe:other:sarah|Sarah, Sarai]], [[:ilo:obe:other:abraham|Abraham, Abram]], [[:ilo:obe:other:servant|adipen, tagabo, panagtagabo]])
 
 ===== Bible References: =====
 
