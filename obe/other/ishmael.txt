@@ -1,20 +1,17 @@
 ====== Ishmael ======
 
 
-===== Dagiti kinapudno: =====
+===== Dagiti Kinapudno: =====
 
-Ishmael was the son of Abraham and Sarah's servant, Hagar.
+Ni Ishmael ket anak ni Abraham ken ti tagabo ni Sarah a ni Hagar
 
-Anak ni Abraham ken ti tagabo ni Sarah a ni Hagar ni Ishmael.
+  * Ti kayat a sawen ti nagan nga Ishmael ket, "dinengngeg ti Dios."
+  * Inawat ni Ishmael ti pagimbagan ti nadiosan a kari nga naaramid kenni Hagar maipapan kenkuana ken ti masakbayan na.
+  * Nu pay kasta, ni Ishmael ket saan nga ti anak nga pakaaramidan ti kari iti Dios kenni Abraham nga pakaaramidan ti kaputotan na a kas kaadu ti bibituen.
 
-  * The name "Ishmael" means, "God hears."
-  * Ti kayat  a sawen ti nagan nga Ishmael ket "dinengngeg ti Dios."
-  * Ishmael received the benefit of a divine promise made to Hagar about himself and his future.
-  * However, Ishmael was not the son through whom God would fulfill his promise to Abraham to make his descendants as numerous as the stars.
+(Singasing kadagiti Panagpataros: [[:ilo:ta:vol1:translate:translate_names|Ipatros dagiti Nagnagan]])
 
-(Translation suggestions: [[:ilo:ta:vol1:translate:translate_names|Translate Names]])
-
-(See also: [[:ilo:obe:other:abraham|Abraham, Abram]], [[:ilo:obe:other:sarah|Sarah, Sarai]], [[:en:obe:other:isaac|Isaac]] )
+(Kitaen met: [[:ilo:obe:other:abraham|Abraham, Abram]], [[:ilo:obe:other:sarah|Sarah, Sarai]], [[:en:obe:other:isaac|Isaac]] )
 
 ===== Bible References: =====
 
