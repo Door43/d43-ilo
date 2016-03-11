@@ -1,18 +1,17 @@
 ====== Silas, Silvanus ======
 
 
-===== Facts: =====
+===== Kinapudno: =====
 
-Silas was a leader among the believers in Jerusalem.
+Ni Silas ket pangulwen dagiti namati idiay Jerusalem.
 
-    * The church in Jerusalem appointed Silas to go with Paul and Barnabas to the city of Antioch.
-    * Silas later traveled with Paul to other cities to teach people about Jesus.
-    * Paul and Silas were put in jail in the city of Philippi. They trusted God and sang praises to him while they were there. God released them from the jail, and used them to save the jailer.
+  * Ti iglesia idiay Jerusalem dinutukan da ni Silas nga mapan kada Paul ken Barnabas idiay suidad ti Antioch.
+  * Ni Silas kamaudianan na nagbiahe da ken Paul iti sabali nga suidad tapnu mangisuro da kadagiti tattao maipanggep kenni Jesus.
+  * Da Paul ken Silas ket naibalod jay suidad ti Philippi.Nagtalek da idi Dios ken nagkankanta da nagdaydayaw da kenkuana kabayatan ti kaadda da sadiay.Ti Dios rinuk-atan na ida manipud pagbaludan,ken inaramat na ida tapnu maisalakan ti agbanbantay ti pagbaludan.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
+(Singasing Kadagiti Ipatarus: [[:ilo:ta:vol1:translate:translate_names|Ipatarus ti Nagan]])
 
-(See also: [[jerusalem]], [[paul]], [[philippi]])
-
+(Kitaen met [[:ilo:obe:other:jerusalem|Jerusalem]], [[:ilo:obe:other:paul|Paul, Saul]], [[:ilo:obe:other:philippi|Philippi]])
 
 ===== Bible References: =====
 
