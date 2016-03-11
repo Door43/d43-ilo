@@ -9,37 +9,35 @@ John became a prophet and told the people to confess their sins and obey God. He
 
 ====== Translate the Story ======
 
-
 Click on the links below to translate each frame of the story.
 
+[[:ilo:obs:notes:frames:24-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?nolink&200}}]]\\
+John the Prophet [24-01]
 
-[[:ilo:obs:notes:frames:24-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?200|Frame 24-01}}]]\\ 
-John the Prophet [24-01]\\ 
+[[:ilo:obs:notes:frames:24-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?nolink&200}}]]\\
+A Call to Repent [24-02]
 
-[[:ilo:obs:notes:frames:24-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?200|Frame 24-02}}]]\\ 
-A Call to Repent [24-02]\\ 
+[[:ilo:obs:notes:frames:24-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?nolink&200}}]]\\
+A Baptism of Repentance [24-03]
 
-[[:ilo:obs:notes:frames:24-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?200|Frame 24-03}}]]\\ 
-A Baptism of Repentance [24-03]\\ 
+[[:ilo:obs:notes:frames:24-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink&200}}]]\\
+Preparing the Way [24-04]
 
-[[:ilo:obs:notes:frames:24-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?200|Frame 24-04}}]]\\ 
-Preparing the Way [24-04]\\ 
+[[:ilo:obs:notes:frames:24-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink&200}}]]\\
+Not the Messiah [24-05]
 
-[[:ilo:obs:notes:frames:24-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?200|Frame 24-05}}]]\\ 
-Not the Messiah [24-05]\\ 
+[[:ilo:obs:notes:frames:24-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?nolink&200}}]]\\
+Jesus Is the Lamb of God [24-06]
 
-[[:ilo:obs:notes:frames:24-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?200|Frame 24-06}}]]\\ 
-Jesus Is the Lamb of God [24-06]\\ 
+[[:ilo:obs:notes:frames:24-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?nolink&200}}]]\\
+John Baptized Jesus [24-07]
 
-[[:ilo:obs:notes:frames:24-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?200|Frame 24-07}}]]\\ 
-John Baptized Jesus [24-07]\\ 
+[[:ilo:obs:notes:frames:24-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-08.jpg?nolink&200}}]]\\
+You Are My Beloved Son [24-08]
 
-[[:ilo:obs:notes:frames:24-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-08.jpg?200|Frame 24-08}}]]\\ 
-You Are My Beloved Son [24-08]\\ 
+[[:ilo:obs:notes:frames:24-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?nolink&200}}]]\\
+Jesus Is the Son of God [24-09]
 
-[[:ilo:obs:notes:frames:24-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?200|Frame 24-09}}]]\\ 
-Jesus Is the Son of God [24-09]\\ 
+//A Bible story from: Matthew 3; Mark 1:9-11; Luke 3:1-23//
 
-//A Bible story from: Matthew 3; Mark 1:9-11; Luke 3:1-23// 
-
-**[[:ilo:obs:notes:23|<< Previous]] | [[:ilo:obs:notes:25|Next >>]]**
+**[[:ilo:obs:notes:23|<< Napalabas]] | [[:ilo:obs:notes:25|Sumaruno >>]]**
