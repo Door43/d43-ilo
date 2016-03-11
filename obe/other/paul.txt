@@ -1,22 +1,22 @@
 ====== Paul, Saul ======
 
 
-===== Facts: =====
+===== Dagiti Kinapudno: =====
 
-Paul was a leader of the early church who was sent by Jesus to take the good news to many other people groups.
+Ni Pual ti pangulo ti umana a iglesia a inbaon ni Jesus tapno idanun na ti naimbag a damag kadagiti babassit a bunggoy.
 
-    * Paul was a Jew who was born in the Roman city of Tarsus, and was therefore also a Roman citizen.
-    * Paul was originally called by his Jewish name, Saul.
-    * Saul became a Jewish religious leader and arrested Jews who became Christians because he did not believe in Jesus.
-    * Jesus came to Saul in a blinding light and told him to stop hurting Christians. Jesus then sent a Christian man to teach Saul, and Saul believed in Jesus.
-    * At first, Saul taught Jews about Jesus.
-    * Later, God sent Saul to teach other people groups about Jesus in many Roman cities. Then he started using the Roman name, Paul.
-    * Paul also wrote letters to encourage and teach Christians in various cities. Some of his letters are in the Bible.
+  * Ni Paul ket maysa a Jew a nayanak iddiay ili ti Roman siudad ti Tarsus, ken maysan ngarud isuna a tattao ti Roman.
+  * Ni Pual ket  awaganda ti dati a naganna iti Jewish a, Saul.
+  * Ni Saul ket nagbalin a pangulwen dagiti Jewish ken tiniliw nadagiti Jews a nagbalin a Kristian gapu ta saan a mamati ken ni Jesus.
+  * Ni Jesus immay ken ni Sauliti makasisirap a lawag ken inbagana a isarrdengnan mangpaspasakit kadagiti Kristiano. Nangibaon ngarud ni Jesus ti maysa a Kristiano tapno isurona ni Saul a mamati ken ni Jesus.
+  * At first, Saul taught Jews about Jesus.
+  * Ti umona, Ni Saul mangadal dagiti Jews maipapan ken ni Jesus.
+  * Ti saan a mabayag, Ti Dios inbaunna ni Saul a mangadal kadagiti sabali pay a bunggoy dagiti tattao maipapan ken ni Jesus kaaduan iti ili ti Roman. Idin rinugyanna a aramaten ti naganna, a Paul.
+  * Ken ni Pual sinuratanna tapno pabiligen ken isurona dagiti Kristiano kadagiti agdudoma a siudad. Dadduma kadagiti surat na ket addada iti Biblia.
 
-(Translation suggestions: [[ilo:ta:vol1:translate:translate_names]])
+(Singasing Kadagiri Panagpatarus:[[:ilo:ta:vol1:translate:translate_names|Ipatarus Dagiti Nagnagan]])
 
-(See also: [[rome|Rome]], [[jewishleaders|Jewish Leaders]], [[ilo:obe:kt:christian|Christian]])
-
+(See also: [[:ilo:obe:other:rome|Rome]], [[:ilo:obe:other:jewishleaders|Jewish Leaders]], [[:ilo:obe:kt:christian|Christian]])
 
 ===== Bible References: =====
 
