@@ -13,10 +13,10 @@ Ti sao nga "anak" wenno "anak a lalaki" itudo na ti lalaki wenno ti tao ken ti a
   * Sometimes “sons of God” is used figuratively in the New Testament to refer to believers in Christ.
   * Nu maminsan "dagiti annak ti Dios" ket naaramat a nauneg idiay Baro a Tulag tapno itudo na dagiti namati kenni Kristo.
   * The phrase “son of” often has the figurative meaning, “having the characteristics of.” Examples of this include, “sons of the light,” “sons of disobedience,” “a son of peace,” and “sons of thunder.”
-  * Ti pagsasao nga,"annak ti"
+  * Ti pagsasao nga,"annak ti" ket adda ti nauneg nga kayat na a sawen nga,"adda ti kagagalad na a." Iraman ti pangarigan na daytoy ket, "annak ti lawag," "annak ti kinasukir," wenno "ti annak ti kappia," ken "annak ti kimat."
   * The phrase “son of” is also frequently used to tell who the person's father is. This phrase is used in genealogies and many other places.
+  * Ti pagsasao nga "anak ni" ket kanayon a mausar daytoy ti panangibaga ti siasino ti tatang ti dayta a tao. Daytoy nga pagsasao ket naaramat iti kapuonan ken adu nga agsasabali a lugar.
   * Using “son of” to give the name of the father frequently helps distinguish people who have the same name. For example, “Azariah, son of Zadok” and “Azariah, son of Nathan” in 1 Kings 4, and “Azariah, son of Amaziah in 2 Kings 15 are three different men.
-  * Ti "anak ni" ket inaramat iti Bibliya nga mangibaga nu siasino ti tao a pagtutungtungan. Kaspangarigan, idjay 1 Kings 4 ni, "Azariah, anak ni Zadok" ket duma kenni "Azariah, nga anak ni Nathan." Dagitoy nga dua ket duma kenni "Azariah, nga anak ni Amaziah" nga masarakan idjay 2 Kings 15. Dagitoy ket maipada iti tiempo tayo tatta nu maipapan ti apilyedo tapno maibaga ti nagdumaan da aglalo nu agpada ti nagan da.
   *
 
 ===== Translation Suggestions: =====
@@ -27,13 +27,11 @@ Ti sao nga "anak" wenno "anak a lalaki" itudo na ti lalaki wenno ti tao ken ti a
   * Sometimes "sons" can be translated as "children" when both males and females are being referred to. For example, "sons of God" could be translated as "children of God" since this expression also includes girls and women.
   * The figurative expression "son of" can be translated as "someone who has the characteristics of" or "someone who is like" or "someone who has" or "someone who acts like."
 
-(See also: [[:ilo:obe:kt:sonofgod]], [[:ilo:obe:other:father]], [[:ilo:obe:other:descendant]])
-
+(See also: [[:ilo:obe:kt:sonofgod|Anak ti Dios, ti Anak]], [[:ilo:obe:other:father|father, forefather]], [[:ilo:obe:other:descendant|kapututan]])
 
 ===== Bible References: =====
 
 {{topic>:en:bible?son&nocomments}}
-
 
 ===== Examples from the Bible stories: =====
 
