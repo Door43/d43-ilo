@@ -8,41 +8,38 @@ Nagsikug ni Maria ket ipasngay nanto ti Messiah a kas kinuna ti anghel.Ti anghel
 
 ====== Translate the Story ======
 
-
 Click on the links below to translate each frame of the story.
 
+[[:ilo:obs:notes:frames:23-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?nolink&200}}]]\\
+Mary Was Pregnant [23-01]
 
-[[:ilo:obs:notes:frames:23-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?200|Frame 23-01}}]]\\ 
-Mary Was Pregnant [23-01]\\ 
+[[:ilo:obs:notes:frames:23-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?nolink&200}}]]\\
+Take Mary as Your Wife [23-02]
 
-[[:ilo:obs:notes:frames:23-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?200|Frame 23-02}}]]\\ 
-Take Mary as Your Wife [23-02]\\ 
+[[:ilo:obs:notes:frames:23-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?nolink&200}}]]\\
+Joseph Married Mary [23-03]
 
-[[:ilo:obs:notes:frames:23-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?200|Frame 23-03}}]]\\ 
-Joseph Married Mary [23-03]\\ 
+[[:ilo:obs:notes:frames:23-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?nolink&200}}]]\\
+The Trip to Bethlehem [23-04]
 
-[[:ilo:obs:notes:frames:23-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?200|Frame 23-04}}]]\\ 
-The Trip to Bethlehem [23-04]\\ 
+[[:ilo:obs:notes:frames:23-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink&200}}]]\\
+The Birth of Jesus [23-05]
 
-[[:ilo:obs:notes:frames:23-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?200|Frame 23-05}}]]\\ 
-The Birth of Jesus [23-05]\\ 
+[[:ilo:obs:notes:frames:23-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?nolink&200}}]]\\
+The Angel and the Shepherds [23-06]
 
-[[:ilo:obs:notes:frames:23-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?200|Frame 23-06}}]]\\ 
-The Angel and the Shepherds [23-06]\\ 
+[[:ilo:obs:notes:frames:23-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-07.jpg?nolink&200}}]]\\
+The Angels Praised God [23-07]
 
-[[:ilo:obs:notes:frames:23-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-07.jpg?200|Frame 23-07}}]]\\ 
-The Angels Praised God [23-07]\\ 
+[[:ilo:obs:notes:frames:23-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?nolink&200}}]]\\
+The Shepherds Visited Jesus [23-08]
 
-[[:ilo:obs:notes:frames:23-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?200|Frame 23-08}}]]\\ 
-The Shepherds Visited Jesus [23-08]\\ 
+[[:ilo:obs:notes:frames:23-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg?nolink&200}}]]\\
+The Wise Men Visited Jesus [23-09]
 
-[[:ilo:obs:notes:frames:23-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg?200|Frame 23-09}}]]\\ 
-The Wise Men Visited Jesus [23-09]\\ 
-
-[[:ilo:obs:notes:frames:23-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg?200|Frame 23-10}}]]\\ 
-Worship for the Baby [23-10]\\ 
-
+[[:ilo:obs:notes:frames:23-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg?nolink&200}}]]\\
+Worship for the Baby [23-10]
 
 //A Bible story from: Matthew 1; Luke 2//
 
-**[[:ilo:obs:notes:22|<< Previous]] | [[:ilo:obs:notes:24|Next >>]]**
+**[[:ilo:obs:notes:22|<< Napalabas]] | [[:ilo:obs:notes:24|Sumaruno >>]]**
