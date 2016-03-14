@@ -17,10 +17,10 @@ Ti Biblia, kunaen na a ti Dios ket isu iti agnanayon nga sibibiag a nangparsua i
   * Dagiti pamay-an tapnu ipatarus ti sao a "Dios" ket mabalin nga ilagum ti "kinaDios" wennu "Namarsua" wenno "Kangangatuan a Nabbiag."
   * Iti dadduma pay a mabalin nga panagpatarus ti sao a "Dios" ket "Kangatuan a Namarsua" wenno "Kangatuan a awan patinggana nga Apo" wenno "Kangatuan nga agnanayon ti kaadda na."
   * Adalen met nu kasatno ti pakaiturungan ti Dios kadagiti dadduma a pagsasao. Mabalin nga addan ti sabali a balikas nga pagaw-awag da ti "Dios" dagiti dadduma a pagsasao. Ket nu isu, napateg nga siguraduen nga iti pannakausar ti nasau a balikas ket maitutop ti kagagalad ti pudno a Dios a kas nailawlawag toy ngato.
-  * Ti panagpatarus iti Iloko ket maar-aramat t dakkel a "D" para iti pudno a Dios. Dagiti dadduma a pagsasao ket us-usarenda daytoy (Dios) tapnu mailasin ti naidumaanna ti kapada na a balikas (dios) a pagaw-awag ti didiosen.
-  * Ti sao nga, " Siak to ti Dios da ken isudanto ti tattaok" ket mabalin nga ipataros a kas," Siak a Dios ti mangiturayto kadagitoy a tattao ket agdaydayaw danto kanyak."
+  * Ti panagpatarus iti Iloko ket maar-aramat ti dakkel a "D" para iti pudno a Dios. Dagiti dadduma a pagsasao ket us-usarenda daytoy (Dios) tapnu mailasin ti naidumaanna ti kapada na a balikas (dios) a pagaw-awag ti didiosen.
+  * Ti sao nga, " Siak to ti Dios da ken isudanto ti tattaok" ket mabalin nga ipatarus a kas," Siak a Dios ti mangiturayto kadagitoy a tattao ket agdaydayaw danto kanyak."
 
-(Dagiti singasing ti panagpataros: [[:ilo:ta:vol1:translate:translate_names|Kasatno nga Ipatarus dagiti Nagnagan]])
+(Dagiti singasing ti panagpatarus: [[:ilo:ta:vol1:translate:translate_names|Kasatno nga Ipatarus dagiti Nagnagan]])
 
 (Kitaen met ti: [[:ilo:obe:kt:yahweh|Yahweh]], [[:ilo:obe:kt:godthefather|Dios Ama, Ama A Nailangitan]], [[:ilo:obe:kt:holyspirit|Espiritu Santo, Espiritu ti Dios, Espiritu ti Apo]], [[:ilo:obe:kt:sonofgod|Anak ti Dios, ti Anak]], [[:ilo:obe:kt:falsegod|didiosen]], [[:ilo:obe:other:creation|parsua, pinarsua, Namarsua]],)
 
