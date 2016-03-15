@@ -4,10 +4,10 @@
 
 Sinungbatan ti uleg ti babae nga kunana “Saan nga **agpayso** dayta! Saan kayo a **matay**. Ammu ti Dios a nu kanenyo ket **agbalin kayo a kas** **ti Dios** ken **maawatan yon to ti nasayaat ken dakes ** a kas kanyana.”
 
-===== Dagiti Napapateg A Balikas: =====
+===== Dagiti Balikas a Napateg: =====
 
   * **[[:ilo:obe:kt:true|agpayso, pudno, kinapudno]]**
-  * **[[:ilo:obe:kt:death|Ipapatay, matay, natay]]**
+  * **[[:ilo:obe:kt:death|ipapatay, matay, natay]]**
   * **[[:ilo:obe:kt:god|Dios]]**
   * **[[:ilo:obe:kt:good|nasayaat, mayat, kinaimbag]]**
   * **[[:ilo:obe:kt:evil|dakes, nadangkes, kinadakes]]**
