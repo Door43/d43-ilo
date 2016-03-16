@@ -6,38 +6,34 @@ Ti Basul ti nagtaudan iti amin nga aramid a paglabsing kadagiti plano ti Dios. I
 
 ===== Translate the Story =====
 
+Italmeg dagiti ladawan ditoy baba tapno ipatarus iti tunggal paset iti istorya.
 
-Click on the images below to translate each frame of the story.
-
-
-[[:ilo:obs:notes:frames:04-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?200|Frame 04-01}}]]\\
-One People [04-01]\\
+[[:ilo:obs:notes:frames:04-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink&200}}]]\\
+Maysa nga Tattao [04-01]\\
 \\
-[[:ilo:obs:notes:frames:04-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg?200|Frame 04-02}}]]\\
-The Tower [04-02]\\
+[[:ilo:obs:notes:frames:04-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg?nolink&200}}]]\\
+Ti Tore [04-02]\\
 \\
-[[:ilo:obs:notes:frames:04-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg?200|Frame 04-03}}]]\\
-Many Languages [04-03]\\
+[[:ilo:obs:notes:frames:04-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg?nolink&200}}]]\\
+Adu nga Pagsasao [04-03]\\
 \\
-[[:ilo:obs:notes:frames:04-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-04.jpg?200|Frame 04-04}}]]\\
-God Chose Abram [04-04]\\
+[[:ilo:obs:notes:frames:04-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-04.jpg?nolink&200}}]]\\
+Pinilin ti Dios ni Abram [04-04]\\
 \\
-[[:ilo:obs:notes:frames:04-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-05.jpg?200|Frame 04-05}}]]\\
-To Canaan [04-05]\\
+[[:ilo:obs:notes:frames:04-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-05.jpg?nolink&200}}]]\\
+AgpaCanaan [04-05]\\
 \\
-[[:ilo:obs:notes:frames:04-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-06.jpg?200|Frame 04-06}}]]\\
-God Blessed Abram [04-06]\\
+[[:ilo:obs:notes:frames:04-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-06.jpg?nolink&200}}]]\\
+Binendissionan ti Dios ni Abram [04-06]\\
 \\
-[[:ilo:obs:notes:frames:04-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-07.jpg?200|Frame 04-07}}]]\\
+[[:ilo:obs:notes:frames:04-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-07.jpg?nolink&200}}]]\\
 Melchizedek [04-07]\\
 \\
-[[:ilo:obs:notes:frames:04-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-08.jpg?200|Frame 04-08}}]]\\
-No Son [04-08]\\
+[[:ilo:obs:notes:frames:04-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-08.jpg?nolink&200}}]]\\
+Awanan Putot [04-08]\\
 \\
-[[:ilo:obs:notes:frames:04-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg?200|Frame 04-09}}]]\\
-God's Covenant [04-09]\\
-\\
+[[:ilo:obs:notes:frames:04-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg?nolink&200}}]]\\
+Tulagan ti Dios [04-09]\\
+//Istoryan ti Biblia manipud: Genesis 11-15//
 
-//A Bible story from: Genesis 11-15//
-
-**[[:ilo:obs:notes:03|<< Previous]] | [[:ilo:obs:notes:05|Next >>]]**
+**[[:ilo:obs:notes:03|<< Immun-una]] | [[:ilo:obs:notes:05|Sumaruno >>]]**
