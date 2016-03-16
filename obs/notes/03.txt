@@ -39,7 +39,7 @@ Nagsardengen ti Tudo [03-09]\\
 Iti Uwwak [03-10]\\
 \\
 [[:ilo:obs:notes:frames:03-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-11.jpg?nolink&200}}]]\\
-Iti Kalapati [03-11]\\
+Ti Kalapati [03-11]\\
 \\
 [[:ilo:obs:notes:frames:03-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?nolink&200}}]]\\
 Namagan a Daga [03-12]\\
