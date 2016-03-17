@@ -9,14 +9,14 @@ Sakbay a nagsubli ni Jesus diay langit, inaramid dagiti tattao ti nagan a “Kri
   * Iti agdama a tiempo, kanayon a ti sao nga “Kristiano” ket naaramat kadagiti siasino man a mangbigbig iti relihion ti Kristiano, ngem saan met a pudno a sumursurot ken ni Jesus. Saan a daytoy ti pudno a kayat a sawen ti "Kristiano" idiay Biblia.
   * Gapu ta ti sao a “Kristiano" iti Biblia ket kanayon nga mangitudo ti maysa a tao nga pudno a mamati ken ni Jesus, ti Kristiano ket maawagan pay ti namati."
 
-===== Translation Suggestions: =====
+===== Dagiti Singasing ti panangpatarus: =====
 
-  * This term could be translated as "Christ-follower" or "follower of Christ" or perhaps something like, "Christ-person."
-  * Make sure that the translation of this term is distinct from terms used for disciple or apostle.
-  * Be careful to translate this term with a word that can refer to everyone who believes in Jesus, not just certain groups.
-  * Also consider how this term is translated in a Bible translation in a local or national language. (See: [[:ilo:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Daytuy a sao ket mabalin nga ipatarus a “pasurot ni Christ”  wenno nalabit a kasla, ”persona ni Christ.”
+  * Siguraduen a nu ipatarus daytoy a sao ket adda pagdumaan na manipud iti inaramat para iti adalan wennu apostol.
+  * Agannad nu ipatarus daytoy a sao nga addaan balikas a mangitudo iti siasinoman a mamati ken Jesus, saan lang a ti dayta a bunggoy.
+  * Iraman met nu kasano nga inpatarus daytoy a sao iti patarus ti Biblia iti dayta a purok wenno iti pagsasao ti kaaduan (Kitaen: [[:ilo:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(See also: [[:ilo:obe:kt:church|church, Church]], [[:ilo:obe:kt:disciple|disciple]], [[:ilo:obe:kt:believer|believer]], [[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:ilo:obe:kt:sonofgod|Son of God, the Son]], Christ, Messiah other)
+(Kitaen met: [[:ilo:obe:kt:church|iglesia, Iglesia]], [[:ilo:obe:kt:disciple|adalan]], [[:ilo:obe:kt:believer|namati]], [[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:ilo:obe:kt:sonofgod|Anak ti Dios, ti Anak]], Christ, Messiah dadduma)
 
 ===== Bible References: =====
 
