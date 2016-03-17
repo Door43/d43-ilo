@@ -1,21 +1,21 @@
-====== Kristiano, wennu pasurot ni Kristo (Christ) ======
+====== Christian ======
 
-**Dagiti Kaipapapnan:**
+===== Definition: =====
 
-Sakbay a nagsubli ni Jesus sadddiay langit dagiti tattao ket nangrugida a awagan dagiti pasurot na a “Kristiano” isu’t gapu na a maawaganda a pasurot ni Kristo (Christ).
+After Jesus went back to heaven, people started calling his followers "Christians" because they were followers of Christ.
 
-  * Ti Kristiano ket tao a sumursurot ken Jesus. A mamati ken Jesus a isu’t anak ti Dios, ken adda talek na ken Jesus a mangisakan kenkuana kadagiti basbasolna.
-  * Iti agdinama a panawen masansan a ti sao a “Kristian” ket maar-aramat kadagiti siasino man a mamati iti linteg, Ngem saan met a pudno a pasurot ni Jesus. Saan a daytoy ti pudno a kayat a sauen ti Kristian iti Biblia.
-  * Gapu ta ti sao a “Kristian’ ti Biblia ket iturong ti maysa a pudno mamati ken Jesus, Ti Kristian ket maaw-awagan a namati,
+  * A Christian is a person who follows Jesus. He believes that Jesus is the Son of God, and he trusts Jesus to save him from his sins.
+  * In our modern times, often the term "Christian" is used for someone who believes in the religion, but who is not really following Jesus. This is not the meaning of "Christian" in the Bible.
+  * Because the term "Christian" in the Bible always refers to someone who truly believes in Jesus, a Christian is also called a "believer."
 
-**Singasing Kadagiti Panagpatarus:**
+===== Translation Suggestions: =====
 
-  * Daytuy a sao ket mabalin met a maipatarus a kas “sumursurot ken Kristo(Christ)” wennu “pasurot ni Kristo (Christ) wennu nalabit adda pagkakaingasanda,”kinatao ni Kristo (Christ).”
-  * Siguraduen a nu ipatarus daytoy a sao ket adda pagdumaanna manipud iti inaramat a adalan wennu apostoles.
-  * Agannad kadagiti pagpatarus kadagiti sasao nga adda sao a maiturong iti siasinoman a mamati ken Jesus, saan a nalawag a husto pagkakaduen.
-  * Iraman met nu kasano a ipatarus ti sao ti panangipatarus iti Biblia itoy laeng wennu sabsabali pay a pagsasao.
+  * This term could be translated as "Christ-follower" or "follower of Christ" or perhaps something like, "Christ-person."
+  * Make sure that the translation of this term is distinct from terms used for disciple or apostle.
+  * Be careful to translate this term with a word that can refer to everyone who believes in Jesus, not just certain groups.
+  * Also consider how this term is translated in a Bible translation in a local or national language. (See: [[:ilo:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(Kitaen met:[[:ilo:obe:kt:church|iglesia, Iglesia]], [[:ilo:obe:kt:disciple|adalan]], [[:ilo:obe:kt:believer|namati]], [[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:ilo:obe:kt:sonofgod|Anak ti Dios, ti Anak, Christ, Messiahhe Son]])
+(See also: [[:ilo:obe:kt:church|church, Church]], [[:ilo:obe:kt:disciple|disciple]], [[:ilo:obe:kt:believer|believer]], [[:ilo:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:ilo:obe:kt:sonofgod|Son of God, the Son]], Christ, Messiah other)
 
 ===== Bible References: =====
 
@@ -23,13 +23,13 @@ Sakbay a nagsubli ni Jesus sadddiay langit dagiti tattao ket nangrugida a awagan
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:46-09|[46-09]]]** Idiay Antioch a damo a naawagan dagiti namati kas “**Kristiano**."
-  * **[[:ilo:obs:notes:frames:47-14|[47-14]]]**] Nagdalyasat da Paul ken dagiti dadduma a panguloen a **Kristiano**  kadagiti adu a siudad. Inkaskasaba ken insursuro da kadagiti tattao ti naimbag a damag a maipapan kenni Jesus.
-  * **[[:ilo:obs:notes:frames:49-15|[49-15]]]** u mamati ka kenni Jesus ken iti inaramid na a para kenka maysa ka ngarud a **Kristiano**!
-  * **[[:ilo:obs:notes:frames:49-16|[49-16]]]** Nu maysa ka a **Kristiano**  ket pinakawanen ti Dios dagiti basbasol mo gapo iti inaramid ni Jesus.
-  * **[[:ilo:obs:notes:frames:49-17|[49-17]]]** Urayman nu maysa kan a **Kristiano**  ket masulisog kanto latta nga agbasol.
-  * **[[:ilo:obs:notes:frames:50-03|[50-03]]]** Sakbay a nagsubli ni Jesus idiay langit ket imbaga na kadagiti **Kristiano**  nga ikasaba da ti naimbag a damag kadagiti tattao a saan pay a nakangngeg iti daytoy.
-  * **[[:ilo:obs:notes:frames:50-11|[50-11]]]** Inton agsubli ni Jesus ket agungarto dagiti amin a **Kristiano**  a natay ket sumabet danto kenkuana iti tangatang.
+  * **[[:ilo:obs:notes:frames:46-09|[46-09]]]** It was at Antioch that believers in Jesus were first called "**Christians**."
+  * **[[:ilo:obs:notes:frames:47-14|[47-14]]]**] Paul and other **Christian**  leaders traveled to many cities, preaching and teaching people the good news about Jesus.
+  * **[[:ilo:obs:notes:frames:49-15|[49-15]]]** If you believe in Jesus and what he has done for you, you are a **Christian**!
+  * **[[:ilo:obs:notes:frames:49-16|[49-16]]]** If you are a **Christian**, God has forgiven your sins because of what Jesus did.
+  * **[[:ilo:obs:notes:frames:49-17|[49-17]]]** Even though you are a **Christian**, you will still be tempted to sin.
+  * **[[:ilo:obs:notes:frames:50-03|[50-03]]]** Before he returned to heaven, Jesus told **Christians**  to proclaim the good news to people who have never heard it.
+  * **[[:ilo:obs:notes:frames:50-11|[50-11]]]** When Jesus returns, every **Christian**  who has died will rise from the dead and meet him in the sky.
 ~~DISCUSSION~~{{tag>publish ktobs k}}
 
 ~~NOCACHE~~
