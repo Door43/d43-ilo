@@ -9,14 +9,15 @@ Iti Baro a Tulag, ti sao nga “iglesia” ket itudo na ti maysa bunggoy dagiti 
   * Kanayon a dagiti namati iti mayta nga ili ket agguummong iti balay ti maysa kadakuada. Dagitoy nga iglesia kadagiti purpurok ket naikkan ti nagan iti dayta nga ili kas kuma ti “iglesia ti Ephesus.”
   * Idiay Biblia ti, “iglesia” ket saan na nga itudo dagiti patakder.
 
-===== Translation Suggestions: =====
+===== Dagiti singasing ti Panangpatarus: =====
 
-  * The term "church" could be translated as a "gathering together" or "assembly" or "congregation" or "ones who meet together."
-  * The word or phrase that is used to translate this term should also be able to refer to all believers, not just one small group.
-  * Make sure that the translation of "church" does not just refer to a building.
+  * Ti sao a "iglesia' ket mabalin met a maipatarus a kas "agtitipon" wenno "gimong" wenno "taripnung" wenno "pagsasabatan."
+  * Ti sao wenno sasao a naaramat ti panangpatarus kadagitoy a sao ket maitudo kadagiti amin a namati, saan laeng a iti maymaysa nga bassit a bunggoy.
+  * Siguraduen nga iti panangipatarus ti "iglesia" ket saan laeng a maitudo iti patakder.
   * Also consider how it is translated in a local or national Bible translation. (See: [[:ilo:ta:vol1:translate:translate_unknown|How to Translate Unknowns]].)
+  * Iraman met nu kasano a naipatarus iti itoy laeng wennu sabali pay a patarus dagiti Biblia.
 
-(See also: [[:ilo:obe:kt:christian|Kristiano, wennu pasurot ni Kristo (Christ)]], [[:ilo:obe:kt:believer|namati]], [[:ilo:obe:kt:assembly|assembly]])
+(Kitaen met: [[:ilo:obe:kt:christian|Kristiano, wennu pasurot ni Kristo (Christ)]], [[:ilo:obe:kt:believer|namati]], [[:ilo:obe:kt:assembly|assembly]])
 
 ===== Bible References: =====
 
