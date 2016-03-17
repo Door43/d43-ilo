@@ -4,13 +4,14 @@
 
 Idi simmamngpet ni **Abram** idiay **Canaan** ket kinuna ti **Dios** nga “Kitaem iti aglawlaw. Ited ko kenka ken **dagiti kaputotam amin a daga a makitkitam a kas tawid yo.” Ket nagnaed da Abram idiay nga pagilian**.
 
-===== Dagiti Napapateg A Balikas: =====
+===== Dagiti Balikas a Napateg: =====
 
-  * **[[:ilo:obe:other:abraham]]**
-  * **[[:ilo:obe:other:canaan]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:descendant]]**
-  * **[[:ilo:obe:kt:inherit]]**
+  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ilo:obe:other:canaan|Canaan, Canaanite]]**
+  * **[[:ilo:obe:kt:god|Dios]]**
+  * **[[:ilo:obe:other:descendant|kapututan]]**
+  * **[[:ilo:obe:kt:inherit|tawiden, tawid, sanikwa, agtawid]]**
+
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **amin a daga a makitkitam **  - nu agtakder ni Abram idiay bantay, mabalin a makita na iti nalawa a paset iti daga. Kadagiti dadduma a pasamak ket inkari ti Dios kenni Abram ken dagiti kaputotan na nga ited na iti sibubukel a daga iti Canaan .
