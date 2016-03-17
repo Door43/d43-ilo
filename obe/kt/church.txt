@@ -1,23 +1,21 @@
-====== iglesia, Iglesia ======
+====== church, Church ======
 
-===== Dagiti Kaipapanan: =====
+===== Definition: =====
 
-Iti Baro a Tulag, ti sao nga "iglesia" ket itudo na ti maysa bunggoy dagiti namati ken Jesus a inaldaw nga agguummong tapno agkararag ken agdingngeg iti sao ti Dios a maikasaba. Kanayon nga itudo ti sao nga "ti Iglesia" dagiti amin a Kristiano.
+In the Bible, the term "church" refers to a local group of believers in Jesus who regularly meet together to pray and hear God's word preached. It can also refer to all Christians.
 
-  * Daytoy a sao nu alaen ti dati a pannakaisao na ket itudo na dagiti "naayaban a rummuar" a gimong dagiti tattao nga agguummong para ti naisangsangayan a panggep.
-  * Nu daytoy a sao ket naaramat nga mangitudo kadagiti amin a namati sadino man iti buo a bagi ni Christ, dagiti dadduma a patarus ti Biblia ket padakkelen da ti damu a letra ("Iglesia") tapno mailasin manipud ti iglesia kadagiti purpurok.
-  * Kanayon a dagiti namati iti mayta nga ili ket agguummong iti balay ti maysa kadakuada. Dagitoy nga iglesia kadagiti purpurok ket naikkan ti nagan iti dayta nga ili kas kuma ti "iglesia ti Ephesus."
-  * Idiay Biblia ti, "iglesia" ket saan na nga itudo dagiti patakder.
+  * When this term is used to refer to all believers everywhere in the whole body of Christ, some Bible translations capitalize it (Church) to distinguish it from the local church.
+  * The original meaning of this term is "called out (to meet together)." It refers to an assembly or gathering of people for a special purpose.
+  * In the Bible, "church" does not refer to a building.
 
-===== Dagiti singasing ti Panangpatarus: =====
+===== Translation Suggestions: =====
 
-  * Ti sao a "iglesia' ket mabalin met a maipatarus a kas "pagtitipunan" wennu "gimong" wennu "taripnung" wennu "pagsasabatan."
-  * Ti sao wennu sasao a maar-aramat ti panagpatarus kadagituy a sao ket maiturong kadagiti amin a namati, saan laeng a bassit a bunggoy.
+  * The term "church" could be translated as a "gathering together" or "assembly" or "congregation" or "ones who meet together."
+  * The word or phrase that is used to translate this term should also be able to refer to all believers, not just one small group.
   * Make sure that the translation of "church" does not just refer to a building.
-  * Siguraduen a daytoy a patarus ti "iglesia" ket saan laeng a maiturong iti patakder
-  * Iraman met nu kasano a maipatarus iti itoy laeng wennu sabali pay a patarus dagiti Biblia.
+  * Also consider how it is translated in a local or national Bible translation. (See: [[:ilo:ta:vol1:translate:translate_unknown|How to Translate Unknowns]].)
 
-(Kitaen met: [[:ilo:obe:kt:christian|Kristiano, wennu pasurot ni Kristo (Christ)]], [[:ilo:obe:kt:believer|namati]], [[:ilo:obe:kt:assembly|agtitipon]])
+(See also: [[:ilo:obe:kt:christian|Kristiano, wennu pasurot ni Kristo (Christ)]], [[:ilo:obe:kt:believer|namati]], [[:ilo:obe:kt:assembly|assembly]])
 
 ===== Bible References: =====
 
@@ -25,11 +23,11 @@ Iti Baro a Tulag, ti sao nga "iglesia" ket itudo na ti maysa bunggoy dagiti nama
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:43-12|[43-12]]]** Agarup tallo ribu a tattao ti namati iti imbaga ni Peter ket nagbalin da nga adalan ni Jesus. Nagpabautisar da ket nagbalin da a paset ti **grupo ti namati kenni Cristo**  idiay Jerusalem.
-  * **[[:ilo:obs:notes:frames:46-09|[46-09]]]** Kaadwan kadagiti tattao idiay Antioch ket saan a Judio ngem iti umuna a daras ket nagadu kadakuada ti nagbalin a namati. Napan ni Barnabas ken Saul sadiay tapno isuro da kadagitoy a barbaro a namati ti ad-adu pay a banag a maipapan kenni Jesus ken tapno mapabileg da ti **grupo ti namati ** sadiay.
-  * **[[:ilo:obs:notes:frames:46-10|[46-10]]]** Isunga inkararagan ti **Iglesia**  idiay Antioch da Barnabas ken Saul. Impatay da met dagiti im-ima da kadakuada. Kalpasan daytoy, pinalubusan da ida a mapan kadagiti dadduma a luglugar tapno ikasaba da ti naimbag a damag a maipapan kenni Jesus.
-  * **[[:ilo:obs:notes:frames:47-13|[47-13]]]** Nagtultuloy a naisaknap ti naimbag a damag a maipapan kenni Jesus. Ken nagtultuloy a dimmakkel ti** Iglesia**.
-  * **[[:ilo:obs:notes:frames:50-01|[50-01]]]** Agarup dua a ribon a tawen ket umado nga umado dagiti tattao iti entero a lubong ti makangkangngeg iti naimbag a damag maipapan kenni Jesus a Messiah. Dumakdakkel mettenen ti **Iglesia**.
+  * **[[:ilo:obs:notes:frames:43-12|[43-12]]]** About 3,000 people believed what Peter said and became disciples of Jesus. They were baptized and became part of the **church**  at Jerusalem.
+  * **[[:ilo:obs:notes:frames:46-09|[46-09]]]** Most of the people in Antioch were not Jews, but for the first time, very many of them also became believers. Barnabas and Saul went there to teach these new believers more about Jesus and to strengthen the **church**.
+  * **[[:ilo:obs:notes:frames:46-10|[46-10]]]** So the **church**  in Antioch prayed for Barnabas and Saul and placed their hands on them. Then they sent them off to preach the good news of Jesus in many other places.
+  * **[[:ilo:obs:notes:frames:47-13|[47-13]]]** The good news of Jesus kept spreading, and the **Church**  kept growing.
+  * **[[:ilo:obs:notes:frames:50-01|[50-01]]]** For almost 2,000 years, more and more people around the world have been hearing the good news about Jesus the Messiah. The **Church**  has been growing.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
