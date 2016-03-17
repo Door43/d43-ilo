@@ -8,12 +8,12 @@ Ti kari ket panangisapata nga aramiden ti maysa a banag. Intun nagkari ti maysa 
   * Dagiti karkari ket napateg a paset ti pormal nga napagnunumuan kas kuma dagiti katulagan.
   * Kanayon a ti kari ket napakuyogan iti sapata tapno patalgedan nga aramiden na.
 
-===== Translation Suggestions: =====
+===== Dagiti Singasing ti Panangpatarus: =====
 
-  * The term "promise" could be translated as, "assure someone that he will do something" or "commit to something."
-  * The phrase, "make a careless promise" could be translated as, "hastily promise something without thinking first."
+  * Ti sao nga "kari" ket mabalin nga ipatarus a, "talged" wenno "pammaneknek."
+  * Nu "inkari nga aramiden ti maysa a banag" ket mabalin nga ipatarus a, "panangpatalged iti maysa a tao nga aramidem ti maysa a banag."
 
-(See also: [[:ilo:obe:kt:covenant|tulag]], [[:ilo:obe:other:oath|oath, swear, swear by]], [[:ilo:obe:kt:vow|vow]])
+(Kitaen met: [[:ilo:obe:kt:covenant|tulag]][[:ilo:obe:other:oath|, sapata, insapata ni]],)
 
 ===== Bible References: =====
 
