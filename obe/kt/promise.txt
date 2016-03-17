@@ -2,17 +2,17 @@
 
 ===== Kaipapanan: =====
 
-Ti kari ket sapata nga aramiden ti maysa a banag. Intun nagkari ti maysa a banag ti maysa a tao, kayat na a sawen ket aramiden na dayta.
+Ti kari ket panangisapata nga aramiden ti maysa a banag. Intun nagkari ti maysa a banag ti maysa a tao, kayat na a sawen ket aramiden na dayta.
 
-  * Nakasurat iti Biblia dagiti adu a karkari nga inaramid ti Dios kadagiti tattao na.
-  * Dagiti karkari ket napateg a paset ti pormal nga napagnunumuan kas kuma dagiti katulagan.
-  * Kanayon a ti kari ket napakuyogan iti sapata tapno patalgedan nga aramiden na.
+  * Promises are an important part of formal agreements such as covenants.
+  * A promise is often accompanied by an oath or confirmation that it will be done.
 
-===== Dagiti singasing ti Panagpatarus: =====
+===== Translation Suggestions: =====
 
-  * Ti sao nga " kari" ket maipatarus met a, panangpatalged na ti insaona ken aramidenna.
+  * The term "promise" could be translated as, "assure someone that he will do something" or "commit to something."
+  * The phrase, "make a careless promise" could be translated as, "hastily promise something without thinking first."
 
-(Kitaen met: [[:ilo:obe:kt:covenant|tulag]],[[:ilo:obe:other:oath|kari, sapata,]])
+(See also: [[:ilo:obe:kt:covenant|tulag]], [[:ilo:obe:other:oath|oath, swear, swear by]], [[:ilo:obe:kt:vow|vow]])
 
 ===== Bible References: =====
 
@@ -20,13 +20,13 @@ Ti kari ket sapata nga aramiden ti maysa a banag. Intun nagkari ti maysa a banag
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:03-15|[03-15]]]**"**Ikarik**  kadakayo a saankon nga uliten a ilunod ti daga gapo iti aramiden ti tattao a dakes wenno dadaelen ti lubong babaen ti layus urayno managbasol ti tattao manipud iti kinaubing da."
-  * **[[:ilo:obs:notes:frames:03-16|[03-16]]]** Nagaramid ngarud ti Dios iti bullalayaw a kas pangilasinan iti **kari **  na. Apaman nga agpakita ti bullalayaw iti tangatang ket malagip ti Dios ken ti tattao ti **inkari**  ti Dios kadakuada.
-  * **[[:ilo:obs:notes:frames:04-08|[04-08]]]** Nagsao ti Dios kenni Abram ket **inkari**  na manen a maaddaan isuna ti putot a lalaki ken kaputotan a kas kinaadu ti bibituin iti tangatang. Namati ni Abram iti **kari**  ti Dios. .
-  * **[[:ilo:obs:notes:frames:05-04|[05-04]]]**"Ti asawam a ni Sarai ket maaddaan iti anak. Isu iti **naikari**  nga anak."
-  * **[[:ilo:obs:notes:frames:08-15|[08-15]]]** Ti tulag nga **inkari**  ti Dios nga inted na kenni Abraham ket naipasa kenni Isaac santo kenni Jacob santo kadagiti sangapulo ket dua nga annak ni Jacob ken dagiti pamilya da.
-  * **[[:ilo:obs:notes:frames:17-14|[17-14]]]** Saanen a nagtulnog ni David iti Dios ket urayno kasta napudno latta ti Dios kadagiti **inkari**  na.
-  * **[[:ilo:obs:notes:frames:50-01|[50-01]]]****Inkari**  ni Jesus nga agsublinto isuna inton gibus ti lubong. Uray nu saan pay a nagsubli isuna, tungpalennanto ti **inkarina**.
+  * **[[:ilo:obs:notes:frames:03-15|[03-15]]]** God said, "I **promise**  I will never again curse the ground because of the evil things people do, or destroy the world by causing a flood, even though people are sinful from the time they are children."
+  * **[[:ilo:obs:notes:frames:03-16|[03-16]]]** God then made the first rainbow as a sign of his **promise**. Every time the rainbow appeared in the sky, God would remember what he **promised**  and so would his people.
+  * **[[:ilo:obs:notes:frames:04-08|[04-08]]]** God spoke to Abram and **promised**  again that he would have a son and as many descendants as the stars in the sky. Abram believed God's **promise**.
+  * **[[:ilo:obs:notes:frames:05-04|[05-04]]]**"Your wife, Sarai, will have a son—he will be the son of **promise**."
+  * **[[:ilo:obs:notes:frames:08-15|[08-15]]]** The covenant **promises**  that God gave to Abraham were passed on to Isaac, then to Jacob, and then to Jacob's twelve sons and their families.
+  * **[[:ilo:obs:notes:frames:17-14|[17-14]]]** Though David had been unfaithful to God, God was still faithful to his **promises**.
+  * **[[:ilo:obs:notes:frames:50-01|[50-01]]]** Jesus **promised**  he would return at the end of the world. Though he has not yet come back, he will keep his **promise**.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
