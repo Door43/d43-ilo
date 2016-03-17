@@ -13,11 +13,10 @@ Iti Baro a Tulag, ti sao nga “iglesia” ket itudo na ti maysa bunggoy dagiti 
 
   * Ti sao a "iglesia' ket mabalin met a maipatarus a kas "agtitipon" wenno "gimong" wenno "taripnung" wenno "pagsasabatan."
   * Ti sao wenno sasao a naaramat ti panangpatarus kadagitoy a sao ket maitudo kadagiti amin a namati, saan laeng a iti maymaysa nga bassit a bunggoy.
-  * Siguraduen nga iti panangipatarus ti "iglesia" ket saan laeng a maitudo iti patakder.
-  * Also consider how it is translated in a local or national Bible translation. (See: [[:ilo:ta:vol1:translate:translate_unknown|How to Translate Unknowns]].)
-  * Iraman met nu kasano a naipatarus iti itoy laeng wennu sabali pay a patarus dagiti Biblia.
+  * Siguraduen nga iti panangipatarus ti "iglesia" ket saan laeng nga itudo ti patakder.
+  * Iraman met nu kasano a naipatarus daytoy iti purok wenno iti pangkaaduan a panangipatarus iti Biblia.(Kitaen: [[:ilo:ta:vol1:translate:translate_unknown|How to Translate Unknowns]].)
 
-(Kitaen met: [[:ilo:obe:kt:christian|Kristiano, wennu pasurot ni Kristo (Christ)]], [[:ilo:obe:kt:believer|namati]], [[:ilo:obe:kt:assembly|assembly]])
+(Kitaen met: [[:ilo:obe:kt:christian|Kristiano, wenno pasurot ni Christ]], [[:ilo:obe:kt:believer|namati]], [[:ilo:obe:kt:assembly|assembly]])
 
 ===== Bible References: =====
 
