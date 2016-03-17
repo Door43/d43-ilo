@@ -1,30 +1,24 @@
-====== Sao ti Dios, sao ni Yahweh, sao ti Apo, nasantuan a surat ======
+====== word of God, word of Yahweh, word of the Lord, scripture ======
 
+===== Definition: =====
 
+The term "word of God" refers to anything that God has communicated to people. This includes spoken and written messages.
 
-**Dagiti Kaipapanan:**
+  * Many years after God's words were written down, people can still read these scriptures and know God's teachings.
+  * The term "scriptures" refers specifically to the written message that God told people to write.
+  * The related terms "word of Yahweh" and "word of the Lord" often refer to a specific message from God that was given to a prophet or other person in the Bible.
+  * Sometimes this occurs as simply "the word" or "my word" or "your word" (when talking about God's word).
+  * In the New Testament, Jesus is called "the Word" and "the Word of God." These titles mean that Jesus fully reveals who God is, because he is God himself.
 
-Ti sao a “sao ti Dios” ket maipanggep iti banag a pannakisasao iti Dios kadagiti tattao. Mairaman ti balikas.
+===== Translation Suggestions: =====
 
-  * Adu a tawen sabay a naisurat dagiti sasao ti Dios, mabasa ken ammu da pay laeng dagiti panursuro ti nasantuan a surat iti Dios.
-  * Ti sao a “ nasantuan a surat” ket maipanggep laeng dagiti naisurat a sao ti Dios a naibaga para kadagiti tattao a isuratda.
-  * Tin a ipatarus nga sao “sao ni Yaweh” ken “sao ti Dios” ket masansan nga maipapan iti timek ti Dios nga naited iti maysa a propeta wenno iti sabali nga tao iti Biblia.
-  * Nu maminsan daytoy ket kas “ti sao” wenno “ti soak” wenno ti saom”(no maipapan iti sao ti Dios).
-  * Iti Baro a Tulag,ni Jesus maawagan “ti sao” ken “ti sao ti Dios”. Daytoy a sao kayat na a saoen nga ni Jesus ket naiparangarang ti kina Dios na,gapu ta isu ket Dios.
+  * Depending on the context, other ways to translate this term could include, "the message of Yahweh" or "God's message" or "the teachings from God."
+  * It may be more natural in some languages to make this term plural and say "God's words" or "the words of Yahweh."
+  * The expression "the word of God (or Yahweh) came" is often used to introduce something that God told his prophet or his people. This could be translated as, "Yahweh spoke these words" or "God spoke this message."
+  * The term "scripture" or "scriptures" could be translated as "the writings" or "the written message from God." This term should be translated differently from the translation of the term "word."
+  * When "word" occurs alone, it could be translated as "message" or "God's word" or "teachings," depending on the context. Also consider the alternate translations suggested above.
 
-
-
-
-**Singasing Kadagiti Panagpatarus:**
-
-   * Depende iti ununana,iti sabali pannakaipatarus daytoy a sao ket mairaman ti “ti mensahe ni Yaweh”wenno “ti mensahe ti Dios”wenno “dagiti panursuro ti Dios”.
-  * Agbalin a kas gagangay iti sabali a pagsasao nu aramaten ti,”sinasasao ti Dios” wennu “sinasasao ni Yaweh.”
-  * Ti pasasao a “ti sao iti Dios (wennu Yaweh) immay” ket masansan a maipaka ammo nga  ti Dios a imbaga dagiti tattao. Maipataros met a kas,” sinao ni Yaweh iti kastoy” wennu” sinao ti Dios iti  kastoy.”
-  * Ti sao a “ nasantun a surat” wennu “dagiti nasantuan a surat” ket maipataros met a kas “ ti surat” wennu “ti jnsurat a mensahe iti Dios” Daytoy a sao ket maipataros kadagiti agsasabali pannakaipataros “sao.”
-  * Itun “sao” ti adda laeng, maiparos a kas “mensahe” wennu” sasao ti Dios” wennu Panursuro,” depende ti linaonna. Mairaman met dagiti napataros a singasing iti ngatuenna.
-
-(Kitaen met: [[:ilo:obe:kt:prophet|mammadto, agipadto, padto]], [[:ilo:obe:kt:yahweh|Yahweh]])
-
+(See also: [[:ilo:obe:kt:prophet|prophet, prophecy, prophesy]], [[:ilo:obe:kt:yahweh|Yahweh]])
 
 ===== Bible References: =====
 
@@ -32,13 +26,13 @@ Ti sao a “sao ti Dios” ket maipanggep iti banag a pannakisasao iti Dios kada
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:25-07|[25-07]]]** Imbilin ti Dios kadagiti **sao na**  a ‘dayawem laeng ti Apo a Dios mo ken isuna laeng ti pagserbiam.’” '"
-  * **[[:ilo:obs:notes:frames:33-06|[33-06]]]** Kinuna na, “ti bukel ket isu ti **sao ti Dios**.
-  * **[[:ilo:obs:notes:frames:42-03|[42-03]]]** Inlawlawag ni Jesus kadakuada ti imbaga ti **sao ti Dios ** maipapan iti Messiah.
-  * **[[:ilo:obs:notes:frames:42-07|[42-07]]]** Kinuna ni Jesus kadakuada, “Kinunak kadakayo a masapul a matungpal dagiti amin a naisurat iti **Sao ti Dios**  a maipapan kanyak.” Linukatan ni Jesus dagiti panpanunot da tapno maawatan da ti **Sao ti Dios**.
-  * **[[:ilo:obs:notes:frames:45-10|[45-10]]]** Nangaramat met ni Philip kadagiti dadduma a bersikulo ti **Sao ti Dios ** tapno maibagana ti naimbag a damag maipapan kenni Jesus.
-  * **[[:ilo:obs:notes:frames:48-12|[48-12]]]** Ngem ni Jesus ti katan-okan iti isuamin a Mammadto. Isuna ket Dios isu nga amin nga inaramid ken imbaga na ket aramid ken **Sao ti Dios**.
-  * **[[:ilo:obs:notes:frames:49-18|[49-18]]]** Imbaga ti Dios nga agkararag ka ken adalem ti **sao na**  ken dayawem isuna a kadwam dagiti dadduma a Kristiano.
+  * **[[:ilo:obs:notes:frames:25-07|[25-07]]]** In **God's word**  he commands his people, 'Worship only the Lord your God and only serve him.'"
+  * **[[:ilo:obs:notes:frames:33-06|[33-06]]]** So Jesus explained, "The seed is the **word of God**.
+  * **[[:ilo:obs:notes:frames:42-03|[42-03]]]** Then Jesus explained to them what **God's word**  says about the Messiah.
+  * **[[:ilo:obs:notes:frames:42-07|[42-07]]]** Jesus said, "I told you that everything written about me in **God's word**  must be fulfilled." Then he opened their minds so they could understand **God's word**.
+  * **[[:ilo:obs:notes:frames:45-10|[45-10]]]** Philip also used other **scriptures**  to tell him the good news of Jesus.
+  * **[[:ilo:obs:notes:frames:48-12|[48-12]]]** But Jesus is the greatest prophet of all. He is the **Word of God**.
+  * **[[:ilo:obs:notes:frames:49-18|[49-18]]]** God tells you to pray, to study his **word**, to worship him with other Christians, and to tell others what he has done for you.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
