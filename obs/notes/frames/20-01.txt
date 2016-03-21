@@ -2,20 +2,19 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-01.jpg?nolink&}}
 
-Agpada a ti pagarian ti Israel ken ti pagarian ti Judah ket nagbasul iti Dios. Linabsing da ti tulag nga inaramid ti Dios kadakuada idiay Sinai. Nangibaun ti Dios kadagiti mammadto tapno ballaagan da ida nga agbabawi da ken idaydayaw da manen isuna ket ngem nagkedked da nga agtulnog.
-
+Agpada a ti **pagarian ti Israel** ken ti **pagarian ti Judah** ket **nagbasul**da iti **Dios**. **Linabsing da ti tulag ** nga inaramid ti Dios ken isuda idiay** Sinai**. Nangibaun ti Dios **kadagiti** **mammadto** tapno **ballaagan da ida nga agbabawi** da ken **idaydayaw** da manen isuna ngem nagkedked wenno madi da nga** agtulnog**.
 ===== Dagiti napapateg a balikas: =====
 
-  * **​[[:ilo:obe:other:kingdomofisrael]]**
-  * **[[:ilo:obe:other:kingdomofjudah]]**
-  * **[[:ilo:obe:kt:sin]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:covenant]]**
-  * **[[:ilo:obe:other:sinai]]**
-  * **[[:ilo:obe:kt:prophet]]**
-  * **[[:ilo:obe:kt:repent]]**
-  * **[[:ilo:obe:kt:worship]]**
-  * **[[:ilo:obe:other:obey]]**
+  * **​[[:ilo:obe:other:kingdomofisrael|pagarian ti Israel]]**
+  * **[[:ilo:obe:other:kingdomofjudah|Judah, pagarian ti Judah]]**
+  * **[[:ilo:obe:kt:sin|basol, managbasol, agbasbasol]]**
+  * **[[:ilo:obe:kt:god|Dios]]**
+  * **[[:ilo:obe:kt:covenant|tulag]]**
+  * **[[:ilo:obe:other:sinai|Sinai, Bantay Sinai]]**
+  * **[[:ilo:obe:kt:prophet|mammadto, padto, mangipadto, babai a mammadto]]**
+  * **[[:ilo:obe:kt:repent|Agbabawi, panagbabawi]]**
+  * **[[:ilo:obe:kt:worship|panagrukbab]]**
+  * **[[:ilo:obe:other:obey|agtulnog, natulnog, panagtulnog]]**
 ==== Pannakipakaawat kadagiti sarsarita : ====
 
   * **Linabsing da ti tulag - **  Dayta ket, “Saan a nagtulnog iti bilbilin iti Dios a naited kadakuada iti tulag a kadakuada idiay Bantay Sinai.”
