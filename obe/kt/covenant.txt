@@ -22,13 +22,13 @@ Ti tulag ket maysa a pormal ken agtalinaed nga nagkinnaawatan iti dua a bunggoy 
 
 {{topic>:en:bible?covenant&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Dagiti ehemplo a naadaw kadagiti istorya ti Biblia: =====
 
-  * **[[:ilo:obs:notes:frames:04-09|[04-09]]]** Ket **nakitulag**  ti Dios kenni Abram. Ti **katulagan**  ket maysa a nagnunumoan iti dua a partidos..
-  * **[[:ilo:obs:notes:frames:05-04|[05-04]]]**"Pagbalinek met ni Ishmael a natan-ok nga nasyon ngem ti **tulag**  ko ket adda ken Isaac."
+  * **[[:ilo:obs:notes:frames:04-09|[04-09]]]** Ket nangaramid**** ti Dios iti **tulagan**na kenni Abram. Ti **katulagan**  ket maysa a nagnunumoan iti dua a partido.
+  * **[[:ilo:obs:notes:frames:05-04|[05-04]]]**"Pagbalinek met ni Ishmael a natan-ok nga nasyon ngem ti **tulagan**  ko ket kenni Isaac to."
   * **[[:ilo:obs:notes:frames:06-04|[06-04]]]** Kalpasan ti adu a tiempo ket natay ni Abraham ket amin dagiti kari nga **tulagan**  ti Dios kenkuana ket naipasa kenni Isaac.
-  * **[[:ilo:obs:notes:frames:07-10|[07-10]]]** Itatta naipasa kenni Jacob dagiti **tulagan**  a kari nga inted ti Dios kenni Abraham babaen kenni Isaac."
+  * **[[:ilo:obs:notes:frames:07-10|[07-10]]]** Itattan ket naipasa kenni Jacob dagiti kari a **tulagan**  nga ingkari ti Dios kenni Abraham nga naipasa kenni Isaac."
   * **[[:ilo:obs:notes:frames:13-02|[13-02]]]** Kinuna ti Dios kenni Moses ken kadagiti tattao ti Israel, “No suruten ken tungpalen yo ti **tulag**  ko kadakayo ket dakayonto ti agbalin a nabalor a sanikuak. Agbalin kayonto a pagarian dagiti papadi ken maysa a nasantoan a nasyon."
-  * **[[:ilo:obs:notes:frames:13-04|[13-04]]]** Kinuna ti Dios kenni Moses ken kadagiti tattao ti Israel, “No suruten ken tungpalen yo ti **tulag**  ko kadakayo ket dakayonto ti agbalin a nabalor a sanikuak. Agbalin kayonto a pagarian dagiti papadi ken maysa a nasantoan a nasyon."
+  * **[[:ilo:obs:notes:frames:13-04|[13-04]]]** Kalpasan ket inted ti Dios iti **tulagan**  ken kinuna nga "Siakni Yahweh nga Dios yo ken nangisalakan kadayo manipud pannakaadipenyo idiay Egypt. Saan kayo nga agrukbab wenno agdayaw kadagiti didiosen."
   * **[[:ilo:obs:notes:frames:15-13|[15-13]]]** Impalagip ni Joshua kadagiti tattao ti pagrebbengan da nga agtulnog iti **katulagan**  nga inaramid ti Dios kadagiti Israelita idiay Sinai.
 ~~DISCUSSION~~{{tag>publish ktobs}}
