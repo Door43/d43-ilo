@@ -19,7 +19,7 @@
 
 {{topic>:en:bible?worship&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Dagiti ehemplo a naadaw kadagiti istorya ti Biblia: =====
 
   * **[[:ilo:obs:notes:frames:13-04|[13-04]]]** Inted ti Dios kadakuada ti katulagan ken kinunana, “Siak ni Yahweh a Dios yo, ti nangisalakan kadakayo manipud iti pannakatagabo yo idiay Egypt. Saan kayo nga **agrukbab ken agdayaw**  kadagiti dadduma a dios."
   * **[[:ilo:obs:notes:frames:14-02|[14-02]]]** Saan nga **agdaydayaw**  ken saan nga agtulnog dagiti Canaanita iti Dios. **Agdaydayaw**  da kadagiti didiosen ken agararamid da ti adu a nagdadakes a banag.
@@ -28,7 +28,7 @@
   * **[[:ilo:obs:notes:frames:25-07|[25-07]]]** Simmungbat ni Jesus ket kinunana, “Umadayo ka kanyak ket Satanas! Imbilin ti Dios kadagiti sao na a ‘**dayawem**  laeng ti Apo a Dios mo ken isuna laeng ti pagserbiam.'"
   * **[[:ilo:obs:notes:frames:26-02|[26-02]]]** Iti aldaw ti panaginana ket napan isuna idiay lugar a **pagdaydayawan**.
   * **[[:ilo:obs:notes:frames:47-01|[47-01]]]** Naam-ammu da sadiay ti maysa a negosyante a babae nga agnagan iti Lydia. Ay-ayaten ken **daydayawen**  na ti Dios.
-  * **[[:ilo:obs:notes:frames:49-18|[49-18]]]** Imbaga ti Dios nga agkararag ka ken adalem ti sao na ken **dayawen**  isuna a kadwam dagiti dadduma a Kristiano.
+  * **[[:ilo:obs:notes:frames:49-18|[49-18]]]** Imbaga ti Dios nga agkararag ka ken adalem ti sao na ken **dayawem**  isuna a kadwam dagiti dadduma a Kristiano.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
