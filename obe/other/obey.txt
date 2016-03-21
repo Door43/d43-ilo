@@ -15,13 +15,13 @@ Ti "agtulnog" ket ti panagaramid ti banag nga dawaten wenno ibilin iti maysa nga
 
 {{topic>:en:bible?obey&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Dagiti ehemplo a naadaw kadagiti istorya ti Biblia: =====
 
-  * **[[:ilo:obs:notes:frames:03-04|[03-04]]]****Natulnog **  ni Noah iti bilin ti Dios kenkuana ket nagtinnulong a na-garamid iti daong da Naoh ken dagiti tallo tallo nga annak na a lalaki kas imbaga ti Dios kanyada.
-  * **[[:ilo:obs:notes:frames:05-06|[05-06]]]** Ket **nagtulnog**  ni Abraham iti Dios ket insagana na a idatun ti putot na.
-  * **[[:ilo:obs:notes:frames:05-10|[05-10]]]**"Gapo ta **nagtulnog**  ka kanyak ket amin a pamilya iti intero a lubong ket mabendisyonan gapo ti pamilyam"
+  * **[[:ilo:obs:notes:frames:03-04|[03-04]]]****Nagtulnog **  ni Noah iti bilin ti Dios kenkuana. Nagtinnulong da Noah ken dagiti tallo nga annak na a lalaki iti panagaramid ti bapor kas imbaga ti Dios kanyada.
+  * **[[:ilo:obs:notes:frames:05-06|[05-06]]]****Nagtulnog**  manen ni Abraham iti Dios ket insagana na a idatun ti putot na.
+  * **[[:ilo:obs:notes:frames:05-10|[05-10]]]**"Gapo ta **nagtulnog**  ka (Abraham) kanyak ket amin a pamilya iti intero a lubong ket mabendisionan gapo ti pamilyam"
   * **[[:ilo:obs:notes:frames:05-10|[11-06]]]** Ngem saan latta a pinatpati dagiti taga Egypt ti Dios wenno **nagtulnog**  kadagiti inbilin na.
-  * **[[:ilo:obs:notes:frames:13-07|[13-07]]]** Nu **agtulnog**  dagiti tattao kadagitoy a bilbilin, inkari ti Dios a bendisyonan ken tarabayen na ida.
+  * **[[:ilo:obs:notes:frames:13-07|[13-07]]]** Nu **agtulnog**  dagiti tattao kadagitoy a bilbilin, inkari ti Dios a bendisionan ken tarabayanna ida.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
