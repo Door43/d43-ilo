@@ -10,15 +10,6 @@ Ti Judah ket isu ti kalawaan kadagiti sangapulo ket dua a ti tribu iti Israel. K
 
 (Kitaen met: [[:ilo:obe:other:kingdom|pagarian]], [[:ilo:obe:other:kingdomofisrael|pagarian ti Israel]], [[:ilo:obe:other:babylon|Babylon, tagaBabylon]])
 
-===== Bible References: =====
+===== Pagkitan idiay Biblia: =====
 
-
-{{topic>:en:bible?judah&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish}}
-
-~~NOCACHE~~
+{{topic>:en:bible?kingdomofjudah&nocomments}}
