@@ -17,10 +17,10 @@ Ti Samaria ket nagan ti ili ken iti aglawlawna a paset iti amianan iti Israel.Da
 
 {{topic>:en:bible?samaria&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Dagiti ehemplo a naadaw kadagiti istorya ti Biblia: =====
 
-  * **[[:ilo:obs:notes:frames:20-04|[20-04]]]** Nangyeg dagiti taga Assyria kadagiti gangannaet a tattao tapno isuda ti agnaed iti dati a pagarian ti Israel. Binangun dagitoy a ganggannaet dagiti nadadael a siudad ken inasawa da dagiti Israelita a nabati sadiay. Dagiti kaputotan dagiti Israelita a nakiasawa kadagiti ganggannaet ket naawagan a **Samaritano**.
-  * **[[:ilo:obs:notes:frames:27-08|[27-08]]]**"Ti simmaruno a simmalog iti dalan ket maysa **Samaritano**. (Dagiti **taga Samaria**  ket kaputotan dagiti Judio a nakiasawa kadagiti tattao manipud iti naduma-duma a nasion. Agkagura dagiti **Samaritano**  ken Judio.)"
-  * **[[:ilo:obs:notes:frames:27-09|[27-09]]]**"Insakay ti **Samaritano**  ti lalaki iti bukod na nga asno ken inyapan na iti maysa a pagdagusan tapno maitultuloy na nga agasan."
-  * **[[:ilo:obs:notes:frames:45-07|[45-07]]]** Napan isuna idiay **Samaria ** ken inkasaba na ti maipapan kenni Jesus sadiay ket adu ti naisalakan a tattao.
+  * **[[:ilo:obs:notes:frames:20-04|[20-04]]]** Nangyeg dagiti tagaAssyria kadagiti ganggannaet a tattao tapno isuda ti agnaed iti dati a pagarian ti Israel. Binangun dagitoy a ganggannaet dagiti nadadael nga ili ken inasawa da dagiti Israelita a nabati sadiay. Dagiti kapututan dagiti Israelita a nakiasawa kadagiti ganggannaet ket naawagan da a **Samaritano**.
+  * **[[:ilo:obs:notes:frames:27-08|[27-08]]]**"Ti simmaruno a nagna iti dayta a dalan ket maysa **a Samaritano**. (Dagiti **Samaritano**  ket kapututan dagiti Judio a nakiasawa kadagiti tattao manipud iti dadduma a nasyon. Agkagura dagiti **Samaritano**  ken Judio.)"
+  * **[[:ilo:obs:notes:frames:27-09|[27-09]]]**"Insakay ti **Samaritano**  ti lalaki iti bukod na nga asno ken inyapan na iti maysa a pagdagusan ken isu't lugar nga nangaywananna inggana a pimigsa."
+  * **[[:ilo:obs:notes:frames:45-07|[45-07]]]** Napan isuna (Philip) idiay **Samaria **  ket inkasaba na ti maipapan kenni Jesus sadiay ket adu ti namati ken naisalakan a tattao.
 ~~DISCUSSION~~{{tag>publish}}
