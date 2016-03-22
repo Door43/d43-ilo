@@ -27,13 +27,13 @@ Ti sao nga "mamati" ken "mamati iti" ket aginnasideg da ngem addaan bassit nagdu
 
 {{topic>:en:bible?believe&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Dagiti ehemplo a naadaw kadagiti istorya ti Biblia: =====
 
-  * **[[:ilo:obs:notes:frames:03-04|[03-04]]]** Binallagan ni Noah dagiti tattao mai-papan iti layos ken imabaga na met a masapul a umasideg iti Dios. Ngem saan a **mamati**  dagiti tattao kenkuana.
-  * **[[:ilo:obs:notes:frames:04-08|[04-08]]]****Namati ** ni Abram iti kari ti Dios. Ket inbaga ti Dios a nalinteg ni Abram gapo ta **namati**  isuna iti kari ti Dios.
-  * **[[:ilo:obs:notes:frames:11-02|[11-02]]]** Nangisabet ti Dios iti wagas tapno maisalakan dagiti inauna a lallaki iti asinnoman a **mamati**  kenkuana.
+  * **[[:ilo:obs:notes:frames:03-04|[03-04]]]** Binallagan ni Noah dagiti tattao maipapan iti layos ken imabaga na met a masapul nga sumango da iti Dios. Ngem saan a **mamati**  dagiti tattao kenkuana.
+  * **[[:ilo:obs:notes:frames:04-08|[04-08]]]****Namati **  ni Abram iti kari ti Dios. Ket inbaga ti Dios a nalinteg ni Abram gapu ta **namati**  isuna iti kari ti Dios.
+  * **[[:ilo:obs:notes:frames:11-02|[11-02]]]** Nangisabet ti Dios iti wagas tapno maisalakan dagiti inauna a lallaki iti asinnuman a **mamati**  kenkuana.
   * **[[:ilo:obs:notes:frames:11-06|[11-06]]]** Ngem saan latta a **pinatpati**  dagiti taga Egypt ti Dios wenno nagtulnog kadagiti inbilin na.
-  * **[[:ilo:obs:notes:frames:37-05|[37-05]]]**"Siak ti Panagungar ken ti Biag. Siasinoman a **mamati**  kaniak ket agbiag, uray pay no matay. Amin a **mamati**  kaniak ket saanto pulos a matay. **Mamati**  ka kadi iti daytoy"
+  * **[[:ilo:obs:notes:frames:37-05|[37-05]]]**"Siak ti Panagungar ken ti Biag. Siasinuman a **mamati**  kaniak ket agbiag, uray pay no matay. Amin a **mamati**  kaniak ket saanto pulos a matay. **Patiem**  kadi daytoy"
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
