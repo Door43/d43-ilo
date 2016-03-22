@@ -4,12 +4,14 @@
 
 Ngem kalpasan ti sumagmamano a tawen ket **nagrebelde** ti ari ti **Judah** maibusor iti **Babylon**. Isunga **immay manen** dagiti taga Babylon ket rinaut da ti pagarian ti Judah. **Kinemmeg da ti ili** **ti Jerusalem** ken dinadael da ti** Templo** ken **inala ken impanaw** da amin dagiti kinabaknang ti siudad ken ti templo.
 
-===== Dagiti Napapateg A Balikas: =====
+===== Dagiti Balikas a Napateg: =====
 
-  * **[[:ilo:obe:other:rebel]]**
-  * **[[:ilo:obe:other:babylon]]**
-  * **[[:ilo:obe:other:jerusalem]]**
-  * **[[:ilo:obe:kt:temple]]**
+  * **[[:ilo:obe:other:rebel|Judah, pagarian ti Judah]]**
+  * **[[:ilo:obe:other:rebel|rebelde, managrebelde]]**
+  * **[[:ilo:obe:other:babylon|Babylon, TagaBabylonia]]**
+  * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
+  * **[[:ilo:obe:kt:temple|templo]]**
+
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
   * **nagsubli manen **- Daytoy ket mabalin nga ipakaawat a kas, “nagsubli” wenno, “immay manen idiay Judah.”
