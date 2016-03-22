@@ -24,13 +24,13 @@ Ti palso a dios ket banag nga daydayawen dagiti tattao imbes nga ti pudno a Dios
 
 {{topic>:en:bible?falsegod&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Dagiti ehemplo a naadaw kadagiti istorya ti Biblia: =====
 
   * **[[:ilo:obs:notes:frames:10-02|[10-02]]]** Babaen kadagitoy a didigra ket inpakita ti Dios iti Pharaoh a napigpigsa isuna ngem ti Pharaoh ken amin a **dididiosen**  idiay Egypt.
   * **[[:ilo:obs:notes:frames:13-04|[13-04]]]** Inted ti Dios kadakuada ti katulagan ken kinunana, “Siak ni Yahweh a Dios yo, ti nangisalakan kadakayo manipud iti pannakatagabo yo idiay Egypt. Saan kayo nga agdayaw kadagiti dadduma a **dios**."
-  * **[[:ilo:obs:notes:frames:14-02|[14-02]]]** Agdaydayaw da kadagiti **didiosen**  ken agararamid da ti adu a nagdadakes a banag.
-  * **[[:ilo:obs:notes:frames:16-01|[16-01]]]** Rinugian dagiti Israelita ti nagdaydayaw kadagiti **didiosen**  dagiti taga Canaan imbes a ni Yahweh, ti pudno a Dios.
-  * **[[:ilo:obs:notes:frames:18-13|[18-13]]]** Ngem managdakdakes ket panag-agum ken agdaydayaw kadagiti **didiosen**  ti kaaduan kadagiti ari ti Judah.
+  * **[[:ilo:obs:notes:frames:14-02|[14-02]]]** Agdaydayaw da kadagiti **didiosen**  ken agaramid da ti adu a nagdadakes a banag.
+  * **[[:ilo:obs:notes:frames:16-01|[16-01]]]** Rinugian dagiti Israelita ti nagdaydayaw kadagiti **didiosen**  dagiti tagaCanaan imbes a ni Yahweh, ti pudno a Dios.
+  * **[[:ilo:obs:notes:frames:18-13|[18-13]]]** Ngem kaaduan kadagiti ari ti Judah ket managdakdakes, kurakot ken agdaydayaw da kadagiti **didiosen**. Sumagmamanu pay kadagitoy nga ar-ari ket nagidaton da ti ubing a kas panagdayaw da kadagiti palsu a dios.
 ~~DISCUSSION~~{{tag>publish knobs}}
 
 ~~NOCACHE~~
