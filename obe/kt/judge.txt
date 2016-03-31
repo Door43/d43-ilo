@@ -1,23 +1,22 @@
-====== ukom, pannusa ======
+====== judge, judgment ======
 
-===== Kaipapananna: =====
+===== Definition: =====
 
-Ti sao nga “ukom” ken "panangukom” ket kanayon nga itudona ti panggeddeng nu iti maysa a banag ket nasayaat wennu saan.
+The terms "judge" and "judgment" often refer to making a decision about whether something is morally right or wrong.
 
-  * Ti “panangukom ti Dios” ket kanayon nga itudona ti pangngeddeng ti Dios tapno babalawenna ti maysa a banag wenno maysa nga tao a kas managbasol.
-  * Kadawyan a ti panangukom ti Dios ket ramanenna ti pannakadusa dagiti tattao gapu iti basol.
-  * Ti sao nga “ukom” ket mabalin met a “tubngar.” Insuro ti Dios dagiti tattaona a saanda nga mangukom ti dadduma iti kastoy a wagas.
-  * Ti sabali a kayatna a sawen ti “mangikappia iti nagtengngaan” wenno “panangukom iti nagtengngaan,” kas kuma panggeddeng nu sino nga tao ti usto diay riri ti nagtenngaanda.
-  * Iti dadduma a linaonna, ti panangukom ti Dios ket isu dagiti inkeddengna a usto ken nainkalintegan. Dagitoy ket agpada kadagiti bilinna, lintegna.
-  * Ti “panangukom” ket mabalin nga itudona ti galad a nainrisiban nga pangngeddeng. Ti tao nga agkurang ti "panangukom" ket awanan ti sirib a agaramid ti nasirib a pangngeddeng.
+  * The "judgment of God" often refers to his decision to condemn something or someone as sinful.
+  * God's judgment usually includes punishing people for their sin.
+  * The term "judge" can also mean "condemn." God instructs his people not to judge each other in this way.
+  * Another meaning is "arbitrate between" or "judge between," as in deciding which person is right in a dispute between them.
+  * In some contexts, God's judgments are his decrees or judicial decisions. They are similar to his laws or his precepts.
+  * "Judgment" can refer to wise decision-making ability. A person who lacks "judgment" does not have the wisdom to make wise decisions.
 
-==== Singasing Kadagiti Panagpataros: ====
+===== Translation Suggestions: =====
 
-  * Depende ti un-unana, ti sabali pannakaipataros na “ ti panangukom” mairaman met “ ti panangngeddeng” wennu “ ti panangbabalaw” wennu panangdusa.
-  * The term “judgment” could be translated as, “punishment” or “decision” or “verdict” or “decree” or “condemnation.”
-  * Ti sao “pannusa” ket mabalin met a maipataros kas “dusa” wennu” pangngeddeng” wennu “
+  * Depending on the context, other ways to translate "to judge" could include, "to decide" or "to condemn" or "to punish" or "to decree."
+  * The term "judgment" could be translated as, "punishment" or "decision" or "verdict" or "decree" or "condemnation."
 
-(See also:[[:ilo:obe:kt:justice|pudno, pangukoman, kinapudno]], [[:ilo:obe:other:judgeposition|ukom]][[:ilo:obe:other:law|,kapanunutan]], [[:ilo:obe:kt:lawofmoses|linteg, linteg ni Moses, linteg ti Dios, linteg ni Yahweh]])
+(See also: [[:ilo:obe:kt:justice|husto, okom wennu nangato nga okom, nalinteg isuna]], [[:ilo:obe:other:judgeposition|judge]], [[:ilo:obe:other:law|law, principle]], [[:ilo:obe:kt:lawofmoses|linteg, linteg ni Moses, linteg ti Dios, linteg ni Yahweh]])
 
 ===== Bible References: =====
 
@@ -25,8 +24,8 @@ Ti sao nga “ukom” ken "panangukom” ket kanayon nga itudona ti panggeddeng 
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:19-16|[19-16]]]** Binallaagan dagiti mammadto dagiti tattao a no madi da nga isardeng ti dakes nga aramid da ken rugian ti agtulnog iti Dios ket **ukomento**  ida ti Dios kas nagbasol ken dusaen nanto ida.
-  * **[[:ilo:obs:notes:frames:21-08|[21-08]]]** Ti ari ket maysa a mangituray iti pagarian ken mangukom kadagiti tattao. Ti Messiah ti naan-anay nga ari nga agtugawto iti trono ti kapuonan na a ni David. Iturayannanto ti entero a sangalubongan iti agnanayon ken kankanayonto isuna a **mangukom ** a sipupudno ken agaramid kadagiti umno a pangngeddeng.
-  * **[[:ilo:obs:notes:frames:39-04|[39-04]]]** Gapo iti pungtot ti kangatoan a padi ket pinisang na ti bado na ken impukkaw na kadagiti dadduma a panguloen ti relihiyon, “Saan tayon a kasapulan pay ti adu a saksi! Nangngeg yo nga imbagana nga isuna ti Anak ti Dios. Ania ti **pannangigeddeng ** yo?"
-  * **[[:ilo:obs:notes:frames:50-14|[50-14]]]** Ngem **ukomento**  ti Dios dagiti saan a mamati kenni Jesus. Ibilleng nanto ida idiay impierno. Agnanayonto nga agsangsangit ken agngaretnget dagiti ngipen da sadiay gapo iti tuok.
+  * **[[:ilo:obs:notes:frames:19-16|[19-16]]]** The prophets warned the people that if they did not stop doing evil and start obeying God, then God would **judge**  them as guilty, and he would punish them.
+  * **[[:ilo:obs:notes:frames:21-08|[21-08]]]** A king is someone who rules over a kingdom and **judges**  the people. The Messiah would come would be the perfect king who would sit on the throne of his ancestor David. He would reign over the whole world forever, and who would always **judge**  honestly and make the right decisions.
+  * **[[:ilo:obs:notes:frames:39-04|[39-04]]]** The high priest tore his clothes in anger and shouted to the other religious leaders, "We do not need any more witnesses! You have heard him say that he is the Son of God. What is your **judgment**?"
+  * **[[:ilo:obs:notes:frames:50-14|[50-14]]]** But God will **judge**  everyone who does not believe in Jesus. He will throw them into hell, where they will weep and grind their teeth in anguish forever.
 ~~DISCUSSION~~{{tag>publish ktobs}}
