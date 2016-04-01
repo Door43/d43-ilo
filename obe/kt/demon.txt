@@ -1,21 +1,22 @@
-====== demonyo, dakes nga ispiritu, narugit nga ispiritu ======
+====== demon, evil spirit, unclean spirit ======
 
-===== Kaipapananna: =====
+===== Definition: =====
 
-Dagitoy a sao ket itudona iti demonyo, a nabiag nga ispiritu a mangsupiayat iti pagayatan ti Dios.
+All these terms refer to demons, which are spirit beings that oppose God's will.
 
-  * Pinarsua ti Dios dagiti anghel tapno agserbi kenkuana. Idi ti sairo ket nagrebelde maibuor iti Dios, sumagmamano kadagiti anghel ket nagrebeldeda met ket naibellengda diay ruar ti langit. Patien nga dagitoy a demonyo ken dakes nga ispiritu ket isuda dagiti "naitinnag nga anghel."
-  * Nu dadduma dagitoy a demonyo ket naawagan nga "dagiti narugit nga ispiritu". Ti sao nga "narugit" ti kayatna a sawen ket "saan a nadalos" wenno "dakes" wenno "saan a nasantoan."
-  * Gapu ta dagiti demonyo ket agserbi iti sairo, agar-aramidda ti dakes a banbanag. Nu dadduma sumrekda kadagiti tattao ken tenglenna ida.
-  * Dagiti demonyo ket mannakabalinda ngem dagiti tattao, ngem saan a mannakabalin a kas iti Dios.
+  * God created angels to serve him. When the devil rebelled against God, some of the angels also rebelled and were thrown out of heaven. It is believed that demons and evil spirits are these "fallen angels."
+  * Sometimes these demons are called "unclean spirits." The term "unclean" means "impure" or "evil" or "unholy."
+  * Because demons serve the devil, they do evil things. Sometimes they live inside people and control them.
+  * Demons are more powerful than humans, but not as powerful as God.
 
-===== Dagiti singasing ti Panangpatarus: =====
+===== Translation Suggestions: =====
 
-  * Ti sao nga "demonyo" ket mabalin met nga ipatarus a kas "dakes a ispiritu."
-  * Ti sao nga "narugit nga ispiritu" ket mabalin met nga ipatarus a kas "saan a nadalos nga ispiritu" wenno "naalas nga ispiritu" wenno "dakes nga ispiritu."
-  * Siguraduen nga nu agusar ti sao wenno sasao nu ipatarus ti daytoy a sao ket duma manipud iti sao nga naaramat tapno itudo ti sairo.
+  * The term "demon" could also be translated as "evil spirit."
+  * The term "unclean spirit" could also be translated as "impure spirit" or "corrupt spirit" or "perverse spirit."
+  * Make sure that the word or phrase used to translate this term is different from the term used to refer to the devil.
+  * Also consider how the term "demon" is translated in a local or national language. (See: [[:ilo:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(Kitaen met: [[:ilo:obe:kt:demonpossessed|naluganan ti sairo, wennu demonyo]], [[:ilo:obe:kt:satan|Satanas, kadadaksan, dyablo]], [[:ilo:obe:other:idol|didiosen, panagdaydayaw kadagiti didiosen]], [[:ilo:obe:kt:falsegod|palso a dios, dios]], [[:ilo:obe:kt:angel|anghel, arkanghel]], [[:ilo:obe:kt:evil|dakes, nadangkes, kinadakes]],[[:ilo:obe:kt:unclean|narugit, unsaan a nadalos]])
+(See also: [[:ilo:obe:kt:demonpossessed|naluganan ti sairo, wennu demonyo]], [[:ilo:obe:kt:satan|Satanas, diyablo, nadakes]], [[:ilo:obe:other:idol|didiosen, agdaydayaw kadagiti didiosen]], [[:ilo:obe:kt:falsegod|palsu a dios, dios ti dadduma a nasyon, dios, diosa]], [[:ilo:obe:kt:angel|anghel, arkanghel]], [[:ilo:obe:kt:evil|dakes, nadakes, kinadakes]], [[:ilo:obe:kt:unclean|unclean, uncleanness]])
 
 ===== Bible References: =====
 
@@ -23,10 +24,10 @@ Dagitoy a sao ket itudona iti demonyo, a nabiag nga ispiritu a mangsupiayat iti 
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:26-09|[26-09]]]** Adu pay ti inyeg da kenni Jesus a linoganan dagiti **demonyo**  ket babaen iti bilin ni Jesus ket napaksiat da manipud kadagitoy a tattao. Masansan nga ipukpukkaw da, “Sika ti Anak ti Dios!"
-  * **[[:ilo:obs:notes:frames:32-08|[32-08]]]** Rimmuar dagiti **demonyo**  manipud iti lalaki ket simrek da iti grupo dagiti baboy.
-  * **[[:ilo:obs:notes:frames:47-05|[47-05]]]** Kamauddianan na, iti maysa nga aldaw idi ruggian ti tagabo a babae ti agpukkapukkaw ket sinango ni Paul isuna ket kinunana iti **demonyo**  nga adda iti babae, “Iti nagan ni Jesus! Rumuar ka kenkuana.” Dagus a pimmanaw ti **demonyo**  manipud kenkuana. .
-  * **[[:ilo:obs:notes:frames:49-02|[49-02]]]** Nagna isuna iti rabaw ti danum ken pinatalna na ti bagyo ken inagasan na dagiti adu a masakit ken pinaksiat na dagiti **demonyo**  ken pinagungar na dagiti natay ken pinagbalin na ti lima a tinapay ken dua a babassit nga ikan nga umdas a nangpakan iti lima a ribo a tattao.
+  * **[[:ilo:obs:notes:frames:26-09|[26-09]]]** Many people who had **demons**  in them were brought to Jesus. When Jesus commanded them, the **demons**  came out of the people, and often shouted, "You are the Son of God!"
+  * **[[:ilo:obs:notes:frames:32-08|[32-08]]]** The **demons**  came out of the man and entered the pigs.
+  * **[[:ilo:obs:notes:frames:47-05|[47-05]]]** Finally one day when the slave girl started yelling, Paul turned to her and said to the **demon**  that was in her, "In the name of Jesus, come out of her." Right away the **demon**  left her.
+  * **[[:ilo:obs:notes:frames:49-02|[49-02]]]** He (Jesus) walked on water, calmed storms, healed many sick people, drove out **demons**, raised the dead to life, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
