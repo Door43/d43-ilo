@@ -19,15 +19,15 @@ Ti sao a "salakan" ket maipapan ti panangisalbar ti maysa a tao manipud pannakap
 
 {{topic>:en:bible?save&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Dagiti ehemplo a naadaw kadagiti istorya ti Biblia: =====
 
-  * **[[:ilo:obs:notes:frames:09-08|[09-08]]]** Iti maysa nga aldaw idi dakkelen nga usto ni Moses ket nakita na ti maysa a taga Egypt a parparigaten na ti maysa a kapada na nga Israelita a tagabo ket pinadas na nga **isalakan**.
-  * **[[:ilo:obs:notes:frames:11-02|[11-02]]]** Nangisabet ti Dios iti wagas tapno **maisalakan **  dagiti inauna a lallaki iti asinnoman a mamati kenkuana.
-  * **[[:ilo:obs:notes:frames:12-05|[12-05]]]** Kinuna ni Moses kadagiti Israelita, “Dikay agbuteng! Ti Dios isu ti makilaban para kadakayo tatta ken **salakniban**  na kayo."
-  * **[[:ilo:obs:notes:frames:12-13|[12-13]]]** Nagrag-o dagiti Israelita ti kasta launay gapo ta** insalakan**  isuda ti Dios iti pannakatay ken pannakataguboen da.
-  * **[[:ilo:obs:notes:frames:16-17|[16-17]]]** Naulit-ulit a napasamak ti kastoy iti namin-adu a daras. Agbasul dagiti Israelita ket dusaen ti Dios ida, agpakawan da ket mangibaon ti Dios iti **mangispal**  kadakuada.
-  * **[[:ilo:obs:notes:frames:44-08|[44-08]]]**"Pinatay yo ni Jesus babaen ti panangilansa yo iti krus, ngem pinagungar isuna ti Dios! Linaksid yo isuna ngem awanen ti sabali pay wagas a **pakaisalakanan**  malaksid iti pannakabalin ni Jesus!"
-  * **[[:ilo:obs:notes:frames:47-11|[47-11]]]** Agtigtigerger ti guwardia a napan iti ayan da Paul ken Silas ket sinaludsod na, “Anya ti nasken nga aramidek tapno **maisalakanak**?” Simmungbat ni Paul ket kinunana, “Mamati ka kenni Apo Jesus ket **maisalakan**  kanto; sika ken ti pamiliam."
-  * **[[:ilo:obs:notes:frames:49-12|[49-12]]]** Saan naka a **maisalakan**  dagiti naimbag nga araramid.
+  * **[[:ilo:obs:notes:frames:09-08|[09-08]]]**Pinadas ni Moises nga **isalakan ** ti pada na nga Israelita.
+  * **[[:ilo:obs:notes:frames:11-02|[11-02]]]** Nangted ti Dios iti wagas tapno **maisalakan **  dagiti inauna nga anak a lallaki dagiti asinnuman a mamati kenkuana.
+  * **[[:ilo:obs:notes:frames:12-05|[12-05]]]** Kinuna ni Moses kadagiti Israelita, “Isardeng yon ti buteng yo! Ti Dios isu ti makilaban tatta para kadakayo ket **isalakan**na kayo."
+  * **[[:ilo:obs:notes:frames:12-13|[12-13]]]** Nagrag-o dagiti Israelita ti kasta launay gapo ta inikkan ti Dios ida iti baru a pannakawayawaya ken insalakanna ida manipud kadagiti suldado ti Egypt.
+  * **[[:ilo:obs:notes:frames:16-17|[16-17]]]** Naulit-ulit a napasamak ti kastoy iti namin-adu a daras. Agbasul dagiti Israelita ket dusaen ti Dios ida, agpakawan da ket mangibaon ti Dios iti **mangispal**  kadakuada tapnu **isalakan**na ida.
+  * **[[:ilo:obs:notes:frames:44-08|[44-08]]]**"Pinatay yo ni Jesus babaen ti panangilansa yo iti krus, ngem pinagungar isuna ti Dios! Linaksid yo isuna ngem awanen ti sabali pay a wagas a **pakaisalakanan**  malaksid iti pannakabalin ni Jesus!"
+  * **[[:ilo:obs:notes:frames:47-11|[47-11]]]** Agtigtigerger ti guwardia a napan iti ayan da Paul ken Silas ket sinaludsodna, “Anya ti nasken nga aramidek tapno **maisalakanak**?” Simmungbat ni Paul ket kinunana, “Mamati ka kenni Apo Jesus ket **maisalakan**  kanto; sika ken ti pamiliam."
+  * **[[:ilo:obs:notes:frames:49-12|[49-12]]]** Saan naka a **maisalakan**  dagiti naimbag nga ar-aramid.
   * **[[:ilo:obs:notes:frames:49-13|[49-13]]]****Isalakan**  ti Dios ti siasinoman a mamati ken mangawat kenni Jesus kas Apo na. Ngem saan na nga **isalakan**  ti siasinoman a saan a mamati kenkuana.
 ~~DISCUSSION~~{{tag>publish knobs}}
