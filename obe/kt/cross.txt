@@ -1,27 +1,20 @@
 ====== krus ======
 
+===== Definition: =====
 
+A cross is an upright wooden post stuck into the ground, with a horizontal wooden beam attached to it near the top.
 
-**Dagiti Kaipapanan:**
+  * During the time of the Roman Empire, the Roman government would execute criminals by tying or nailing them to a cross and leaving them there to die.
+  * Jesus was falsely accused of crimes he did not commit and the Romans put him to death on a cross.
+  * Note that this is a completely different word from the verb "to cross (a river)" or "to cross over."
 
-Ti krus ket maysa a kayu a naipatakder manipud daga, nga adda baratilanna a nakalansa iti asider ti murdong.
+===== Translation Suggestions: =====
 
-  * Idi panawen ti Roman Empire, ti gobyerno dagiti Roman ket igalgalu ken ilanlansa dagiti criminal iti ingga a matay saddiay.
-  * Ni Jesus ket napabasul iti maysaa basol a basol a saanna met nga inaramid, ket dagiti Romans ket inlansa iddiay agingga a natay.
+  * This term could be translated using a term in the target language that refers to the shape of a cross.
+  * Consider describing the cross as the thing on which people were killed, using phrases such as "execution post" or "tree of death."
+  * Also consider how this word is translated in a Bible translation in a local or national language. (See: [[:ilo:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-
-
-
-**Singasing Kadagiti Ipataros:**
-
-   * Dagituy a pagsasao ket maaramat laeng para iti porma ti krus.
-  * Iladawan laeng ti krus ti pannakaikrus ti tao ket saddiay a natay, wennu “kayu ti patay”
-  * Iraman met daytuy a sao a nukasanu ti pannakapaitarosna iti pataro ti Biblia, wennu kadagit sabali a pagsasao.
-
-  * (Kitan:[[:ilo:ta:vol1:translate:translate_unknown|Kasano a Ipataros Dagiti Nagnagan]])
-
-(Kitaen met: [[:ilo:obe:kt:crucify|ikrus]], [[:ilo:obe:other:rome|Rome, Roman]])
-
+(See also: [[:ilo:obe:kt:crucify|crucify]], [[:ilo:obe:other:rome|Rome, Roman]])
 
 ===== Bible References: =====
 
