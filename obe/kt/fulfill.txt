@@ -20,13 +20,13 @@ Ti kayat a saoen ti balikas nga"tungpalen" ket manglippas ti maysa a banag a pin
 
 {{topic>:en:bible?fulfill&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Dagiti ehemplo a naadaw kadagiti istorya ti Biblia: =====
 
-  * **[[:ilo:obs:notes:frames:24-04|[24-04]]]****Tinongpal**  ni John ti imbaga dagiti mammadto, “Kitaen yo ket ibaon ko nga umun-una ti mensaherok a mangisananto iti dalan mo"
-  * **[[:ilo:obs:notes:frames:40-03|[40-03]]]** Pinagsusugalan dagiti suldado ti bado ni Jesus. Idi inaramid da daytoy, **tinungpal**  da ti padtu a, “Pinagbibingayan da dagiti pagan-anay ko ken pagsusugalan da ti badok."
-  * **[[:ilo:obs:notes:frames:42-07|[42-07]]]** Kinuna ni Jesus kadakuada, “Kinunak kadakayo a masapul a **matungpal**  dagiti amin a naisurat iti sao ti Dios a maipapan kanyak."
-  * **[[:ilo:obs:notes:frames:43-05|[43-05]]]**"Daytoy ti **pannakatungpal**  ti padtu nga imbaga ni mammadtu a Joel maipapan iti imbaga ti Dios nga, “Iti maudi nga al-aldaw ket ibuyat kunto ti Ispirituk.'"
-  * **[[:ilo:obs:notes:frames:43-07|[43-07]]]**"Daytoy ti **pannakatungpal**  ti naipadtu a, ‘Saan mo nga ipalubos nga agrupsa ti Nasantoan nga Adipen mo iti tanem.'"
+  * **[[:ilo:obs:notes:frames:24-04|[24-04]]]****Tinungpal**  ni John ti imbaga dagiti mammadtu a “Kitaen yo ket ibaon ko nga umun-una ti tagipadamag ko a mangisagananto iti dalan mo"
+  * **[[:ilo:obs:notes:frames:40-03|[40-03]]]** Pinagsusugalan dagiti suldado ti bado ni Jesus. Idi inaramid da daytoy, **tinungpal**  da ti padtu a, “Pinagbibingayan da dagiti pagan-anay ko ken pinagsusugalan da ti badok."
+  * **[[:ilo:obs:notes:frames:42-07|[42-07]]]** Kinuna ni Jesus kadakuada, “Kinunak kadakayo a masapul nga **matungpal**  dagiti amin a naisurat iti sao ti Dios a maipapan kanyak."
+  * **[[:ilo:obs:notes:frames:43-05|[43-05]]]**"Daytoy ti **pannakaitungpal**  ti padtu nga imbaga ni mammadtu a Joel maipapan iti imbaga ti Dios nga “Iti maudi nga al-aldaw ket ibuyat kunto ti Ispirituk.'"
+  * **[[:ilo:obs:notes:frames:43-07|[43-07]]]**"Daytoy ti **pannakaitungpal**  ti padtu a ‘Saan mo nga ipalubos nga agrupsa ti Nasantoan nga Adipen mo iti tanem.'"
   * **[[:ilo:obs:notes:frames:44-05|[44-05]]]**"Numan pay saan yo a naaw-awatan dagiti inar-aramid yo, inaramat ti Dios dagiti aramid yo tapno **matungpal**  dagiti padtu nga agsagaba ken matayto ti Messiah."
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
