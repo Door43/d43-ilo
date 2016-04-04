@@ -8,13 +8,13 @@ Idi panawen iti Bibliya, ti krus ket maysa a diretso nga kayu a naipatakder iti 
   * Napabasol ni Jesus iti adu a krimen nga saanna met nga inaramid ken inlansa dagiti Romano isuna saddiay krus aginggana natay.
   * Lagipen nga daytoy ket sabali manipud iti sao a yanag(verb/pandiwa) nga "dalyasaten" a ti kayatna a sawen ket iti panagballasiw ti bangir iti maysa a banag, kas kuma iti karayan wenno waig.
 
-===== Translation Suggestions: =====
+===== Dagiti singasing ti Panangpatarus: =====
 
-  * This term could be translated using a term in the target language that refers to the shape of a cross.
-  * Consider describing the cross as the thing on which people were killed, using phrases such as "execution post" or "tree of death."
-  * Also consider how this word is translated in a Bible translation in a local or national language. (See: [[:ilo:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Daytoy a sao ket mabalin nga ipatarus babaen ti pangaramat iti sao ti dayta a pagsasao nga itudona ti porma ti krus.
+  * Kitaen nu kasano nga mailadawan ti krus a kas maysa a banag nga pakatayan dagiti tattao, nga aramaten ti sasao a kas "poste nga pakatayan" wenno "kayu ti patay."
+  * Adalen met nu kasano ti pannakapatarus daytoy a sao  ti patarus iti Biblia ti dayta a pagsasao . (Kitaen: [[:ilo:ta:vol1:translate:translate_unknown|Kasano nga Ipatarus dagiti madi Makita]])
 
-(See also: [[:ilo:obe:kt:crucify|crucify]], [[:ilo:obe:other:rome|Rome, Roman]])
+(Kitaen met: [[:ilo:obe:kt:crucify|ilansa]], [[:ilo:obe:other:rome|Roma, Romano]])
 
 ===== Bible References: =====
 
