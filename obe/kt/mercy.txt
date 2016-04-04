@@ -20,12 +20,12 @@ Itudo ti "asi" ken "naasi" iti panangtulong kadagiti tattao nga agkasapulan, nan
 
 {{topic>:en:bible?mercy}}
 
-===== Examples from the Bible stories: =====
+===== Dagiti ehemplo a naadaw kadagiti istorya ti Biblia: =====
 
-  * **[[:bn:obs:notes:frames:19-16|[19-16]]]** Amin da imbaga da nga isardeng dagiti tattao ti panagdaydayaw da kadagiti didiosen ken rugian da nga ipakita ti hustisia ken **kaasi**  kadagiti dadduma.
-  * **[[:bn:obs:notes:frames:19-17|[19-17]]]** Limned isuna iti pitak nga adda iti uneg ti bubun ket idin to a **naasian**  diay ari kenkuana ket minandaran na dagiti adipen na nga alaen da ni Jeremiah manipud iti bubun sakbay a matay isuna.
-  * **[[:bn:obs:notes:frames:20-12|[20-12]]]** Nabileg ti pagarian a Persia ngem **mannangaasi**  daytoy kadagiti tattao a sinakup da.
-  * **[[:bn:obs:notes:frames:27-11|[27-11]]]** Kalpasan daytoy ket nagsaludsod ni Jesus iti tao a nalaing iti linteg a kunana, “Anya ti kapanonotam? Siasino kadagiti tallo a lallaki ti karruba ti natakawan ken nadangran a lalaki?” Simmungbat ket kinuna na, “Diay tao a **naasian**  kenkuana."
-  * **[[:bn:obs:notes:frames:32-11|[32-11]]]** Ngem kinuna ni Jesus kenkuana, “Saan. Kayat ko nga agawid ka ket ibagam kadagiti gagayyem ken pamilyam dagiti amin nga inaramid ti Dios kenka ken no kasano a **kinaasyan ** naka."
-  * **[[:bn:obs:notes:frames:34-09|[34-09]]]**"Ngem immadayo ti agsingsingir iti buwis manipud iti panguloen iti relihyon ket di na pay intangad idiay langit. Dinandanog na ketdi ti barukong na ket nagkararag, ‘Apo ket **pangaasim**  ta **maasian**  ka koma kaniak agsipud ta managbasolak.'"
+  * **[[:bn:obs:notes:frames:19-16|[19-16]]]** Amin da (dagiti mammadto) imbaga da nga isardeng dagiti tattao ti panagdaydayaw da kadagiti didiosen ket rugian dan nga ipakita ti hustisia ken **asi**  kadagiti dadduma.
+  * **[[:bn:obs:notes:frames:19-17|[19-17]]]** Limned isuna (Jeremiah) iti pitak nga adda iti kaunegan ti bubun ket idin to a **naasian**  diay ari kenkuana ket minandaran na dagiti adipenna nga alaen da ni Jeremiah manipud iti bubun sakbay a matay isuna.
+  * **[[:bn:obs:notes:frames:20-12|[20-12]]]** Nabileg ti pagarian a Persia ngem **mannangaasi**  daytoy kadagiti tattao a pinarmek da.
+  * **[[:bn:obs:notes:frames:27-11|[27-11]]]** Kalpasan daytoy ket nagsaludsod ni Jesus iti tao a nalaing iti linteg ket kunana, “Anya ti kapanunutam? Siasinu kadagiti tallo a lallaki ti makuna a karruba ti natakawan ken nadangran a lalaki?” Simmungbat daytoy ket kinunana, “Diay tao a **naasian**  kenkuana."
+  * **[[:bn:obs:notes:frames:32-11|[32-11]]]** Ngem kinuna ni Jesus kenkuana a “Saan. Kayat ko nga agawid ka ket ibagam kadagiti gagayyem mo ken pamilyam dagiti amin nga inaramid ti Dios kenka ken no kasano a **kinaasiyan**na ka."
+  * **[[:bn:obs:notes:frames:34-09|[34-09]]]**"Ngem immadayo ti agsingsingir iti buwis manipud iti panguloen iti relihyon ket di na pay intangad idiay langit. Dinandanog na ketdi ti barukong na ket nagkararag, ‘Apo ket **pangaasim**  ta **maasian**  ka koma kaniak agsipud ta managbasulak.'"
 {{tag>publish ktobs}}
