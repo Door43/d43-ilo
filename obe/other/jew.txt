@@ -14,13 +14,13 @@ Dagiti Jews a tattao ket naggapu iti kaputotan ni Abraham gapu ti apukona a ni, 
 
 {{topic>:en:bible?jew&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Dagiti ehemplo a naadaw kadagiti istorya ti Biblia: =====
 
-  * **[[:ilo:obs:notes:frames:20-11|[20-11]]]** Maaw-awaganen iti daytoy a panawen dagiti Israelita a **Judio**.
-  * **[[:ilo:obs:notes:frames:20-12|[20-12]]]** Isua kalpasan ti pitupulo a tawen iti pwersaaa a pannakaipanaw ket nagsubli ti bassit a bunggoy dagiti **Judio**  idiay siudad ti Jerusalem idiay Judah.
-  * **[[:ilo:obs:notes:frames:37-10|[37-10]]]** Adu dagiti namati a **Judio**  ken ni Jesus gapo iti daytoy a milagro.
+  * **[[:ilo:obs:notes:frames:20-11|[20-11]]]**Iti daytoy a panawen ket maaw-awaganen dagiti Israelita a **Judio**.
+  * **[[:ilo:obs:notes:frames:20-12|[20-12]]]** Isua kalpasan ti pitupulo a tawen iti pwersaan a pannakaipanaw ket nagsubli ti bassit a bunggoy dagiti **Judio**  idiay siudad ti Jerusalem idiay Judah.
+  * **[[:ilo:obs:notes:frames:37-10|[37-10]]]** Adu dagiti **Judio** ti namati kenni Jesus gapu iti daytoy a milagro.
   * **[[:ilo:obs:notes:frames:37-11|[37-11]]]** Ngem nagimon dagiti panguloen ti relihiyon ti **Judio**  isua nagguummong da tapno planoen da nu kasatnu da a papatayen ni Jesus ken ni Lazarus.
-  * **[[:ilo:obs:notes:frames:40-02|[40-02]]]** Imbilin ni Pilato nga isurat da daytoy, “Ari ti **Judio**” iti maysa a karatula ket ikabil da iti ngatoen ti ulo ni Jesus idiay krus.
+  * **[[:ilo:obs:notes:frames:40-02|[40-02]]]** Imbilin ni Pilato nga isurat da ti “Ari ti **Judio**” iti maysa a karatula ket ikabil da iti ngatoen ti ulo ni Jesus idiay krus.
   * **[[:ilo:obs:notes:frames:46-06|[46-06]]]** Iti dayta met laeng a gundaway nangrugi ni Saul a makiinnadal kadagiti **Judio**  idiay Damascus. Kinunana, “Ni Jesus ti Anak ti Dios!”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
