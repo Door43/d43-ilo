@@ -1,6 +1,3 @@
-====== Jeremiah ======
-
-
 ===== Dagiti Kinapudno: =====
 
 Ni Jeremiah ket mammadtu ti Dios iddiay pagarian ti Judah.
@@ -11,15 +8,3 @@ Ni Jeremiah ket mammadtu ti Dios iddiay pagarian ti Judah.
 (Singasing Kadagiti Panagpataros: [[:ilo:ta:vol1:translate:translate_names|Ipatarus dagiti nagnagan]])
 
 (Kitaen met: [[:ilo:obe:kt:prophet|mammadtu, padt]]u, [[:ilo:obe:other:kingdomofjudah|Judah,pagaryan ti Judah]], [[:ilo:obe:other:babylon|Babylon, tagaBabylonia]])
-
-===== Pagkitan idiay Biblia: =====
-
-{{topic>:en:bible?jeremiah&nocomments}}
-
-===== Dagiti ehemplo a naadaw kadagiti istorya ti Biblia: =====
-
-  * **[[:ilo:obs:notes:frames:19-17|[19-17]]]** Iti naminsan ket impisuk da ti mammadtu a ni** Jeremiah**  iti maysa nga awan danomna a bubon ken pinanawan da isuna tapno matay idiay. Limned isuna iti pitak nga adda iti uneg ti bubun ngem naasian diay ari kenkuana ket minandaran na dagiti adipen na nga alaen da ni **Jeremiah**  manipud iti bubun sakbay a matay isuna.
-  * **[[:ilo:obs:notes:frames:21-05|[21-05]]]** Babaen kenni mammadtu a **Jeremiah**  ket inkari ti Dios a mangaramidto isuna iti Baru a Tulag ngem saan a kas iti tulag nga inaramid ti Dios kadagiti Israelita idiay Sinai.
-~~DISCUSSION~~{{tag>publish ktobs}}
-
-~~NOCACHE~~
