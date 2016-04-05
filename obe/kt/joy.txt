@@ -1,25 +1,23 @@
-__false__
+====== **rag-o, naragsak** ======
 
-====== ragsak, naragsak ======
+===== Definition: =====
 
-==== Dagiti Kaipapanan: ====
+Joy is a feeling of delight and deep satisfaction that comes from God. The related term, "joyful" describes a person who feels very glad and full of deep happiness.
 
-Ti rag-o ket maysa a marikrikna a pagragsakam ken nauneg a pannakapnek a aggupo iti Dios. A kapadpada ti pagsasao a “naragsag” a mangiladawan ti tao a makarikna ti kasta launay a rag-o ken nauneg pakaragsakan.
+  * A person feels joy when he has a deep sense that what he is experiencing is very good.
+  * God is the one who gives true joy to people.
+  * Having joy does not depend on pleasant circumstances. God can give people joy even when very difficult things are happening in their lives.
+  * Sometimes things such as houses or cities are described as "joyful," which means that the people who live there are joyful.
 
-  * Ti tao a makarikna ti rag-o ket addaan nauneg a rikna iti mapadpadasanna a naimbag.
-  * Ti Dios laeng ti makaited wen makaipaay iti pudno a rag-o kadagiti tattao.
-  * Saan laeng a iti nasayaat a kasasaad iti makaipaay ti rag-o. Uray pay ti Dios ket mangted met ti rag-o iti tenga narikut a kasasaad iti panagbiag.
-  * Dagiti banag a kas kuma balay wennu ili a pagyanan ket mangiladawan met iti “naragsag” a kayat na sauen dagiti agyan iti dayta a lugar ket naragsagda.
+===== Translation Suggestions: =====
 
-===== Singasing Kadagiti Panagpatarus: =====
+  * The term "joy" could also be translated as "gladness" or "delight" or "great happiness."
+  * The phrase, "be joyful" could be translated as "rejoice" or "be glad."
+  * A person who is joyful could be described as "very happy" or "delighted" or "deeply glad."
+  * A phrase such as "make a joyful shout" could be translated as "shout in a way that shows you are very happy."
+  * A "joyful city" or "joyful house" could be translated as "city where joyful people live" or "house full of joyful people."
 
-  * Ti pagsasao a "rag-o" ket mabalimet a kas "ragsak" wennu "naragsak" wennu "nakaragragsak."
-  * Ti sao a, "ag balin a naragsak" mabalin met a kas "agrag-o" wennu "maragsakanka."
-  * Ti tao a naragsak ket mailadawan met a kas "nakaragragsak" wennu "nauneg ti ragsakna."
-  * Ti sao a " agpukkaw a sirarag-o" ket maipatarus met a kas "ti panagpukkaw maysa a wagas a panangipakita a naragsak."
-  * Ti "naragsak a ili" wennu "naragsak a balay" ket maipatarus met a kas "ili nga adda nararagsak a tattao" wennu "napunpunno ti nararagsak a tattao."
-
-(Kitaen met:[[:ilo:obe:other:rejoice|agrag-o]])
+(See also: [[:ilo:obe:other:rejoice|rejoice]])
 
 ===== Bible References: =====
 
@@ -27,7 +25,7 @@ Ti rag-o ket maysa a marikrikna a pagragsakam ken nauneg a pannakapnek a aggupo 
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:33-07|[33-07]]]**"Ti kabatbatoan met ket ti tao a nakangngeg ken **sirarag-o**  a nangawat iti sao ti Dios ..."
+  * **[[:ilo:obs:notes:frames:33-07|[33-07]]]**"Ti kabatbatoan met ket ti tao a nakangngeg ken **sirarag-o**  a nangawat iti sao ti Dios …"
   * **[[:ilo:obs:notes:frames:34-04|[34-04]]]**"Maiyarig pay ti pagarian ti Dios iti gameng nga indulin ti maysa a tao iti talon. Inton masarakan daytoy iti sabali a tao ket ikalinanto manen. Nalausto ti **rag-o**  na kas mapan na ilako dagiti amin a sanikua na tapno usarenna ti kwarta a panggatang iti dayta a talon."
   * **[[:ilo:obs:notes:frames:41-07|[41-07]]]** Nalaus ti buteng ken** rag-o**  dagiti babbae. Nagtaray da a napan nangibaga kadagiti adalan ti naimbag a damag.
 ~~DISCUSSION~~{{tag>publish ktobs}}
