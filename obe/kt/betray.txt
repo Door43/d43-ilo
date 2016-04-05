@@ -17,7 +17,7 @@ Kayatna a sawen ti sao a "lipot" ket pannangallilaw ken pasakit ti maysa a natal
 
 {{topic>:en:bible?betray&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Pangarigan a naadaw manipud kadagiti istorya ti Biblia: =====
 
   * **[[:ilo:obs:notes:frames:21-11|[21-11]]]** Impadto pay dagiti dadduma a mammadto a pagpipinnostaanto dagiti mangpapatay ti Messiah ti pagan-anay na ken maysanto a gayyem na ti **mangliput**  kenkuana. Impadto met ni mammadto a Zechariah a mabayadanto dayta a gayyem iti tallopulo a pirak kas kasukat ti **panangliput**  na iti Messiah.
   * **[[:ilo:obs:notes:frames:38-02|[38-02]]]** Kalpasan a simmangpet ni Jesus ken dagiti adalan idiay Jerusalem ket napan ni Judas kadagiti panguloen a Judio ket insingasing na a **liputan**  na ni Jesus kas kasukat ti kwarta a maited da.
@@ -25,7 +25,7 @@ Kayatna a sawen ti sao a "lipot" ket pannangallilaw ken pasakit ti maysa a natal
   * **[[:ilo:obs:notes:frames:38-06|[38-06]]]** Kinuna ni Jesus, “Ti tao a pangitedak iti daytoy a pisi ti tinapay ket isu ti mangliliput.” Kalpasan na inyawat na ti tinapay kenni Judas.
   * **[[:ilo:obs:notes:frames:38-13|[38-13]]]** Idi nagsubli isuna iti maikatlo a daras ket kinuna ni Jesus kadakuada, “Agriing kayon! Adda ditoyen ti **manglipot**  kaniak."
   * **[[:ilo:obs:notes:frames:38-14|[38-14]]]** Kinuna ni Jesus, “Judas, **liputan**  nak kadi babaen iti maysa nga ungngo?"
-  * **[[:ilo:obs:notes:frames:39-08|[39-08]]]** Kabayatan na nakita ni Judas a **nangliput ** a pinatawan dagiti panguloen a Judio ni Jesus a mapapatay. Nagladingit launay ni Judas ket pimmanaw ket nagpakamatay.
+  * **[[:ilo:obs:notes:frames:39-08|[39-08]]]** Kabayatan na nakita ni Judas a **nangliput **  a pinatawan dagiti panguloen a Judio ni Jesus a mapapatay. Nagladingit launay ni Judas ket pimmanaw ket nagpakamatay.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
