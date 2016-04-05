@@ -1,25 +1,21 @@
-====== sulisogen, sulisog ======
+====== tempt, temptation ======
 
-===== Kaipapananna: =====
+===== Definition: =====
 
-Nu sulisugen ti maysa a tao ket isu iti panangpadas a panagaramid ti dakes nga banag.
+To tempt someone is to try to get that person to do something wrong.
 
-  * Ti sulisug ket banag a pakaigapuan iti maysa a tao nga agaramid ti banag a dakes.
-  * Masulisog dagiti tattao babaen iti bukodda nga managbasol a kinatao ken babaen iti sabali a tattao.
-  * Sulisogen ni Satanas dagiti tattao tapno agsukirda iti Dios ken tapno agbasolda ti Dios babaen iti panagramid ti saan a na nasayaat a banbanag.
-  * Sinulisog ni Satanas ni Jesus ken pinadasna a pagaramiden iti dakes, ngem saanna nga pinalubusan ni Jesus dagiti sulisog ni Satanas ken saan a nagbasol.
-  * Ti sao nga "sulisogen" ket naaramat met nga itudona iti panangpadas iti Dios, nga isu ti kanayon nga panangsukir kenkuana agginga a sumungbat isuna babaen iti panangdusa iti dayta a sumuksukir.
+  * A temptation is something that causes a person to want to do something wrong.
+  * People are tempted by their own sinful nature and by other people.
+  * Satan also tempts people to disobey God and to sin against God by doing wrong things.
+  * Satan tempted Jesus and tried to get him to do something wrong, but Jesus resisted all of Satan's temptations and never sinned.
 
-===== Dagiti singasing ti Panangpatarus: =====
+===== Translation Suggestions: =====
 
-  * Ti sao nga "sulisogen" ket mabalin nga maipataros a kas, "pakaigapuan nga agbasol" wenno "pakaigapuan nga agtirigagay nga agbasol."
-  * Dagiti wagas a panangipatarus ti "sulisog" ket mabalin nga iraman dagiti, "makasulisog a banbanag" wenno " banbanag a manggargari ti maysa a tao nga agbasol" wenno "banbanag a pakaigapuan ti tarigagay nga panagaramid iti saan nga nasayaat."
-  * In the context of tempting God, this could be translated as, “put God to the test” or “test God” or “try God's patience” or “cause God to have to punish” or “stubbornly keep disobeying God.”
-  *
-  * Ti sao a "sulisog"a kayat a sawen, " masulisog."
-  *
+  * The term "tempt" can be translated as, "try to cause to sin" or "entice" or "cause a desire to sin."
+  * The word translated as "tempt" can also mean, "put to the test."
+  * Ways to translate "temptations" could include, "things that tempt" or "things that entice someone to sin" or "things that cause desire to do something wrong."
 
-(Sapulen met iti: basol, managbasul, nakabasul,managbasbasol, di panagtulnog, di pagtulnnogan, Satan, diablo, kadadaksan.)
+(See also: [[:ilo:obe:kt:sin|sin, sinful, sinner, sinning]], [[:ilo:obe:other:disobey|disobey, disobedient]], [[:ilo:obe:kt:satan|Satan, devil, evil one]])
 
 ===== Bible References: =====
 
@@ -27,9 +23,9 @@ Nu sulisugen ti maysa a tao ket isu iti panangpadas a panagaramid ti dakes nga b
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:ilo:obs:notes:frames:25-01|[25-01]]]** Napan ni Satanas iti ayan ni Jesus ket **sinolisug**  na daytoy nga agbasol.
-  * **[[:ilo:obs:notes:frames:25-08|[25-08]]]** Saan a simmuko ni Jesus kadagiti **solisug**  ni Satanas isua pinanawan isuna ni Satanas.
-  * **[[:ilo:obs:notes:frames:38-11|[38-11]]]** Imbaga ni Jesus kadagiti adalan na nga agkararag da tapno saan da a **masulisog**.
+  * **[[:ilo:obs:notes:frames:25-01|[25-01]]]** Then Satan came to Jesus and **tempted**  him to sin.
+  * **[[:ilo:obs:notes:frames:25-08|[25-08]]]** Jesus did not give in to Satan's **temptations**, so Satan left him.
+  * **[[:ilo:obs:notes:frames:38-11|[38-11]]]** Jesus told his disciples to pray that they would not enter into **temptation**.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
