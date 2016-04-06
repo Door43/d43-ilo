@@ -1,25 +1,24 @@
 ====== anghel, arkanghel ======
 
-===== Kaipapananna: =====
+===== Definition: =====
 
-Ti anghel ket maysa a mannakabalin a ispiritu nga pinarsua iti Dios. Dagiti anghel tapno agserbi ti Dios babaen iti panangaramid ti aniaman nga ibagana. Ti sao nga "arkanghel" ket itudona iti anghel a mangiturturay wenno mangidadaulo kadagiti amin nga anghel.
+An angel is a powerful spirit being whom God created. These spirit beings exist to serve God by doing whatever he tells them to do.
 
-  * Ti narabaw a kayatna a sawen ti balikas nga "anghel" ket "tagaidanon ti damag."
-  * Tinarabaw a kayatna a sawen ti sao nga "arkanghel" ket "panguloen nga anghel a tagaidanun iti damag." Diay Bibliya, ni Michael laeng ti kakaisuna nga anghel a naawagan iti "arkanghel."
-  * Idiay Bibliya, nangted dagiti anghel ti padamag naggapu iti Dios. Dagitoy a padamag karamanna dagiti bilbilin maipanggep nu anya dagiti kayat ti Dios nga aramiden dagiti tattao.
-  * Ibaga pay dagiti anghel kadagiti tattao ti maipapan kadagiti mapasamak iti masakbayan wenno kadagiti napasamaken.
-  * Addaan dagiti anghel ti turay nga nagtaud manipud Dios a kas mangibagi kenkuana ket dadduma pay diay Bibliya isuda ket agsao a kas ti Dios ti agsasao.
-  * Ti sabali pay a wagas nga dagiti anghel makapagserbida iti Dios ket babaen ti panangaywanda ken panangpapigsada kadagiti tattao.
-  * Ti nai-singsingayan a sasao nga, "anghel ni Yahweh" ket mabalin nga adda ti saan lang a maymaysa a kayatna a sawen: 1)Mabalin a daytoy ti kayatna a sawen "anghel a mangibagi ken ni Yahweh" wenno "agipadpadamag nga agserserbi ken ni Yahweh." 2) Mabalin a itudona ni Yahweh nga isuna mismo, a kasla anghel nu kasaritana ti tao. Anyaman kadagitoy nga kaipapananna ket ilawlawagna iti pangaramat iti anghel iti "Siak" a kas ni Yahweh mismo ti agsasao.
+  * The word "angel" means "messenger."
+  * An "archangel" is the angel who rules or leads all the other angels. The Bible records that the name of the archangel is "Michael."
+  * In the Bible, angels gave messages to people from God about things he wanted them to do. Angels also told people about events that were going to happen in the future or events that had already happened.
+  * Angels have God's authority as his representatives and sometimes in the Bible they would speak as if it were God himself speaking.
+  * Other ways that angels serve God is by protecting and strengthening people.
 
-===== Dagiti Singasing ti Panangpatarus: =====
+===== Translation Suggestions: =====
 
-  * Wagas ti panangpatarus iti "anghel" ket karamanna ti, "tagaidanun iti damag manipud ti Dios" wenno "nainlangitan a adipen iti Dios" wenno "Ispiritu nga tagaidanun ti mensahe iti Dios."
-  * Ti sao nga "arkanghel" ket mabalin nga ipatarus a kas "panguloen dagiti anghel" wenno "mangiturturay kadagiti anghel" wenno "mangidadaulo kadagiti anghel."
-  * Adalen met nu kasano ti pannakaipatarus daytoy a sao ti pangkaadwan nga pagsasao wenno ti lokal nga pagsasao.
-  * Ti sasao nga "anghel ni Yahweh" ket masapul nga ipatarus a maaramat ti balikas para ti "anghe"l ken "Yahweh." Ipalubosna daytoy dagiti agduduma a patarus iti dayta  nga sasao. Mabalin a mairaman a maipatarus ti, "anghel nga aggapu ken ni Yahweh" wenno "anghel nga inbaun ni Yahweh" wenno "Ni Yahweh a kasla anghel."
+  * Ways to translate "angel" could include, "messenger from God" or "God's heavenly servant" or "God's spirit messenger."
+  * The term "archangel" could be translated as "chief angel" or "head ruling angel" or "leader of the angels."
+  * Also consider how these terms are translated in a national language or another local language.
 
-(Kitaen met: [[:ilo:obe:other:chief|panguloen]], [[:ilo:obe:other:messenger|tagaidanon ti damag]], [[:ilo:obe:other:michael|Michael]], [[:ilo:obe:other:ruler|mangituray, mangiturturay, turay]], [[:ilo:obe:other:servant|adipen, tagabo, panagtagabo]])
+(See: [[:ilo:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+
+(See also: [[:ilo:obe:other:chief|chief]], [[:ilo:obe:other:messenger|messenger]], [[:ilo:obe:other:michael|Michael]], [[:ilo:obe:other:ruler|ruler, rulers, rule]], [[:ilo:obe:other:servant|adipen, tagabo, panagtagabo]])
 
 ===== Bible References: =====
 
