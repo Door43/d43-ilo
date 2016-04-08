@@ -10,10 +10,11 @@ Kalpasan ti uppat a pulo nga aldaw manipud idi nagungar ni Jesus manipud kadagit
   * **[[:ilo:obe:kt:disciple|adalan]]**
   * **[[:ilo:obe:other:jerusalem|Jerusalem]]**
   * **[[:ilo:obe:kt:godthefather|Dios Ama, Na-inlangitan nga Ama]]**
-  * **[[:ilo:obe:kt:power|bileg:]]**
-  * **[[:ilo:obe:kt:holyspirit|Espiritu Santo, Espiritu ti Dios, Espiritu ti Apo]]**
-  * **[[:ilo:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
+  * **[[:ilo:obe:kt:power|pannakabalin]]**
+  * **[[:ilo:obe:kt:holyspirit|Ispiritu Santo, Ispiritu ti Dios, Ispiritu ti Apo]]**
+  * **[[:ilo:obe:kt:heaven|langit, tangatang, dagiti langit, nainlangitan]]**
   * **[[:ilo:obe:kt:god|Dios]]**
+
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **umay kadakayo**  - dayta ket, “umay a bumaba kadakayo” wenno, “umay kanyayo."
