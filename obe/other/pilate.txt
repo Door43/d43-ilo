@@ -3,15 +3,15 @@
 
 ===== Dagiti Kinapudno : =====
 
-Ni Pilate ket isu kangatuan a Roman a nangsentensiya agingga iti ipapatay ni Jesus.
+Ni Pilate ket isu ti gobernador iti Roma a nangsentensiya a matay ni Jesus.
 
-  * Gapu ta ni Pilate ti kangatuan, isuna laeng ti addaan karbengan a mangpapatay dagiti kriminal.
-  * Dagiti mangidada-ulo iti linteg dagiti Jewish kayat da a ni Pilate ti mangpa-ikrus kenni Jesus, ket nagulbodda ken insao da a kriminal ni Jesus.
-  * Naamiris ni Pilate a ni Jesus ket a basolna wennu nagbiddutanna, ngem mabuteng kadagiti kaaduan, isu a inbilinna kadagiti susuldado na a ikrus da ni Jesus.
+  * Gapu ta ni Pilate ti gobernador, isuna ket addaan turay a mangpapatay kadagiti kriminal.
+  * Dagiti mangingidaulo iti relihiyon dagiti Judio ket kayatda a paikrus ni Jesus kenni Pilate, isu nga nagulbodda ken inbagada a ni Jesus ket maysa a kriminal.
+  * Naamiris ni Pilate a ni Jesus ket awan basolna wenno saan nga nagbiddut, ngem mabuteng isuna kadagiti adu a tattao, isu a inbilinna kadagiti susuldadona a maikrus ni Jesus.
 
-(Singasing Kadagiti Ipataros:[[:ilo:ta:vol1:translate:translate_names|Kasanu a Ipataros Dagiti Nagnagan]])
+(Dagiti Singasing ti Panangpatarus: [[:ilo:ta:vol1:translate:translate_names|Kasano nga Ipatarus dagiti Nagnagan]])
 
-(Kitaen met: [[:ilo:obe:other:rome|Rome, Roman]], [[:ilo:obe:kt:crucify|ikrus]], [[:ilo:obe:kt:guilt|biddut,nagbiddut]], [[:ilo:obe:other:governor|gobernor, iturayan]])
+(Kitaen met: [[:ilo:obe:other:rome|Roma, Romano]], [[:ilo:obe:kt:crucify|maikrus]], [[:ilo:obe:kt:guilt|biddut, nagbiddut]], [[:ilo:obe:other:governor|gobernador, iturayan]])
 
 ===== Bible References: =====
 
