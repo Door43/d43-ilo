@@ -21,7 +21,7 @@ Ti sao a "Mesias" ken "Kristo" ti kayatna a sawen ket "Napulutan" ket itudo na n
 
 (Kitaen: [[:ilo:ta:vol1:translate:translate_names|Kasano ti Panangpatarus ti Nagnagan]])
 
-(Kitaen met: [[:ilo:obe:kt:sonofgod|Anak ti Dios, ti Anak]], [[:ilo:obe:other:david|David]], [[:ilo:obe:kt:jesus|Hesus, Hesu-Kristo, CKristo Hesus]], [[:en:obe:kt:anoint|napulutan]])
+(Kitaen met: [[:ilo:obe:kt:sonofgod|Anak ti Dios, ti Anak]], [[:ilo:obe:other:david|David]], [[:ilo:obe:kt:jesus|Hesus, Hesu-Kristo, Kristo Hesus]], [[:en:obe:kt:anoint|napulutan]])
 
 ~~COMPLEX_TABLES~~
 
