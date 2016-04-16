@@ -6,11 +6,12 @@ Agarup dua a ribon a tawen ket umado nga umado dagiti tattao iti entero a lubong
 
 ===== Important Terms: =====
 
-  * **[[:ilo:obe:kt:goodnews]]**
-  * **[[:ilo:obe:kt:jesus]]**
-  * **[[:ilo:obe:kt:christ]]**
-  * **[[:ilo:obe:kt:church]]**
-  * **[[:ilo:obe:kt:promise]]**
+  * **[[:ilo:obe:kt:goodnews|naimbag a damag, ebanghelio]]**
+  * **[[:ilo:obe:kt:jesus|Hesus, Hesu-Kristo, Kristo Hesus]]**
+  * **[[:ilo:obe:kt:christ|Kristo, Mesias]]**
+  * **[[:ilo:obe:kt:church|iglesia, Iglesia]]**
+  * **[[:ilo:obe:kt:promise|kari]]**
+
 ===== Translation Notes: =====
 
   * **The Church has been growing**  - This could also be translated as, "The number of people in the Church around the world has been increasing" or, "The number of believers in Jesus has been increasing."
