@@ -7,10 +7,12 @@ Ti sao nga "biddut" ket itudona dagiti nakabasol wenno nakaaramid iti krimen.
   * Ti "nagbiddut" ket isu ti panangaramid iti banag nga saan a nasayaat, a kas, iti saan a panagtulnog iti Dios.
   * Ti kasupadi iti "nagbiddut" ket ti "inosente."
 
-===== Dagiti singasing ti panangpatarus: =====
+===== Dagiti Singasing ti panangpatarus: =====
 
-  * Kadagiti sabali a pagsasao ket mabalinda nga ipataros ti "biddut" a kas "ti kinadagsen iti basol" wenno "ti panangbilang kadagiti basbasol."
-  * Dagiti wagas a panagpatarus iti "ti panagbiddut" ket mairaman ti sao nga adda kayatna a sawen, "nakabasol" wenno "nakaaramid ti banag nga kamali" wenno "nakaaramid iti basol."
+  * Dagiti sumagmamano a pagsasao ket mabalinda nga ipatarus ti "biddut" a kas "ti kinadagsen iti basol" wenno "ti panangbilang kadagiti basbasol."
+  * Dagiti wagas a panagpatarus iti "ti panagbiddut" ket mairaman ti sao nga adda kayatna a sawen, "adda nakabasolna" wenno "nakaaramid ti banag nga kamali" wenno "nakaaramid iti basol."
+
+ULB exs: ikkaten ti biddut ti basol, ikkaten ti biddutmo, sagot a para ti biddut, dusaem iti biddutmo, awan maipabaklay kenkuana nga biddut gapu iti panangpapatay, awitenna ti bukodna a biddut, ugasan iti nabiddutanna, maipan iti nakaru nga biddut, dagiti biddut tayo ket ket dumanun diay tangatang.
 
 (Kitaen met: [[:ilo:obe:kt:innocent|awanan basol]], [[:ilo:obe:kt:sin|basol, managbasol, tao nga managbasol]], [[:ilo:obe:other:punish|dusa, pannakadusa]])
 
