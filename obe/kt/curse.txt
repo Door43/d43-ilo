@@ -1,6 +1,6 @@
 ====== lunod, nailunod ======
 
-===== Dagiti Kaipapananna: =====
+===== Kaipapananna: =====
 
 Ti sao a "lunod" ti kayat na sawen ket pakaigapuan ti saan a nasayaat nga banag a mapasamak iti maysa nga tao wenno banag a nailunod.
 
