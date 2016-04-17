@@ -2,27 +2,25 @@
 
 ===== Kaipapananna: =====
 
-Ti tao a naluganan iti demonyo ket adda demonyona wenno dakes nga ispiritu a mangidaldalan kadagiti aramid ken panpanunutenna.
+Ti tao a naluganan iti demonyo ket adda demonyona wenno dakes nga espiritu a mangidaldalan kadagiti aramid ken panpanunutenna.
 
   * Kanayon nga ti naluganan iti demonyo a tao ket dangranna ti bagi wenno iti sabali pay a tattao gapu ta ti demonyo ngamin iti makaigapu nga aramidenna didiay.
-  * Pinaimbag ni Jesus dagiti tattao a naluganan iti demonyo babaen ti panangbilin a pumanaw kadagiti demonyo a rumuwar kadakuada. Kanayon a daytoy ket maawagan nga "panangpapanaw" kadagiti demonyo.
+  * Pinaimbag ni Hesus dagiti tattao a naluganan iti demonyo babaen ti panangbilin a pumanaw kadagiti demonyo a rumuwar kadakuada. Kanayon a daytoy ket maawagan nga "panangpapanaw" kadagiti demonyo.
 
-===== Dagiti singasing ti Panangpatarus: =====
+===== Dagiti Singasing ti Panangpatarus: =====
 
-  * Dadduma pay a wagas ti panangpatarus ket mairaman iti, " idaldalan ti demonyo" wenno "idaldalan ti dakes nga ispiritu" wenno "addaan ti demonyo nga agnanaed idiay kaunggan."
+  * Dadduma pay a wagas ti panangpatarus ket mairaman iti, " idaldalan ti demonyo" wenno "idaldalan ti dakes nga espiritu" wenno "addaan ti demonyo nga agnanaed idiay kaunggan."
 
-(Kitaen met: [[:ilo:obe:kt:demon|demonyo, dakes a ispiritu, narugit a ispiritu]])
+(Kitaen met: [[:ilo:obe:kt:demon|demonyo, dakes a espiritu, narugit a espiritu]])
 
 ===== Bible References: =====
-
 
 {{topic>:en:bible?demonpossessed&nocomments}}
 
 ===== Examples from the Bible stories: =====
 
   * **[[:ilo:obs:notes:frames:26-09|[26-09]]]** Adu pay ti inyeg da kenni Jesus a linongogan **dagiti demonyo**  ket babaen iti bilin ni Jesus ket napaksiat da manipud kadagitoy a tattao.
-  * **[[:ilo:obs:notes:frames:32-02|[32-02] ]]** Idi naka danon da iti bangir nga igid ti baybay ket nagtartaray a simmabat ken ni Jesus ti maysa a lalaki a **nasaniban iti demonyo.**
-  * **[[:ilo:obs:notes:frames:32-06|[32-06]]]** Nagpukkaw iti napigsa ti **nalungogan**  a lalaki ket kinunana, “Jesus nga Anak ti kangatoan a Dios! Anya ti kayat mo kaniak? Pangaasim kadi ta saan nak a parigaten!"
+  * **[[:ilo:obs:notes:frames:32-02|[32-02] ]]** Idi naka danon da iti bangir nga igid ti baybay ket nagtartaray a simmabat ken ni Jesus ti maysa a lalaki a **nasaniban iti demonyo.** * **[[:ilo:obs:notes:frames:32-06|[32-06]]]** Nagpukkaw iti napigsa ti **nalungogan**  a lalaki ket kinunana, “Jesus nga Anak ti kangatoan a Dios! Anya ti kayat mo kaniak? Pangaasim kadi ta saan nak a parigaten!"
   * **[[:ilo:obs:notes:frames:32-09|[32-09]]]** Napan dagiti tattao ti ili ket nakita da ti tao a dati a **nasaniban dagiti demonyo**  a nakatugaw a sitatalna ket nakabadu ken agtigtignayen a kas maysa a gagangay a tao.
   * **[[:ilo:obs:notes:frames:47-03|[47-03]]]** Iti inaldaw a panpannagna da iti dayta a lugar ket adda sumursurot kadakuada a maysa a tagabo a babae a **linungogan ti demonyo**.
 ~~DISCUSSION~~{{tag>publish ktobs}}
