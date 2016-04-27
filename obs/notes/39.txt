@@ -4,48 +4,46 @@
 
 Imbaga dagiti panguloen ti Judio nga nagbasol ni Jesus gapu ta imbagana nga isu iti Anak ti Dios. Inuyaw da ni Jesus ken nagmaymaysa da tapno ipapatay da isuna. Uray ni Peter ket inlibak na nga am-ammona ni Jesus. Ni Pilate ti agdama nga gobernador idi, kayat na koma nga mawayaan ni Jesus ngem idi impilit dagiti Judio nga kayat da a matay ni Jesus, awan nabalinan na nu di ket palubusan dagitoy nga patayen ni Jesus uray pai imbagana nga awan pulos ti basol na.
 
-====== Translate the Story ======
+====== Ipatarus ti Istorya ======
 
+Italmeg dagiti ladawan ditoy baba tapno ipatarus iti tunggal paset iti istorya.
 
-Click on the links below to translate each frame of the story.
+[[:ilo:obs:notes:frames:39-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg?nolink&200}}]]\\
+Idiay Balay ti Nangato a padi [39-01]
 
+[[:ilo:obs:notes:frames:39-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?nolink&200}}]]\\
+Dagiti Ulbod a Saksi [39-02]
 
-[[:ilo:obs:notes:frames:39-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg?200|Frame 39-01}}]]\\ 
-The House of the High Priest [39-01]\\ 
+[[:ilo:obs:notes:frames:39-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-03.jpg?nolink&200}}]]\\
+Sika kadi ti Anak ti Dios? [39-03]
 
-[[:ilo:obs:notes:frames:39-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?200|Frame 39-02}}]]\\ 
-The False Witnesses [39-02]\\ 
+[[:ilo:obs:notes:frames:39-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg?nolink&200}}]]\\
+Siak ti Anak ti Dios [39-04]
 
-[[:ilo:obs:notes:frames:39-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-03.jpg?200|Frame 39-03}}]]\\ 
-Are You the Son of God? [39-03]\\ 
+[[:ilo:obs:notes:frames:39-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-05.jpg?nolink&200}}]]\\
+Inrabrabakda ni Jesus [39-05]
 
-[[:ilo:obs:notes:frames:39-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg?200|Frame 39-04}}]]\\ 
-I Am the Son of God [39-04]\\ 
+[[:ilo:obs:notes:frames:39-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg?nolink&200}}]]\\
+Ni Peter ken iti Adipen a Babae [39-06]
 
-[[:ilo:obs:notes:frames:39-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-05.jpg?200|Frame 39-05}}]]\\ 
-They Mocked Jesus [39-05]\\ 
+[[:ilo:obs:notes:frames:39-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-07.jpg?nolink&200}}]]\\
+Inlibak ni Peter ni Jesus [39-07]
 
-[[:ilo:obs:notes:frames:39-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg?200|Frame 39-06}}]]\\ 
-Peter and the Servant Girl [39-06]\\ 
+[[:ilo:obs:notes:frames:39-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?nolink&200}}]]\\
+Nagbekkel ni Judas [39-08]
 
-[[:ilo:obs:notes:frames:39-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-07.jpg?200|Frame 39-07}}]]\\ 
-Peter Denied Jesus [39-07]\\ 
+[[:ilo:obs:notes:frames:39-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink&200}}]]\\
+Ni Jesus kenni Pilate [39-09]
 
-[[:ilo:obs:notes:frames:39-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?200|Frame 39-08}}]]\\ 
-Judas Killed Himself [39-08]\\ 
+[[:ilo:obs:notes:frames:39-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-10.jpg?nolink&200}}]]\\
+Anya ti Pudno? [39-10]
 
-[[:ilo:obs:notes:frames:39-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?200|Frame 39-09}}]]\\ 
-Jesus and Pilate [39-09]\\ 
+[[:ilo:obs:notes:frames:39-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?nolink&200}}]]\\
+Saan a Nagbasol Isuna [39-11]
 
-[[:ilo:obs:notes:frames:39-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-10.jpg?200|Frame 39-10}}]]\\ 
-What Is Truth? [39-10]\\ 
+[[:ilo:obs:notes:frames:39-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-12.jpg?nolink&200}}]]\\
+Ti Ari dagiti Judio [39-12]
 
-[[:ilo:obs:notes:frames:39-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?200|Frame 39-11}}]]\\ 
-He Is Not Guilty [39-11]\\ 
+//Istoryan ti Bibliya manipud: Matthew 26:57-27:26; Mark 14:53-15:15; Luke 22:54-23:25; John 12:6; 18:12-19:16//
 
-[[:ilo:obs:notes:frames:39-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-12.jpg?200|Frame 39-12}}]]\\ 
-The King of the Jews [39-12]\\ 
-
-//A Bible story from: Matthew 26:57-27:26; Mark 14:53-15:15; Luke 22:54-23:25; John 12:6; 18:12-19:16//
-
-**[[:ilo:obs:notes:38|<< Previous]] | [[:ilo:obs:notes:40|Next >>]]**
+**[[:ilo:obs:notes:38|<< Immun-una]] | [[:ilo:obs:notes:40|Sumaruno >>]]**
