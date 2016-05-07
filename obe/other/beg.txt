@@ -2,25 +2,24 @@
 
 ===== Kaipapananna: =====
 
-"Ti agpalama" ket ti inkapilitan a panagdawat iti maysa a banag. Kanayon nga itudona ti panagdawat ti kuwarta.
+"Ti agpalama" ket ti inkapilitan a panagdawat iti maysa a banag. Kanayon nga itudona ti panagdawat ti kuarta.
 
-  * Ti "agpalpalama" ket maysa a tao nga kanayon nga agtugtugaw wenno agtaktakder iti maysa nga lugar nga adu ti tattaona tapno dumawat iti kuwarta.
+  * Ti "agpalpalama" ket maysa a tao nga kanayon nga agtugtugaw wenno agtaktakder iti maysa nga lugar nga adu ti tattaona tapno dumawat iti kuarta.
   * Kanayon nga agpalama ti tao nu agkasapulanna la unay ti maysa a banag, ngem saanna nga ammo nu ti pagdawdawatanna ket itedna iti dawatna. Daytoy ket mabalin nga ipatarus a kas "agpakaasi" wenno "inkapilitan a panagdawat."
-  * Nu maipapan iti panagdawat ti kuwarta, ti "agpalama" ket mabalin nga ipatarus a kas "agsapul iti kuwarta" wenno "inaldaw nga dumawat iti kuwarta."
+  * No maipapan iti panagdawat ti kuwarta, ti "agpalama" ket mabalin nga ipatarus a kas "agsapul iti kuarta" wenno "inaldaw nga dumawat iti kuarta."
 
-===== Bible References: =====
-
+===== Pagkitan idiay Biblia: =====
 
 {{topic>:en:bible?beg&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Pangarigan a naadaw kadagiti istorya ti Biblia: =====
 
-  * **[[:ilo:obs:notes:frames:10-04|[10-04]]]** Nangibaun ti Dios kadagiti karag iti intero nga Egypt. Idi **nagpakpakaasi**  ti Pharaoh kenni Moses nga ikkatenna dagitoy.
+  * **[[:ilo:obs:notes:frames:10-04|[10-04]]]** Nangibaun ti Dios kadagiti karag iti intero nga Egipto. Idi **nagpakpakaasi**  ti Faraon kenni Moses nga ikkatenna dagitoy.
   * **[[:ilo:obs:notes:frames:29-08|[29-08]]]**"Pinaayaban ti ari ti adipen ket kinuna na ‘dakes ka nga adipen! Pinakawan ko ti utang mon agsipud ta **nagpakpakaasi**  ka kanyak."
-  * **[[:ilo:obs:notes:frames:32-07|[32-07]]]****Nagpakaasi**  ti demonyo kenni Jesus, “**Pangaasim**  ta saan na kami nga ibaon iti ruar daytoy a lugar! Adda idi ti adu a baboy a mangmangan iti asideg a turod isu a **nagpakaasi**  dagiti demonyo kenni Jesus ket kunada, “**Pangaasim**  ta ibaon na kami laengen kadagiti baboy!"
-  * **[[:ilo:obs:notes:frames:32-10|[32-10]]]** Ngem **nagpakaasi**  ti lalaki a dati a linogagan dagiti demonyo a sumurot kenni Jesus.
+  * **[[:ilo:obs:notes:frames:32-07|[32-07]]]****Nagpakaasi**  ti demonyo kenni Hesus, “**Pangaasim**  ta saan na kami nga ibaon iti ruar daytoy a lugar! Adda idi ti adu a baboy a mangmangan iti asideg a turod isu a **nagpakaasi**  dagiti demonyo kenni Hesus ket kunada, “**Pangaasim**  ta ibaon na kami laengen kadagiti baboy!"
+  * **[[:ilo:obs:notes:frames:32-10|[32-10]]]** Ngem **nagpakaasi**  ti lalaki a dati a linogagan dagiti demonyo a sumurot kenni Hesus.
   * **[[:ilo:obs:notes:frames:35-11|[35-11]]]** Rimuar ti ama na ket **nagpakaasi**  kenkuana nga umuneg ta makipagrambak kadakuada ngem madi na latta kayat.."
-  * **[[:ilo:obs:notes:frames:44-01|[44-01]]]** OIti maysa nga aldaw, magmagna ni Peter kenni John nga agturung idiay templo. Idi sumungsungad da iti ruangan ti templo ket nakita da ti maysa a pilay a lalaki nga **agpalpalama**  iti kuarta.
+  * **[[:ilo:obs:notes:frames:44-01|[44-01]]]** Iti maysa nga aldaw, magmagna ni Pedro ken ni Juan nga agturong idiay templo. Idi sumungsungad da iti ruangan ti templo ket nakita da ti maysa a pilay a lalaki nga **agpalpalama**  iti kuarta.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
