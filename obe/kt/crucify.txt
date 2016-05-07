@@ -1,31 +1,30 @@
-====== ikrus ======
+====== ilansa ti krus ======
 
 ===== Kaipapananna: =====
 
-Ti sao nga "ikrus" ket isu ti panangpapatay iti maysa a tao babaen ti pannakailansa kenkuana iti krus ken panangpanaw kenkuana saddiay tapno agsagaba ket matay iti nakaru a sakit.
+Ti sao nga "ilansa ti krus" ket isu ti panangpapatay iti maysa a tao babaen ti pannakailansa kenkuana iti krus ken panangpanaw kenkuana saddiay tapno agsagaba ket matay iti nakaru a sakit.
 
-  * Ti biktima ket mabalin nga naigalut wenno nailansa idiay krus. Dagiti naikrus nga tattao ket natay gapu ti pannakaibus ti darana wenno gapu ta saanda nga makaanges.
-  * Ti nagkauna nga inperyo ti Roma idi ket kanayon nga agaramat ti kastoy a klase ti panangdusa ken pangpapatay kadagiti nakaru a kriminal wenno dagiti nagrebelde kadagiti mangiturturay iti gobyernoda.
-  * Dagiti mangingidaulo iti relihiyon dagiti Judio ket kiniddawda iti gobernador ti Roma tapno ibilinna dagiti suldado a ikrusda ni Jesus. Inlansa dagiti suldado ni Jesus idiay krus. Nagsagaba isuna sadiay iti innem nga oras, sa natay.
+  * Ti biktima ket mabalin nga naigalut wenno nailansa idiay krus. Dagiti nailansa ti krus nga tattao ket natay gapu ti pannakaibus ti darana wenno gapu ta saanda nga makaanges.
+  * Ti nagkauna nga imperyo ti Roma idi ket kanayon nga agaramat ti kastoy a klase ti panangdusa ken pangpapatay kadagiti nakaru a kriminal wenno dagiti nagrebelde kadagiti mangiturturay iti gobyernoda.
+  * Dagiti mangingidaulo iti relihiyon dagiti Judio ket kiniddawda iti gobernador a Romano tapno ibilinna kadagiti suldado a ilansa da ti krus ni Jesus. Inlansa dagiti suldado ni Jesus idiay krus. Nagsagaba isuna sadiay iti innem nga oras, sa natay.
 
 ===== Dagiti Singasing ti Panangpatarus: =====
 
-  * Ti sao a "ikrus" ket mabalin nga ipatarus a kas, "napapatay idiay krus" wenno "mapapatay babaen ti pannakailansa idiay krus."
+  * Ti sao a "ilansa ti krus" ket mabalin nga ipatarus a kas, "napapatay idiay krus" wenno "mapapatay babaen ti pannakailansa idiay krus."
 
 (Kitaen met: [[:ilo:obe:kt:cross|krus]], [[:ilo:obe:other:rome|Roma, Romano]])
 
-===== Bible References: =====
-
+===== Pagkitan idiay Biblia: =====
 
 {{topic>:en:bible?crucify&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Pangarigan a naadaw kadagiti istorya ti Biblia: =====
 
   * **[[:ilo:obs:notes:frames:39-11|[39-11]]]** Ngem impukkaw dagiti panguloen a Judio ken dagiti tattao, “**Ilansam iti krus**  isuna!"
   * **[[:ilo:obs:notes:frames:39-12|[39-12]]]** Nagdanag ni Pilato nga amangan no aggulo dagiti tattao isunga immanamongen nga **ipalansa iti krus**  ni Jesus babaen kadagiti soldado na.
   * **[[:ilo:obs:notes:frames:40-01|[40-01]]]** Kalpasan nga inuy-uyaw dagiti suldado ni Jesus ket innala da isuna tapno **ilansa da iti krus**. Impabaklay da kenkuana diay krus nga isu ti pakatayan na.
   * **[[:ilo:obs:notes:frames:40-04|[40-04]]]****Nailansa iti krus**  ni Jesus iti nagbaetan ti dua nga agtatakaw.
-  * **[[:ilo:obs:notes:frames:43-06|[43-06]]]**"Lallaki iti Israel! Ni Jesus ket maysa a tao a nagaramid kadagiti adu a nabibileg a pagilasinan ken pagsidsiddaawan babaen iti pannakabalin ti Dios. Nakita ken ammoyo daytoy ngem **inlansa yo iti krus ** isuna!"
+  * **[[:ilo:obs:notes:frames:43-06|[43-06]]]**"Lallaki iti Israel! Ni Jesus ket maysa a tao a nagaramid kadagiti adu a nabibileg a pagilasinan ken pagsidsiddaawan babaen iti pannakabalin ti Dios. Nakita ken ammoyo daytoy ngem **inlansa yo iti krus **  isuna!"
   * **[[:ilo:obs:notes:frames:43-09|[43-09]]]**"**Inlansa yo iti krus**  daytoy nga tao a ni Jesus."
   * **[[:ilo:obs:notes:frames:44-08|[44-08]]]** Simmungbat ni Peter kadakuada ket kinunana, “Naagasan babaen iti pannakabalin ni Jesus a Messiah daytoy lalaki a nakatakder iti sangoanan yo. Pinatay yo ni Jesus babaen ti **panangilansa yo iti krus**, ngem pinagungar isuna ti Dios!"
 ~~DISCUSSION~~{{tag>publish ktobs}}
