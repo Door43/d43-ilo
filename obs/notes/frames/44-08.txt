@@ -13,9 +13,10 @@ Simmungbat ni Peter kadakuada ket kinunana, “Naagasan babaen iti pannakabalin 
   * **[[:ilo:obe:kt:christ|Kristo, Mesias]]**
   * **[[:ilo:obe:kt:crucify|ilansa iti krus]]**
   * **[[:ilo:obe:kt:god|Dios]]**
-  * **[[:ilo:obe:kt:raise|bangunen, bumangon, bimmangon, tumakder, timmakder]]**
+  * **[[:ilo:obe:kt:raise|bangunen, bumangon, bimmangon]]**
   * **[[:ilo:obe:kt:life|biag, agbiag, agbibiag, nabiag]]**
   * **[[:ilo:obe:kt:save|salakan, nakalasat]]**
+
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **naagasan**  - dayta ket, “simmayaat” wenno, “amin” wenno, “napigsa."
