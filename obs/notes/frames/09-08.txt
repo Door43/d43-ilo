@@ -4,13 +4,14 @@
 
 Iti maysa nga aldaw idi dakkelen ni Moses, nakakita isuna ti maysa nga Egipcio a mangparparigat ti maysa a padana nga Israelita a tagabo ket pinadasna nga isalakan daytoy.
 
-===== Dagiti Napapateg A Balikas: =====
+===== Dagiti Napapateg a Balikas: =====
 
-  * **[[:ilo:obe:other:moses]]**
-  * **[[:ilo:obe:other:egypt]]**
-  * **[[:ilo:obe:other:israel]]**
-  * **[[:ilo:obe:other:servant]]**
-  * **[[:ilo:obe:kt:save]]**
+  * **[[:ilo:obe:other:moses|Moses]]**
+  * **[[:ilo:obe:other:egypt|Egypt, Egipcio]]**
+  * **[[:ilo:obe:other:israel|Israel, Israelita, nasion ti Israel]]**
+  * **[[:ilo:obe:other:servant|adipen, tagabo, panagtagabo]]**
+  * **[[:ilo:obe:kt:save|salakan, nakalasat]]**
+
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **dakkelen - **  Ti maysa a pangibaga ket, "dimmakkel a nataenga."
