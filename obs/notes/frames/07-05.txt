@@ -4,11 +4,12 @@
 
 Kinagura ni Esau ni Jacob gapu ta tinakawna dagiti karbenganna kas inauna nga anak ken uray pay ti bendisionna. Isunga pinanggepna a patayen ni Jacob kalpasan a matay ti amada.
 
-===== Dagiti Importante A Balikas: =====
+===== Dagiti Napapateg a Balikas: =====
 
-  * **[[:ilo:obe:other:esau]]**
-  * **[[:ilo:obe:other:jacob]]**
-  * **[[:ilo:obe:kt:bless]]**
+  * **[[:ilo:obe:other:esau|Esau]]**
+  * **[[:ilo:obe:other:jacob|Jacob, Israel]]**
+  * **[[:ilo:obe:kt:bless|bendision, panangbendision]]**
+
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **dagiti karbengana kas inauna nga anak**  - Nakabirok ti wagas ni Jacob tapno maala na ti dakdakkel nga paset ti kinabaknang ni tatang da nga mapan koma kenni Esau ta isu ti inauna nga anak. **[[:ilo:obs:notes:frames:07-02|[07-02]]]**.
