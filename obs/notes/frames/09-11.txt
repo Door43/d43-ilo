@@ -2,14 +2,14 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-11.jpg?nolink&}}
 
-Nagbalin a tagapastor dagiti karnero ni Moses idiay kabakbakiran nga adayu manipud idiay Egypt ket nakaasawa isuna iti dayta a lugar ken naaddaan ti dua a putot a lallaki.
+Nagbalin a pastor dagiti karnero ni Moses idiay kabakbakiran nga adayu idiay Egypt ket nakaasawa isuna idiay a lugar ken naaddaan ti dua a putot a lallaki.
 
-===== Dagiti Napapateg A Balikas: =====
+===== Dagiti Napapateg a Balikas: =====
 
-  * **[[:ilo:obe:other:moses]]**
-  * **[[:ilo:obe:other:shepherd]]**
-  * **[[:ilo:obe:other:egypt]]**
-==== Pannakaipakaawat Kadagiti Sarsarita: ====
+  * **[[:ilo:obe:other:moses|Moses]]**
+  * **[[:ilo:obe:other:shepherd|pastor, mangipastor]]**
+  * **[[:ilo:obe:other:egypt|Egypt, Egipcio]]**
+==== Pannakaipakaawat Kadagiti Sarsarita a Naipatarus: ====
 
   * **kabakbakiran, bakir - **  kitaen ti pannaibalikas iti daytoy idiay **[[:ilo:obs:notes:frames:09-10|[09-10]]]**.
-**[[:ilo:obs:notes:frames:09-10|<<]] | [[:ilo:obs:notes:09|Up]] | [[:ilo:obs:notes:frames:09-12|>>]]**
+**[[:ilo:obs:notes:frames:09-10|<<]] | [[:ilo:obs:notes:09|Agsubli idiay ngatuen]] | [[:ilo:obs:notes:frames:09-12|>>]]**
