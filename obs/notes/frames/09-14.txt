@@ -2,20 +2,20 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-14.jpg?nolink&}}
 
-Sinaludsod ni Moses, “Kasano ngay no damagen dagiti tattao kanyak nu sino iti nangibaon kanyak ket anya ti ibagak?” Kinona ti Dios, “Siak ti Siak. Ibagam kadakuada a ‘Siak ti nangibaun kenka.’ Ibagam met a, ‘Siak ni Yahweh ti Dios ni Abraham, Isaac ken Jacob.’ Daytoy ti agnanayon a nagan ko.”
+Nagsaludsod ni Moses, “Kasano ngay no damagen dagiti tattao kanyak no sino iti nangibaon kanyak ket anya ti inak ibaga?” Kinuna ti Dios, “SIAK ket ni SIAK. Ibagam kadakuada nga imbaonak ni SIAK.’ Ibagam met a, ‘Siak ni Yahweh ti Dios ni Abraham, Isaac ken Jacob.’ Daytoy ti agnanayon a naganko.”
 
-===== Dagiti Napapateg A Balikas: =====
+===== Dagiti Napapateg a Balikas: =====
 
-  * **[[:ilo:obe:other:moses]]**
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:kt:yahweh]]**
-  * **[[:ilo:obe:other:abraham]]**
-  * **[[:ilo:obe:other:isaac]]**
-  * **[[:ilo:obe:other:jacob]]**
+  * **[[:ilo:obe:other:moses|Moses]]**
+  * **[[:ilo:obe:kt:god|Dios]]**
+  * **[[:ilo:obe:kt:yahweh|Yahweh]]**
+  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ilo:obe:other:isaac|Isaac]]**
+  * **[[:ilo:obe:other:jacob|Jacob, Israel]]**
 ===== Pannakaipakaawat Kadagiti Sarsarita: =====
 
   * **dagiti tattao - **  Kitaen ti "tattaok" idiay **[[:ilo:obs:notes:frames:09-13|[09-13]]]**.
-  * **Siak ti Siak**  - Daytoy ti mangipakita a ti Dios laeng ti mangibaga nu siasinno siya, saan a kumpulmi a naamuan tayo ken saan a maipada iti siasinno man.
-  * **Siak**  - Ti kayat daytoy a paneknekan ket ti Dios laeng ti kanayon a nagbiag ken kanayon a sibibiag.
-  * **ti ngagan ko**  - Ti nagan nga imbagan ti Dios kenni Moses ken kadigiti amin nga Israelita nga usaren da ket "Yahweh." Daytoy ket adda pakinaiganna ti "SIAK" ken matarusan a ti kayat na nga ibaga ket, "SIA."
-**[[:ilo:obs:notes:frames:09-13|<<]] | [[:ilo:obs:notes:09|Up]] | [[:ilo:obs:notes:frames:09-15|>>]]**
+  * **SIAK Ket ni SIAK**  - Daytoy ti mangipakita a ti Dios laeng ti makailadawan ti kinasiasinnona, saantayo mailadawan isuna babaen iti anya man a banag a mabalin nga aramatentayo, ken saan a mabalin a maipada isuna iti siasinno man.
+  * **SIAK**  - Ti kayat daytoy a paneknekan ket ti Dios laeng ti agnanayaon a nagbiag ken agnanayon a sibibiag.
+  * **ti ngaganko**  - Ti nagan nga imbagan ti Dios kenni Moses ken kadigiti Israelita nga aramatenda a pangawag kenkuana ket "Yahweh." Daytoy ket adda pakinaiganna ti "SIAK" ken maipatarus nga "ISUNA KET."
+**[[:ilo:obs:notes:frames:09-13|<<]] | [[:ilo:obs:notes:09|agsubli idiay ngatuen]] | [[:ilo:obs:notes:frames:09-15|>>]]**
