@@ -4,14 +4,15 @@
 
 Kalpasan ti tallo ket kagudwa a tawen ket imbaga ti Dios kenni Elijah nga agsublin idiay pagarian ti Israel ket makisaonto ken ni Ahab agsipud ta iyeg manen ti Dios ti tudo. Idi nakita ni Ahab ni Elijah kinunana, “Addaka met gayam ditoy sika a mannakigulgulo! Ngem simmungbat ni Elijah ket kinuna, “Sika ti mannakiggulgulo! Tinallikudam ni Yahweh, ti pudno a Dios ken dinayawmo ni Baal. Ibaonmo dagiti amin a tattao ti pagarian ti Israel idiay bantay Carmel.”
 
-===== Dagiti Napapateg A Balikas: =====
+===== Dagiti Napapateg a Balikas: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:elijah]]**
-  * **[[:ilo:obe:other:ahab]]**
-  * **[[:ilo:obe:kt:yahweh]]**
-  * **[[:ilo:obe:kt:worship]]**
-  * **[[:ilo:obe:other:baal]]**
+  * **[[:ilo:obe:kt:god|Dios]]**
+  * **[[:ilo:obe:other:elijah|Elijah]]**
+  * **[[:ilo:obe:other:ahab|Ahab]]**
+  * **[[:ilo:obe:kt:yahweh|Yahweh]]**
+  * **[[:ilo:obe:kt:worship|panagrukbab]]**
+  * **[[:ilo:obe:other:baal|Baal]]**
+
 ==== Pannakaipakaawat Kadagiti Sarsarita : ====
 
   * **makisaonto kenni Ahab agsipud ta iyeg manen -**  Daytoy ket mabalin nga ipakaawat a kas, “Ia kenni Ahab nga ti Dios ket mangibaun.”
