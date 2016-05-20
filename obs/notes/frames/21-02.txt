@@ -4,15 +4,16 @@
 
 Inkari ti Dios kenni Abraham a babaen kenkuana ket umawatto iti parabur dagiti amin a bunggoy dagiti tattao ditoy lubong. Matungpalto daytoy a parabur inton umay ti Messiah iti masakbayan. Mabalinto a maisalakan dagiti amin a bunggoy dagiti tattao ditoy lubong babaen kenkuana.
 
-===== Dagiti Napapateg A Balikas: =====
+===== Dagiti Napapateg a Balikas: =====
 
-  * **[[:ilo:obe:kt:god]]**
-  * **[[:ilo:obe:other:abraham]]**
-  * **[[:ilo:obe:other:peoplegroup]]**
-  * **[[:ilo:obe:kt:bless]]**
-  * **[[:ilo:obe:kt:fulfill]]**
-  * **[[:ilo:obe:kt:christ]]**
-  * **[[:ilo:obe:kt:save]]**
+  * **[[:ilo:obe:kt:god|Dios]]**
+  * **[[:ilo:obe:other:abraham|Abraham, Abram]]**
+  * **[[:ilo:obe:other:peoplegroup|bunggoy dagiti tattao, tattao]]**
+  * **[[:ilo:obe:kt:bless|bendision, panangbendision]]**
+  * **[[:ilo:obe:kt:fulfill|tungpalen]]**
+  * **[[:ilo:obe:kt:christ|Kristo, Mesias]]**
+  * **[[:ilo:obe:kt:save|salakan, nakalasat]]**
+
 ==== Translation Notes: ====
 
   * **babaen kenkuana **– Dayta ket, “Gapo iti maysa kadagiti kaputotan na.”
