@@ -4,13 +4,14 @@
 
 “Pinaayaban ti ari ti adipen ket kinunana ‘dakeska nga adipen! Pinakawanko ti utangmon agsipud ta nagpakpakaasika kaniak. Kasta met laeng koma ti inaramidmo.’ Nalaus ti pungtot ti ari ket impabaludna ti dakes nga adipen aginggana a mabayadanna dagiti amin nga utangna.”
 
-===== Dagiti Napapateg A Balikas: =====
+===== Dagiti Napapateg a Balikas: =====
 
-  * **[[:ilo:obe:other:king]]**
-  * **[[:ilo:obe:other:servant]]**
-  * **[[:ilo:obe:kt:forgive]]**
-  * **[[:ilo:obe:other:beg]]**
-  * **[[:ilo:obe:kt:evil]]**
+  * **[[:ilo:obe:other:king|ari]]**
+  * **[[:ilo:obe:other:servant|adipen, tagabo, panagtagabo]]**
+  * **[[:ilo:obe:kt:forgive|pakawanen, pammakawan]]**
+  * **[[:ilo:obe:other:beg|palama, agpalpalama]]**
+  * **[[:ilo:obe:kt:evil|dakes, nadakes, kinadakes]]**
+
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * (intuloy ni Jesus iti istorya.)
