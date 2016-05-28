@@ -4,10 +4,11 @@
 
 “Nakita dagiti dadduma nga adipen ti napasamak ket maburiboranda launay iti nakitada. Isunga napanda iti ari ket imbagada iti amin a napasamak.”
 
-===== Dagiti Napapateg A Balikas: =====
+===== Dagiti Napapateg a Balikas: =====
 
-  * **[[:ilo:obe:other:servant]]**
-  * **[[:ilo:obe:other:king]]**
+  * **[[:ilo:obe:other:servant|adipen, tagabo, panagtagabo]]**
+  * **[[:ilo:obe:other:king|ari]]**
+
 ===== Pannakaipakaawat Kadagiti Sarsarita : =====
 
   * (intuloy ni Jesus ti istorya.)
