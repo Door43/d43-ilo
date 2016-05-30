@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?nolink&}}
 
-**Iti maysa nga aldaw**, magmagna ni Peter kenni John nga agturung idiay templo. Idi sumungsungadda iti ruangan ti templo ket nakitada ti maysa a pilay a lalaki nga agpalpalama iti kuarta.
+**Iti maysa nga aldaw**, magmagna ni Peter kenni John nga agturung idiay templo. Idi sumungsungadda iti ruangan ti templo ket nakitada ti **maysa a pilay** a lalaki nga agpalpalama iti kuarta.
 
 ===== Dagiti Napapateg A Balikas: =====
 
