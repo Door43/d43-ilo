@@ -2,26 +2,26 @@
 
 ===== Dagiti Kinapudno: =====
 
-Ni John ket anak ni Zechariah kenni Elizabeth. Gapu ta ti "John" ket kadaywan a nagan, isuna ket kanayon da nga awagan ti "John nga Mammuniag" tapno mabigbig isuna manipud sabali a tattao nga agnagan ti John, kasla kenni Apostol a John.
+Ni John ket anak ni Zechariah ken ni Elizabeth. Gapu ta ti "John" ket kadaywan a nagan, isuna ket kanayonda nga awagan ti "Juan a Mammuniag" tapno mabigbig isuna manipud sabali a tattao nga agnagan ti Juann, kasla ken ni Apostol nga Juan.
 
-  * Ni Juan ket propeta nga inbaon ti Dios nga mangisagana kadagiti tattao nga mamati ken sumurot iti Messiah.
-  * Inbaga ni John kadagiti tattao nga iyibkas da dagiti basbasol da, agsubli iti Dios, ken agsardeng nga agbasbasol, tapno nakasagana da a mangawat ti Messiah.
-  * Binunyagan ni John ti adu a tattao iti danum a pakakitaan nga isuda ket agladingit iti panagbasol da ken tumallikod da kadagidiay.
-  * Maawagan ni John ti "John a Mamunniag" gapu ta binunyagan na ti adu a tattao.
+  * Ni Juan ket propeta nga inbaon ti Dios nga mangisagana kadagiti tattao nga mamati ken sumurot iti Mesias.
+  * Inbaga ni Juan kadagiti tattao nga iyebkasda dagiti basbasolda, agsubli iti Dios, ken agsardeng nga agbasbasol, tapno nakasaganada a mangawat ti Mesias.
+  * Binunyagan ni John ti adu a tattao iti danum a pakakitaan nga isuda ket agladingit iti panagbasolda ken tumallikodda kadagidiay.
+  * Maawagan ni Juan ti "Juan a Mamunniag" gapu ta binunyaganna ti adu a tattao.
 
-(Sinagsing kadagiti Panagpataros: [[:ilo:ta:vol1:translate:translate_names|Ipataros dagiti Nagnagan]])
+(Singasing ti Panangipatarus: [[:ilo:ta:vol1:translate:translate_names|Ipatarus Dagiti Nagnagan]])
 
-(Kitaen met: [[:ilo:obe:kt:baptize|buniag, agpabuniag]], [[:ilo:obe:other:zechariahnt|Zechariah (BT)]])
+(Kitaen met: [[:ilo:obe:kt:baptize|buniag, agpabuniag]], [[:ilo:obe:other:zechariahnt|Zecarias (BT)]])
 
-===== Bible References: =====
+===== Pakasarakan Idiay Biblia: =====
 
 {{topic>:en:bible?johnthebaptist&nocomments}}
 
 ===== Examples from the Bible stories: =====
 
   * **[[:ilo:obs:notes:frames:22-02|[22-02]]]** Kinuna ti anghel kenni Zechariah, “Maaddaanto ti asawam iti anak a lalaki ket panaganamto daytoy iti **Juan**. Mapnonto isuna iti Espiritu Santo ken isaganananto dagiti tattao para iti Messiah!"
-  * **[[:ilo:obs:notes:frames:22-07|[22-07]]]** Kalpasan nga inpasngay ni Elizabeth ti anak na a lalaki ket pinanaganan ni Zechariah ken Elizabeth ti ubing iti **John ** a kas iti imbilin ti anghel
-  * **[[:ilo:obs:notes:frames:24-01|[24-01]]]** Dimmakkel ni **John ** nga anak da Zechariah ken Elizabeth ket nagbalin isuna a maysa a mammadto. Aggigian isuna idiay kabakbakiran ken diro ti ba laeng nga ayokan ken dagiti dudon ti kankanen na.
+  * **[[:ilo:obs:notes:frames:22-07|[22-07]]]** Kalpasan nga inpasngay ni Elizabeth ti anak na a lalaki ket pinanaganan ni Zechariah ken Elizabeth ti ubing iti **John **  a kas iti imbilin ti anghel
+  * **[[:ilo:obs:notes:frames:24-01|[24-01]]]** Dimmakkel ni **John **  nga anak da Zechariah ken Elizabeth ket nagbalin isuna a maysa a mammadto. Aggigian isuna idiay kabakbakiran ken diro ti ba laeng nga ayokan ken dagiti dudon ti kankanen na.
   * **[[:ilo:obs:notes:frames:24-02|[24-02]]]** Adu a tattao ti napan iti kabakbakiran tapno denggen da ni **John.**  Nangasaba isuna kadakuada a kunkunana, “Agbabawi kayo ta asidigen ti pagarian ti Dios!"
   * **[[:ilo:obs:notes:frames:24-06|[24-06]]]** Iti sumaruno nga aldaw ket immay ni Jesus tapno agpabautisar kenni **John**. Kinuna ni **John**  idi nakita na isuna, “Kitaen yo ! Addan ti kordero ti Dios a mangala iti basol ti tattao."
 ~~DISCUSSION~~{{tag>publish ktobs}}
