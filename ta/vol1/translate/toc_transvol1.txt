@@ -1,0 +1,72 @@
+===== Table of Contents - Translation Manual Volume 1 =====
+
+This module answers the question: What is in Volume 1 of the translation manual?\\
+==== Translation Manual Volume 1 ====
+
+=== Introduction ===
+  - [[ilo:ta:vol1:translate:translate_manual]]
+  - [[ilo:ta:vol1:translate:translate_terms]]
+  - [[ilo:ta:vol1:translate:translate_whatis]]
+  - [[ilo:ta:vol1:translate:translate_why]]
+
+=== Defining a Good Translation === 
+  - [[ilo:ta:vol1:translate:guidelines_intro]]
+    - [[ilo:ta:vol1:translate:guidelines_clear]] 
+    - [[ilo:ta:vol1:translate:guidelines_natural]]
+    - [[ilo:ta:vol1:translate:guidelines_accurate]]
+    - [[ilo:ta:vol1:translate:guidelines_church_approved]]
+
+=== Meaning-Based Translation ===
+  - [[ilo:ta:vol1:translate:translate_process]]
+    - [[ilo:ta:vol1:translate:translate_discover]]
+    - [[ilo:ta:vol1:translate:translate_retell]]
+  - [[ilo:ta:vol1:translate:translate_fandm]]
+    - [[ilo:ta:vol1:translate:translate_form]]
+    - [[ilo:ta:vol1:translate:translate_levels]]
+  - [[ilo:ta:vol1:translate:translate_literal]]
+    - [[ilo:ta:vol1:translate:translate_wforw]]
+    - [[ilo:ta:vol1:translate:translate_problem]]
+  - [[ilo:ta:vol1:translate:translate_dynamic]]
+    - [[ilo:ta:vol1:translate:translate_tform]]
+
+=== Before Translating ===
+  - [[ilo:ta:vol1:translate:choose_team]]
+    - [[ilo:ta:vol1:translate:qualifications]]
+  - [[ilo:ta:vol1:translate:translate_source_text]]
+    - [[ilo:ta:vol1:translate:translate_source_licensing]]
+    - [[ilo:ta:vol1:translate:translate_source_version]]
+    - [[ilo:ta:vol1:translate:translate_original]]
+    - [[ilo:ta:vol1:translate:translate_manuscripts]]
+    - [[ilo:ta:vol1:translate:translate_textvariants]]
+  - [[ilo:ta:vol1:translate:translate_alphabet]]
+  - [[ilo:ta:vol1:translate:writing_decisions]]
+
+=== How to Start Translating === 
+  - [[ilo:ta:vol1:translate:translate_what]]
+  - [[ilo:ta:vol1:translate:first_draft]]
+  - [[ilo:ta:vol1:translate:resources_intro]]
+  - [[ilo:ta:vol1:translate:translate_help]]
+    - [[ilo:ta:vol1:translate:resources_types]]
+    - [[ilo:ta:vol1:translate:resources_links]]
+
+=== Just-in-Time Learning Part 1 ===
+  - [[ilo:ta:vol1:translate:translate_unknown]]
+    - [[ilo:ta:vol1:translate:translate_names]]
+  - [[ilo:ta:vol1:translate:figs_intro]]
+    - [[ilo:ta:vol1:translate:figs_metaphor]]
+    - [[ilo:ta:vol1:translate:figs_simile]]
+    - [[ilo:ta:vol1:translate:figs_rquestion]]
+    - [[ilo:ta:vol1:translate:figs_idiom]]
+    - [[ilo:ta:vol1:translate:figs_irony]]
+  - [[ilo:ta:vol1:translate:figs_order]]
+  - [[ilo:ta:vol1:translate:figs_you]]
+    - [[ilo:ta:vol1:translate:figs_youdual]]
+    - [[ilo:ta:vol1:translate:figs_yousingular]]
+  - [[ilo:ta:vol1:translate:figs_explicit]]
+    - [[ilo:ta:vol1:translate:figs_explicitinfo]]
+  - [[ilo:ta:vol1:translate:figs_hypo]]
+  - [[ilo:ta:vol1:translate:figs_events]]
+  - [[ilo:ta:vol1:translate:figs_parables]]
+
+
+
